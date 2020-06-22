@@ -1,0 +1,10 @@
+"0","# Whole dataset
+write_csv(Drugbank_DDI[,c(""drug"",""codrug"") 
+                       %in% 
+                         clinicaldrugpairs_counts[,c(""drug"",""codrug"")]],
+          ""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_clinical_data/DDI_dataset/Drugbank_DDI_compendia.txt"")
+"
+"2","Fejl: Length of logical index vector for `[` must equal number of columns (or 1):
+* `.data` has 8 columns
+* Index vector has length 2
+"

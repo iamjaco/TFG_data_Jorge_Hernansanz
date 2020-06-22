@@ -1,0 +1,17 @@
+---
+title: "PK_corpus"
+author: "Jorge H."
+date: "16/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document reflects the content of PK_corpus database:
+
+
++ **Drugs** -> 169
++ **DDIs** -> 584
++ **Description** for each DDI.

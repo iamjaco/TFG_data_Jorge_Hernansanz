@@ -1,0 +1,8 @@
+"0","  # A connection data frame is a list of flows with intensity for each flow
+  links <- data.frame(
+    source=c(DDI_index_source$ATC1_level_1), 
+    target=c(DDI_index_source$ATC2_level_1))
+"
+"2","Error in data.frame(source = c(DDI_index_source$ATC1_level_1), target = c(DDI_index_source$ATC2_level_1)) : 
+  arguments imply differing number of rows: 0, 4664
+"

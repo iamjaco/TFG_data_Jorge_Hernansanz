@@ -1,0 +1,5 @@
+"0","DB_DDI <- rbind(DB_DDI_1,DB_DDI_2)
+"
+"2","Fejl i match.names(clabs, names(xi)) : 
+  navne matcher ikke tidligere navne
+"

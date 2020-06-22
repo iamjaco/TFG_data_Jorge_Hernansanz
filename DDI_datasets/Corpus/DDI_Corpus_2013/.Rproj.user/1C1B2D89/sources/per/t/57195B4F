@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589292809521.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "57195B4F",
+    "lastKnownWriteTime" : 7307491043415436322,
+    "last_content_update" : 1589292809521,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9E7ABE92",
+        "caption" : "pickle_Corpus_DDI",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=pickle_Corpus_DDI&cache_key=9E7ABE92",
+        "displayedObservations" : 2280,
+        "environment" : "",
+        "expression" : "pickle_Corpus_DDI",
+        "object" : "pickle_Corpus_DDI",
+        "preview" : 0,
+        "totalObservations" : 2280,
+        "variables" : 4
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

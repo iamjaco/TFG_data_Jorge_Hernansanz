@@ -1,0 +1,8 @@
+ID_Rekommandation,Tekst,Management_option
+126049e3-17cc-4834-9761-0a54bceee4d2,Kombinationen bør undgås.,1
+9b6e9663-332d-4283-9a24-3644205e88f5,Kombinationen kan anvendes med forskudt indtagelsestidspunkt.,4
+bc9cf340-f84b-4481-8412-62b1f193a7a7,Kombinationen bør undgås. Se klasseeffekt.,2
+2a228812-dbc7-4142-be51-867544b62ba8,Kombinationen kan anvendes under visse forholdsregler.,5
+6d21864f-ed3e-46ad-85d5-bdfad11595c9,Kombinationen kan anvendes med dosisjustering.,3
+9ab899bc-d13c-4c7c-bb1b-d4d4ee124c2f,"Kombinationen kan anvendes. Vær dog opmærksom på, at der er tale om kokain i form af øjendråber, som i Danmark kun bliver fremstillet på sygehuse.",8
+7faad3aa-ba26-4565-b1e2-fc2d8c723ff8,Kombinationen kan anvendes.,7

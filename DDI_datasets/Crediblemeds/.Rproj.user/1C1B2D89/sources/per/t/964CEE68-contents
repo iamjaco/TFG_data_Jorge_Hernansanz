@@ -1,0 +1,227 @@
+---
+title: "Crediblemeds_ATC_DDIs"
+author: "Jorge H."
+date: "2/3/2020"
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, 'Crediblemeds_DDI.html')) })
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+Packages used
+```{r}
+library(readxl)
+library(readr)
+library(data.table)
+library(plyr)
+library(tidyr)
+```
+
+# Tyding and merging to ATC
+
+Looking at DDI file
+```{r}
+CredibleMeds_DDIs <- read_excel("Lists/CredibleMeds_DDIs.xlsx")
+
+# Fixing 'Related drug' option
+CredibleMeds_DDIs[9,"Related Drugs"] <- CredibleMeds_DDIs[9,"Options"]
+CredibleMeds_DDIs[9,"Options"] <- CredibleMeds_DDIs[9,"...9"]
+
+CredibleMeds_DDIs[10,"Related Drugs"] <- CredibleMeds_DDIs[10,"Options"]
+CredibleMeds_DDIs[10,"Options"] <- CredibleMeds_DDIs[10,"...9"]
+
+# Proceed to eliminate the ...9 column. 
+CredibleMeds_DDIs["...9"] <- NULL 
+
+```
+
+
+From Drugbank to ATC
+```{r}
+drug_atc_codes <- read_csv("Lists/drug_atc_codes.csv")
+
+# Merging
+DDI_mapped <- merge(CredibleMeds_DDIs,drug_atc_codes[,c(1,10)],
+                    by.x="object_drugbank",
+                    by.y = "parent_key")
+
+DDI_mapped <- merge(DDI_mapped,drug_atc_codes[,c(1,10)],
+                    by.x="precipitant_drugbank",
+                    by.y = "parent_key")
+```
+
+
+Additionals
+```{r}
+# Adding proper names
+setnames(DDI_mapped,
+         old = c("atc_code.y","atc_code.x"),
+         new = c("drug", "codrug"))
+
+# Adding columns of first level of ATC
+DDI_mapped$level_1_atc_drug <- substr(DDI_mapped$drug,1,1)
+DDI_mapped$level_1_atc_codrug <- substr(DDI_mapped$codrug,1,1)
+
+# Unifying ATC columns so to have them as vectors also.
+DDI_mapped$ATC_vector <- paste(DDI_mapped$drug,DDI_mapped$codrug, sep = "_") 
+```
+
+
+# FACTORISING
+
+Factorising *Mechanism of action* feature 
+```{r}
+# Factorising Mechanism of actions
+DDI_mapped$Mechanism_of_action <- ''
+row <- 1
+
+for (cell in DDI_mapped[,"Mechanism"]){
+  
+  if (grepl("Inhibition", cell) & 
+     (grepl("metabolism", cell) | grepl("metabolite", cell)) & 
+      grepl("CYP", cell)){
+    
+        DDI_mapped[row,"Mechanism_of_action"] <- sapply(
+          DDI_mapped[row,"Mechanism_of_action"], 
+          function(x) 
+            paste("CYP_inhibition",x)
+        )
+  }
+  
+  if (grepl("Inhibition", cell) &
+      grepl("transport", cell)){
+    
+        DDI_mapped[row,"Mechanism_of_action"] <- sapply(
+          DDI_mapped[row,"Mechanism_of_action"],
+          function(x) 
+            paste("Transport_inhibition",x)
+        )
+  }
+  
+  if (grepl("Antiplatelet effects", cell) & 
+      grepl("GI erosion", cell)){
+    
+        DDI_mapped[row,"Mechanism_of_action"] <- sapply(
+          DDI_mapped[row,"Mechanism_of_action"], 
+          function(x) 
+            paste("Antiplatelet_effects_and_GI_erosion",x)
+        )
+  }
+  if (grepl("depletion", cell) & 
+      grepl("vitamin K", cell)){
+    
+        DDI_mapped[row,"Mechanism_of_action"] <- sapply(
+          DDI_mapped[row,"Mechanism_of_action"], 
+          function(x) 
+            paste("Depletion_of_vitamin_K",x)
+        )
+  }
+  
+  row <- row + 1
+} 
+```
+
+
+Factorising *Management* feature
+```{r}
+# Factorising Management
+DDI_mapped$Management <- ''
+row <- 1
+
+for (cell in DDI_mapped[,"Options"]) {
+  
+  if (grepl("Usually Avoid", cell)){
+    
+    DDI_mapped[row,"Management"] <- sapply(
+      DDI_mapped[row, "Management"], 
+      function(x) 
+        paste("Usually_avoid",x)
+    )
+  }
+  
+  if (grepl("Take Precautions", cell)){
+    
+    DDI_mapped[row,"Management"] <- sapply(
+      DDI_mapped[row, "Management"], 
+      function(x) 
+        paste("Take_precautions",x)
+    )
+  }
+  row <- row + 1
+}
+
+remove(row)
+remove(cell)
+
+# Saving tables with preferred sortening
+DDI_mapped <- DDI_mapped[,c(10,9,1,2,4,3,5,6,7,8,14,15,11:13)]
+```
+
+
+# Saving different types of documents for posterior analysis. 
+
+Filtering Crediblemeds DDIs that can be observed in the clinical data 
+```{r}
+clinicaldrugpairs_counts <- read_delim("Lists/clinicaldrugpairs_counts.tsv",
+                                       "\t", 
+                                       escape_double = FALSE, 
+                                       trim_ws = TRUE
+                                       )
+
+
+DDI_mapped_subset <- merge(DDI_mapped,
+                           clinicaldrugpairs_counts[,1:2],
+                           by = c("drug", "codrug")
+                           )
+```
+
+
+Saving table with all information for compendia and clinical data
+```{r}
+# Compendia
+write.table(DDI_mapped,
+            "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Filtered_datasets/Crediblemeds_to_ATC.txt",
+            sep = "\t",
+            row.names = FALSE 
+            )
+
+# Clinical data
+write_csv(DDI_mapped_subset,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_dataset/Crediblemeds_DDI.txt"
+          )
+```
+
+
+Saving ATC vector for clinical data
+```{r}
+# Clinical data
+filese <- file("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_atc_vector/Crediblemeds_vector.txt")
+writeLines(c(DDI_mapped_subset$ATC_vector), filese)
+close(filese)
+```
+
+
+Saving datasets with their respective *feature* column for clinical data
+```{r}
+# Saving all DDIs with the feature mechanism of action
+write_csv(DDI_mapped_subset[DDI_mapped_subset$Mechanism_of_action != '',c(1,2,11,13,14)],
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Mechanism_of_action/Crediblemeds_M.A_DDI.txt",
+          col_names = FALSE
+          )
+
+
+# Saving all DDIs with the feature management
+write_csv(DDI_mapped_subset[DDI_mapped_subset$Management != '',c(1,2,12,13,14)],
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Management/Crediblemeds_management_DDI.txt", 
+          col_names = FALSE
+          )
+```
+

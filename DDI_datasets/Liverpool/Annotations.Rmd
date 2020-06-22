@@ -1,0 +1,55 @@
+---
+title: "Log history of manual annotations"
+author: "Jorge H."
+date: "29/4/2020"
+output: html_document
+---
+
+For the following non-identified names, we have the following situations:
+
+
++ They do not have an ATC code
+
++ They have a string that contains a pharentesis with a string. The whole string makes them not matching exactly the name. Either one of them refers to the drug name. 
+  1. For example, *Ciclosporin (Cyclosporine)*. The name that matches with the ATC index is *Cyclosporin*
+
+\hfill\break
+
++ Special characters like '-' that should be eliminated, leaving just an empty space.
+  1. For example, *Trastuzumab-emtansine* should be *Trastuzumab emtansine*
+
+\hfill\break
+
++ Special characters like */* and *+* refer to a drug that is the combination of several drugs. Therefore, we must search the ATC code for the entry that contains those two/three drugs.
+  1. For example, *Atazanavir + ritonavir (ATV/r)* is a combination drug that contains a specific ATC code for that pair. Therefore, we must only match that name with that specific code.
+  2. Some drugs like *Imipenem/Cilastatin* do not refer to a compound of drugs at the ATC index. These ones will be manually checked how they are stated at the ATC index.
+
+\hfill\break
+
++ For vitamins, some will be encoded in other drugs, and may refers to the vitamin alone, or to when it is present in a multivitamin environment.
+  1. For example, *Ascorbic Acid (Vitamin C) [alone]* will be attached its ATC code.
+  2. For example, *Ascorbic Acid (Vitamin C) [Multivitamin]* will not be attached an ATC code from the normal vitamin part. It has to be searched at the Multivitamin section.
+
+\hfill\break
+
++ Some changes in names have been accepted.
+  1. For example, acids *Pamidronate* will be attached to the ATC code of *Pamidornic acid*.
+  2. Combinations with *Mestradol* or *estradiol* will be considered as combination with estrogens.
+
+\hfill\break
+
++ Explanations of some abreviatures:
+  
+  1. **COC ->** Combined oral contraceptive. Hormone contraceptive that contains two types of female sex hormone; estrogens and progestogen. At the ATC code index, it is attached to the ATC code *G03 G03AA Progestogens and estrogens, fixed combinations*.
+  
+  2. **POP ->** Progesterone only pill. Unlikely to COC, this one is a hormane contraceptive that only has the female sex hormone progestogen. Therefore, it occupies the section *G03 G03D	PROGESTOGENS* and *G03 G03AC	Progestogens* at the ATC code index.
+  
+  3. **HRT ->** Hormone replacement therapy. As COC, it contains both female sex hormones. In idition, this kind of therapy is not limited to just the hormonal contraceptives for systemic use, and can cover more combinations of progestogen and estrogen in the class of sex hormones and modulators of the genital system. Therefore, it belongs to the sections of *G03 G03AA	Progestogens and estrogens, fixed combinations* and *G03 G03F	PROGESTOGENS AND ESTROGENS IN COMBINATION*
+  
+  4. **Depot injection ->** It is an injection (Parenteral route of administration) that can be subcutaneous, intradermal, or intramuscular. It belongs to the group of contraceptive drugs, but is only composed of protestogens. Therefore, it will be attached to the group **G03 G03AC Progestogens* 
+  
+  5. **patch -> ** Refers to estrogen patches that normally contains ethinylestradiol.
+  
+
+
+

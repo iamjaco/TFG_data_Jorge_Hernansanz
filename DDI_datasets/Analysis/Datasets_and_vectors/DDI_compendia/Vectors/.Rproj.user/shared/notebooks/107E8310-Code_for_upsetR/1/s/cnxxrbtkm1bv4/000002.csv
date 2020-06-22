@@ -1,0 +1,5 @@
+"0","library(UpSetR)"
+"0","upsetR <- list(Drugbank = Drugbank, KEGG = KEGG, Twosides = Twosides, ONC_HIGH =ONC_HIGH, ONC_NI=ONC_NI, Crediblemeds = Crediblemeds, DDI_Corpus_2011 = DDI_Corpus_2011, DDI_Corpus_2013 = DDI_Corpus_2013, PK_corpus = PK_corpus, NLM_corpus = NLM_corpus, Interaktion_databasen = Interaktion_databasen)"
+"0",""
+"0","ups <- upset(fromList(upsetR[c(""DDI_Corpus_2011"",""DDI_Corpus_2013"",""PK_corpus"",""NLM_corpus"")]), order.by = ""degree"")"
+"0","ups"

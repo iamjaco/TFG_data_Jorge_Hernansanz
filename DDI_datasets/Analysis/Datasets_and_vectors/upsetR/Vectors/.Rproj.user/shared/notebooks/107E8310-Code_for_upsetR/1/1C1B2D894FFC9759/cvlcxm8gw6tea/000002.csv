@@ -1,0 +1,2 @@
+"0","KEGG <- readLines(""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Vectors/Vector_of_KEGG_DDI.txt"")"
+"0","KEGG <- unique(KEGG)"

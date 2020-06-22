@@ -1,0 +1,57 @@
+---
+title: "Treating NDF-RT DDIs"
+author: "Jorge H."
+date: "13/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+ 
+Still needed to be better documented. Nevertheless, all data used here can be found in NDFRT folders of GitHub.
+
+```{r}
+library(readr)
+library(stringr)
+library(dplyr)
+```
+
+
+First creating an index ATC-CUI
+```{r}
+
+#A few identifiers need corrections. Identifiers that have changed and are not located at NDFRT
+Mappings_NDFRT_CUI[181,2] <- 'C0009262'   #N0000145804    From Bioportal RXnorm
+Mappings_NDFRT_CUI[120,2] <- 'C0025042'   #N0000147341    From Bioportal RXnorm
+Mappings_NDFRT_CUI[499,2] <- 'C1964367'   #N0000145829    From NCImethasaurus
+Mappings_NDFRT_CUI[652,2] <- 'C0937858'   #N0000148738    From NCImethasaurus
+Mappings_NDFRT_CUI[822,2] <- 'C0772463'   #N0000148594    From Bioportal NDDF
+Mappings_NDFRT_CUI[1034,2] <- 'C0872972'  #N0000148617    From NCImethasaurus
+
+#Troleandomycin and oleandomycin present the same CUI. N0000023111 and 	N0000146829
+#Tetanus toxoid and Tetanus toxoid adsorbed present the same CUI. N0000146120 and N0000146118
+
+
+Mappings_NDFRT_CUI$NDFRT <- str_replace_all(Mappings_NDFRT_CUI$NDFRT,"\n","")
+Mappings_NDFRT_CUI$CUI <- str_replace_all(Mappings_NDFRT_CUI$CUI,"\n","")
+Mappings_NDFRT_CUI <- Mappings_NDFRT_CUI[,c(2,3)]
+
+DDI_index <- c(NDFRT_DDI$V2,NDFRT_DDI$V4)
+DDI_index <- unique(DDI_index)
+DDI_index <- as.data.frame(DDI_index)
+
+DDI_index <- merge(DDI_index, List.of.NDFRT[,c(3,4)], by.x = 'DDI_index', by.y = 'V3')
+```
+
+
+
+#Creating a list for the python file
+```{r}
+Drug_list <- unique(c(NDFRT_DDI$V2,NDFRT_DDI$V4))
+Drug_list <- as.data.frame(Drug_list)
+
+
+write_csv(Drug_list,"NDFRT_drug_list.txt")
+```
+

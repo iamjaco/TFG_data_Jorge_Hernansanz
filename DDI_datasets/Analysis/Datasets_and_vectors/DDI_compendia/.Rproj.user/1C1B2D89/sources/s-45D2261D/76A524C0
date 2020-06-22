@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592760716197.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "76A524C0",
+    "lastKnownWriteTime" : 1592121958,
+    "last_content_update" : 1592121958,
+    "path" : "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Sankey diagram plus more plots.Rmd",
+    "project_path" : "Sankey diagram plus more plots.Rmd",
+    "properties" : {
+        "chunk_output_type" : "console",
+        "cursorPosition" : "37,2",
+        "scrollLine" : "22"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

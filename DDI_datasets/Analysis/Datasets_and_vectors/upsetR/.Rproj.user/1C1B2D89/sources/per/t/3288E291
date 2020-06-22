@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591996220039.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3915547400",
+    "id" : "3288E291",
+    "lastKnownWriteTime" : 1592760619,
+    "last_content_update" : 1592760619591,
+    "path" : "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/ATC_level_indexing.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "65,10",
+        "last_setup_crc32" : "",
+        "scrollLine" : "50"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

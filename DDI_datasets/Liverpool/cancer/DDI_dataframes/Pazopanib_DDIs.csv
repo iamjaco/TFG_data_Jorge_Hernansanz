@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Pazopanib,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. ",(See Summary)
+1,Pazopanib,Acenocoumarol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Acenocoumarol is mainly metabolized by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Pazopanib does not inhibit or induce CYPs. ,(See Summary)
+2,Pazopanib,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolized by glucuronidation (by several UGT, major UGT1A6). Pazopanib does not inhibit or induce UGT1A6.",(See Summary)
+3,Pazopanib,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatin is metabolised predominantly via CYP1A2. Pazopanib does not inhibit or induce CYP1A2.,(See Summary)
+4,Pazopanib,Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied. Alendronate is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, alendronate should be separated from food or other medicinal products and patients must wait at least 30 minutes after taking alendronate before taking any other oral medicinal product. ",(See Summary)
+5,Pazopanib,Alfentanil,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Alfentanil undergoes extensive CYP3A4 metabolism and concentrations may increase due to weak inhibition of CYP3A4 by pazopanib. The clinical relevance of this interaction is unknown.  ,(See Summary)
+6,Pazopanib,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolized by CYP3A. Pazopanib is a weak inhibitor of CYP3A4 and may increase alfuzosin concentrations. However, since alfuzosin has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+7,Pazopanib,Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolized and is mainly excreted unchanged in faeces. P-glycoprotein is a major determinant of aliskiren bioavailability. Pazopanib is unlikely to affect aliskiren clearance.,(See Summary)
+8,Pazopanib,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely as allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Pazopanib not interfere with this metabolic pathway. ,(See Summary)
+9,Pazopanib,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolized by CYP2C9, 3A4 and 1A2. Pazopanib is a weak inhibitor of CYP3A4 and may increase alosetron concentrations but this is unlikely to be of clinical significance due to the wide therapeutic index of alosetron.",(See Summary)
+10,Pazopanib,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase alprazolam concentrations. However, since alprazolam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+11,Pazopanib,Aluminium hydroxide,"
+Potential Interaction
+","
+Low
+","Coadministration should be avoided. The absorption of pazopanib decreases when used concomitantly with antacids leading to decreased pazopanib exposure. If coadministration is clinically necessary, pazopanib should be administered at least 2 hours before or 4 hours after antacids. ",(See Summary)
+12,Pazopanib,Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolised by glucuronidation via UGTs 1A3, 1A9 and 2B7, and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Pazopanib is a weak inhibitor of CYP3A4 and may increase concentrations of ambrisentan. The clinical relevance of this interaction is unknown. However, since CYP3A4 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+13,Pazopanib,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as amikacin is eliminated by glomerular filtration.,(See Summary)
+14,Pazopanib,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Pazopanib is unlikely to affect amiloride renal elimination.,(See Summary)
+15,Pazopanib,Amiodarone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Pazopanib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+16,Pazopanib,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolized and is primarily eliminated renally (possibly via OCT). Pazopanib is unlikely to significantly affect amisulpride elimination. ,(See Summary)
+17,Pazopanib,Amitriptyline,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19. Pazopanib is a weak inhibitor of CYP3A4 and my increase amitriptyline concentrations. The clinical relevance of this interaction is unknown. Caution is needed when pazopanib is coadministered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+18,Pazopanib,Amlodipine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Amlodipine is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase amlodipine concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.,(See Summary)
+19,Pazopanib,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Pazopanib is unlikely to interfere with amoxicillin renal elimination.,(See Summary)
+20,Pazopanib,Amphotericin B,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely as amphotericin is not appreciably metabolized and is eliminated to a large extent in the bile. Pazopanib does not interfere with amphotericin B elimination pathway. However, the European SPC for amphotericin states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Furthermore, amphotericin B has a possible risk of QT interval prolongation. Therefore, caution is needed when pazopanib is co-administered with amphotericin B. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+21,Pazopanib,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20 to 40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60 to 80% is excreted in the urine within 6 hours. Pazopanib is unlikely to significantly inhibit ampicillin renal elimination.,(See Summary)
+22,Pazopanib,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperature. ,(See Summary)
+23,Pazopanib,Antacids,"
+Potential Interaction
+","
+Low
+","Coadministration should be avoided. The absorption of pazopanib decreases when used concomitantly with antacids leading to decreased pazopanib exposure. If coadministration is clinically necessary, pazopanib should be administered at least 2 hours before or 4 hours after antacids. ",(See Summary)
+24,Pazopanib,Apixaban,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Apixaban is metabolized by CYP3A4 and to a lesser extent by CYP1A2, CYP2C8, CYP2C9 and CYP2C19. Pazopanib is a weak inhibitor of CYP3A4 and CYP2C8 and may increase apixaban concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+25,Pazopanib,Aprepitant,"
+Potential Interaction
+","
+Very Low
+","Coadministration should be approached with caution. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Pazopanib is a weak inhibitor of CYP3A4 and may increase concentrations of aprepitant. Furthermore, during treatment aprepitant is a moderate inhibitor of CYP3A4 and may increase pazopanib concentrations during the three days of treatment. After treatment, aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of pazopanib may decrease due to weak induction of CYP3A4, but this is not considered to be clinically relevant. Coadministration of pazopanib and cisplatin plus aprepitant increased concentrations of pazopanib at days 2 and 3 of coadministration (likely to be due to CYP3A4 inhibition by aprepitant) but decreased pazopanib concentrations at day 8 (likely due to modest CYP3A4 induction by aprepitant). Therefore, coadministration is not recommended. If coadministration is unavoidable, reduce the pazopanib dose by 50% and monitor closely for pazopanib toxicity.",(See Summary)
+26,Pazopanib,Aripiprazole,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Aripiprazole is metabolized by CYP3A4 and CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase aripiprazole concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+27,Pazopanib,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolized by glucuronidation (UGT1A4) and oxidative metabolism (CYP1A2 (major) and CYP3A4, 2D6 (minor). Pazopanib is a weak inhibitor of CYP3A4 and 2D6 and may increase asenapine concentrations, however since these are minor pathways this is unlikely to be of clinical significance.",(See Summary)
+28,Pazopanib,Astemizole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Astemizole is metabolized by CYPs 2D6, 2J2 and 3A4. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase astemizole concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+29,Pazopanib,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. ",(See Summary)
+30,Pazopanib,Atorvastatin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Atorvastatin is metabolized by CYP3A4 and is a substrate of P-gp and OATP1B1. Pazopanib is a weak inhibitor of CYP3A4 and an inhibitor of OATP1B1 in vitro and may increase atorvastatin concentrations. The clinical relevance of these interactions is unknown. It is recommended to start with the lowest dose of atorvastatin and titrate up to the desired clinical effect while monitoring for safety. An observational study showed increased risk of transaminase elevations with concomitant use of pazopanib and simvastatin. It cannot be excluded that pazopanib will have the same effect on transaminases during coadministration with other statins (e.g., atorvastatin, fluvastatin, pravastatin, rosuvastatin). In addition to implementing the recommended dose modification guidelines for pazopanib in patients who develop transaminase elevations, discontinuation of simvastatin should be considered to manage the risk of liver injury in cancer patients receiving both medications. ",(See Summary)
+31,Pazopanib,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolized analogously to natural purines. Pazopanib does not interfere with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+32,Pazopanib,Azithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azithromycin is mainly eliminated via biliary excretion and animal data suggest this may occur via P-glycoprotein and MRP2. Pazopanib does not interact with this pathway. No effect on pazopanib concentrations is expected. However, caution should be taken when using azithromycin with drugs that are known to prolong the QT interval. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+33,Pazopanib,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Pazopanib does not interact with this pathway. ",(See Summary)
+34,Pazopanib,Bedaquiline,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Bedaquiline is metabolised by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase bedaquiline concentrations. The clinical relevance of this interaction is unknown. Bedaquiline prolongs the QTc interval and if coadministered with pazopanib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, close monitoring including ECG assessment is recommended. ",(See Summary)
+35,Pazopanib,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. In vitro data indicate that bendroflumethiazide inhibits these renal transporters but a clinically relevant drug interaction is unlikely in the range of observed clinical concentrations. In addition, there is no evidence that bendroflumethiazide inhibits or induces CYP450 enzymes and therefore is unlikely to impact pazopanib.",(See Summary)
+36,Pazopanib,Bepridil,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Bepridil is metabolized by CYP2D6 (major) and 3A4. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase bepridil concentrations. The clinical relevance of this interaction is unknown. Caution is needed when co-administering pazopanib with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+37,Pazopanib,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase betamethasone concentrations. However, since betamethasone has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+38,Pazopanib,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as half of bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. ,(See Summary)
+39,Pazopanib,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. ,(See Summary)
+40,Pazopanib,Bisoprolol,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Bisoprolol is partly metabolized by CYP3A4 and CYP2D6 and partly eliminated unchanged in the urine. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase bisoprolol concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.,(See Summary)
+41,Pazopanib,Bosentan,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Bosentan is a substrate and inducer of CYP3A4 and CYP2C9 and could potentially decrease pazopanib exposure. If coadministration is necessary, close monitoring for efficacy is required.",(See Summary)
+42,Pazopanib,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Drug-drug interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may play a role. Pazopanib is a weak inhibitor of CYP3A4 and 2D6 and may increase bromazepam concentrations. However, since bromazepam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+43,Pazopanib,Budesonide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase budesonide concentrations. However, since budesonide has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+44,Pazopanib,Buprenorphine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Pazopanib is a weak CYP3A4 inhibitor and an inhibitor of UGT1A1 in vitro and may increase buprenorphone concentrations. The clinical relevance of this interaction is unknown,(See Summary)
+45,Pazopanib,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolized by CYP2B6. Pazopanib does not inhibit or induce CYP2B6.,(See Summary)
+46,Pazopanib,Buspirone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase buspirone concentrations. However, since buspirone does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+47,Pazopanib,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but a clinically significant pharmacokinetic interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. ",(See Summary)
+48,Pazopanib,Candesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. ,(See Summary)
+49,Pazopanib,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Pazopanib does not interfere with capreomycin renal elimination. ,(See Summary)
+50,Pazopanib,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Pazopanib does not interfere with captopril elimination.,(See Summary)
+51,Pazopanib,Carbamazepine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration should be avoided. Carbamazepine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2C8. Pazopanib is a weak inhibitor of CYP3A4 and CYP2C8, and may increase concentrations of carbamazepine. The clinical relevance of this interaction is unknown. Furthermore, carbamazepine is an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong), 1A2 (weak), 2B6 and UGT1A1. Significant decreases in pazopanib plasma exposure may occur due to induction of CYP3A4. The AUC and trough plasma concentration of pazopanib were reduced by ~30% and ~50%, respectively, after coadministration with phenytoin and carbamazepine compared to historical data. Decreased pazopanib exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. If coadministration is clinically necessary, consider monitoring of pazopanib plasma concentrations and subsequent dose adjustment, if available.",(See Summary)
+52,Pazopanib,Carvedilol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and metabolism via CYP2D6 and to a lesser extent CYPs 2C9 and 1A2. Pazopanib is a weak inhibitor of CYP3A4 and an UGT1A1 inhibitor in vitro and may increase carvedilol concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.",(See Summary)
+53,Pazopanib,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non CYP-mediated pathway. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+54,Pazopanib,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly eliminated unchanged renally by glomerular filtration and tubular secretion via OAT1 and MATE1. Pazopanib does not interfere with cefalexin renal elimination.,(See Summary)
+55,Pazopanib,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Pazopanib does not interfere with cefazolin renal elimination.",(See Summary)
+56,Pazopanib,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as cefixime is renally excreted predominantly by glomerular filtration. Pazopanib does not interfere with cefixime renal elimination.,(See Summary)
+57,Pazopanib,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolized by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Pazopanib does not interfere with cefotaxime renal elimination.",(See Summary)
+58,Pazopanib,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as ceftazidime is excreted predominantly by renal glomerular filtration. Pazopanib does not interfere with ceftazidime renal elimination.,(See Summary)
+59,Pazopanib,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Pazopanib does not interfere with ceftriaxone renal elimination.",(See Summary)
+60,Pazopanib,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolized by CYP2C9. Pazopanib does not inhibit or induce CYP2C9. ,(See Summary)
+61,Pazopanib,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion. In vitro data indicate that cetirizine inhibits OCT2. Pazopanib is unlikely to interact with cetirizine’s renal elimination.,(See Summary)
+62,Pazopanib,Chloramphenicol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. In vitro studies have shown that chloramphenicol inhibits CYP3A4 and may potentially increase pazopanib concentrations, increasing the risk of adverse events. The clinical significance of this interaction is unknown and close monitoring is recommended. Ocular use: Although chloramphenicol is systemically absorbed when used topically in the eye, the concentrations used are unlikely to cause a clinically significant interaction. ",(See Summary)
+63,Pazopanib,Chlordiazepoxide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce cytochromes. Pazopanib is a weak inhibitor of CYP3A4 and may increase concentrations of chlordiazepoxide. The clinical relevance of this interaction is unknown.",(See Summary)
+64,Pazopanib,Chlorphenamine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Chlorphenamine is predominantly metabolized in the liver via CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase chlorphenamine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. ,(See Summary)
+65,Pazopanib,Chlorpromazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Chlorpromazine is metabolized mainly by CYP2D6, but also by CYP1A2. Pazopanib is a weak inhibitor of CYP2D6 and may increase chlorpromazine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+66,Pazopanib,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. ,(See Summary)
+67,Pazopanib,Ciclosporin (Cyclosporine),"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Pazopanib is metabolised mainly by CYP3A4. Ciclosporin is substrate for CYP3A4 and P-gp and inhibits CYP3A4 and OATP1B1 and could potentially increase pazopanib concentrations. Pazopanib is a weak inhibitor of CYP3A4 and may increase ciclosporin concentrations. The clinical relevance of this interaction is unknown. No a priori dosage adjustment is recommended for pazopanib, but close monitoring of toxicity is recommended. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+68,Pazopanib,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys. ,(See Summary)
+69,Pazopanib,Cimetidine,"
+Potential Interaction
+","
+Low
+","Coadministration should be avoided. The solubility of pazopanib decreases with increasing pH of the stomach. Coadministration with a proton pump inhibitor (esomeprazole) decreased pazopanib exposure by ~40%. If coadministration is clinically necessary, based on physiological considerations pazopanib should be administered just before the dose of cimetidine as this when acid secretion is least inhibited. (Note, the European product label for pazopanib recommends that it should be taken without food at least 2 hours before or at least 10 hours after a dose of an H2-receptor antagonist, whereas the US product label advises that a short-acting antacid should be considered in place of H2-receptor antagonists.) Monitoring of pazopanib plasma concentrations should be considered, if available. ",(See Summary)
+70,Pazopanib,Ciprofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. Ciprofloxacin is also metabolised and partially cleared through the bile and intestine. Pazopanib does not interfere with the elimination of ciprofloxacin. However, ciprofloxacin is a weak to moderate inhibitor of CYP3A4 and strong inhibitor of CYP1A2. Concentrations of pazopanib may slightly increase due to inhibition of CYP1A2 and CYP3A4. Concurrent use of CYP3A4 inhibitors should be avoided as pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. In addition, caution should be taken when using ciprofloxacin with drugs that are known to prolong the QT interval. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, monitoring including ECG assessment is recommended.",(See Summary)
+71,Pazopanib,Cisapride,"
+Potential Interaction
+","
+Very Low
+",Coadministration has not been studied and should be avoided. Cisapride is metabolised by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase cisapride concentrations. The clinical relevance of this interaction is unknown. Pazopanib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. ,(See Summary)
+72,Pazopanib,Citalopram,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Citalopram is metabolized by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase citalopram concentrations. The clinical relevance of this interaction is unknown. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+73,Pazopanib,Clarithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and is not recommended. Clarithromycin may increase pazopanib concentrations due to inhibition of CYP3A4 and P-gp. Concurrent use of potent CYP3A4 inhibitors should be avoided because pazopanib is relatively toxic and can cause QT-prolongation. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+74,Pazopanib,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolized (likely non CYP mediated pathway) and excreted in the urine by glomerular filtration. Pazopanib does not interact with this pathway. ,(See Summary)
+75,Pazopanib,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolized in the liver via CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase clemastine concentrations but this is unlikely to be of clinical significance as clemastine has a wide therapeutic index. ,(See Summary)
+76,Pazopanib,Clindamycin,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Clindamycin is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase clindamycin concentrations. The clinical relevance of this interaction is unknown.,(See Summary)
+77,Pazopanib,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,(See Summary)
+78,Pazopanib,Clofazimine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces, both as unabsorbed drug and via biliary excretion. However, in patients therapeutic doses of pazopanib have been shown to prolong the QTc interval. Caution should be taken when using clofazimine with drugs that are known to prolong the QT interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+79,Pazopanib,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolyzed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Pazopanib does not interfere with clofibrate elimination.",(See Summary)
+80,Pazopanib,Clomipramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Clomipramine is metabolized by CYP3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. In addition, clomipramine and desmethylclomipramine are metabolized by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase concentrations of clomipramine and desmethylclomipramine. The clinical relevance of this interaction is unknown. Caution is needed when pazopanib is coadministered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+81,Pazopanib,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in form of the unchanged parent drug (40-60% of the dose). Clonidine is a weak inhibitor of OCT2 and is unlikely to interact with pazopanib elimination. In addition, pazopanib does not interfere with clonidine elimination.",(See Summary)
+82,Pazopanib,Clopidogrel,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Clopidogrel is a prodrug and is converted to its active metabolite via CYPs 3A4, 2B6, 2C19 and 1A2. Pazopanib is a weak inhibitor of CYP3A4 and may increase clopidogrel concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+83,Pazopanib,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolized to oxazepam by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase clorazepate concentrations. However, since clorazepate does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+84,Pazopanib,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion. Pazopanib does not interact with this metabolic pathway.",(See Summary)
+85,Pazopanib,Clozapine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase clozapine concentrations. Caution is needed when pazopanib is coadministered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring for clozapine toxicity including ECG assessment is recommended. Furthermore, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+86,Pazopanib,Codeine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolised by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Morphine is also a substrate of P-gp. Furthermore, codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4. Concentrations of codeine may increase due to inhibition of CYP2D6 and CYP3A4, and thus concentrations of morphine may decrease due to inhibition of CYP2D6. Therefore the analgesic effect of codeine may be reduced. The clinical relevance of this interaction is unknown.",(See Summary)
+87,Pazopanib,Colchicine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Colchicine is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase colchicine concentrations. The clinical relevance of this interaction is unknown and monitoring for colchicine toxicity may be required.,(See Summary)
+88,Pazopanib,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly excreted renally via glomerular filtration. Pazopanib does not interact with this metabolic pathway.,(See Summary)
+89,Pazopanib,Dabigatran,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dabigatran is transported by P-gp and is renally excreted. Pazopanib does not inhibit or induce P-gp.,(See Summary)
+90,Pazopanib,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys. Pazopanib does not interfere with the renal excretion of dalteparin. ,(See Summary)
+91,Pazopanib,Dapsone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP P450 enzymes. Pazopanib is a weak inhibitor of CYP3A4, CYP2D6, CYP2C8 and may increase dapsone concentrations. The clinical relevance of this interaction is unknown.",(See Summary)
+92,Pazopanib,Desipramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Desipramine is metabolized by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase desipramine concentrations. The clinical relevance of this interaction is unknown. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+93,Pazopanib,Desogestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase desogestrel concentrations. However since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+94,Pazopanib,Dexamethasone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Dexamethasone has been described as a weak inducer of CYP3A4 and could possibly decrease pazopanib plasma concentrations. However, the clinical relevance of CYP3A4 induction by dexamethasone has not been established yet. Monitoring may be required.",(See Summary)
+95,Pazopanib,Dextropropoxyphene,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Dextropropoxyphene is mainly metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase dextropropoxyphene concentrations. The clinical relevance of this interaction is unknown.  ,(See Summary)
+96,Pazopanib,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolized by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Pazopanib is an inhibitor of UGT1A1 in vitro, however since UGT1A1 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+97,Pazopanib,Diazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolized to nordiazepam (by CYP3A4 and 2C19) and to temazepam (mainly by CYP3A4). Pazopanib is a weak inhibitor of CYP3A4 and may increase diazepam concentrations. However, since diazepam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+98,Pazopanib,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidized by CYP2C9. Pazopanib does not inhibit or induce these CYPs or UGTs.,(See Summary)
+99,Pazopanib,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied. Digoxin is eliminated renally via the renal transporters OATP4C1 and P-glycoprotein. Pazopanib does not interfere with digoxin elimination. ,(See Summary)
+100,Pazopanib,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Pazopanib is a weak inhibitor of CYP3A4 and may increase dihydrocodeine concentrations. However since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+101,Pazopanib,Diltiazem,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Diltiazem is metabolized by CYP3A4 and CYP2D6. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase diltiazem concentrations. The clinical relevance of this interaction is unknown. Diltiazem is a moderate inhibitor of CYP3A4 and therefore could potentially increase pazopanib exposure. Concurrent use of CYP3A4 inhibitors should be avoided, because pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. ",(See Summary)
+102,Pazopanib,Diphenhydramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Diphenhydramine is mainly metabolized by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase diphenhydramine concentrations. The clinical relevance of this interaction is unknown. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended. ",(See Summary)
+103,Pazopanib,Dipyridamole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Pazopanib is an inhibitor of UGT1A1 in vitro and many increase dipyridamole concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+104,Pazopanib,Disopyramide,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Disopyramide is metabolized by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. Although pazopanib is a weak inhibitor of CYP3A4 and may increase disopyramide concentrations, since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance. However, caution is needed when co-administering pazopanib with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+105,Pazopanib,Dolasetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolized by CYP2D6 (10-20%) and CYP3A4 (<1%). Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase dolasetron concentrations. However, since CYP-medicated metabolism is only a minor pathway, this is unlikely to be of clinical signficance. Dolasetron may prolong the QT interval and in pazopanib has been shown to prolong the QT interval. Caution should be taken when using dolasetron with drugs that are known to prolong the QT interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+106,Pazopanib,Domperidone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Domperidone is mainly metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase domperidone concentrations. The clinical relevance of this interaction is unknown. Pazopanib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. Pazopanib has been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+107,Pazopanib,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. There is little potential for dopamine to affect disposition of pazopanib, or to be affected if co-administered with pazopanib.",(See Summary)
+108,Pazopanib,Doxazosin,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Doxazosin is metabolized mainly by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase doxazosin concentrations. The clinical relevance of this interaction is unknown and monitoring of blood pressure may be required. ,(See Summary)
+109,Pazopanib,Doxepin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Doxepin is metabolized to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. In addition, doxepin and nordoxepin are metabolized by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase concentrations of doxepine and nordoxepine. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+110,Pazopanib,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. Pazopanib does not interact with this pathway. ,(See Summary)
+111,Pazopanib,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolized by CYP2C9 and to a lesser extent by CYP3A4. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase dronabinol concentrations. However, since CYP-medicated metabolism is only a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+112,Pazopanib,Drospirenone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolized to a minor extent via CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase drospirenone concentrations, however since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+113,Pazopanib,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as dulaglutide is degraded by endogenous endopeptidases. Dulaglutide delays gastric emptying and could possibly decrease the absorption rate of concomitantly administered oral drugs. However, since pazopanib is absorbed within 12h, the clinical relevance of delayed absorption is considered to be limited.",(See Summary)
+114,Pazopanib,Duloxetine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Duloxetine is metabolized by CYP2D6 and CYP1A2. Pazopanib is a weak inhibitor of CYP2D6 and may increase duloxetine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+115,Pazopanib,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase dutasteride concentrations. However, since dutasteride has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+116,Pazopanib,Dydrogesterone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolized to dihydrodydrogesterone (possibly via CYP3A4). Pazopanib is a weak inhibitor of CYP3A4 and may increase dydrogesterone concentrations, however since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+117,Pazopanib,Edoxaban,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is transported via P-g. Pazopanib is unlikely to interfere with this pathway.,(See Summary)
+118,Pazopanib,Eltrombopag,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1, UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Pazopanib is an inhibitor of UGT1A1 in vitro and a weak inhibitor of CYP2C8 and may increase eltrombopag concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+119,Pazopanib,Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is eliminated renally (possibly via OATs). ,(See Summary)
+120,Pazopanib,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is excreted predominantly renally. Pazopanib does not interact with this metabolic pathway.",(See Summary)
+121,Pazopanib,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as eprosartan is largely excreted in bile and urine as unchanged drug. ,(See Summary)
+122,Pazopanib,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor component. Pazopanib does not interact with this metabolic pathway.,(See Summary)
+123,Pazopanib,Erythromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and is not recommended. Erythromycin may increase pazopanib concentrations due to inhibition of CYP3A4. Concurrent use of potent CYP3A4 inhibitors should be avoided because pazopanib is relatively toxic and can cause dose-related QT-prolongation. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+124,Pazopanib,Escitalopram,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Escitalopram is metabolized by CYP2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase escitalopram concentrations. The clinical relevance of this interaction is unknown. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+125,Pazopanib,Esomeprazole,"
+Potential Interaction
+","
+Moderate
+","Coadministration should be avoided. The solubility of pazopanib decreases with increasing pH of the stomach. Coadministration with esomeprazole decreased pazopanib exposure by ~40%. If coadministration is clinically necessary, based on physiological considerations pazopanib should be administered just before the dose of esomeprazole as this when acid secretion is least inhibited. (Note, the European product label for pazopanib recommends that it should be taken without food once daily in the evening concomitantly with the proton pump inhibitor, whereas the US product label advises that a short-acting antacid should be considered in place of proton pump inhibitors.) Monitoring of pazopanib plasma concentrations should be considered, if available. Esomeprazole is metabolised by CYP2C19 and CYP3A4. Esomeprazole inhibits CYP2C19. Pazopanib is a weak inhibitor of CYP3A4 and may increase esomeprazole concentrations but this is unlikely to be of clinical significance due to the wide therapeutic index of esomeprazole ",(See Summary)
+126,Pazopanib,Estazolam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolized to its major metabolite 4-hydroxyestazolam via CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase estazolam concentrations. However, since estazolam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+127,Pazopanib,Estradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolized by CYP3A4, CYP1A2 and is glucuronidated. Pazopanib is a weak inhibitor of CYP3A4 and may increase estradiol concentrations, however since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+128,Pazopanib,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolized by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and in the urine (50%). Pazopanib does not interact with this metabolic pathway.,(See Summary)
+129,Pazopanib,Ethinylestradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Pazopanib is a weak inhibitor of CYP3A4, however since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+130,Pazopanib,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolized in the liver, animal studies suggest involvement of flavin-containing monooxygenases. Pazopanib does not interfere with this pathway. ",(See Summary)
+131,Pazopanib,Etonogestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase etonogestrel concentrations. However, since etonogestrel does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+132,Pazopanib,Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. Pazopanib is a weak inhibitor of CYP3A4, CYP2D6 and UGT1A1 and could potentially increase everolimus exposure although to a moderate extent. The clinical relevance of this interaction is unknown. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+133,Pazopanib,Exenatide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as exenatide is cleared mainly by glomerular filtration. Exenatide delays gastric emptying and could possibly decrease the absorption rate of concomitantly administered oral drugs. However, since pazopanib is absorbed in within 12h, the clinical relevance of delayed absorption is considered to be limited.",(See Summary)
+134,Pazopanib,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Pazopanib is an inhibitor of UGT1A1 in vitro and may increase ezetimibe concentrations. However, since ezetimibe has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+135,Pazopanib,Famotidine,"
+Potential Interaction
+","
+Low
+","Coadministration should be avoided. The solubility of pazopanib decreases with increasing pH of the stomach. Coadministration with a proton pump inhibitor (esomeprazole) decreased pazopanib exposure by ~40%. If coadministration is clinically necessary, based on physiological considerations pazopanib should be administered just before the dose of famotidine as this when acid secretion is least inhibited. (Note, the European product label for pazopanib recommends that it should be taken without food at least 2 hours before or at least 10 hours after a dose of an H2-receptor antagonist, whereas the US product label advises that a short-acting antacid should be considered in place of H2-receptor antagonists.) Monitoring of pazopanib plasma concentrations should be considered, if available.",(See Summary)
+136,Pazopanib,Felodipine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Felodipine is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase felodipine concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.,(See Summary)
+137,Pazopanib,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolyzed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Pazopanib does not interact with this pathway.",(See Summary)
+138,Pazopanib,Fentanyl,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Fentanyl undergoes extensive CYP3A4 metabolism. Pazopanib is a weak inhibitor of CYP3A4 and may increase fentanyl concentrations. The clinical relevance of this interaction is unknown.  ,(See Summary)
+139,Pazopanib,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine undergoes negligible metabolism and is mainly eliminated unchanged in the faeces. ,(See Summary)
+140,Pazopanib,Finasteride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase finasteride concentrations. However, since finasteride has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+141,Pazopanib,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+142,Pazopanib,Flecainide,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Flecainide is metabolized mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also eliminated unchanged renally. Pazopanib is a weak inhibitor of CYP2D6 and may increase flecainide concentrations. The clinical relevance of this interaction is unknown. Caution is needed when co-administering pazopanib with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+143,Pazopanib,Flucloxacillin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Flucloxacillin is mainly eliminated renally partly by glomerular filtration and partly by active secretion via OAT1. Pazopanib does not interact with this metabolic pathway. However, flucloxacillin was shown to induce CYP3A4 and P-gp and could potentially decrease pazopanib exposure. Close monitoring is recommended.",(See Summary)
+144,Pazopanib,Fluconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and is not recommended as pazopanib concentrations may increase due to inhibition of CYP3A4 by fluconazole. Concurrent use of CYP3A4 inhibitors should be avoided, because pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+145,Pazopanib,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase (DPD) to an inactive metabolite. Pazopanib does not interfere with this elimination pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Pazopanib also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+146,Pazopanib,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolized in the liver to inactive metabolites, possibly via CYP3A. Pazopanib is a weak inhibitor of CYP3A4 and may increase fludrocortisone concentrations. However, since fludrocortisone has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+147,Pazopanib,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolized mainly via CYP3A4 and 2C19. Pazopanib is a weak inhibitor of CYP3A4 and may increase flunitrazepam concentrations. However, since flunitrazepam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+148,Pazopanib,Fluoxetine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Fluoxetine is metabolized by CYPs 2D6 and 2C9 and to a lesser extent by 2C19 and 3A4 to form norfluoxetine. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase fluoxetine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+149,Pazopanib,Fluphenazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluphenazine is metabolised by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase fluphenazine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+150,Pazopanib,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Pazopanib is a weak inhibitor of CYP3A4, CYP2D6 and CYP2C8 and may increase flurazepam concentrations. However, since flurazepam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+151,Pazopanib,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase fluticasone concentrations. However, since fluticasone has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+152,Pazopanib,Fluvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely as fluvastatin is mainly metabolized by CYP2C9. Pazopanib does not inhibit or induce CYP2C9. An observational study showed increased risk of transaminase elevations with concomitant use of pazopanib and simvastatin. It cannot be excluded that pazopanib will have the same effect on transaminases during coadministration with other statins. In addition to implementing the recommended dose modification guidelines for pazopanib in patients who develop transaminase elevations, discontinuation of simvastatin should be considered to manage the risk of liver injury in cancer patients receiving both medications.",(See Summary)
+153,Pazopanib,Fluvoxamine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluvoxamine is metabolized mainly by CYP2D6 and to a lesser extent by CYP1A2. Pazopanib is a weak inhibitor of CYP2D6 and may increase fluvoxamine concentrations. Moreover, fluvoxamine inhibits CYPs 1A2, 2C19, 3A4, 2C9 and pazopanib concentrations may be slightly increased if co-administered with fluvoxamine. The clinical relevance of these interactions are unknown and monitoring may be required.",(See Summary)
+154,Pazopanib,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is eliminated predominantly renally. Pazopanib does not interact with this metabolic pathway.,(See Summary)
+155,Pazopanib,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation being another pathway. As multiple CYP450 and UGT enzymes catalyze the transformation the potential for a pharmacokinetic interaction is low.",(See Summary)
+156,Pazopanib,Fosaprepitant,"
+Potential Interaction
+","
+Very Low
+","Coadministration has been studied but should be approached with caution. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Pazopanib does not interact with this metabolic pathway. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Pazopanib is a weak inhibitor of CYP3A4 and may increase concentrations of aprepitant. Furthermore, during treatment aprepitant is a moderate inhibitor of CYP3A4 and may increase pazopanib concentrations during the three days of treatment. After treatment, aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of pazopanib may decrease due to weak induction of CYP3A4, but this is not considered to be clinically relevant. Coadministration of pazopanib and cisplatin plus aprepitant, increased concentrations of pazopanib at days 2 and 3 of coadministration (likely to be due to CYP3A4 inhibition by aprepitant) but decreased pazopanib concentrations at day 8 (likely due to modest CYP3A4 induction by aprepitant). Therefore, coadministration is not recommended. If coadministration is unavoidable, reduce the pazopanib dose by 50% and monitor closely for pazopanib toxicity.",(See Summary)
+157,Pazopanib,Fosphenytoin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Pazopanib does not interact with this pathway. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of pazopanib may decrease significantly due to induction of CYP3A4 by phenytoin. The AUC and trough plasma concentration of pazopanib were reduced by ~30% and ~50% respectively after coadministration with phenytoin and carbamazepine compared to historical data. Therefore, coadministration should be avoided, since a decrease in exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. If coadministration is clinically necessary, monitor closely for pazopanib efficacy. Consider monitoring of pazopanib plasma concentrations and subsequent dose adjustment, if available.",(See Summary)
+158,Pazopanib,Furosemide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also eliminated unchanged renally (via OATs). In vitro data indicate that furosemide is an inhibitor of the renal transporters OAT1/OAT3. Pazopanib is an inhibitor of UGT1A1 in vitro and may increase furosemide concentrations. However, since glucuronidation via UGT1A1 is only a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+159,Pazopanib,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as gabapentin is cleared mainly by glomerular filtration. ,(See Summary)
+160,Pazopanib,Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+161,Pazopanib,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+162,Pazopanib,Gestodene,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolized by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Pazopanib is a weak inhibitor of CYP3A4 and may increase gestodene concentrations. However, since gestodene does not have a narrow therapeutic index, this is unlikely to be of clinical significance..",(See Summary)
+163,Pazopanib,Glibenclamide (Glyburide),"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Glibenclamide is mainly metabolized by CYP3A4 and to a lesser extent by CYP2C9. Pazopanib is a weak inhibitor of CYP3A4 and may increase concentrations of glibenclamide. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+164,Pazopanib,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolized mainly by CYP2C9 and to a lesser extent by CYP2C19. Pazopanib does not inhibit or induce CYP2C9.,(See Summary)
+165,Pazopanib,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolized by CYP2C9. Pazopanib does not inhibit or induce CYP2C9.,(See Summary)
+166,Pazopanib,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolized by CYP2C9. Pazopanib does not inhibit or induce CYP2C9.,(See Summary)
+167,Pazopanib,Granisetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Granisetron is metabolized by CYP3A4 and is a substrate of P-gp. Pazopanib is a weak inhibitor of CYP3A4 and may increase granisetron concentrations. The clinical relevance of this interaction is unknown. Granisetron may prolong the QT interval and pazopanib has been shown to prolong the QTc interval. Caution should be taken when using granisetron with drugs that are known to prolong the QT interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+168,Pazopanib,Grapefruit juice,"
+Potential Interaction
+","
+Low
+","Grapefruit juice is known to inhibit CYP3A4 enzymes and could potentially increase pazopanib concentrations. However, the magnitude of this potential interaction is difficult to predict as the effect of grapefruit juice is concentration-, dose- and preparation-dependent and varies widely across brands. The US product label for pazopanib advise to avoid coadministration with grapefruit juice.",(See Summary)
+169,Pazopanib,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+170,Pazopanib,Griseofulvin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Pazopanib does not interfere with griseofulvin elimination pathway. However, griseofulvin is a liver microsomal enzyme inducer and may lower plasma levels, and therefore reduce the efficacy, of concomitantly administered medicinal products metabolized by CYP3A4, such as pazopanib. ",(See Summary)
+171,Pazopanib,Haloperidol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGT2B7>1A4, 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4, 2D6). Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase haloperidol concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+172,Pazopanib,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Pazopanib does not interact with this metabolic pathway.,(See Summary)
+173,Pazopanib,Hydralazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. Although in vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6, it is not expected that this will lead to a clinical relevant interaction with pazopanib. ",(See Summary)
+174,Pazopanib,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied. Hydrochlorothiazide is not metabolized and is cleared by the kidneys via OAT1. In vitro data indicate that hydrochlorothiazide is unlikely to inhibit OAT1 in the range of clinically relevant drug. Significant interactions are not expected with pazopanib.,(See Summary)
+175,Pazopanib,Hydrocodone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase hydrocodone concentrations. The clinical relevance of this interaction is unknown.  ",(See Summary)
+176,Pazopanib,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase hydrocortisone concentrations. However, since hydrocortisone has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+177,Pazopanib,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone. ,(See Summary)
+178,Pazopanib,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Pazopanib not interact with this metabolic pathway. ",(See Summary)
+179,Pazopanib,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is not a substrate of CYP enzymes or P-gp. However, coadministration may increase risk of gastro-intestinal toxicity, haematological toxicity or mucositis. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+180,Pazopanib,Hydroxyzine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyzine is partly metabolized by alcohol dehydrogenase and partly by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase hydroxyzine concentrations but this is unlikely to be of clinical significance as hydroxyzine does not have a narrow therapeutic index. However, caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+181,Pazopanib,Ibandronic acid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied. Ibandronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, ibandronic acid should be taken after an overnight fast (at least 6 hours) and before the first food or drink of the day. Medicinal products and supplements should be similarly avoided prior to taking ibandronic acid. Fasting should be continued for at least 30 minutes after taking ibandronic acid. ",(See Summary)
+182,Pazopanib,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolized mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Pazopanib is a weak inhibitor of CYP2C8 and may increase ibuprofen concentrations. However, since ibuprofen does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+183,Pazopanib,Iloperidone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Iloperidone is metabolized by CYP3A4 and CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase iloperidone concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+184,Pazopanib,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem and cilastatin are eliminated by glomerular filtration and to a lesser extent, active tubular secretion. Pazopanib does not interact with this metabolic pathway. ",(See Summary)
+185,Pazopanib,Imipramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Imipramine is metabolized by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolized by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase concentrations of imipramine and desipramine. The clinical relevance of this interaction is unknown. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+186,Pazopanib,Indapamide,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Indapamide is extensively metabolized by CYP P450. Pazopanib is a weak inhibitor of CYP3, CYP2D6 and CYP2C8 and may increase indapamide concentrations. The clinical relevance of this interaction is unknown. Pazopanib has been shown to prolong the QTc interval and the use of indapamide in patients treated with QT prolonging medicinal products should be avoided. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+187,Pazopanib,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+188,Pazopanib,Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, coadministration may increase risk of neutropenia, fatigue, and thrombocytopenia. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+189,Pazopanib,Interleukin 2 (Aldesleukin),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. ,(See Summary)
+190,Pazopanib,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Pazopanib does not interact with this metabolic pathway.,(See Summary)
+191,Pazopanib,Irbesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolized by glucuronidation and oxidation (mainly CYP2C9). Pazopanib does not interact with this pathway.,(See Summary)
+192,Pazopanib,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+193,Pazopanib,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Pazopanib does not interact with this metabolic pathway. ",(See Summary)
+194,Pazopanib,Isosorbide dinitrate,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Pazopanib is a weak inhibitor of CYP3A4 and may increase isosorbide concentrations. The clinical relevance of this interaction is unknown. ,(See Summary)
+195,Pazopanib,Itraconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and is not recommended as pazopanib concentrations may increase due to inhibition of CYP3A4 by itraconazole. Concurrent use of CYP3A4 inhibitors should be avoided, because pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+196,Pazopanib,Ivabradine,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied. Ivabradine is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase ivabradine concentrations. The clinical relevance of this interaction is unknown. Pazopanib has been shown to prolong the QTc interval and according to the product labels the use of ivabradine in patients treated with QT prolonging medicinal products should be avoided. If the combination appears necessary, close ECG monitoring is needed.",(See Summary)
+197,Pazopanib,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as kanamycin is eliminated unchanged predominantly via glomerular filtration.,(See Summary)
+198,Pazopanib,Ketoconazole,"
+Potential Interaction
+","
+Low
+","Coadministration of pazopanib and ketoconazole increased total pazopanib Cmax and AUC by 45% and 66%, respectively, due to inhibition of CYP3A4. Concurrent use of CYP3A4 inhibitors should be avoided, because pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+199,Pazopanib,Labetalol,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Labetalol is mainly glucuronidated (via UGT1A1 and 2B7). Pazopanib is an inhibitor of UGT1A1 in vitro and may increase labetalol concentrations. The clinical relevance of this interaction is unknown and monitoring of blood pressure may be required.,(See Summary)
+200,Pazopanib,Lacidipine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Lacidipine is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase lacidipine concentrations. The clinical relevance of this interaction is unknown and monitoring of blood pressure may be required.,(See Summary)
+201,Pazopanib,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. ,(See Summary)
+202,Pazopanib,Lansoprazole,"
+Potential Interaction
+","
+Low
+","Coadministration should be avoided. The solubility of pazopanib decreases with increasing pH of the stomach. Coadministration with a proton pump inhibitor (esomeprazole) decreased pazopanib exposure by ~40%. If coadministration is clinically necessary, based on physiological considerations pazopanib should be administered just before the dose of lansoprazole as this when acid secretion is least inhibited. (Note, the European product label for pazopanib recommends that it should be taken without food once daily in the evening concomitantly with the proton pump inhibitor, whereas the US product label advises that a short-acting antacid should be considered in place of proton pump inhibitors.) Monitoring of pazopanib plasma concentrations should be considered, if available. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase lansoprazole concentrations but this is unlikely to be of clinical significance due to the wide therapeutic index of lansoprazole.",(See Summary)
+203,Pazopanib,Lercanidipine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Lercanidipine is mainly metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase lercanidpine concentrations. The clinical relevance of this interaction is unknown and monitoring of blood pressure may be required.,(See Summary)
+204,Pazopanib,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion. ,(See Summary)
+205,Pazopanib,Levofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Levofloxacin is eliminated renally mainly by glomerular filtration and active secretion (possibly OCT2). Pazopanib does not interact with this metabolic pathway. However, pazopanib should be used with caution when co-administered with a drug with a known risk of QTc interval prolongation. In patients therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+206,Pazopanib,Levomepromazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Levomepromazine is metabolized by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase levomepromazine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. Moreover, caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+207,Pazopanib,Levonorgestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolized by CYP3A4 and is glucuronidated to a minor extent. Pazopanib is a weak inhibitor of CYP3A4 and may increase levonorgestrel concentrations. However, since levonorgestrel does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+208,Pazopanib,Levonorgestrel (Emergency Contraception),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolized by CYP3A4 and is glucuronidated to a minor extent. Pazopanib is a weak inhibitor of CYP3A4 and may increase levonorgestrel concentrations. However, since levonorgestrel does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+209,Pazopanib,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolized by deiodination (by enzymes of deiodinase family) and glucuronidation. Pazopanib does not interact with levothyroxine metabolism. ,(See Summary)
+210,Pazopanib,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Pazopanib does not inhibit or induce CYP1A2.,(See Summary)
+211,Pazopanib,Linagliptin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Pazopanib is a weak inhibitor of CYP3A4 and may increase linagliptin concentrations, however since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance. Linagliptin is a substrate for P-gp and is an inhibitor of CYP3A4. Pazopanib concentrations may increase due to inhibition of CYP3A4 by linagliptin. The clinical relevance of this interaction is unknown and monitoring may be required. ",(See Summary)
+212,Pazopanib,Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non CYP mediated metabolism. ,(See Summary)
+213,Pazopanib,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as liraglutide is degraded by endogenous endopeptidases. ,(See Summary)
+214,Pazopanib,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is eliminated unchanged renally via glomerular filtration. ,(See Summary)
+215,Pazopanib,Lithium,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate therefore no pharmacokinetic interaction is expected. However, caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+216,Pazopanib,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalized infections can occur.",(See Summary)
+217,Pazopanib,Loperamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolized by CYP3A4 and CYP2C8. Pazopanib is a weak inhibitor of CYP3A4 and CYP2C8 and may increase esomeprazole concentrations but this is unlikely to be of clinical significance due to the wide therapeutic index of loperamide,(See Summary)
+218,Pazopanib,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolized mainly by CYP3A4 and to a lesser extent by CYP2D6. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase loratadine concentrations but this is unlikely to be of clinical significance as loratadine has a wide therapeutic index.,(See Summary)
+219,Pazopanib,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam is eliminated by non-CYP-mediated pathways and no effect on plasma concentrations is expected when coadministered with pazopanib. ,(See Summary)
+220,Pazopanib,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Pazopanib does not interact with this metabolic pathway.,(See Summary)
+221,Pazopanib,Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+222,Pazopanib,Lovastatin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Lovastatin is metabolised by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase lovastatin concentrations. The clinical relevance of this interaction is unknown. It is recommended to start with the lowest dose of lovastatin and titrate up to the desired clinical effect while monitoring for safety. An observational study showed increased risk of transaminase elevations with concomitant use of pazopanib and simvastatin. It cannot be excluded that pazopanib will have the same effect on transaminases during coadministration with other statins. In addition to implementing the recommended dose modification guidelines for pazopanib in patients who develop transaminase elevations, discontinuation of simvastatin should be considered to manage the risk of liver injury in cancer patients receiving both medications.",(See Summary)
+223,Pazopanib,Macitentan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Macitentan is metabolized mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Pazopanib is a weak inhibitor of CYP3A4 and may increase macitentan concentrations. The clinical relevance of this interaction is unknown.",(See Summary)
+224,Pazopanib,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in kidney, mainly by glomerular filtration. ",(See Summary)
+225,Pazopanib,Maprotiline,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Maprotiline is mainly metabolized by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase maprotiline concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+226,Pazopanib,Medroxyprogesterone (depot),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase medroxyprogesterone concentrations. However, since medroxyprogesterone does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+227,Pazopanib,Medroxyprogesterone (non-depot),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase medroxyprogesterone concentrations. However, since medroxyprogesterone does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+228,Pazopanib,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolized by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Pazopanib does not inhibit or induce these CYPs or UGTs. ,(See Summary)
+229,Pazopanib,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine. ,(See Summary)
+230,Pazopanib,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney and in vitro data suggest that it is a substrate of the renal transporters OAT3>OAT1. Pazopanib does not interfere with this elimination pathway. ,(See Summary)
+231,Pazopanib,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolized to N-acetyl-mesalazine by N-acetyltransferase. Pazopanib does not interfere with this pathway. ,(See Summary)
+232,Pazopanib,Metamizole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied, but should be approached with caution. Metamizole may decrease pazopanib concentrations due to induction of CYP3A4. Decreases in pazopanib exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. The clinical relevance of this interaction is unknown; monitoring and dose adjustment may be required.",(See Summary)
+233,Pazopanib,Metformin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine (via OCT2). Pazopanib does not interact with metformin metabolic and elimination pathway.,(See Summary)
+234,Pazopanib,Methadone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Pazopanib should be used with caution when coadministered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+235,Pazopanib,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. It is unlikely to affect the disposition of pazopanib, or to be altered by coadministration with pazopanib.",(See Summary)
+236,Pazopanib,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolized by cytochrome P450 to a clinically relevant extent and does not inhibit cytochrome P450s. ,(See Summary)
+237,Pazopanib,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase methylprednisolone concentrations. However, since methylprednisolone has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+238,Pazopanib,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolized by CYP450 system (mainly CYP2D6). Pazopanib is a weak inhibitor of CYP2D6 and may increase metoclopramide concentrations. However, since CYP-medicated metabolism is only a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+239,Pazopanib,Metolazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely as metolazone is largely excreted unchanged in the urine. ",(See Summary)
+240,Pazopanib,Metoprolol,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Metoprolol is mainly metabolized by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase metoprolol concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.,(See Summary)
+241,Pazopanib,Metronidazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Since the mechanism of the interaction with CYP3A has not yet been identified, an interaction with pazopanib cannot be excluded and close monitoring is recommended.",(See Summary)
+242,Pazopanib,Mexiletine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Mexiletine is metabolized mainly by CYP2D6 and to a lesser extent CYP1A2. Pazopanib is a weak inhibitor of CYP2D6 and may increase mexiletine concentrations. The clinical relevance of this interaction is unknown.  ,(See Summary)
+243,Pazopanib,Mianserin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Mianserin is metabolized by CYPs 2D6 and 1A2, and to a lesser extent by CYP3A4. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase mianserin concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+244,Pazopanib,Miconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Miconazole inhibits CYP2C9 and CYP3A4 and could potentially increase pazopanib concentrations. Oromucosal coadministration may increase pazopanib concentrations due to inhibition of CYP3A4. Concurrent use of CYP3A4 inhibitors should be avoided, because pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. If coadministration is necessary, close monitoring including ECG assessment is recommended. Note, no a priori dosage adjustment is recommended for pazopanib with dermal administration of miconazole, since systemic exposure of miconazole is limited when used topically.",(See Summary)
+245,Pazopanib,Midazolam (oral),"
+No Interaction Expected
+","
+Moderate
+","Midazolam is metabolized by CYP3A4 and concentrations may increase due to weak inhibition of CYP3A4 by pazopanib. Coadministration of pazopanib and oral midazolam increased midazolam AUC by 32%. Since midazolam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+246,Pazopanib,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolized by CYP3A4 and concentrations may increase due to weak inhibition of CYP3A4 by pazopanib. Coadministration of pazopanib and oral midazolam increased midazolam AUC by 32%. Since midazolam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+247,Pazopanib,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Pazopanib is unlikely to interfere with these pathways.",(See Summary)
+248,Pazopanib,Mirtazapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase mirtazapine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+249,Pazopanib,Mometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase mometasone concentrations. However, since mometasone has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+250,Pazopanib,Montelukast,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Montelukast is mainly metabolized by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase montelukast concentrations. The clinical relevance of this interaction is unknown.,(See Summary)
+251,Pazopanib,Morphine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Pazopanib is an inhibitor of UGT1A1 in vitro and may increase morphine concentrations. The clinical relevance of this interaction is unknown.",(See Summary)
+252,Pazopanib,Moxifloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Moxifloxacin is predominantly glucuronidated by UGT1A1. Pazopanib is an inhibitor of UGT1A1 in vitro and may increase moxifloxacin concentrations. The clinical relevance of this interaction is unknown. Pazopanib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. In patients therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+253,Pazopanib,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and 2B7. Pazopanib does not interact with this metabolic pathway. In addition, inhibition of OAT1/OAT3 renal transporters by mycophenolic acid (active metabolite) is unlikely to interfere with pazopanib elimination. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+254,Pazopanib,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Pazopanib does not interact with this elimination pathway.,(See Summary)
+255,Pazopanib,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolized in the liver by alpha-reductase. Pazopanib does not interact with this pathway.,(See Summary)
+256,Pazopanib,Naproxen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Pazopanib does not inhibit or induce these CYPs or UGTs. ,(See Summary)
+257,Pazopanib,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolized by CYP2C9 (70%) and to a lesser extent CYP3A4 (30%). Pazopanib is a weak inhibitor of CYP3A4 and may increase nateglinide concentrations, however since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+258,Pazopanib,Nebivolol,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Nebivolol metabolism involves CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase nebivolol concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.,(See Summary)
+259,Pazopanib,Nefazodone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and is not recommended. Nefazodone is metabolized mainly by CYP3A4 and is an inhibitor of CYP3A4. Nefazodone may increase pazopanib concentrations due to inhibition of CYP3A4. Concurrent use of CYP3A4 inhibitors should be avoided, because pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+260,Pazopanib,Nicardipine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and 2C8. Pazopanib is a weak inhibitor of CYP3A4, 2D6 and 2C8 and may increase nicardipine concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended. Nicardipine inhibits CYP3A4 and could potentially increase pazopanib concentrations. No a priori dosage adjustment is recommended for pazopanib. Close monitoring of pazopanib tolerability is recommended. ",(See Summary)
+261,Pazopanib,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolized by xanthine oxidase and aldehyde oxidase. Pazopanib does not interact with this metabolic pathway. In addition, nicotinic acid and its metabolites do not inhibit CYP-mediated reactions in vitro and therefore are unlikely to impact pazopanib exposure.",(See Summary)
+262,Pazopanib,Nifedipine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Nifedipine is metabolised mainly by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase nifedipine concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.,(See Summary)
+263,Pazopanib,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolized in the liver following multiple pathways including CYP2C9. Pazopanib does not inhibit or induce CYP2C9.,(See Summary)
+264,Pazopanib,Nisoldipine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Nisoldipine is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase nisoldipine concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.,(See Summary)
+265,Pazopanib,Nitrendipine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Nitrendipine is extensively metabolized mainly by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase nitrendipine concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.,(See Summary)
+266,Pazopanib,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolized in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+267,Pazopanib,Norelgestromin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolized to norgestrel (possibly by CYP3A4). Pazopanib is a weak inhibitor of CYP3A4 and may increase norelgestromin concentrations. However, since norelgestromin does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+268,Pazopanib,Norethisterone (Norethindrone),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Pazopanib does not interact with these metabolic pathways. ",(See Summary)
+269,Pazopanib,Norgestimate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolized via CYP450. Pazopanib is a weak inhibitor of CYP3A4, 2D6 and 2C8 and may increase norgestimate concentrations. However, since norgestimate does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+270,Pazopanib,Norgestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase levonorgestrel concentrations. However, since levonorgestrel does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+271,Pazopanib,Nortriptyline,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Nortriptyline is metabolized mainly by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase nortriptyline concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+272,Pazopanib,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant, therefore no drug interactions are expected. ",(See Summary)
+273,Pazopanib,Ofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ofloxacin is eliminated unchanged renally by glomerular filtration and active tubular secretion via both cationic and anionic transport systems. Pazopanib is unlikely to interfere with this pathway. However, pazopanib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. In patients therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+274,Pazopanib,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolized mainly by CYP1A2, but also by glucuronidation (UGT1A4). Pazopanib does not inhibit or induce CYP1A2 and UGT1A4. ",(See Summary)
+275,Pazopanib,Olmesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. ,(See Summary)
+276,Pazopanib,Omeprazole,"
+Potential Interaction
+","
+Moderate
+","Coadministration should be avoided. The solubility of pazopanib decreases with increasing pH of the stomach. Coadministration with a proton pump inhibitor (esomeprazole) decreased pazopanib exposure by ~40%. If coadministration is clinically necessary, based on physiological considerations pazopanib should be administered just before the dose of omeprazole as this when acid secretion is least inhibited. (Note, the European product label for pazopanib recommends that it should be taken without food once daily in the evening concomitantly with the proton pump inhibitor, whereas the US product label advises that a short-acting antacid should be considered in place of proton pump inhibitors.) Monitoring of pazopanib plasma concentrations should be considered, if available. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Omeprazole induces CYP1A2 and inhibits CYP2C19. Pazopanib is a weak inhibitor of CYP3A4 and may increase omeprazole concentrations but this is unlikely to be of clinical significance due to the wide therapeutic index of omeprazole.",(See Summary)
+277,Pazopanib,Ondansetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Ondansetron is metabolized mainly by CYP1A2 and CYP3A4 and to a lesser extent by CYP2D6. Ondansetron is a substrate of P-gp. Pazopanib is a weak inhibitor of CYP3A4 and may increase ondansetron concentrations. The clinical relevance of this interaction is unknown. Ondansetron may prolong the QT interval dose dependently and pazopanib has been shown to prolong the QTc interval. Caution should be taken when using ondansetron with drugs that are known to prolong the QT interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+278,Pazopanib,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+279,Pazopanib,Oxcarbazepine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided as significant decreases in pazopanib plasma exposure may occur due to induction of CYP3A4. The AUC and trough plasma concentration of pazopanib were reduced by ~30% and ~50% respectively after coadministration with phenytoin and carbamazepine compared to historical data. Decreased pazopanib exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. If coadministration is clinically necessary, consider monitoring of pazopanib plasma concentrations and subsequent dose adjustment, if available.",(See Summary)
+280,Pazopanib,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolized via glucuronidation and pazopanib does not interact with this metabolic pathway. ,(See Summary)
+281,Pazopanib,Oxycodone,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase oxycodone concentrations. The clinical relevance of this interaction is unknown.  ,(See Summary)
+282,Pazopanib,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily eliminated renally (possibly via OCT) with minimal metabolism occurring via CYP2D6 and 3A4. Pazopanib is a weak inhibitor of CYP3A4 and 2D6 and may increase paliperidone concentrations, however since these are minor pathways this is unlikely to be of clinical significance.",(See Summary)
+283,Pazopanib,Palonosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolized mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Palonosetron is substrate of P-gp. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase palonosetron concentrations. However, due to the broad therapeutic index of palonosetron, this is unlikely to be of clinical significance.",(See Summary)
+284,Pazopanib,Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as pamidronic acid is not metabolized and is cleared as unchanged drug via urine.,(See Summary)
+285,Pazopanib,Pantoprazole,"
+Potential Interaction
+","
+Low
+","Coadministration should be avoided. The solubility of pazopanib decreases with increasing pH of the stomach. Coadministration with a proton pump inhibitor (esomeprazole) decreased pazopanib exposure by ~40%. If coadministration is clinically necessary, based on physiological considerations pazopanib should be administered just before the dose of pantoprazole as this when acid secretion is least inhibited. (Note, the European product label for pazopanib recommends that it should be taken without food once daily in the evening concomitantly with the proton pump inhibitor, whereas the US product label advises that a short-acting antacid should be considered in place of proton pump inhibitors.) Monitoring of pazopanib plasma concentrations should be considered, if available. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4, 2D6 and 2C9. Pazopanib is a weak inhibitor of CYP3A4 and may increase pantoprazole concentrations but this is unlikely to be of clinical significance due to the wide therapeutic index of pantoprazole.",(See Summary)
+286,Pazopanib,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+287,Pazopanib,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolized by glucuronidation (via UGT1A9 (major), UGT1A6, UGT1A1, UGT2B15) and sulfation and, to a lesser extent, by oxidation (CYP2E1 (major), 1A2, 3A4 and 2D6). There is no evidence that pazopanib inhibits or induces UGT1A9 and CYP2E1.",(See Summary)
+288,Pazopanib,Paroxetine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Paroxetine is mainly metabolized by CYP2D6 and CYP3A4. Pazopanib is a weak inhibitor of CYP2D6 and may increase paroxetine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+289,Pazopanib,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, coadministration may increase risk of neutropenia, fatigue, and thrombocytopenia. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+290,Pazopanib,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Pazopanib does not interfere with elimination of penicillins.,(See Summary)
+291,Pazopanib,Perazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Perazine is demethylated via CYP3A4 and to a lesser extent by CYP2C9, and oxidated via FMO3. Pazopanib is a weak inhibitor of CYP3A4 and may increase perazine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+292,Pazopanib,Periciazine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase periciazine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+293,Pazopanib,Perindopril,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Perindopril is hydrolysed to the active metabolite perindoprilat probably via CYP3A4 and is metabolized to other inactive metabolites. Elimination occurs predominantly via the urine. Pazopanib is a weak inhibitor of CYP3A4 and may decrease biotransformation to active substance. The clinical relevance of this interaction is unknown and monitoring of blood pressure may be required. ,(See Summary)
+294,Pazopanib,Perphenazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Perphenazine is metabolized by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase perphenazine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+295,Pazopanib,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolized mainly by CYP2B6 and to a lesser extent by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4, however since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+296,Pazopanib,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolized by oxidation via monoamine oxidase and to a lesser extent acetylation. Pazopanib does not interact with phenelzine metabolic pathway.,(See Summary)
+297,Pazopanib,Phenobarbital (Phenobarbitone),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided as significant decreases in pazopanib plasma exposure may occur due to induction of CYP3A4. Decreased pazopanib exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. If coadministration is clinically necessary, consider monitoring of pazopanib plasma concentrations and subsequent dose adjustment, if available.",(See Summary)
+298,Pazopanib,Phenprocoumon,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Phenprocoumon is metabolised by CYP2C9 and CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase concentrations of phenprocoumon. Care should be taken when pazopanib is coadministered with phenprocoumon.,(See Summary)
+299,Pazopanib,Phenytoin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Pazopanib does not inhibit or induce CYP2C9 or CYP2C19. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of pazopanib may decrease significantly due to induction of CYP3A4 by phenytoin. The AUC and trough plasma concentration of pazopanib were reduced by ~30% and ~50% respectively after coadministration with phenytoin and carbamazepine compared to historical data. Therefore, coadministration should be avoided, since a decrease in exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. If coadministration is clinically necessary, monitor closely for pazopanib efficacy. Consider monitoring of pazopanib plasma concentrations and subsequent dose adjustment, if available.",(See Summary)
+300,Pazopanib,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+301,Pazopanib,Pimozide,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and is contraindicated. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as pimozide is mainly metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase pimozide concentrations. The clinical relevance of this interaction is unknown. However, the product labels for pimozide contraindicate its use in the presence of other drugs that prolong the QT interval, such as pazopanib. ",(See Summary)
+302,Pazopanib,Pindolol,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Pindolol is partly metabolized to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine. Pazopanib is a weak inhibitor of CYP2D6 and may increase pindolol concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.,(See Summary)
+303,Pazopanib,Pioglitazone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Pioglitazone is metabolized mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Pazopanib is a weak inhibitor of CYP3A4 and CYP2C8 and may increase pioglitazone concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+304,Pazopanib,Pipotiazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase pipotiazine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+305,Pazopanib,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolized by CYP2C9. Pazopanib does not inhibit or induce CYP2C9. ,(See Summary)
+306,Pazopanib,Pitavastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolized by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Pazopanib does not interact with this metabolic pathway. An observational study showed increased risk of transaminase elevations with concomitant use of pazopanib and simvastatin. It cannot be excluded that pazopanib will have the same effect on transaminases during coadministration with other statins. In addition to implementing the recommended dose modification guidelines for pazopanib in patients who develop transaminase elevations, discontinuation of simvastatin should be considered to manage the risk of liver injury in cancer patients receiving both medications.",(See Summary)
+307,Pazopanib,Posaconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and is not recommended as pazopanib concentrations may increase due to inhibition of CYP3A4 by posaconazole. Concurrent use of CYP3A4 inhibitors should be avoided, because pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+308,Pazopanib,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is eliminated renally. ,(See Summary)
+309,Pazopanib,Prasugrel,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6. Pazopanib is a weak inhibitor of CYP3A4 and may increase prasugrel concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+310,Pazopanib,Pravastatin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Pazopanib is an inhibitor of OATP1B1 in vitro and may increase pravastatin concentrations. The clinical relevance of this interaction is unknown. It is recommended to start with the lowest dose of pravastatin and titrate up to the desired clinical effect while monitoring for safety. An observational study showed increased risk of transaminase elevations with concomitant use of pazopanib and simvastatin. It cannot be excluded that pazopanib will have the same effect on transaminases during coadministration with other statins (e.g., atorvastatin, fluvastatin, pravastatin, rosuvastatin). In addition to implementing the recommended dose modification guidelines for pazopanib in patients who develop transaminase elevations, discontinuation of pravastatin should be considered to manage the risk of liver injury in cancer patients receiving both medications.",(See Summary)
+311,Pazopanib,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolized, primarily by demethylation and conjugation. Pazopanib does not interact with this metabolic pathway.",(See Summary)
+312,Pazopanib,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase prednisolone concentrations. However, since prednisolone has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+313,Pazopanib,Prednisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase prednisolone concentrations. However, since prednisolone has a broad therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+314,Pazopanib,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as pregabalin is cleared mainly by glomerular filtration.,(See Summary)
+315,Pazopanib,Prochlorperazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Pazopanib is a weak inhibitor of CYP2D6 and may increase prochlorperazine concentrations. The clinical relevance of this interaction is unknown. Pazopanib should be used with caution when coadministered with a drug that has a potential risk to prolong the QT interval. Pazopanib has been shown to prolong the QT interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+316,Pazopanib,Promethazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Promethazine is metabolized by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase promethazine concentrations. The clinical relevance of this interaction is unknown. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+317,Pazopanib,Propafenone,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Propafenone is metabolized mainly by CYP2D6 and to a lesser extent CYP1A2 and CYP3A4. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase propafenone concentrations. The clinical relevance of this interaction is unknown.  ,(See Summary)
+318,Pazopanib,Propranolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Propranolol is metabolized by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Pazopanib is a weak inhibitor of CYP2D6 and may increase propranolol concentrations. The clinical relevance of this interaction is unknown. Monitoring of blood pressure is recommended.",(See Summary)
+319,Pazopanib,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly eliminated renally, partly by active secretion by renal transporters (of note no clinically relevant interactions were observed when prucalopride was coadministered with inhibitors of renal P-gp, OAT and OCT transporters). ",(See Summary)
+320,Pazopanib,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolized by xanthine oxidase. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+321,Pazopanib,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+322,Pazopanib,Quetiapine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Quetiapine is primarily metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase quetiapine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+323,Pazopanib,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Pazopanib does not impact this renal transporter. ,(See Summary)
+324,Pazopanib,Quinidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Quinidine is substrate for CYP3A4 and is an inhibitor of CYP2D6. Pazopanib is a weak inhibitor of CYP3A4 and may increase quinidine concentrations. The clinical relevance of this interaction is unknown. Coadministration should be used with caution due to the narrow therapeutic index of quinidine. Moreover, pazopanib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+325,Pazopanib,Rabeprazole,"
+Potential Interaction
+","
+Low
+","Coadministration should be avoided. The solubility of pazopanib decreases with increasing pH of the stomach. Coadministration with a proton pump inhibitor (esomeprazole) decreased pazopanib exposure by ~40%. If coadministration is clinically necessary, based on physiological considerations pazopanib should be administered just before the dose of rabeprazole as this when acid secretion is least inhibited. (Note, the European product label for pazopanib recommends that it should be taken without food once daily in the evening concomitantly with the proton pump inhibitor, whereas the US product label advises that a short-acting antacid should be considered in place of proton pump inhibitors.) Monitoring of pazopanib plasma concentrations should be considered, if available. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and 3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase rabeprazole concentrations but this is unlikely to be of clinical significance due to the wide therapeutic index of rabeprazole.",(See Summary)
+326,Pazopanib,Ramipril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ramipril is hydrolysed to the active metabolite ramiprilat probably via CYP3A4, and is metabolized to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Pazopanib is a weak inhibitor of CYP3A4 and may decrease biotransformation to active substance. The clinical relevance of this interaction is unknown and monitoring of blood pressure may be required.",(See Summary)
+327,Pazopanib,Ranitidine,"
+Potential Interaction
+","
+Low
+","Coadministration should be avoided. The solubility of pazopanib decreases with increasing pH of the stomach. Coadministration with a proton pump inhibitor (esomeprazole) decreased pazopanib exposure by ~40%. If coadministration is clinically necessary, based on physiological considerations pazopanib should be administered just before the dose of ranitidine as this when acid secretion is least inhibited. (Note, the European product label for pazopanib recommends that it should be taken without food at least 2 hours before or at least 10 hours after a dose of an H2-receptor antagonist, whereas the US product label advises that a short-acting antacid should be considered in place of H2-receptor antagonists.) Monitoring of pazopanib plasma concentrations should be considered, if available.",(See Summary)
+328,Pazopanib,Ranolazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ranolazine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6, and may increase concentrations of ranolazine. Furthermore, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Concentrations of pazopanib may increase due to inhibition of P-gp and CYP3A4. The clinical relevance of this interaction is unknown. No a priori dosage adjustment for pazopanib and ranolazine is recommended. However, caution is warranted when coadministering these drugs due to the risk of QT interval prolongation. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+329,Pazopanib,Reboxetine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Reboxetine is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase reboxetine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but no effect on pazopanib is expected as in vivo data showed no inhibitory effect on CYP3A4. ,(See Summary)
+330,Pazopanib,Repaglinide,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Repaglinide is metabolized by CYP2C8 and 3A4 and clinical data seem to indicate that it is a substrate of the hepatic transporter OATP1B1. Pazopanib is a weak inhibitor of CYP3A4 and CYP2C8 and may increase repaglinide concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+331,Pazopanib,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver. Retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Pazopanib does not interact with this metabolic pathway. ",(See Summary)
+332,Pazopanib,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+333,Pazopanib,Rifabutin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided as significant decreases in pazopanib plasma concentrations may occur due to induction of CYP3A4. Decrease in pazopanib exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. If coadministration is clinically necessary, consider monitoring of pazopanib plasma concentrations and subsequent dose adjustment, if available.",(See Summary)
+334,Pazopanib,Rifampicin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided as significant decreases in pazopanib plasma concentrations may occur due to induction of CYP3A4. Decrease in pazopanib exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. If coadministration is clinically necessary, consider monitoring of pazopanib plasma concentrations and subsequent dose adjustment, if available.",(See Summary)
+335,Pazopanib,Rifapentine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided as significant decreases in pazopanib plasma concentrations may occur due to induction of CYP3A4. Decrease in pazopanib exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. If coadministration is clinically necessary, consider monitoring of pazopanib plasma concentrations and subsequent dose adjustment, if available.",(See Summary)
+336,Pazopanib,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Pazopanib does not interact with this metabolic pathway. ",(See Summary)
+337,Pazopanib,Risperidone,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Risperidone is metabolized by CYP2D6 and to a lesser extent by CYP3A4. Risperidone is a substrate of P-gp. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase risperidone concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. ,(See Summary)
+338,Pazopanib,Rivaroxaban,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Rivaroxaban is partly metabolized in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine (by P-gp and BCRP). Pazopanib is a weak inhibitor of CYP3A4 and may increase rivaroxaban concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+339,Pazopanib,Rosiglitazone,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Rosiglitazone is metabolized mainly by CYP2C8 and to a lesser extent 2C9. Pazopanib is a weak inhibitor of CYP2C8 and may increase rosiglitazone concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+340,Pazopanib,Rosuvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Rosuvastatin is largely excreted unchanged via the faeces via OATP1B1. Pazopanib is an inhibitor of OATP1B1 in vitro and may increase rosuvastatin concentrations. The clinical relevance of this interaction is unknown. An observational study showed increased risk of transaminase elevations with concomitant use of pazopanib and simvastatin. It cannot be excluded that pazopanib will have the same effect on transaminases during coadministration with other statins. In addition to implementing the recommended dose modification guidelines for pazopanib in patients who develop transaminase elevations, discontinuation of simvastatin should be considered to manage the risk of liver injury in cancer patients receiving both medications.",(See Summary)
+341,Pazopanib,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolized to the inactive salbutamol-4’-O-sulphate. Pazopanib does not interact with this metabolic pathway.,(See Summary)
+342,Pazopanib,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase salmeterol concentrations. However, the systemic absorption of salmeterol after bronchial administration is low and a clinically relevant interaction via weak CYP3A4 inhibition is unlikely.",(See Summary)
+343,Pazopanib,Saxagliptin,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Saxagliptin is mainly metabolized by CYP3A4 and is a substrate of P-gp. Pazopanib is a weak inhibitor of CYP3A4 and may increase saxagliptin concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+344,Pazopanib,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces and also in other secretions. No clinically significant drug interactions are known. ,(See Summary)
+345,Pazopanib,Sertindole,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and is contraindicated. Based on metabolism and clearance a clinically significant pharmacokinetic interaction is unlikely as sertindole is metabolized by CYP2D6 and CYP3A4. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase sertindole concentrations. The clinical relevance of this interaction is unknown. However, the product labels for sertindole contraindicate its use in the presence of other drugs that prolong the QT interval, such as pazopanib.",(See Summary)
+346,Pazopanib,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolized by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase sertraline concentrations, however since CYP3A4 and CYP2D6 mediated metabolism are minor pathways, this is unlikely to be of clinical significance.",(See Summary)
+347,Pazopanib,Sildenafil (Pulmonary Arterial Hypertension),"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Sildenafil is metabolized mainly by CYP3A4 and to a lesser extent by CYP2C9. Pazopanib does not inhibit or induce CYPs. Pazopanib is a weak inhibitor of CYP3A4 and may increase sildenafil concentrations. The clinical relevance of this interaction is unknown.,(See Summary)
+348,Pazopanib,Simvastatin,"
+Potential Interaction
+","
+Very Low
+","Simvastatin is metabolized by CYP3A4 and the metabolite is a substrate of OATP1B1. Pazopanib is a weak inhibitor of CYP3A4 and an inhibitor of OATP1B1 in vitro and may increase simvastatin concentrations. The clinical relevance of this interaction is unknown. It is recommended to start with the lowest dose of simvastatin and titrate up to the desired clinical effect while monitoring for safety. An observational study showed that concomitant use of pazopanib and simvastatin increased the risk of transaminase elevations in patients with cancer. In addition to implementing the recommended dose modification guidelines for pazopanib in patients who develop transaminase elevations, discontinuation of simvastatin should be considered to manage the risk of liver injury in cancer patients receiving both medications.",(See Summary)
+349,Pazopanib,Sirolimus,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Sirolimus is metabolized by CYP3A4 and is substrate of P-gp. Pazopanib is a weak inhibitor of CYP3A4 and may increase sirolimus concentrations. The clinical relevance of this interaction is unknown. Moreover, a study of temsirolimus (the water soluble ester of sirolimus) and pazopanib showed dose limiting toxicities even at low doses. Therefore, the combination seems not feasible. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+350,Pazopanib,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1, P-gp) and metabolism by CYP3A4 represents a minor elimination pathway. Pazopanib is a weak inhibitor of CYP3A4 and may increase sitagliptin concentrations, however since CYP3A4 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+351,Pazopanib,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. There is little potential for sodium nitroprusside to affect the disposition of pazopanib, or to be affected if co-administered with pazopanib. ",(See Summary)
+352,Pazopanib,Sotalol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and is not recommended. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as sotalol is excreted unchanged via renal elimination. However, coadministration is not recommended due to the potential of life threatening arrhythmias such as torsade de pointes and sudden death. The product labels for sotalol advise extreme caution if given with other drugs that prolong the QT interval, such as pazopanib. ",(See Summary)
+353,Pazopanib,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+354,Pazopanib,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolized by the flavin containing monooxygenases. Pazopanib does not affect this metabolic pathway. ,(See Summary)
+355,Pazopanib,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Pazopanib is a weak inhibitor of CYP and may increase stanozolol concentrations. However, since stanozolol has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+356,Pazopanib,St John's Wort,"
+Do Not Coadminister
+","
+Low
+",Coadministration has not been studied and should be avoided. St John’s wort may cause significant and unpredictable decreases in the plasma concentrations of pazopanib due to induction of CYP3A4 and P-gp.,(See Summary)
+357,Pazopanib,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Streptokinase is unlikely to affect the disposition of tyrosine kinase inhibitors, or to be affected if coadministered with tyrosine kinase inhibitors.",(See Summary)
+358,Pazopanib,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as streptomycin is eliminated by glomerular filtration.,(See Summary)
+359,Pazopanib,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Pazopanib does not interfere with sulfadiazine metabolism.,(See Summary)
+360,Pazopanib,Sulpiride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. However, caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+361,Pazopanib,Tacrolimus,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Pazopanib is metabolised mainly by CYP3A4. Tacrolimus inhibits CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Tacrolimus could potentially increase pazopanib concentrations although to a modest extent. No a priori dosage adjustment of pazopanib is recommended. Pazopanib is a weak inhibitor of CYP3A4 and may increase tacrolimus concentrations. Caution is needed when co-administering pazopanib with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+362,Pazopanib,Tadalafil (Pulmonary Arterial Hypertension),"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Tadalafil is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase tadalafil concentrations. The clinical relevance of this interaction is unknown.,(See Summary)
+363,Pazopanib,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase tamsulosin concentrations. However, since tamsulosin has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+364,Pazopanib,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Pazopanib does not interact with this elimination pathway.,(See Summary)
+365,Pazopanib,Telithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but may increase pazopanib concentrations due to inhibition of CYP3A4 by telithromycin. Concurrent use of CYP3A4 inhibitors should be avoided, because pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+366,Pazopanib,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Pazopanib not interact with this metabolic pathway. ,(See Summary)
+367,Pazopanib,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+368,Pazopanib,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolized by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYPs 2C8 and 2C19. Terbinafine inhibits CYP2D6. Pazopanib is a weak inhibitor of CYP3A4 and 2C8 and may increase terbinafine concentrations, however since these are minor pathways, this is unlikely to be of clinical significance.",(See Summary)
+369,Pazopanib,Testosterone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase testosterone concentrations. However, since testosterone has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+370,Pazopanib,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration.,(See Summary)
+371,Pazopanib,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolized by CYP1A2. Pazopanib does not inhibit or induce CYP1A2.,(See Summary)
+372,Pazopanib,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+373,Pazopanib,Thioridazine,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and is contraindicated. Based on metabolism and clearance a clinically significant pharmacokinetic interaction is unlikely. Thioridazine is metabolized by CYP2D6 (and to a lesser extent by CYP3A4). Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase thioridazine concentrations. The clinical relevance of this interaction is unknown. However, the product labels for thioridazine contraindicate its use in the presence of other drugs that prolong the QT interval, such as pazopanib. ",(See Summary)
+374,Pazopanib,Tiapride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely as tiapride is excreted largely unchanged in urine. However, caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+375,Pazopanib,Ticagrelor,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Ticagrelor undergoes extensive CYP3A4 metabolism and is only a mild inhibitor of CYP3A4. Pazopanib concentrations may be slightly increased if co-administered with ticagrelor. Pazopanib is a weak inhibitor of CYP3A4 and may increase ticagrelor concentrations. The clinical relevance of these interactions is unknown and monitoring may be required.,(See Summary)
+376,Pazopanib,Timolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase timolol concentrations. However, the systemic absorption of timolol after ocular administration is low and a clinically relevant interaction via CYP2D6 is unlikely. ",(See Summary)
+377,Pazopanib,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Pazopanib does not interact with this elimination pathway.,(See Summary)
+378,Pazopanib,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolized by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Pazopanib is a weak inhibitor of CYP2C8 and may increase tolbutamide concentrations, however since CYP2C8 mediated metabolism is a minor pathway, this is unlikely to be of clinical significance.",(See Summary)
+379,Pazopanib,Tolterodine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Tolterodine is primarily metabolised by CYP2D6 with CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase tolterodine concentrations. The clinical relevance of this interaction is unknown. Multiple oral therapeutic (4 mg) and supratherapeutic (8 mg) doses of tolterodine have been shown to prolong the QTc interval. Pazopanib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+380,Pazopanib,Torasemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolized mainly by CYP2C9. Pazopanib does not inhibit or induce CYP2C9. ,(See Summary)
+381,Pazopanib,Tramadol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Tramadol is metabolized by CYPs 3A4, 2B6, and 2D6. Pazopanib does not inhibit or induce CYPs. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase tramadol concentrations. The clinical relevance of this interaction is unknown.  ",(See Summary)
+382,Pazopanib,Trandolapril,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Trandolapril is hydrolysed to trandolaprilat probably via CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may decrease biotransformation to the active substance. The clinical relevance of this interaction is unknown and monitoring of blood pressure may be required.,(See Summary)
+383,Pazopanib,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as tranexamic acid is mainly cleared by glomerular filtration. ,(See Summary)
+384,Pazopanib,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Pazopanib does not interact with this metabolic pathway. ,(See Summary)
+385,Pazopanib,Trazodone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Trazodone is primarily metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase trazodone concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. Caution is needed when pazopanib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of pazopanib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+386,Pazopanib,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase triamcinolone concentrations. However, since trimacinolone has a wide therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+387,Pazopanib,Triazolam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolized by CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase triazolam concentrations. However, since triazolam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+388,Pazopanib,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. In vitro data suggest that trimethoprim inhibits the renal transporters OCT2 and MATE1. No pharmacokinetic interaction is expected with pazopanib.,(See Summary)
+389,Pazopanib,Trimipramine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Trimipramine is metabolized mainly by CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and may increase trimipramine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+390,Pazopanib,Tropisetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Tropisetron is metabolized mainly by CYP2D6 and is a substrate of P-gp. Pazopanib is a weak inhibitor of CYP2D6 and may increase tropisetron concentrations. The clinical relevance of this interaction is unknown. Moreover, tropisetron may prolong the QT interval and pazopanib has been shown to prolong the QTc interval. Caution should be taken when using tropisetron with drugs that are known to prolong the QT interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+391,Pazopanib,Ulipristal,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolized by CYP3A4 and to a lesser extent CYP1A2 and CYP2D6. Pazopanib is a weak inhibitor of CYP3A4 and 2D6 and may increase ulipristal concentrations. However, since ulipristal does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+392,Pazopanib,Valproic acid (Valproate),"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Valproic acid is primarily metabolised by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolised by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Pazopanib is an inhibitor of UGT1A1 in vitro and may increase concentrations of valproic acid. The clinical relevance of this interaction is unknown. Care should be taken when pazopanib is coadministered with valproic acid.,(See Summary)
+393,Pazopanib,Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Pazopanib does not interact with this pathway.,(See Summary)
+394,Pazopanib,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as vancomycin is excreted unchanged via glomerular filtration.,(See Summary)
+395,Pazopanib,Venlafaxine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Venlafaxine is mainly metabolized by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Pazopanib is a weak inhibitor of CYP2D6 and may increase venlafaxine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+396,Pazopanib,Verapamil,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Verapamil is metabolized mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Pazopanib is a weak inhibitor of CYP3A4 and CYP2D6 and may increase verapamil concentrations. The clinical relevance of this interaction is unknown. Verapamil is a moderate inhibitor of CYP3A4 and therefore could potentially increase pazopanib exposure. Concurrent use of CYP3A4 inhibitors should be avoided, because pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available.",(See Summary)
+397,Pazopanib,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non CYP mediated hydrolysis and is a substrate for P-gp. Pazopanib does not interact with this pathway.,(See Summary)
+398,Pazopanib,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+399,Pazopanib,Voriconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and is not recommended as pazopanib concentrations may increase due to inhibition of CYP3A4 by voriconazole. Concurrent use of CYP3A4 inhibitors should be avoided, because pazopanib is relatively toxic. If coadministration is clinically necessary, the product labels for pazopanib recommend a dose reduction to 400 mg per day, based on careful monitoring of tolerability. Further dose reductions may be needed if adverse effects occur during therapy. Monitoring of pazopanib plasma concentrations should be considered, if available. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+400,Pazopanib,Warfarin,"
+No Interaction Expected
+","
+Moderate
+","Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and 3A4. S-warfarin (more potent) is metabolised by CYP2C9. Pazopanib is a weak inhibitor of CYP3A4. However, coadministration had no significant effect on the exposure of S-warfarin (AUC decreased by 7%). ",(See Summary)
+401,Pazopanib,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). ",(See Summary)
+402,Pazopanib,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolized by aldehyde oxidase and to a lesser extent CYP3A4. Pazopanib is a weak inhibitor of CYP3A4 and may increase zaleplon concentrations However, since midazolam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+403,Pazopanib,Ziprasidone,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and is contraindicated. Based on metabolism and clearance a pharmacokinetic interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). Pazopanib is a weak inhibitor of CYP3A4 and may increase ziprasidone concentrations, however since CYP3A4 medicated metabolism is a minor pathway this is unlikely to be of clinical significance. However, the product labels for ziprasidone contraindicate its use in the presence of other drugs that prolong the QT interval, such as pazopanib. ",(See Summary)
+404,Pazopanib,Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as zoledronic acid is not metabolized and is cleared as unchanged drug via urine.,(See Summary)
+405,Pazopanib,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolized mainly by CYP3A4 and to a lesser extent by CYP2C9 and CYP1A2. Pazopanib is a weak inhibitor of CYP3A4 and may increase zolpidem concentrations. However, since midazolam does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+406,Pazopanib,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolized mainly by CYP3A4 and to a lesser extent by CYP2C8. Pazopanib is a weak inhibitor of CYP3A4 and CYP2C8 and may increase zopiclone concentrations. However, since zopiclone does not have a narrow therapeutic index, this is unlikely to be of clinical significance.",(See Summary)
+407,Pazopanib,Zotepine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Zotepine is mainly metabolized by CYP3A4 and to a lesser extent CYP1A2 and CYP2D6. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase zotepine concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+408,Pazopanib,Zuclopenthixol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Zuclopenthixol is metabolized by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Pazopanib is a weak inhibitor of CYP2D6 and CYP3A4 and may increase zuclopenthixol concentrations. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)

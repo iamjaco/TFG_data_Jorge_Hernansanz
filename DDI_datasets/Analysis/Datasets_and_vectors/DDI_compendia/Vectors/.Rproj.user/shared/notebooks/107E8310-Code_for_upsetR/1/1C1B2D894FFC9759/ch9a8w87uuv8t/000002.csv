@@ -1,0 +1,2 @@
+"0","Drugbank <- readLines(""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Vectors/Vector_of_DB_DDI.txt"")"
+"0","Drugbank <- unique(Drugbank)"

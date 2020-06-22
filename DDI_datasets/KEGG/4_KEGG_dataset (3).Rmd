@@ -1,0 +1,75 @@
+---
+title: "Generating files"
+author: "Jorge H."
+date: "2/6/2020"
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, '4_KEGG_dataset (3).html')) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+```{r}
+library(readr)
+library(tidyverse)
+```
+
+
+Importing the dataset
+```{r}
+KEGG_DDI <- read_csv("DDIs/KEEG_DDI.txt")
+
+KEGG_cli_DDI <- read_csv("DDIs/KEEG_cli_DDI.txt")
+```
+
+
+
+# Files for Compendia
+```{r}
+# Whole dataset
+write_csv(KEGG_DDI,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/DDI_compendia_data/Drugbank_DDI_compendia.txt")
+
+
+# ATC vector
+write_csv(unique(KEGG_DDI[,"ATC_vector"]),
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/ATC_KEGG.txt", 
+          col_names = FALSE)
+
+
+# Feature mechanism of action
+write_csv(unique(KEGG_DDI[,c(1,2,7,8,9,10)]),
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Mechanism_of_action/KEGG_M.A_DDI.txt", 
+          col_names = FALSE)
+
+aa <- Compendia_mechanism[duplicated(Compendia_mechanism$ATC_vector),]
+                        #There are 2170 DDIs that have more than one row for M.A
+
+
+# Feature Management options
+write_csv(unique(KEGG_DDI[,c(1,2,5,8,9,10)]),
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Management/KEGG_management_DDI.txt", 
+          col_names = FALSE)
+
+```
+
+
+# Files for Clinical data
+```{r}
+# Whole dataset
+write_csv(KEGG_cli_DDI,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_clinical_data/DDI_dataset/KEGG_DDI.txt")
+
+# ATC_vector
+write_csv(unique(KEGG_cli_DDI[,"ATC_vector"]),
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_clinical_data/DDI_atc_vector/KEGG_vector.txt", col_names = FALSE)
+
+
+
+
+```

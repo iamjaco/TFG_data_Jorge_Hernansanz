@@ -1,0 +1,7 @@
+"0","# Clinical data
+write_csv(DDI_mapped_subset,
+          ""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_dataset/ONC-NI_DDI.txt"")
+"
+"2","Fejl i write_csv(DDI_mapped_subset, ""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_dataset/ONC-NI_DDI.txt"") : 
+  could not find function ""write_csv""
+"

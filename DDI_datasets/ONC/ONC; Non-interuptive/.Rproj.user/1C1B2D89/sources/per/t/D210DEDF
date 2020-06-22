@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589777548432.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4193085295",
+    "id" : "D210DEDF",
+    "lastKnownWriteTime" : 1589787833,
+    "last_content_update" : 1589787833205,
+    "path" : "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ONC/ONC; Non-interuptive/ONC_Non_interruptive_DDIs.Rmd",
+    "project_path" : "ONC_Non_interruptive_DDIs.Rmd",
+    "properties" : {
+        "cursorPosition" : "133,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "118"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

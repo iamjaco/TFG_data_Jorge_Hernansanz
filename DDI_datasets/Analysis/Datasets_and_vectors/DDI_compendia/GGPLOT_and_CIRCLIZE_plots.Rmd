@@ -1,0 +1,263 @@
+---
+title: "Representation between sources"
+author: "Jorge H."
+date: "10/4/2020"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(ggplot2)
+
+All_drugs_index <- read.csv("Indexes/2_Index_all_drugs_ATC.txt")  
+# Already at the github folder ATC_treatment in DDI_datasets.
+
+
+###########################################################################
+#Evaluating  percentages of the different 1ºlevel of ATC code at each dataset
+
+ggplot(All_drugs_index, aes(Dataset_source, fill = ATC_Level_1))+
+  geom_bar(position = 'fill')+
+  scale_fill_manual(values = c("#EF5F54","#FA9D98" , "#FCD6D3", "#5C5D5F",
+                               "#929294", "#BBBABF", "#52A152", "#9EC599", 
+                               "#DDF7D2", "#77B1D7", "#CCDEF4", "#F2E439", 
+                               "#FDF19D", "#FCF8D2")) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1), 
+        legend.position = "none",
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank(),
+        panel.background = element_blank()) +
+  ylab("% of total drugs")
+
+
+  ###########################################################################
+#Evaluating the percentages of the different databases into each 1ºlevel ATC code.
+ggplot(`2_Index_all_drugs_ATC`, aes(ATC_Level_1, fill = Dataset_source))+
+  geom_bar(position = 'fill')+
+  theme(legend.title = element_text(size = 8),
+        legend.text = element_text(element_blank()),
+        panel.grid.major = element_blank(),   
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank(), 
+        axis.line = element_line(colour = "white")) +
+  theme(legend.title = element_blank()) + 
+  scale_fill_manual(values = c("Corpus_2011"="#A6CEE3",
+                              "Corpus_2013"="#1F78B4",
+                              "CredibleMeds"="#B2DF8A",
+                              "DanishDB"="#33A02C",
+                              "Drugbank"="#FB9A99",
+                              "KEGG"="#E31A1C",
+                              "NLM_corpus"="#FDBF6F",
+                              "ONC_HIGH"="#FF7F00",
+                              "ONC_NI"="#CAB2D6",
+                              "PK_corpus"="#6A3D9A",
+                              "Twosides"="#FFFF99")) +
+  ylab("") +
+  xlab("")
+```
+
+
+Creating a small subset so to work faster
+```{r}
+DDI_index <- read.csv("Indexes/3_DDI_index.txt")
+#DDI_index_Subset <- DDI_index[1:50,]
+DDI_index_Subset <- DDI_index
+DDI_index_Subset$ATC1_level_1 <- substring(DDI_index_Subset$ATC1,1,1)
+DDI_index_Subset$ATC2_level_1 <- substring(DDI_index_Subset$ATC2,1,1)
+
+```
+
+
+```{r}
+# Library
+library(circlize)
+library(gridExtra)
+library(magick)
+library(ggplot2)
+
+image_read_pdf("Circle_plots/CANCER.pdf")
+
+#setwd("~/Documents/GitHub/Jorge-bachelor-thesis/DDI_datasets/ATC_treatment_1/")
+
+DDI_index <- read.csv("Indexes/3_DDI_index.txt")
+#DDI_index_Subset <- DDI_index[1:50,]
+
+# SETTING COLORS
+grid.col <- c("A"="#EF5F54",
+              "B"="#FA9D98",
+              "C"="#FCD6D3",
+              "D"="#5C5D5F",
+              "G"="#929294",
+              "H"="#BBBABF",
+              "J"="#52A152",
+              "L"="#9EC599",
+              "M"="#DDF7D2",
+              "N"="#77B1D7",
+              "P"="#CCDEF4",
+              "R"="#F2E439",
+              "S"="#FDF19D",
+              "V"="#FCF8D2")
+
+# line.col <- c("Corpus_2011"="#A6CEE3",
+#               "Corpus_2013"="#1F78B4",
+#               "CredibleMeds"="#B2DF8A",
+#               "DanishDB"="#33A02C",
+#               "Drugbank"="#FB9A99",                 This chunck aims to give specific color to each circle
+#               "KEGG"="#E31A1C",
+#               "NLM_corpus"="#FDBF6F",
+#               "ONC_HIGH"="#FF7F00",
+#               "ONC_NI"="#CAB2D6",
+#               "PK_corpus"="#6A3D9A",
+#               "Twosides"="#FFFF99")
+
+
+line.col <- c("Corpus 2011",
+              "Corpus 2013",
+              "CredibleMeds",
+              "DanishDB",
+              "Drugbank",
+              "KEGG",
+              "NLM corpus",
+              "ONC HIGH",
+              "ONC NI",
+              "PK corpus",
+              "Twosides",
+              "NDFRT",
+              "HIV",
+              "HEP",
+              "CANCER")
+
+
+
+# ATC level 1
+DDI_index$ATC1_level_1 <- substring(DDI_index$ATC1, 1, 1)
+DDI_index$ATC2_level_1 <- substring(DDI_index$ATC2, 1, 1)
+
+
+
+
+layout(matrix(1:15,3,5))
+position <- 0
+
+pdf("multiplot.pdf")
+for (i in line.col) {
+  
+  position <- position + 1
+  DDI_index_source <- DDI_index[DDI_index$Dataset_source == i,]
+  # DDI_index_Subset <- DDI_index_Subset[which((DDI_index_Subset$ATC1_level_1 == "A" |
+  #                                             DDI_index_Subset$ATC1_level_1 == "B" |
+  #                                             DDI_index_Subset$ATC1_level_1 == "C") 
+  #                                             &                                             # This chunck commented just goes for DDIs of level A,B, or C 
+  #                                            (DDI_index_Subset$ATC2_level_1 == "A" |
+  #                                             DDI_index_Subset$ATC2_level_1 == "B" |
+  #                                             DDI_index_Subset$ATC2_level_1 == "C")
+  #                                           )
+  #                                        ,]
+  
+  
+  # A connection data frame is a list of flows with intensity for each flow
+  links <- data.frame(
+    source=c(DDI_index_source$ATC1_level_1), 
+    target=c(DDI_index_source$ATC2_level_1))
+  
+  adjacencyData <- with(links, table(source, target))
+  
+  # CIRCULAR NETWORK
+  chordDiagram(adjacencyData, 
+         transparency = 0.15, 
+         grid.col = grid.col,
+         scale = FALSE,
+         #col = line.col[i],
+         col = "#B4B4AB",
+         annotationTrack = c("name", "grid"),
+         title(main = i))
+  circos.clear()
+ 
+  #pdf(paste0("Circle_plots/",i,".pdf"))
+  #dev.off()
+}
+dev.off()
+Multiplot <- marrangeGrob(list_of_plots, nrow = 3, ncol = 5)
+
+```
+
+
+```{r}
+pdf("multiplot.pdf")
+layout(matrix(1:15,3,5))
+position <- 0
+
+
+for (i in line.col[1:15]) {
+  
+  position <- position + 1
+  DDI_index_source <- DDI_index[DDI_index$Dataset_source == i,]
+  # DDI_index_Subset <- DDI_index_Subset[which((DDI_index_Subset$ATC1_level_1 == "A" |
+  #                                             DDI_index_Subset$ATC1_level_1 == "B" |
+  #                                             DDI_index_Subset$ATC1_level_1 == "C") 
+  #                                             &                                             # This chunck commented just goes for DDIs of level A,B, or C 
+  #                                            (DDI_index_Subset$ATC2_level_1 == "A" |
+  #                                             DDI_index_Subset$ATC2_level_1 == "B" |
+  #                                             DDI_index_Subset$ATC2_level_1 == "C")
+  #                                           )
+  #                                        ,]
+  
+  
+  # A connection data frame is a list of flows with intensity for each flow
+  links <- data.frame(
+    source=c(DDI_index_source$ATC1_level_1), 
+    target=c(DDI_index_source$ATC2_level_1))
+  
+  adjacencyData <- with(links, table(source, target))
+  
+  # CIRCULAR NETWORK
+  chordDiagram(adjacencyData,
+         transparency = 0.15, 
+         grid.col = grid.col,
+         scale = FALSE,
+         #col = line.col[i],
+         col = "#B4B4AB",
+         annotationTrack = "grid",
+         title(main = i, cex = 0.4))
+  circos.trackPlotRegion(track.index = 1, panel.fun = function(x, y) {
+  xlim = get.cell.meta.data("xlim")
+  ylim = get.cell.meta.data("ylim")
+  sector.name = get.cell.meta.data("sector.index")
+  circos.text(mean(xlim), ylim[1] + 1.1 , sector.name, facing = "clockwise",cex = 0.5, niceFacing = TRUE, adj =c(0,0.5), col = "black")
+}, bg.border = NA)
+  #circos.clear()
+ 
+}
+dev.off()
+```
+
+```{r}
+library(circlize)
+set.seed(999)
+mat = matrix(sample(18, 18), 3, 6)
+rownames(mat) = paste0("Start", 1:3)
+colnames(mat) = paste0("End", 1:6)
+
+
+# original image
+chordDiagram(mat, grid.col = grid.col) 
+
+# now, the image with rotated labels
+chordDiagram(mat, annotationTrack = "grid", preAllocateTracks = 1, grid.col = grid.col)
+circos.trackPlotRegion(track.index = 1, panel.fun = function(x, y) {
+  xlim = get.cell.meta.data("xlim")
+  ylim = get.cell.meta.data("ylim")
+  sector.name = get.cell.meta.data("sector.index")
+  circos.text(mean(xlim), ylim[1] + .1, sector.name, facing = "clockwise", niceFacing = TRUE, adj = c(0, 0.5))
+  circos.axis(h = "top", labels.cex = 0.5, major.tick.percentage = 0.2, sector.index = sector.name, track.index = 2)
+}, bg.border = NA)
+
+
+
+```
+

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589787806136.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "95616B4F",
+    "lastKnownWriteTime" : 1879475060416,
+    "last_content_update" : 1589787806136,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2E580360",
+        "caption" : "DDI_mapped_subset",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=DDI_mapped_subset&cache_key=2E580360",
+        "displayedObservations" : 453,
+        "environment" : "",
+        "expression" : "DDI_mapped_subset",
+        "object" : "DDI_mapped_subset",
+        "preview" : 0,
+        "totalObservations" : 453,
+        "variables" : 10
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

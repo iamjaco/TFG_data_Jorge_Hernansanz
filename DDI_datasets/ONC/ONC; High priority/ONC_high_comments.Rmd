@@ -1,0 +1,24 @@
+---
+title: "ONC_High arguments"
+author: "Jorge H."
+date: "19/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Clinical significance
+"We identified a minimum starter set of DDIs which should be classified in all medication KBs as high severity and implemented for decision support in all EHRs."
+
+### Management
+"This set of DDIs forms a clinically important set of contraindicated drug pairs that
+providers should always be alerted for."
+
+### Evidence level
++ "We observed that most of the available literature was in the form of documented case reports or clinical studies with drugs belonging to other closely related drug families, or package inserts."
++ "The information contained in these package inserts is often incorrect or too conservative for use to assign DDIs in a KB. Moreover, these interactions are not updated regularly to reflect current knowledge. "
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3422823/

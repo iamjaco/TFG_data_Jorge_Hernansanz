@@ -1,0 +1,8 @@
+"0","# Saving all DDIs with the feature clinical significance
+write_csv(DDI_mapped_subset[,c(1,2,7,10,11)],
+          ""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Clinical_significance/ONC-high_clinical_significance_DDI.txt"",
+          col_names = FALSE)
+"
+"2","Fejl i write_csv(DDI_mapped_subset[, c(1, 2, 7, 10, 11)], ""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Clinical_significance/ONC-high_clinical_significance_DDI.txt"",  : 
+  could not find function ""write_csv""
+"

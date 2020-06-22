@@ -1,0 +1,4 @@
+"0","Drugbank <- readLines(""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/ATC_Drugbank.txt"")"
+"2","kan ikke åbne fil 'C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/ATC_Drugbank.txt': No such file or directory"
+"2","Fejl i file(con, ""r"") : kan ikke Ã¥bne forbindelsen
+"

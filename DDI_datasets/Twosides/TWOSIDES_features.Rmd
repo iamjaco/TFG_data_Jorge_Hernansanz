@@ -1,0 +1,190 @@
+---
+title: "Twosides_features"
+author: "Jorge H."
+date: "14/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+library(dplyr)
+```
+
+
+
+Splitting files of TWOSIDES.csv (Do if necesity to update twosides database)
+```{r}
+TWOSIDES_to_split <- read_csv("Data/TWOSIDES.csv")
+
+
+#CREATING MINI-DATASETS SO AS TO OPERATE EASILY
+index <- sprintf("%d",1:10)
+index_twosides_start <- 1
+index_twosides_end <- 4292039   # Check that it matches
+for (i in index){
+  write_csv(TWOSIDES_to_split[index_twosides_start:index_twosides_end,],sprintf("Data/TWOSIDES_split/Twosides%s",i))
+  index_twosides_start <- index_twosides_end
+  index_twosides_end <- index_twosides_end + 4292039
+}
+Twosides10[4292041,] = TWOSIDES_to_split[42920391,]
+  #Fixing last row missing
+```
+
+
+
+Merging the splitted_files
+```{r}
+Twosides_files <- list.files("Data/TWOSIDES_split/", full.names = T)
+Twosides_files <- Twosides_files[grepl("*.txt", Twosides_files)]
+
+TWOSIDES <- data.frame(drug_1_rxnorn_id = as.integer(),
+                       drug_1_concept_name = as.character(),
+                       drug_2_rxnorn_id = as.integer(),
+                       drug_2_concept_name = as.character(),
+                       A = as.integer(),
+                       B = as.integer(),
+                       C = as.integer(),
+                       D = as.integer(),
+                       PRR = as.numeric(),
+                       PRR_error = as.numeric(),
+                       mean_reporting_frequency = as.numeric(),
+                       stringsAsFactors = FALSE)
+
+for (i in Twosides_files){
+  file = read_csv(i)
+  file <- file[,c(1,3,5,11)] # It will work like that with a 8 GB RAM. Adding more may make R to crush.
+  TWOSIDES <- rbind(TWOSIDES,file) #There may a error due to RAM requirements. Even with this subset files!
+}
+```
+
+# TWOSIDES
+
+We check
+  + Number of different drugs.
+  + Number of different diseases.
+  + Number of different DDIs
+  
+```{r}
+Unique_drugs1 <- unique(TWOSIDES$drug_1_rxnorn_id)
+  # We have 1716 drugs
+
+Unique_drugs2 <- unique(TWOSIDES$drug_2_rxnorm_id)
+  # We have 1842 drugs
+
+Total_unique_drugs <- c(Unique_drugs1,Unique_drugs2)
+Total_unique_drugs <- unique(Total_unique_drugs)
+  # We have 1917 drugs (Good_one)
+
+
+
+Frequent_diseases <- as.data.frame(table(TWOSIDES$condition_concept_name))
+Frequent_diseases <- Frequent_diseases[order(-Frequent_diseases$Freq),]
+  # We observe 12726 diseases.
+  # Checks most frequent diseases.
+
+
+
+#Counting DDIs
+Twosides_DDI <- TWOSIDES[,c("drug_1_rxnorn_id","drug_2_rxnorn_id")]
+
+Twosides_DDI <- Twosides[!duplicated(Twosides_DDI[,c("drug_1_rxnorn_id","drug_2_rxnorn_id")]),]
+```
+
+
+A contingency table can be drawn using exposed and unexposed cohorts produced by propensity score matching.
+
+                      Had outcome	  Didn't have outcome
+Drug exposed	             A	             B
+Not drug exposed	         C	             D
+
+A	-> Number of reports prescribed the drug that had the condition
+
+B	-> integer	Number of reports prescribed the drug that did not have the condition
+
+C	-> integer	Number of reports not prescribed the drug† that had the condition
+
+D	-> integer	Number of reports not prescribed the drug† that did not have the condition
+
+
+## ATC mapping
++ From RXnorm to CUI
+```{r}
+RXNORM_to_CUI <- read_csv("Identifiers/RXNORM_to_cui")
+
+colnames(RXNORM_to_cui)[1] <- "Class_id"
+RXNORM_to_cui$`Class ID` <- gsub("http://purl.bioontology.org/ontology/RXNORM/","",RXNORM_to_cui$`Class ID`)
+
+DDI_mapped <- merge(Twosides_DDI,RXNORM_to_CUI,by.x="X1",by.y = "Class_id")
+
+DDI_mapped <- merge(DDI_mapped,RXNORM_to_CUI, by.x="X2",by.y = "Class_id")
+
+DDI_mapped <- DDI_mapped[,c("CUI.x","CUI.y")]
+#We loose 288 interactions
+```
+
+
++ From CUI to ATC
+```{r}
+ATC <- read_csv("Identifiers/CUI_to_ATC.csv")
+
+colnames(ATC)[1] <- "Class_Id"
+ATC$Class_Id <- gsub("http://purl.bioontology.org/ontology/UATC/","",ATC$Class_Id)
+
+DDI_mapped <- merge(DDI_mapped,ATC,by.x="CUI.x",by.y = "CUI")
+
+DDI_mapped <- merge(DDI_mapped,ATC,by.x="CUI.y",by.y = "CUI")
+```
+
++ Writting DDIs
+```{r}
+DDI_mapped <- DDI_mapped[,c("Class_Id.x","Class_Id.y")]
+
+write.table(DDI_mapped,"C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Filtered_datasets/Twosides_to_ATC.txt",sep = "\t",row.names = FALSE, col.names = FALSE)
+```
+
+## Transforming data
+
+```{r}
+#Selecting diseases that have a PRR value higher than 1
+TWOSIDES <- TWOSIDES %>% filter(PRR > 1)
+
+TWOSIDES_agreg_for <- aggregate(condition_meddra_id~drug_1_rxnorn_id+drug_2_rxnorm_id, data = TWOSIDES, paste, collapse = ',')
+
+
+#From Rxnorm to CUI
+TWOSIDES_agreg_for1 <- merge(TWOSIDES_agreg_for,RXNORM_to_cui[,c(1,6)], by.x="drug_1_rxnorn_id",by.y = "Class_id")
+
+TWOSIDES_agreg_for1 <- merge(TWOSIDES_agreg_for1,RXNORM_to_cui[,c(1,6)], by.x="drug_2_rxnorm_id",by.y = "Class_id")
+
+TWOSIDES_agreg_for <- TWOSIDES_agreg_for1[,c("CUI.x","CUI.y","condition_meddra_id")]
+
+#From CUI to ATC
+TWOSIDES_agreg_for2 <- merge(TWOSIDES_agreg_for,ATC[,c(1,6)],by.x="CUI.x",by.y = "CUI")
+
+TWOSIDES_agreg_for2 <- merge(TWOSIDES_agreg_for2,ATC[,c(1,6)],by.x="CUI.y",by.y = "CUI")
+
+TWOSIDES_agreg_for <- TWOSIDES_agreg_for2[,c(4,5,3)]
+
+#Subsetting to the clinical data drugs
+TWOSIDES_agreg_for <- TWOSIDES_agreg_for[TWOSIDES_agreg_for$Class_Id.x %in% subset_drugs_clinical_data$PRIM_ATC & TWOSIDES_agreg_for$Class_Id.y %in% subset_drugs_clinical_data$PRIM_ATC,]
+
+write_csv(TWOSIDES_agreg_for, "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Side_effects/DDI_twosides_side_effect.txt")
+```
+
+
+
+
+
+
+# OFFSIDES; side-effect of each drug
+```{r}
+UNICOS <- duplicated(OFFSIDES$drug_rxnorn_id)
+
+# There are 2730 drugs with side-effects
+
+# There are in total 3,206,558 side effects.
+```

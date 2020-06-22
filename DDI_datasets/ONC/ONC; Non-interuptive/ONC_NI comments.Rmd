@@ -1,0 +1,23 @@
+---
+title: "ONC_NI arguments"
+author: "Jorge H."
+date: "19/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Evidence level
++ "In addition, panelists were asked to evaluate any exceptions to memberships of drug classes based on
+ literature evidence. A consensus meeting was held by conference call to discuss panelists’ ratings on 
+ the interaction."
+ 
++ "These ratings were analyzed for consensus; those interactions that did not have a clear vote were re-rated
+ by the panelists by providing them with additional literature evidence and comments from other panelists to
+ help ascertain their decision. The final ratings helped determine the set of low-priority interactions that 
+ can be safely generated as non-interruptive alerts in EHR. "
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3628052/

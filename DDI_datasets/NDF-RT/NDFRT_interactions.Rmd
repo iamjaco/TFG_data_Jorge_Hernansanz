@@ -1,0 +1,143 @@
+---
+title: "Treating NDF-RT DDIs"
+author: "Jorge H."
+date: "13/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+ 
+Still needed to be better documented. Nevertheless, all data used here can be found in NDFRT folders of GitHub.
+
+```{r}
+library(readr)
+library(stringr)
+library(dplyr)
+```
+
+
+Creating a list for the python script *NDFRT_TO_CUI*
+```{r}
+NDFRT_DDI <- read_delim("Principal_data/NDFRT_DDI", 
+    "\t", escape_double = FALSE, col_names = FALSE, 
+    trim_ws = TRUE)
+
+Drug_list <- unique(c(NDFRT_DDI$X2,NDFRT_DDI$X4))
+Drug_list <- as.data.frame(Drug_list)
+
+write_csv(Drug_list,"NDFRT_drug_list.txt")
+```
+
+
+
+After creating the index of *Mappings_NDFRT_CUI*, we tidy it to be merged with the ATCs
+```{r}
+Mappings_NDFRT_CUI <- read_csv("Principal_data/Mappings_NDFRT_CUI.csv")
+
+#Need to remove endlines so we can merge and match the names
+Mappings_NDFRT_CUI$NDFRT <- str_replace_all(Mappings_NDFRT_CUI$NDFRT,"\n","")
+Mappings_NDFRT_CUI$CUI <- str_replace_all(Mappings_NDFRT_CUI$CUI,"\n","")
+Mappings_NDFRT_CUI <- Mappings_NDFRT_CUI[,c(2,3)] #And remove a first column we don't need
+
+
+#A few identifiers need corrections. Identifiers that have changed and are not located at NDFRT
+Mappings_NDFRT_CUI[181,2] <- 'C0009262'   #N0000145804    From Bioportal RXnorm
+Mappings_NDFRT_CUI[120,2] <- 'C0025042'   #N0000147341    From Bioportal RXnorm
+Mappings_NDFRT_CUI[499,2] <- 'C1964367'   #N0000145829    From NCImethasaurus
+Mappings_NDFRT_CUI[652,2] <- 'C0937858'   #N0000148738    From NCImethasaurus
+Mappings_NDFRT_CUI[822,2] <- 'C0772463'   #N0000148594    From Bioportal NDDF
+Mappings_NDFRT_CUI[1034,2] <- 'C0872972'  #N0000148617    From NCImethasaurus
+
+#Troleandomycin and oleandomycin present the same CUI. N0000023111 and 	N0000146829
+#Tetanus toxoid and Tetanus toxoid adsorbed present the same CUI. N0000146120 and N0000146118
+
+```
+
+Merging with ATC codes
+```{r}
+CUI_to_ATC <- read_csv("Principal_data/CUI_to_ATC.csv")
+
+CUI_to_ATC$Class_ID <- gsub('http://purl.bioontology.org/ontology/UATC/','',CUI_to_ATC$Class_ID)
+
+Mappings_NDFRT_CUI_ATC <- merge(Mappings_NDFRT_CUI,CUI_to_ATC[,c(1,6)], by = 'CUI')
+colnames(Mappings_NDFRT_CUI_ATC)[3] <- 'ATC'
+
+
+```
+
+# Once we have our index, we merge with the DDI database
+
+Importing our data for identifiers and filtering
+
+```{r}
+clinicaldrugpairs_counts <- read_delim("Principal_data/clinicaldrugpairs_counts.tsv", 
+                                       "\t", 
+                                       escape_double = FALSE, 
+                                       trim_ws = TRUE)
+```
+
+
+
+```{r}
+DDI_dataframe <- NDFRT_DDI
+
+DDI_dataframe <- merge(DDI_dataframe,Mappings_NDFRT_CUI_ATC[,c(2,3)], by.x = 'V2', by.y = 'NDFRT')
+DDI_dataframe <- merge(DDI_dataframe,Mappings_NDFRT_CUI_ATC[,c(2,3)], by.x = 'V4', by.y = 'NDFRT')
+
+
+
+# Doing ATC duplicates for clinical data
+Table1 <- DDI_dataframe[,c(7,6,2,1,3,4,5)]
+Table2 <- DDI_dataframe[,c(6,7,2,1,3,4,5)]
+colnames(Table1) <- c("drug", "codrug", "NDFRT1", "NDFRT2", "Drug1", "Drug2", "Clinical_significant")
+colnames(Table2) <- c("drug", "codrug", "NDFRT1", "NDFRT2", "Drug1", "Drug2", "Clinical_significant")
+
+DDI_dataframe <- rbind(Table1,Table2)
+
+# Adding level 1 ATC
+DDI_dataframe$level_1_atc_drug <- substr(DDI_dataframe$drug,1,1)
+DDI_dataframe$level_1_atc_codrug <- substr(DDI_dataframe$codrug,1,1)
+
+# Adding the pair of ATC joined
+DDI_dataframe$ATC_vector <-paste(
+  DDI_dataframe$drug,
+  DDI_dataframe$codrug, 
+  sep = "_")
+
+# Filtering to clinical data
+DDI_dataframe <- merge(
+  DDI_dataframe,
+  clinicaldrugpairs_counts[,1:2],
+  by = c("drug", "codrug")
+  )
+DDI_dataframe <- unique(DDI_dataframe)
+```
+
+
+Saving table with all information for compendia and clinical data
+```{r}
+# Clinical data
+write_csv(DDI_dataframe,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_dataset/NDFRT_DDI")
+```
+
+Saving ATC vector for clinical data
+```{r}
+# Clinical data
+filese <- file("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_atc_vector/NDFRT_vector.txt")
+writeLines(c(unique(DDI_dataframe$ATC_vector)), filese)
+close(filese)
+```
+
+
+Fo the part of analysis for clinical significance level
+```{r}
+DDI_dataframe_SL <- DDI_dataframe[,c(1,2,7,8,9)]
+
+write_csv(DDI_dataframe_SL,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Clinical_significance/NDFRT_clinical_significance_DDI.txt",
+          col_names = FALSE)
+```
+

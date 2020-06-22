@@ -1,0 +1,250 @@
+---
+title: "UpsetR"
+author: "Jorge H."
+date: "24/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Drugbank
+```{r}
+Drugbank <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/ATC_Drugbank.txt")
+Drugbank <- unique(Drugbank)
+```
+
+# KEGG 
+```{r}
+KEGG <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/ATC_KEGG.txt")
+KEGG <- unique(KEGG)
+```
+
+# TWOSIDES
+```{r}
+Twosides <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_Twosides_DDI.txt")
+Twosides <- unique(Twosides)
+```
+
+# ONC_HIGH
+```{r}
+ONC_HIGH <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_ONC_HIGH_DDI.txt")
+ONC_HIGH <- unique(ONC_HIGH)
+```
+
+# ONC_NON_INTERRUMPTIVE
+```{r}
+ONC_NI <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_ONC_NI_DDI.txt")
+ONC_NI <- unique(ONC_NI)
+```
+
+# CREDIBLEMEDS
+```{r}
+Crediblemeds <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_ONC_NI_DDI.txt")
+Crediblemeds <- unique(Crediblemeds)
+```
+
+
+# DDI CORPUS 2011
+```{r}
+DDI_Corpus_2011 <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_Corpus_2011_DDI.txt")
+DDI_Corpus_2011 <- unique(DDI_Corpus_2011)
+
+```
+
+# DDI CORPUS 2013
+```{r}
+DDI_Corpus_2013 <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_Corpus_2013_DDI.txt")
+DDI_Corpus_2013 <- unique(DDI_Corpus_2013)
+```
+
+# PK corpus 
+```{r}
+PK_corpus <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_PK_corpus_DDI.txt")
+PK_corpus <- unique(PK_corpus)
+```
+
+# NLM corpus
+```{r}
+NLM_CV_corpus <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_NLM_corpus_DDI.txt")
+NLM_CV_corpus <- unique(NLM_CV_corpus)
+```
+
+# NDF-RT 
+```{r}
+NDFRT <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_NDFRT_DDI.txt")
+NDFRT <- unique(NDFRT)
+```
+
+# HIV INTERACTIONS
+```{r}
+HIV <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_HIV_DDI.txt")
+HIV <- unique(HIV)
+```
+
+# HEP INTERACTIONS
+```{r}
+HEP <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_HEP_DDI.txt")
+HEP <- unique(HEP)
+```
+
+# CANCER INTERACTIONS
+```{r}
+CANCER <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_CANCER_DDI.txt")
+CANCER <- unique(CANCER)
+```
+
+# Danish DB
+```{r}
+#Adding this chunck of code to "Code_for_upsetR.Rmd"
+Interaktion_databasen <- readLines("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/Vector_of_DanishDB_DDI.txt")
+Interaktion_databasen <- unique(Interaktion_databasen)
+```
+
+
+#UpsetR
+```{r}
+library(UpSetR)
+upsetR <- list(Drugbank = Drugbank, KEGG = KEGG, Twosides = Twosides, ONC_HIGH =ONC_HIGH, ONC_NI=ONC_NI, Crediblemeds = Crediblemeds, DDI_Corpus_2011 = DDI_Corpus_2011, DDI_Corpus_2013 = DDI_Corpus_2013, PK_corpus = PK_corpus, NLM_corpus = NLM_corpus, Interaktion_databasen = Interaktion_databasen, NDFRT = NDFRT, HIV = HIV, HEP = HEP, CANCER = CANCER)
+
+miniupsetR <- list(DDI_Corpus_2011 = DDI_Corpus_2011, DDI_Corpus_2013 = DDI_Corpus_2013, PK_corpus = PK_corpus, NLM_corpus = NLM_corpus, Interaktion_databasen = Interaktion_databasen, NDFRT = NDFRT)
+
+
+ups <- upset(fromList(upsetR[c("DDI_Corpus_2011","DDI_Corpus_2013","PK_corpus","NLM_corpus")]), order.by = "degree")
+ups
+
+ups2_HIGH <- upset(fromList(upsetR),
+             intersections = list(list("Drugbank","ONC_HIGH"),
+                                  list("KEGG","ONC_HIGH"),
+                                  list("Twosides","ONC_HIGH"),
+                                  list("Crediblemeds","ONC_HIGH"),
+                                  list("DDI_Corpus_2011","ONC_HIGH"),
+                                  list("DDI_Corpus_2013","ONC_HIGH"),
+                                  list("PK_corpus","ONC_HIGH"),
+                                  list("NLM_corpus","ONC_HIGH")))
+ups2_HIGH
+
+
+ups2_NI <- upset(fromList(upsetR),
+             intersections = list(list("Drugbank","ONC_NI"),
+                                  list("KEGG","ONC_NI"),
+                                  list("Twosides","ONC_NI"),
+                                  list("Crediblemeds","ONC_NI"),
+                                  list("DDI_Corpus_2011","ONC_NI"),
+                                  list("DDI_Corpus_2013","ONC_NI"),
+                                  list("PK_corpus","ONC_NI"),
+                                  list("NLM_corpus","ONC_NI")))
+ups2_NI
+
+
+
+
+ups_DB_KEGG_Twosides <- upset(fromList(upsetR[c("Drugbank","KEGG","Twosides")]), order.by = "degree")
+ups_DB_KEGG_Twosides
+
+
+ups_Drugbank <- upset(fromList(upsetR),
+             intersections = list(list("DDI_Corpus_2011","Drugbank"),
+                                  list("DDI_Corpus_2013","Drugbank"),
+                                  list("PK_corpus","Drugbank"),
+                                  list("NLM_corpus","Interaktion_databasen")))
+ups_Drugbank
+
+
+ups <- upset(fromList(upsetR),nsets = 20, nintersects = 25, order.by = "degree")
+ups
+```
+
+```{r}
+
+a <- upset(fromList(miniupsetR), nsets = 15, nintersects = NA,
+            scale.intersections = "log10",
+            scale.sets = "log10",
+            mainbar.y.label="Log10(Intersection of DDI)",
+            sets.x.label="log10(Number of DDIs)",
+            show.numbers = FALSE,
+            line.size = 0.1,
+            point.size = 0.1,
+            matrix.color = 'grey' )
+
+pdf(file = "patata.pdf", width = 4, height = 4)
+a
+while (!is.null(dev.list()))  dev.off()
+```
+
+```{r}
+
+upsetR <- list(Drugbank = Drugbank, KEGG = KEGG, Twosides = Twosides, ONC_HIGH =ONC_HIGH, ONC_NI=ONC_NI, Crediblemeds = Crediblemeds, DDI_Corpus_2011 = DDI_Corpus_2011, DDI_Corpus_2013 = DDI_Corpus_2013, PK_corpus = PK_corpus, NLM_corpus = NLM_corpus, Interaktion_databasen = Interaktion_databasen)
+
+pdf(file = "upsetR_Danish.pdf", width = 12, height = 8)
+upset(fromList(upsetR),
+            intersections = list(list("Drugbank","Interaktion_databasen"),
+              list("KEGG", "Interaktion_databasen"),
+              list("Twosides", "Interaktion_databasen"),
+              list("Crediblemeds", "Interaktion_databasen"),
+              list("ONC_HIGH", "Interaktion_databasen"),
+              list("ONC_NI", "Interaktion_databasen"),
+              list("DDI_Corpus_2011", "Interaktion_databasen"),
+              list("DDI_Corpus_2013", "Interaktion_databasen"),
+              list("PK_corpus", "Interaktion_databasen"),
+              list("NLM_corpus", "Interaktion_databasen")),
+            #scale.intersections = "log10",
+            #scale.sets = "log10",
+            mainbar.y.label="Intersection of DDI",
+            sets.x.label="Number of DDIs")
+
+dev.off()
+```
+For the danish
+```{r}
+upsetR_crediblemed <- list(Crediblemeds = Crediblemeds, Interaktion_databasen = Interaktion_databasen)
+
+upset(fromList(upsetR_crediblemed),
+            mainbar.y.label="Intersection of DDI",
+            sets.x.label="Number of DDIs")
+#80
+
+upsetR_2011 <- list(DDI_Corpus_2011 = DDI_Corpus_2011, Interaktion_databasen = Interaktion_databasen)
+
+upset(fromList(upsetR_2011),
+            mainbar.y.label="Intersection of DDI",
+            sets.x.label="Number of DDIs")
+#389
+
+upsetR_NLM <- list(NLM_corpus = NLM_corpus, Interaktion_databasen = Interaktion_databasen)
+
+upset(fromList(upsetR_NLM),
+            mainbar.y.label="Intersection of DDI",
+            sets.x.label="Number of DDIs")
+#268
+
+upsetR_PK <- list(PK_corpus = PK_corpus, Interaktion_databasen = Interaktion_databasen)
+
+upset(fromList(upsetR_PK),
+            mainbar.y.label="Intersection of DDI",
+            sets.x.label="Number of DDIs")
+#277
+
+upsetR_ONC_HIGH <- list(ONC_HIGH = ONC_HIGH, Interaktion_databasen = Interaktion_databasen)
+
+upset(fromList(upsetR_ONC_HIGH),
+            mainbar.y.label="Intersection of DDI",
+            sets.x.label="Number of DDIs")
+#155
+```
+
+Final plot for Danish
+```{r}
+upsetR <- list(Drugbank = Drugbank, KEGG = KEGG, Twosides = Twosides, ONC_NI=ONC_NI, Interaktion_databasen = Interaktion_databasen, DDI_Corpus_2013 =DDI_Corpus_2013)
+
+pdf(file = "upsetR_DAN.pdf", width = 12, height = 8)
+
+upset(fromList(upsetR), nsets = 15, nintersects = NA,
+            mainbar.y.label="Intersection of DDI",
+            sets.x.label="Number of DDIs",
+            text.scale = c(1,1,1,1,1,0.7))
+
+dev.off
+```
+

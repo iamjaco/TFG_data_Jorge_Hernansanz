@@ -1,0 +1,5 @@
+"0","library(XML)"
+"0",""
+"0","data <- xmlParse(""C:/Users/Jorge_TEMP/Desktop/Thesis Bibliography/NDF-RT/bioportal_sparql_results.xml"")"
+"2","Fejl: XML content does not seem to be XML: ''
+"

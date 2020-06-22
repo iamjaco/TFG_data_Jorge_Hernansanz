@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Doxorubicin (liposomal),Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. Doxorubicin does not interact with this metabolic pathway.",See Summary
+1,Doxorubicin (liposomal),Acenocoumarol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Acenocoumarol is mainly metabolised by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Doxorubicin does not inhibit or induce these CYPs.,See Summary
+2,Doxorubicin (liposomal),Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolised by glucuronidation (by several UGTs, major UGT1A6). Doxorubicin does not inhibit or induce UGTs.",See Summary
+3,Doxorubicin (liposomal),Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). Doxorubicin does not inhibit or induce CYPs 1A2, 2C9 or 2C19.",See Summary
+4,Doxorubicin (liposomal),Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alendronate is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. No pharmacokinetic interaction is expected.,See Summary
+5,Doxorubicin (liposomal),Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. Doxorubicin does not inhibit or induce CYP3A4. ,See Summary
+6,Doxorubicin (liposomal),Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolised by CYP3A. Doxorubicin does not inhibit or induce CYP3A.,See Summary
+7,Doxorubicin (liposomal),Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolised and is mainly excreted unchanged in faeces. Aliskiren is also a substrate of P-gp. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+8,Doxorubicin (liposomal),Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Doxorubicin does not interact with this metabolic pathway.,See Summary
+9,Doxorubicin (liposomal),Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. Doxorubicin does not inhibit or induce these CYPs.",See Summary
+10,Doxorubicin (liposomal),Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+11,Doxorubicin (liposomal),Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aluminium hydroxide is not metabolised. Doxorubicin is unlikely to interfere with this metabolic pathway.,See Summary
+12,Doxorubicin (liposomal),Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolized by glucuronidation via UGTs 1A3, 1A9 and 2B7 and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Doxorubicin does not inhibit or induce these UGTs, CYPs or P-gp.",See Summary
+13,Doxorubicin (liposomal),Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amikacin is eliminated by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+14,Doxorubicin (liposomal),Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+15,Doxorubicin (liposomal),Amiodarone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Amiodarone is metabolised by CYP3A4 and CYP2C8. Doxorubicin does not inhibit or induce CYP3A4 or CYP2C8. However, the major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Doxorubicin concentrations may increase due to CYP3A4 and CYP2D6 inhibition. The clinical relevance of this interaction is unknown. Coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered. Note: due to the long half-life of amiodarone, interactions can be observed for several months after discontinuation of amiodarone. ",See Summary
+16,Doxorubicin (liposomal),Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolised and is primarily renally eliminated (possibly via OCT). Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+17,Doxorubicin (liposomal),Amitriptyline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of amitriptyline. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for amitriptyline toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+18,Doxorubicin (liposomal),Amlodipine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amlodipine is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, doxorubicin cardiotoxicity is enhanced when coadministered with amlodipine. Therefore, coadministration should be approached with caution. Monitoring for symptoms of cardiotoxicity is recommended.",See Summary
+19,Doxorubicin (liposomal),Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+20,Doxorubicin (liposomal),Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Amphotericin B is not appreciably metabolised but is eliminated to a large extent in the bile. Doxorubicin does not interfere with this elimination pathway. However, the European SPC for amphotericin states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Monitoring may be required.",See Summary
+21,Doxorubicin (liposomal),Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20-40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60-80% is excreted in the urine within 6 hours. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+22,Doxorubicin (liposomal),Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. Doxorubicin does not interact with this metabolic pathway.,See Summary
+23,Doxorubicin (liposomal),Antacids,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Antacids are not metabolised by CYPs. Doxorubicin is unlikely to interfere with this metabolic pathway.,See Summary
+24,Doxorubicin (liposomal),Apixaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Apixaban is a substrate of P-gp and BCRP, and is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Doxorubicin does not inhibit or induce these CYPs, P-gp or BCRP.",See Summary
+25,Doxorubicin (liposomal),Aprepitant,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Aprepitant is mainly metabolized by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Doxorubicin does not inhibit or induce these CYPs. However, during treatment aprepitant is a moderate inhibitor of CYP3A4 and may increase doxorubicin concentrations. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with aprepitant. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered during the few days of coadministration. Monitor closely for doxorubicin toxicity. After treatment, aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Doxorubicin concentrations may decrease due to CYP3A4 induction, but this is not considered to be clinically relevant.",See Summary
+26,Doxorubicin (liposomal),Aripiprazole,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but care should be taken. Aripiprazole is metabolised by CYP3A4 and CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of aripiprazole. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for aripiprazole toxicity should be considered.,See Summary
+27,Doxorubicin (liposomal),Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 (minor) and 2D6 (minor)). Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of asenapine. However, since CYP2D6 is a minor pathway, no clinically relevant effect on asenapine exposure is expected.",See Summary
+28,Doxorubicin (liposomal),Astemizole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of astemizole. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for astemizole toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+29,Doxorubicin (liposomal),Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.",See Summary
+30,Doxorubicin (liposomal),Atorvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolised by CYP3A4 and is a substrate of P-gp and OATP1B1. Doxorubicin does not inhibit or induce CYP3A4, P-gp or OATP1B1.",See Summary
+31,Doxorubicin (liposomal),Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolised analogously to natural purines. Doxorubicin does not interact with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+32,Doxorubicin (liposomal),Azithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Azithromycin is mainly eliminated via biliary excretion; animal data suggest this may occur via P-gp and MRP2. Doxorubicin is unlikely to interact with this elimination pathway. Azithromycin is also an inhibitor of P-gp and may increase doxorubicin concentrations, but the clinical relevance of P-gp inhibition by azithromycin is unknown. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+33,Doxorubicin (liposomal),Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Doxorubicin does not interact with this metabolic pathway.",See Summary
+34,Doxorubicin (liposomal),Bedaquiline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Bedaquiline is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+35,Doxorubicin (liposomal),Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. In vitro data indicate that bendroflumethiazide inhibits these renal transporters but a clinically significant interaction is unlikely in the range of observed clinical concentrations. Doxorubicin is unlikely to interfere with pathway.,See Summary
+36,Doxorubicin (liposomal),Bepridil,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of bepridil. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for bepridil toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+37,Doxorubicin (liposomal),Betamethasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+38,Doxorubicin (liposomal),Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Half of a bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Doxorubicin is unlikely to interact with this pathway.,See Summary
+39,Doxorubicin (liposomal),Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. Doxorubicin does not interact with this metabolic or elimination pathway.,See Summary
+40,Doxorubicin (liposomal),Bisoprolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6, and partly eliminated unchanged in the urine. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of bisoprolol. As the clinical relevance of this interaction is unknown, monitoring for bisoprolol toxicity should be considered.",See Summary
+41,Doxorubicin (liposomal),Bosentan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Bosentan is a substrate of CYP3A4 and CYP2C9. Doxorubicin does not inhibit or induce CYP3A4 or CYP2C9. However, bosentan is a weak inducer of CYP3A4 and CYP2C9. Doxorubicin concentrations may decrease due to CYP3A4 induction. As the clinical relevance of this interaction is unknown, monitoring of doxorubicin efficacy should be considered.",See Summary
+42,Doxorubicin (liposomal),Bromazepam,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may also play a role. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of bromazepam. As the clinical relevance of this interaction is unknown, monitoring for bromazepam toxicity should be considered.",See Summary
+43,Doxorubicin (liposomal),Budesonide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+44,Doxorubicin (liposomal),Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Doxorubicin does not inhibit or induce CYP3A4 or UGTs.,See Summary
+45,Doxorubicin (liposomal),Bupropion,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Bupropion is primarily metabolised by CYP2B6. Doxorubicin does not inhibit or induce CYP2B6. However, bupropion is a strong inhibitor of CYP2D6 and may increase concentrations of doxorubicin. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for doxorubicin toxicity.",See Summary
+46,Doxorubicin (liposomal),Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+47,Doxorubicin (liposomal),Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. Doxorubicin is unlikely to interfere with these elimination pathways.",See Summary
+48,Doxorubicin (liposomal),Candesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+49,Doxorubicin (liposomal),Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Doxorubicin does not interfere with this elimination pathway.,See Summary
+50,Doxorubicin (liposomal),Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Doxorubicin does not inhibit or induce OATs.,See Summary
+51,Doxorubicin (liposomal),Carbamazepine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Carbamazepine is primarily metabolized by CYP3A4 and to a lesser extent by CYP2C8. Doxorubicin does not inhibit or induce CYP3A4 or CYP2C8. However, carbamazepine is an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong), 1A2 (weak), 2B6 and UGT1A1. Concentrations of doxorubicin may decrease due to induction of CYP3A4. It was found that plasma clearance of doxorubicin was increased by 50% after coadministration with barbiturates. A similar effect may occur after coadministration with carbamazepine. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor doxorubicin efficacy. Dose increments for doxorubicin may be necessary.",See Summary
+52,Doxorubicin (liposomal),Carvedilol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additional metabolism via CYP2D6 and to a lesser extent by CYPs 2C9 and 1A2. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of carvedilol. As the clinical relevance of this interaction is unknown, monitoring for carvedilol toxicity should be considered.",See Summary
+53,Doxorubicin (liposomal),Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non-CYP mediated pathway. Doxorubicin does not interact with this metabolic pathway.,See Summary
+54,Doxorubicin (liposomal),Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly renally eliminated unchanged by glomerular filtration and tubular secretion via OAT1 and MATE1. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+55,Doxorubicin (liposomal),Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Doxorubicin is unlikely to interfere with this elimination pathway.",See Summary
+56,Doxorubicin (liposomal),Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefixime is renally excreted predominantly by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+57,Doxorubicin (liposomal),Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolised by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Doxorubicin is unlikely to interfere with this elimination pathway.",See Summary
+58,Doxorubicin (liposomal),Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftazidime is excreted predominantly by renal glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+59,Doxorubicin (liposomal),Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Doxorubicin is unlikely to interfere with this elimination pathway.",See Summary
+60,Doxorubicin (liposomal),Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolised by CYP2C9. Doxorubicin does not inhibit or induce CYP2C9.,See Summary
+61,Doxorubicin (liposomal),Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion. In vitro data indicate that cetirizine is also an inhibitor of OCT2. Doxorubicin is unlikely to interact with this pathway.,See Summary
+62,Doxorubicin (liposomal),Chloramphenicol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Chloramphenicol is predominantly glucuronidated. Doxorubicin does not inhibit or induce UGTs. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Concentrations of doxorubicin may increase due to CYP3A4 and CYP2D6 inhibition. As the clinical relevance of this interaction is unknown, monitoring for doxorubicin toxicity should be considered. Ocular use: Although chloramphenicol is systemically absorbed when used topically in the eye, the absorbed concentrations are unlikely to cause a clinically significant interaction.",See Summary
+63,Doxorubicin (liposomal),Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce cytochromes. Doxorubicin does not interact with this pathway.",See Summary
+64,Doxorubicin (liposomal),Chlorphenamine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but care should be taken. Chlorphenamine is predominantly metabolised in the liver via CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of chlorphenamine. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for chlorphenamine toxicity should be considered.,See Summary
+65,Doxorubicin (liposomal),Chlorpromazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Chlorpromazine is metabolised mainly by CYP2D6, but also by CYP1A2. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of chlorpromazine. As the clinical relevance of this interaction is unknown, monitoring for chlorpromazine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+66,Doxorubicin (liposomal),Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Doxorubicin is unlikely to interfere this elimination pathway.,See Summary
+67,Doxorubicin (liposomal),Ciclosporin (Cyclosporine),"
+Potential Interaction
+","
+Very Low
+","Coadministration has been studied and should be approached with caution. Ciclosporin is a substrate of CYP3A4 and P-gp. Doxorubicin does not inhibit or induce CYP3A4 or P-gp. However, ciclosporin is an inhibitor of CYP3A4 and OATP1B1. In multiple studies, an increase in doxorubicin and doxorubicinol AUC was observed when coadministered with ciclosporin. In one study, coadministration with ciclosporin increased doxorubicin and doxorubicinol AUC by 48% and 443%, respectively. Doxorubicin toxicity also increased. If coadministration is unavoidable, a 40% dose reduction for doxorubicin is recommended. Monitor closely for doxorubicin toxicity even in the event of a dose reduction, as increased doxorubicin and doxorubicinol exposure could still occur.",See Summary
+68,Doxorubicin (liposomal),Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+69,Doxorubicin (liposomal),Cimetidine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Cimetidine is metabolised by CYP450 enzymes. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of cimetidine. In vitro data indicate that cimetidine inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations. Cimetidine is also a weak inhibitor of CYPs 3A4, 1A2, 2D6 and 2C19. Doxorubicin concentrations may increase due to CYP3A4 and CYP2D6 inhibition. As the clinical relevance of this interaction is unknown, monitoring for both cimetidine and doxorubicin toxicity should be considered.",See Summary
+70,Doxorubicin (liposomal),Ciprofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. It is also metabolised and partially cleared through the bile and intestine. Doxorubicin is unlikely to interfere with this elimination pathway. Ciprofloxacin is also a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Doxorubicin concentrations may increase due to CYP3A4 inhibition. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with ciprofloxacin. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+71,Doxorubicin (liposomal),Cisapride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Cisapride is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, coadministration with other drugs that prolong the QTc interval should be avoided. A thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. If coadministration is unavoidable, monitor ECG closely.",See Summary
+72,Doxorubicin (liposomal),Citalopram,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of citalopram. Since CYP2D6 is only one of the available metabolic pathways, no clinically relevant effect on citalopram exposure is expected. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+73,Doxorubicin (liposomal),Clarithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Clarithromycin is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, clarithromycin is an inhibitor of CYP3A4 (strong) and P-gp and may increase doxorubicin concentrations. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with clarithromycin. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+74,Doxorubicin (liposomal),Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolised (likely non-CYP mediated pathway) and excreted in the urine by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+75,Doxorubicin (liposomal),Clemastine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but care should be taken. Clemastine is predominantly metabolised in the liver via CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of clemastine. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for clemastine toxicity should be considered.,See Summary
+76,Doxorubicin (liposomal),Clindamycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Clindamycin is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, in vitro data suggest that clindamycin is a CYP3A4 inhibitor and may increase concentrations of doxorubicin. As the clinical relevance of this interaction is unknown, monitoring for doxorubicin toxicity should be considered.",See Summary
+77,Doxorubicin (liposomal),Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,See Summary
+78,Doxorubicin (liposomal),Clofazimine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Clofazimine is largely excreted unchanged in the faeces. Doxorubicin is unlikely to interfere with this elimination pathway. In vitro data suggest that clofazimine is a CYP3A4 inhibitor and may increase doxorubicin concentrations. As the clinical relevance of this interaction is unknown, monitoring for doxorubicin toxicity should be considered. A thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+79,Doxorubicin (liposomal),Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolysed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Doxorubicin does not interact with this metabolic pathway.",See Summary
+80,Doxorubicin (liposomal),Clomipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. Clomipramine and desmethylclomipramine are both metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of clomipramine and desmethylclomipramine. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for clomipramine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+81,Doxorubicin (liposomal),Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in the form of the unchanged parent drug (40-60% of the dose). Clonidine is also a weak inhibitor of OCT2. Doxorubicin is unlikely to interfere with this elimination pathway.",See Summary
+82,Doxorubicin (liposomal),Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. Clopidogrel is also an inhibitor of CYP2C8 (strong), CYP2B6 (weak) and of CYP2C9 (in vitro) at high concentrations. The clinical relevance of CYP2C9 inhibition is unknown. Doxorubicin does not interact with this pathway.",See Summary
+83,Doxorubicin (liposomal),Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Oxazepam is mainly glucuronidated. Doxorubicin does not inhibit or induce CYP3A4 or UGTs.,See Summary
+84,Doxorubicin (liposomal),Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion. Doxorubicin is unlikely to interfere with this elimination pathway.",See Summary
+85,Doxorubicin (liposomal),Clozapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of clozapine. Since CYP2D6 is a minor pathway, no clinically relevant effect on clozapine exposure is expected. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+86,Doxorubicin (liposomal),Codeine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolized by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. The metabolite morphine is a substrate of P-gp. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of codeine and thus decrease concentrations of morphine. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for codeine toxicity and morphine efficacy should be considered.",See Summary
+87,Doxorubicin (liposomal),Colchicine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Colchicine is metabolised by CYP3A4 and is a substrate of P-gp. Doxorubicin does not inhibit or induce CYP3A4 or P-gp.,See Summary
+88,Doxorubicin (liposomal),Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly renally excreted via glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+89,Doxorubicin (liposomal),Dabigatran,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dabigatran is transported via P-gp and is renally excreted. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+90,Doxorubicin (liposomal),Dalteparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+91,Doxorubicin (liposomal),Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP450 enzymes. Doxorubicin is unlikely to interfere with this metabolic pathway.",See Summary
+92,Doxorubicin (liposomal),Desipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Desipramine is metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of desipramine. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for desipramine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+93,Doxorubicin (liposomal),Desogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Doxorubicin does not inhibit or induce these CYPs.,See Summary
+94,Doxorubicin (liposomal),Dexamethasone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Dexamethasone is a substrate of CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, dexamethasone has been described as a weak inducer of CYP3A4 and could possibly decrease doxorubicin plasma concentrations. The clinical relevance of this interaction is not known as the induction of CYP3A4 by dexamethasone has not yet been established. Monitoring of doxorubicin efficacy may be required.",See Summary
+95,Doxorubicin (liposomal),Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+96,Doxorubicin (liposomal),Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolised by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Doxorubicin does not inhibit or induce UGTs or P-gp.",See Summary
+97,Doxorubicin (liposomal),Diazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Temazepam is mainly glucuronidated. Doxorubicin does not inhibit or induce CYP3A4, CYP2C19 or UGTs.",See Summary
+98,Doxorubicin (liposomal),Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidised by CYP2C9. Doxorubicin does not inhibit or induce UGTs or CYP2C9.,See Summary
+99,Doxorubicin (liposomal),Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is renally eliminated via OATP4C1 and P-gp. Doxorubicin does not inhibit or induce OATPs or P-gp.,See Summary
+100,Doxorubicin (liposomal),Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Doxorubicin does not inhibit or induce CYP3A4 or UGTs.",See Summary
+101,Doxorubicin (liposomal),Diltiazem,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Diltiazem is metabolised by CYP3A4 and CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of diltiazem. As the clinical relevance of CYP2D6 inhibition by doxorubicin is unknown, monitoring for diltiazem toxicity should be considered. Diltiazem is also a moderate inhibitor of CYP3A4 and may increase doxorubicin concentrations. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with diltiazem. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity. Furthermore, doxorubicin cardiotoxicity is enhanced when coadministered with diltiazem. Monitoring for symptoms of cardiotoxicity is recommended.",See Summary
+102,Doxorubicin (liposomal),Diphenhydramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of diphenhydramine. Diphenhydramine is also a weak inhibitor of CYP2D6 and may increase doxorubicin concentrations. As the clinical relevance of this interaction is unknown, monitoring for both doxorubicin and diphenhydramine toxicity may be required. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+103,Doxorubicin (liposomal),Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Doxorubicin does not inhibit or induce UGTs.",See Summary
+104,Doxorubicin (liposomal),Disopyramide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. Doxorubicin does not interact with this metabolic or elimination pathway. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+105,Doxorubicin (liposomal),Dolasetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of dolasetron. Since CYP2D6 is a minor pathway, no clinically relevant effect on dolasetron exposure is expected. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+106,Doxorubicin (liposomal),Domperidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered. ",See Summary
+107,Doxorubicin (liposomal),Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. There is little potential for dopamine to affect disposition of doxorubicin, or to be affected if coadministered with doxorubicin.",See Summary
+108,Doxorubicin (liposomal),Doxazosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+109,Doxorubicin (liposomal),Doxepin,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but care should be taken. Doxepin is metabolised to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. Doxepin and nordoxepin are both metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of doxepin and nordoxepin. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for doxepin toxicity should be considered.,See Summary
+110,Doxorubicin (liposomal),Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+111,Doxorubicin (liposomal),Dronabinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. Doxorubicin does not inhibit or induce CYP2C9 or CYP3A4.,See Summary
+112,Doxorubicin (liposomal),Drospirenone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+113,Doxorubicin (liposomal),Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dulaglutide is degraded by endogenous endopeptidases. Doxorubicin does not interact with this metabolic pathway.,See Summary
+114,Doxorubicin (liposomal),Duloxetine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but care should be taken. Duloxetine is metabolised by CYP2D6 and CYP1A2. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of duloxetine. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for duloxetine toxicity should be considered.,See Summary
+115,Doxorubicin (liposomal),Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+116,Doxorubicin (liposomal),Dydrogesterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+117,Doxorubicin (liposomal),Edoxaban,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is partially metabolised by CYP3A4 (<10%) and is transported via P-gp. Doxorubicin does not inhibit or induce CYP3A4 or P-gp.,See Summary
+118,Doxorubicin (liposomal),Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1 and UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Doxorubicin does not inhibit or induce these CYPs or UGTs.,See Summary
+119,Doxorubicin (liposomal),Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is renally eliminated (possibly via OATs). Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+120,Doxorubicin (liposomal),Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is predominantly renally excreted. Doxorubicin does not interact with this metabolic or elimination pathway.",See Summary
+121,Doxorubicin (liposomal),Eprosartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eprosartan is largely excreted in bile and urine as unchanged drug. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+122,Doxorubicin (liposomal),Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor role. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+123,Doxorubicin (liposomal),Erythromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Erythromycin is a substrate of CYP3A4 and P-gp. Doxorubicin does not inhibit or induce CYP3A4 or P-gp. However, erythromycin is an inhibitor of CYP3A4 (moderate) and P-gp and may increase doxorubicin concentrations. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with erythromycin. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+124,Doxorubicin (liposomal),Escitalopram,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of escitalopram. Since CYP2D6 is only one of the available metabolic pathways, no clinically relevant effect on escitalopram exposure is expected. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+125,Doxorubicin (liposomal),Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4. Esomeprazole is also an inhibitor of CYP2C19. Doxorubicin does not interact with this pathway.,See Summary
+126,Doxorubicin (liposomal),Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+127,Doxorubicin (liposomal),Estradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. Doxorubicin does not inhibit or induce CYP3A4, CYP1A2 or UGTs.",See Summary
+128,Doxorubicin (liposomal),Ethambutol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolised by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and urine (50%). Doxorubicin does not interact with this metabolic or elimination pathway.,See Summary
+129,Doxorubicin (liposomal),Ethinylestradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Doxorubicin does not inhibit or induce CYP3A4, CYP2C9 or UGTs.",See Summary
+130,Doxorubicin (liposomal),Ethionamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolised in the liver; animal studies suggest involvement of flavin-containing monooxygenases. Doxorubicin does not interact with this metabolic pathway.,See Summary
+131,Doxorubicin (liposomal),Etonogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+132,Doxorubicin (liposomal),Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. Doxorubicin does not inhibit or induce CYP3A4 or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+133,Doxorubicin (liposomal),Exenatide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Exenatide is cleared mainly by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+134,Doxorubicin (liposomal),Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Doxorubicin does not inhibit or induce UGTs.,See Summary
+135,Doxorubicin (liposomal),Famotidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Famotidine is excreted via OAT1/OAT3. Doxorubicin does not inhibit or induce OATs.,See Summary
+136,Doxorubicin (liposomal),Felodipine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Felodipine is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, doxorubicin cardiotoxicity is enhanced when coadministered with felodipine. Therefore, coadministration should be approached with caution. Monitoring for symptoms of cardiotoxicity is recommended.",See Summary
+137,Doxorubicin (liposomal),Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolysed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Doxorubicin does not interact with this pathway.",See Summary
+138,Doxorubicin (liposomal),Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+139,Doxorubicin (liposomal),Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine is a substrate of P-gp. Doxorubicin does not inhibit or induce P-gp.,See Summary
+140,Doxorubicin (liposomal),Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+141,Doxorubicin (liposomal),Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+142,Doxorubicin (liposomal),Flecainide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Flecainide is metabolised mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also renally eliminated unchanged. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of flecainide. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for flecainide toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+143,Doxorubicin (liposomal),Flucloxacillin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Doxorubicin does not interact with this elimination pathway. However, flucloxacillin has been described as a CYP3A4 inducer and may decrease doxorubicin concentrations. As the mechanism and clinical relevance of this interaction is unknown, monitoring of doxorubicin efficacy may be required.",See Summary
+144,Doxorubicin (liposomal),Fluconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Fluconazole is cleared primarily by renal excretion. Doxorubicin is unlikely to interfere with this elimination pathway. Fluconazole is also an inhibitor of CYPs 3A4 (moderate), 2C9 (moderate) and 2C19 (strong). Concentrations of doxorubicin may increase due to CYP3A4 inhibition. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with fluconazole. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+145,Doxorubicin (liposomal),Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase to an inactive metabolite. Doxorubicin does not interfere with this elimination pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Doxorubicin also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+146,Doxorubicin (liposomal),Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. Doxorubicin does not inhibit or induce CYP3A.",See Summary
+147,Doxorubicin (liposomal),Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. Doxorubicin does not inhibit or induce CYP3A4 or CYP2C19.,See Summary
+148,Doxorubicin (liposomal),Fluoxetine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Fluoxetine is mainly metabolised by CYP2D6 and CYP2C9 and to a lesser extent by CYP2C19 and CYP3A4 to form norfluoxetine. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of fluoxetine. As the clinical relevance of CYP2D6 inhibition by doxorubicin is unknown, monitoring for fluoxetine toxicity should be considered. Fluoxetine is also a strong inhibitor of CYP2D6 and CYP2C19. Doxorubicin concentrations may increase due to CYP2D6 inhibition. As the clinical relevance of CYP2D6 inhibition on doxorubicin exposure is unknown, coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for doxorubicin toxicity.",See Summary
+149,Doxorubicin (liposomal),Fluphenazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Fluphenazine is metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of fluphenazine. As the clinical relevance of this interaction is unknown, monitoring for fluphenazine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+150,Doxorubicin (liposomal),Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Doxorubicin is unlikely to interact with this metabolic pathway.,See Summary
+151,Doxorubicin (liposomal),Fluticasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+152,Doxorubicin (liposomal),Fluvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvastatin is mainly metabolised by CYP2C9 (75%) and to a lesser extent by CYP3A4 (20%) and CYP2C8 (5%). Fluvastatin also potentially inhibits CYP2C9, but the clinical relevance of CYP2C9 inhibition is unknown. Doxorubicin does not interact with this pathway.",See Summary
+153,Doxorubicin (liposomal),Fluvoxamine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of fluvoxamine. As the clinical relevance of CYP2D6 inhibition on fluvoxamine exposure is unknown, monitoring for fluvoxamine toxicity should be considered. Fluvoxamine is also an inhibitor of CYPs 1A2 (strong), 2C19 (strong), 3A4 (moderate), 2C9 (weak-moderate) and 2D6 (weak). Doxorubicin concentrations may increase due to CYP3A4 and CYP2D6 inhibition. The clinical relevance of CYP3A4 and CYP2D6 inhibition on doxorubicin exposure is unknown. Coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for doxorubicin toxicity.",See Summary
+154,Doxorubicin (liposomal),Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is predominantly renally eliminated. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+155,Doxorubicin (liposomal),Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation. As multiple CYP450 and UGT enzymes catalyse the transformation the potential for a pharmacokinetic interaction is low. ",See Summary
+156,Doxorubicin (liposomal),Fosaprepitant,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Doxorubicin does not interact with this metabolic pathway. Aprepitant is mainly metabolized by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Doxorubicin does not inhibit or induce these CYPs. However, during treatment aprepitant is a moderate inhibitor of CYP3A4 and may increase doxorubicin concentrations. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with aprepitant. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered during the few days of coadministration. Monitor closely for doxorubicin toxicity. After treatment, aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Doxorubicin concentrations may decrease due to CYP3A4 induction, but this is not considered to be clinically relevant.",See Summary
+157,Doxorubicin (liposomal),Fosphenytoin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolized by CYP2C9 and to a lesser extent by CYP2C19. Doxorubicin does not inhibit or induce CYP2C9 or CYP2C19. Phenytoin is also a potent inducer of CYP3A4, UGT and P-gp. Concentrations of doxorubicin may decrease due to induction of CYP3A4 and P-gp. It was found that the plasma clearance of doxorubicin increased by 50% after coadministration with barbiturates. A similar effect may occur after coadministration with fosphenytoin. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor doxorubicin efficacy. Dose increments for doxorubicin may be necessary.",See Summary
+158,Doxorubicin (liposomal),Furosemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also renally eliminated unchanged (via OATs). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. In vitro data indicate that furosemide is also an inhibitor of the renal transporters OAT1/3. Doxorubicin does not interfere with this pathway.,See Summary
+159,Doxorubicin (liposomal),Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+160,Doxorubicin (liposomal),Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Gemfibrozil is also an inhibitor of CYP2C8 (strong), OATP1B1 and OAT3. In vitro data indicate gemfibrozil to be a strong inhibitor of CYP2C9 but in vivo data showed no clinically relevant effect on CYP2C9. Doxorubicin does not interact with this pathway.",See Summary
+161,Doxorubicin (liposomal),Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+162,Doxorubicin (liposomal),Gestodene,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Doxorubicin does not inhibit or induce these CYPs.,See Summary
+163,Doxorubicin (liposomal),Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. Doxorubicin does not inhibit or induce CYP3A4 or CYP2C9.,See Summary
+164,Doxorubicin (liposomal),Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C19. Doxorubicin does not inhibit or induce CYP2C9 or CYP2C19.,See Summary
+165,Doxorubicin (liposomal),Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolised by CYP2C9. Doxorubicin does not inhibit or induce CYP2C9.,See Summary
+166,Doxorubicin (liposomal),Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolised by CYP2C9. Doxorubicin does not inhibit or induce CYP2C9.,See Summary
+167,Doxorubicin (liposomal),Granisetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Granisetron is metabolised by CYP3A4 and is a substrate of P-gp. Doxorubicin does not inhibit or induce CYP3A4 or P-gp. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+168,Doxorubicin (liposomal),Grapefruit juice,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Grapefruit juice is known to inhibit CYP3A4 enzymes and may increase doxorubicin concentrations. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with grapefruit juice. Coadministration should be avoided.",See Summary
+169,Doxorubicin (liposomal),Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+170,Doxorubicin (liposomal),Griseofulvin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Doxorubicin is unlikely to interfere with this elimination pathway. Griseofulvin is also a liver microsomal enzyme inducer and may lower plasma levels, and therefore reduce the efficacy of concomitantly administered medicinal products that are metabolised by CYPs, such as doxorubicin. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor doxorubicin efficacy.",See Summary
+171,Doxorubicin (liposomal),Haloperidol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGTs 2B7>1A4, 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4 and CYP2D6). Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of haloperidol. As the clinical relevance of this interaction is unknown, monitoring for haloperidol toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+172,Doxorubicin (liposomal),Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Doxorubicin does not interact with this metabolic pathway.,See Summary
+173,Doxorubicin (liposomal),Hydralazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Hydralazine is metabolised via primary oxidative metabolism and acetylation. Doxorubicin does not interact with this metabolic pathway. In vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6. Doxorubicin concentrations may increase due to CYP3A4 and CYP2D6 inhibition. As the clinical relevance of this interaction is unknown, monitoring for doxorubicin toxicity should be considered.",See Summary
+174,Doxorubicin (liposomal),Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrochlorothiazide is not metabolised but is cleared by the kidneys via OAT1. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Doxorubicin does not interact with this elimination pathway.,See Summary
+175,Doxorubicin (liposomal),Hydrocodone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of hydrocodone. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for hydrocodone toxicity should be considered.",See Summary
+176,Doxorubicin (liposomal),Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+177,Doxorubicin (liposomal),Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone. ,See Summary
+178,Doxorubicin (liposomal),Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Doxorubicin does not inhibit or induce UGTs.",See Summary
+179,Doxorubicin (liposomal),Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is metabolised in the liver and cleared via the lungs and kidneys. Doxorubicin is unlikely to interfere with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+180,Doxorubicin (liposomal),Hydroxyzine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. Doxorubicin does not interact with this metabolic pathway. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered. ",See Summary
+181,Doxorubicin (liposomal),Ibandronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibandronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. No pharmacokinetic interaction is expected.,See Summary
+182,Doxorubicin (liposomal),Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Doxorubicin does not inhibit or induce CYP2C9, CYP2C8 or UGTs.",See Summary
+183,Doxorubicin (liposomal),Iloperidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Iloperidone is metabolised by CYP3A4 and CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of iloperidone. As the clinical relevance of this interaction is unknown, monitoring for iloperidone toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered. ",See Summary
+184,Doxorubicin (liposomal),Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent by active tubular secretion. Doxorubicin is unlikely to interfere with this elimination pathway. ,See Summary
+185,Doxorubicin (liposomal),Imipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of imipramine and desipramine. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for imipramine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+186,Doxorubicin (liposomal),Indapamide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Indapamide is extensively metabolised by CYP450s. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of indapamide. As the clinical relevance of this interaction is unknown, monitoring for indapamide toxicity may be required. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+187,Doxorubicin (liposomal),Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+188,Doxorubicin (liposomal),Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+189,Doxorubicin (liposomal),Interleukin 2 (Aldesleukin),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+190,Doxorubicin (liposomal),Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Doxorubicin does not interact with this metabolic pathway.,See Summary
+191,Doxorubicin (liposomal),Irbesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolised by glucuronidation and oxidation (mainly CYP2C9). Doxorubicin does not inhibit or induce CYP2C9 or UGTs.,See Summary
+192,Doxorubicin (liposomal),Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+193,Doxorubicin (liposomal),Isoniazid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Doxorubicin does not interact with this metabolic pathway.,See Summary
+194,Doxorubicin (liposomal),Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+195,Doxorubicin (liposomal),Itraconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Itraconazole is primarily metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. Itraconazole is also an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Concentrations of doxorubicin may increase due to CYP3A4 and P-gp inhibition. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with itraconazole. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity.",See Summary
+196,Doxorubicin (liposomal),Ivabradine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ivabradine is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+197,Doxorubicin (liposomal),Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+198,Doxorubicin (liposomal),Ketoconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ketoconazole is a substrate of CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, ketoconazole is an inhibitor of CYP3A4 (strong) and P-gp and may increase doxorubicin concentrations. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with ketoconazole. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+199,Doxorubicin (liposomal),Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Doxorubicin does not inhibit or induce UGTs.,See Summary
+200,Doxorubicin (liposomal),Lacidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+201,Doxorubicin (liposomal),Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. Doxorubicin does not interact with this metabolic pathway.,See Summary
+202,Doxorubicin (liposomal),Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Doxorubicin does not inhibit or induce CYP2C19 or CYP3A4.,See Summary
+203,Doxorubicin (liposomal),Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is mainly metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+204,Doxorubicin (liposomal),Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+205,Doxorubicin (liposomal),Levofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Levofloxacin is renally eliminated mainly by glomerular filtration and active secretion (possibly OCT2). Doxorubicin is unlikely to interfere with this elimination pathway. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+206,Doxorubicin (liposomal),Levomepromazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Levomepromazine is metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of levomepromazine. As the clinical relevance of this interaction is unknown, monitoring for levomepromazine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+207,Doxorubicin (liposomal),Levonorgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Doxorubicin does not inhibit or induce CYP3A4 or UGTs.,See Summary
+208,Doxorubicin (liposomal),Levonorgestrel (Emergency Contraception),"
+Potential Interaction
+","
+Very Low
+","Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. However, the use of levonorgestrel as emergency contraception is a relative contraindication due to the risk of a pregnancy while having a hormone sensitive tumour. Therefore, the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Doxorubicin does not inhibit or induce CYP3A4 or UGTs.",See Summary
+209,Doxorubicin (liposomal),Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolised by deiodination (by enzymes of deiodinase family) and glucuronidation. Doxorubicin does not interact with this metabolic pathway.,See Summary
+210,Doxorubicin (liposomal),Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Doxorubicin does not inhibit or induce CYP1A2 or CYP3A4.,See Summary
+211,Doxorubicin (liposomal),Linagliptin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Linagliptin is also a substrate of P-gp. Doxorubicin does not inhibit or induce CYP3A4 or P-gp. However, linagliptin is a weak inhibitor of CYP3A4 and may increase concentrations of doxorubicin. As the clinical relevance of this interaction is unknown, monitoring for doxorubicin toxicity may be required.",See Summary
+212,Doxorubicin (liposomal),Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. Doxorubicin does not interact with this metabolic pathway.,See Summary
+213,Doxorubicin (liposomal),Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Liraglutide is degraded by endogenous endopeptidases. Doxorubicin does not interact with this metabolic pathway.,See Summary
+214,Doxorubicin (liposomal),Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is renally eliminated unchanged via glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+215,Doxorubicin (liposomal),Lithium,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate. Therefore, no pharmacokinetic interaction is expected. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+216,Doxorubicin (liposomal),Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalised infections can occur.",See Summary
+217,Doxorubicin (liposomal),Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8, and is a substrate of P-gp. Doxorubicin does not inhibit or induce CYP3A4, CYP2C8 or P-gp.",See Summary
+218,Doxorubicin (liposomal),Loratadine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of loratadine. However, since CYP2D6 is a minor pathway, no clinically relevant effect on loratadine exposure is expected.",See Summary
+219,Doxorubicin (liposomal),Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam undergoes non-CYP mediated elimination. Doxorubicin does not interact with this metabolic pathway.,See Summary
+220,Doxorubicin (liposomal),Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Doxorubicin does not inhibit or induce UGTs.,See Summary
+221,Doxorubicin (liposomal),Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Doxorubicin does not inhibit or induce CYP2C9.,See Summary
+222,Doxorubicin (liposomal),Lovastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+223,Doxorubicin (liposomal),Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Doxorubicin does not inhibit or induce these CYPs.",See Summary
+224,Doxorubicin (liposomal),Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in the kidney, mainly by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.",See Summary
+225,Doxorubicin (liposomal),Maprotiline,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but care should be taken. Maprotiline is mainly metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of maprotiline. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for maprotiline toxicity should be considered.,See Summary
+226,Doxorubicin (liposomal),Medroxyprogesterone (depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. ,See Summary
+227,Doxorubicin (liposomal),Medroxyprogesterone (non-depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+228,Doxorubicin (liposomal),Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolised by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Doxorubicin does not inhibit or induce CYP2C9 or UGTs.,See Summary
+229,Doxorubicin (liposomal),Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+230,Doxorubicin (liposomal),Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney with in vitro data suggesting it is a substrate of OAT3>OAT1. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+231,Doxorubicin (liposomal),Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolised to N-acetyl-mesalazine by N-acetyltransferase. Doxorubicin does not interact with this metabolic pathway.,See Summary
+232,Doxorubicin (liposomal),Metamizole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Metamizole is metabolised in serum and excreted via urine (90%) and faeces (10%). Doxorubicin is unlikely to interfere with this metabolic or elimination pathway. However, metamizole is an inducer of CYP3A4 and may decrease doxorubicin concentrations. The clinical relevance of this interaction is unknown. Coadministration should be approached with caution. If coadministration is unavoidable, closely monitor doxorubicin efficacy. Dose increments for doxorubicin may be necessary.",See Summary
+233,Doxorubicin (liposomal),Metformin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine and is a substrate of OCT1/2/3, MATE1 and MATE2K. Doxorubicin does not inhibit or induce OCTs or MATEs.",See Summary
+234,Doxorubicin (liposomal),Methadone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Methadone is demethylated by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, a thorough QT study with doxorubicin has not been performed. Therefore, it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+235,Doxorubicin (liposomal),Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. Doxorubicin is unlikely to interfere with this elimination pathway.",See Summary
+236,Doxorubicin (liposomal),Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolised by CYP450s to a clinically relevant extent and does not inhibit or induce CYP450s. Therefore, there is little potential for methylphenidate to affect disposition of doxorubicin, or to be affected if coadministered with doxorubicin.",See Summary
+237,Doxorubicin (liposomal),Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+238,Doxorubicin (liposomal),Metoclopramide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Metoclopramide is partially metabolised by the CYP450 system (mainly CYP2D6). Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of metoclopramide. As the clinical relevance of this interaction is unknown, monitoring for metoclopramide toxicity should be considered.",See Summary
+239,Doxorubicin (liposomal),Metolazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metolazone is largely excreted unchanged in the urine. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+240,Doxorubicin (liposomal),Metoprolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Metoprolol is mainly metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of metoprolol. As the clinical relevance of this interaction is unknown, monitoring for metoprolol toxicity should be considered.",See Summary
+241,Doxorubicin (liposomal),Metronidazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Metronidazole is eliminated via glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Since the mechanism of the interaction with CYP3A has not yet been identified, an interaction with doxorubicin cannot be excluded.",See Summary
+242,Doxorubicin (liposomal),Mexiletine,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but care should be taken. Mexiletine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase mexiletine concentrations. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for mexiletine toxicity should be considered.,See Summary
+243,Doxorubicin (liposomal),Mianserin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Mianserin is metabolised by CYPs 2D6 and 1A2, and to a lesser extent by CYP3A4. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of mianserin. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for mianserin toxicity should be considered.",See Summary
+244,Doxorubicin (liposomal),Miconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Miconazole is extensively metabolized by the liver. Doxorubicin is unlikely to interfere with this unspecified metabolic pathway. However, miconazole is an inhibitor of CYP2C9 (moderate) and CYP3A4 (strong). Doxorubicin concentrations may increase due to CYP3A4 inhibition. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with miconazole. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity. Note: after dermal application miconazole is only minimally absorbed. Therefore, no clinically relevant interaction is expected.",See Summary
+245,Doxorubicin (liposomal),Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+246,Doxorubicin (liposomal),Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+247,Doxorubicin (liposomal),Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Doxorubicin does not interact with this metabolic or elimination pathway.",See Summary
+248,Doxorubicin (liposomal),Mirtazapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of mirtazapine. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for mirtazapine toxicity should be considered.",See Summary
+249,Doxorubicin (liposomal),Mometasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+250,Doxorubicin (liposomal),Montelukast,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. Doxorubicin does not inhibit or induce these CYPs.,See Summary
+251,Doxorubicin (liposomal),Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Doxorubicin does not inhibit or induce UGTs or P-gp.",See Summary
+252,Doxorubicin (liposomal),Moxifloxacin,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Doxorubicin does not inhibit or induce UGTs. However, the product labels for moxifloxacin contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. If coadministration is unavoidable, use with caution, including ECG monitoring.",See Summary
+253,Doxorubicin (liposomal),Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and UGT2B7. The active metabolite of mycophenolate, mycophenolic acid, is an inhibitor of OAT1/OAT3. Doxorubicin does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+254,Doxorubicin (liposomal),Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+255,Doxorubicin (liposomal),Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolised in the liver by alpha-reductase. Doxorubicin does not interact with this metabolic pathway.,See Summary
+256,Doxorubicin (liposomal),Naproxen,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Doxorubicin does not inhibit or induce CYP1A2, CYP2C9 or UGTs.",See Summary
+257,Doxorubicin (liposomal),Nateglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent by CYP3A4 (30%). Doxorubicin does not inhibit or induce CYP2C9 or CYP3A4.,See Summary
+258,Doxorubicin (liposomal),Nebivolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Nebivolol metabolism involves CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of nebivolol. As the clinical relevance of this interaction is unknown, monitoring for nebivolol toxicity should be considered.",See Summary
+259,Doxorubicin (liposomal),Nefazodone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Nefazodone is metabolised mainly by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, nefazodone is also a strong inhibitor of CYP3A4 and may increase doxorubicin concentrations. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with nefazodone. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity.",See Summary
+260,Doxorubicin (liposomal),Nicardipine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of nicardipine. Since CYP2D6 is a minor pathway, no clinically relevant effect on nicardipine exposure is expected. However, nicardipine is a weak inhibitor of CYP3A4 and may increase doxorubicin concentrations. As the clinical relevance of this interaction is unknown, monitoring for doxorubicin toxicity may be required. Furthermore, doxorubicin cardiotoxicity is enhanced when coadministered with nicardipine. Coadministration should be approached with caution. Monitoring for symptoms of cardiotoxicity is recommended.",See Summary
+261,Doxorubicin (liposomal),Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolised by xanthine oxidase and aldehyde oxidase. Doxorubicin does not interact with this metabolic pathway.,See Summary
+262,Doxorubicin (liposomal),Nifedipine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, doxorubicin cardiotoxicity is enhanced when coadministered with nifedipine. Therefore, coadministration should be approached with caution. Monitoring for symptoms of cardiotoxicity is recommended.",See Summary
+263,Doxorubicin (liposomal),Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolised in the liver following multiple pathways including CYP2C9. Doxorubicin does not inhibit or induce CYP2C9.,See Summary
+264,Doxorubicin (liposomal),Nisoldipine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nisoldipine is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, doxorubicin cardiotoxicity is enhanced when coadministered with nisoldipine. Therefore, coadministration should be approached with caution. Monitoring for symptoms of cardiotoxicity is recommended.",See Summary
+265,Doxorubicin (liposomal),Nitrendipine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, doxorubicin cardiotoxicity is enhanced when coadministered with nitrendipine. Therefore, coadministration should be approached with caution. Monitoring for symptoms of cardiotoxicity is recommended.",See Summary
+266,Doxorubicin (liposomal),Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolised in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). Doxorubicin does not interact with this metabolic or elimination pathway.,See Summary
+267,Doxorubicin (liposomal),Norelgestromin,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+268,Doxorubicin (liposomal),Norethisterone (Norethindrone),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Doxorubicin does not interact with this metabolic pathway.",See Summary
+269,Doxorubicin (liposomal),Norgestimate,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. Doxorubicin does not interact with this metabolic pathway.,See Summary
+270,Doxorubicin (liposomal),Norgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolized by CYP3A4 and is glucuronidated to a minor extent. Doxorubicin does not inhibit or induce CYP3A4 or UGTs.,See Summary
+271,Doxorubicin (liposomal),Nortriptyline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Nortriptyline is metabolised mainly by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of nortriptyline. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for nortriptyline toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+272,Doxorubicin (liposomal),Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant. Therefore, no drug interactions are expected.",See Summary
+273,Doxorubicin (liposomal),Ofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ofloxacin is renally eliminated unchanged by glomerular filtration and active tubular secretion via both cationic and anionic transport systems. Doxorubicin is unlikely to interfere with this elimination pathway. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+274,Doxorubicin (liposomal),Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolised mainly by CYP1A2 (major) and CYP2D6, but also by glucuronidation (UGT1A4). Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of olanzapine. However, since CYP2D6 is a minor pathway, no clinically relevant effect on olanzapine exposure is expected.",See Summary
+275,Doxorubicin (liposomal),Olmesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. Doxorubicin is unlikely to interfere with this elimination pathway. ,See Summary
+276,Doxorubicin (liposomal),Omeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Omeprazole is also an inducer of CYP1A2 and an inhibitor of CYP2C19. Doxorubicin does not interact with this pathway.,See Summary
+277,Doxorubicin (liposomal),Ondansetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ondansetron is metabolised mainly by CYP1A2 and CYP3A4 and to a lesser extent by CYP2D6. Ondansetron is also a substrate of P-gp. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of ondansetron. Since CYP2D6 is a minor pathway, no clinically relevant effect on ondansetron exposure is expected. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+278,Doxorubicin (liposomal),Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Doxorubicin does not inhibit or induce UGTs.,See Summary
+279,Doxorubicin (liposomal),Oxcarbazepine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Oxcarbazepine is extensively metabolized to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Doxorubicin does not interact with this pathway. Both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5 and are inhibitors of CYP2C19. Concentrations of doxorubicin may decrease due to CYP3A4 induction. It was found that the plasma clearance of doxorubicin increased by 50% after coadministration with barbiturates. A similar effect may occur after coadministration with oxcarbazepine. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor doxorubicin efficacy. Dose increments for doxorubicin may be necessary.",See Summary
+280,Doxorubicin (liposomal),Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolised via glucuronidation. Doxorubicin does not inhibit or induce UGTs.,See Summary
+281,Doxorubicin (liposomal),Oxycodone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of oxycodone. The clinical relevance of this interaction is unknown. However, oxymorphone is 14 times more potent than oxycodone. The analgesic effects of oxycodone may be decreased. Therefore, care should be taken and monitoring of oxycodone efficacy should be considered.",See Summary
+282,Doxorubicin (liposomal),Paliperidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily renally eliminated (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of paliperidone. However, since CYP2D6 is a minor pathway, no clinically relevant effect on paliperidone exposure is expected.",See Summary
+283,Doxorubicin (liposomal),Palonosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Palonosetron is also a substrate of P-gp. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of palonosetron. However, since CYP2D6 is a minor pathway, no clinically relevant effect on palonosetron exposure is expected.",See Summary
+284,Doxorubicin (liposomal),Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pamidronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. No pharmacokinetic interaction is expected with doxorubicin.,See Summary
+285,Doxorubicin (liposomal),Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","After coadministration of doxorubicin and different dose levels of pantoprazole, no significant differences were observed in doxorubicin pharmacokinetics. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of pantoprazole. However, since CYP2D6 is a minor pathway, no clinically relevant effect on pantoprazole exposure is expected.",See Summary
+286,Doxorubicin (liposomal),Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+287,Doxorubicin (liposomal),Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1, and 2B15), sulfation and to a lesser extent, by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of paracetamol. However, since CYP2D6 is a very minor pathway, no clinically relevant effect on paracetamol concentrations is expected.",See Summary
+288,Doxorubicin (liposomal),Paroxetine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Paroxetine is mainly metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of paroxetine. As the clinical relevance of CYP2D6 inhibition on paroxetine exposure is unknown, monitoring for paroxetine toxicity should be considered. Paroxetine is also an inhibitor of CYP2D6 (strong) and CYP2C9. Doxorubicin concentrations may increase due to CYP2D6 inhibition. As the clinical relevance of CYP2D6 inhibition on doxorubicin exposure is unknown, coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for doxorubicin toxicity.",See Summary
+289,Doxorubicin (liposomal),Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored of coadministered.",See Summary
+290,Doxorubicin (liposomal),Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+291,Doxorubicin (liposomal),Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is mainly metabolised by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of perazine. However, since CYP2D6 is a minor pathway, no clinically relevant effect on perazine exposure is expected.",See Summary
+292,Doxorubicin (liposomal),Periciazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of periciazine. As the clinical relevance of this interaction is unknown, monitoring for periciazine toxicity should be considered. ",See Summary
+293,Doxorubicin (liposomal),Perindopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolised to other inactive metabolites. Elimination occurs predominantly via the urine. Doxorubicin is unlikely to interfere with this metabolic pathway.,See Summary
+294,Doxorubicin (liposomal),Perphenazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Perphenazine is metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of perphenazine. As the clinical relevance of this interaction is unknown, monitoring for perphenazine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+295,Doxorubicin (liposomal),Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. Doxorubicin does not inhibit or induce CYP2B6 or CYP3A4.,See Summary
+296,Doxorubicin (liposomal),Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolised by oxidation via monoamine oxidase and to a lesser extent by acetylation. Doxorubicin does not interact with this metabolic pathway.,See Summary
+297,Doxorubicin (liposomal),Phenobarbital (Phenobarbitone),"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Phenobarbital is metabolized by CYP2C19 and CYP2C9 (major) and to a lesser extent by CYP2E1. Doxorubicin does not inhibit or induce these CYPs. Phenobarbital is also a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Concentrations of doxorubicin may decrease due to CYP3A4 induction. It was found that the plasma clearance of doxorubicin increased by 50% after coadministration with barbiturates. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor doxorubicin efficacy. Dose increments for doxorubicin may be necessary.",See Summary
+298,Doxorubicin (liposomal),Phenprocoumon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenprocoumon is mainly metabolised by CYP2C9 and CYP3A4. Doxorubicin does not inhibit or induce CYP2C9 or CYP3A4.,See Summary
+299,Doxorubicin (liposomal),Phenytoin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Phenytoin is mainly metabolized by CYP2C9 and to a lesser extent by CYP2C19. Doxorubicin does not inhibit or induce CYP2C9 or CYP2C19. Phenytoin is also a strong inducer of CYP3A4, UGT and P-gp. Concentrations of doxorubicin may decrease due to CYP3A4 and P-gp induction. It was found that the plasma clearance of doxorubicin was increased by 50% after coadministration with barbiturates. A similar effect may occur after coadministration with phenytoin. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor doxorubicin efficacy. Dose increments for doxorubicin may be necessary.",See Summary
+300,Doxorubicin (liposomal),Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Doxorubicin does not inhibit or induce CYP4F2.,See Summary
+301,Doxorubicin (liposomal),Pimozide,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but should be approached with caution. Pimozide is mainly metabolised by CYP3A4 and CYP2D6 and to a lesser extent by CYP1A2. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of pimozide. As the clinical relevance of this interaction is unknown, monitoring for pimozide toxicity should be considered. Furthermore, the product labels for pimozide contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with doxorubicin has not been performed and it is unknown whether a contraindication is in place. If coadministration is unavoidable, monitor ECG closely. ",See Summary
+302,Doxorubicin (liposomal),Pindolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Pindolol is partly metabolised to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of pindolol. As the clinical relevance of this interaction is unknown, monitoring for pindolol toxicity should be considered.",See Summary
+303,Doxorubicin (liposomal),Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Doxorubicin does not inhibit or induce these CYPs.",See Summary
+304,Doxorubicin (liposomal),Pipotiazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of pipotiazine. As the clinical relevance of this interaction is unknown, monitoring for pipotiazine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+305,Doxorubicin (liposomal),Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolised by CYP2C9. Doxorubicin does not inhibit or induce CYP2C9.,See Summary
+306,Doxorubicin (liposomal),Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolised by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Pitavastatin is also a substrate of OATP1B1. Doxorubicin does not inhibit or induce these UGTs, CYPs or OATPs.",See Summary
+307,Doxorubicin (liposomal),Posaconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Posaconazole is primarily metabolised by UGTs and is a substrate of P-gp. Doxorubicin does not inhibit or induce UGTs or P-gp. However, posaconazole is a strong inhibitor of CYP3A4 and may increase doxorubicin concentrations. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with posaconazole. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+308,Doxorubicin (liposomal),Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is renally eliminated. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+309,Doxorubicin (liposomal),Prasugrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. Doxorubicin does not inhibit or induce these CYPs.,See Summary
+310,Doxorubicin (liposomal),Pravastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Doxorubicin does not interact with this metabolic pathway.,See Summary
+311,Doxorubicin (liposomal),Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolised, primarily by demethylation and conjugation. Doxorubicin does not interact with this metabolic pathway.",See Summary
+312,Doxorubicin (liposomal),Prednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+313,Doxorubicin (liposomal),Prednisone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. Doxorubicin does not interact with this metabolic pathway.,See Summary
+314,Doxorubicin (liposomal),Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration (90% as unchanged drug). Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+315,Doxorubicin (liposomal),Prochlorperazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of prochlorperazine. As the clinical relevance of this interaction is unknown, monitoring for prochlorperazine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+316,Doxorubicin (liposomal),Promethazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Promethazine is metabolised by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of promethazine. As the clinical relevance of this interaction is unknown, monitoring for promethazine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+317,Doxorubicin (liposomal),Propafenone,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but care should be taken. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of propafenone. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for propafenone toxicity should be considered.,See Summary
+318,Doxorubicin (liposomal),Propranolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Propranolol is metabolised by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of propranolol. As the clinical relevance of this interaction is unknown, monitoring for propranolol toxicity should be considered.",See Summary
+319,Doxorubicin (liposomal),Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly renally eliminated, partly by active secretion by renal transporters. Prucalopride is also a substrate of P-gp. Doxorubicin is unlikely to interfere with this elimination pathway.",See Summary
+320,Doxorubicin (liposomal),Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolised by xanthine oxidase. Doxorubicin does not interact with this metabolic pathway.,See Summary
+321,Doxorubicin (liposomal),Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+322,Doxorubicin (liposomal),Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+323,Doxorubicin (liposomal),Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+324,Doxorubicin (liposomal),Quinidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is a substrate of P-gp. Doxorubicin does not inhibit or induce these CYPs or P-gp. Quinidine is also an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate) and may increase doxorubicin concentrations. The clinical relevance of this interaction is unknown. Coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+325,Doxorubicin (liposomal),Rabeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. Doxorubicin does not interact with this metabolic pathway.,See Summary
+326,Doxorubicin (liposomal),Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolised to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Doxorubicin does not interact with this metabolic pathway.",See Summary
+327,Doxorubicin (liposomal),Ranitidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranitidine is excreted via OAT1/OAT3. Doxorubicin does not inhibit or induce OATs.,See Summary
+328,Doxorubicin (liposomal),Ranolazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ranolazine is primarily metabolized by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of ranolazine. Since CYP2D6 is a minor pathway, no clinically relevant effect on ranolazine exposure is expected. However, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6 and may increase doxorubicin concentrations. If coadministration is unavoidable, monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+329,Doxorubicin (liposomal),Reboxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. Therefore, no clinically relevant effect on doxorubicin exposure is expected.",See Summary
+330,Doxorubicin (liposomal),Repaglinide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolised by CYP2C8 and CYP3A4, with clinical data indicating it is a substrate of the hepatic transporter OATP1B1. Doxorubicin does not inhibit or induce CYP2C8, CYP3A4 or OATP1B1.",See Summary
+331,Doxorubicin (liposomal),Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver but retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Doxorubicin does not interact with this metabolic pathway.",See Summary
+332,Doxorubicin (liposomal),Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+333,Doxorubicin (liposomal),Rifabutin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Rifabutin is metabolised by CYP3A and via deacetylation. Doxorubicin does not interact with this metabolic pathway. Rifabutin is also a strong CYP3A4 and P-gp inducer and may decrease doxorubicin concentrations. It was found that plasma clearance of doxorubicin increased by 50% after coadministration with barbiturates. A similar effect may occur after coadministration with rifabutin. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor doxorubicin efficacy. Dose increments for doxorubicin may be necessary.",See Summary
+334,Doxorubicin (liposomal),Rifampicin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Rifampicin is metabolised via deacetylation. Doxorubicin does not interact with this metabolic pathway. However, rifampicin is a strong inducer of CYP3A4 and P-gp and may decrease concentrations of doxorubicin. It was found that plasma clearance of doxorubicin increased by 50% after coadministration with barbiturates. A similar effect may occur after coadministration with rifampicin. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor doxorubicin efficacy. Dose increments for doxorubicin may be necessary.",See Summary
+335,Doxorubicin (liposomal),Rifapentine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Rifapentine is metabolised via deacetylation. Doxorubicin does not interact with this metabolic pathway. However, rifapentine is a strong CYP3A4, CYP2C8 and P-gp inducer. Doxorubicin concentrations may decrease due to CYP3A4 and P-gp induction. It was found that plasma clearance of doxorubicin increased by 50% after coadministration with barbiturates. A similar effect may occur after coadministration with rifapentine. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor doxorubicin efficacy. Dose increments for doxorubicin may be necessary.",See Summary
+336,Doxorubicin (liposomal),Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Doxorubicin is unlikely to interfere with this elimination pathway.",See Summary
+337,Doxorubicin (liposomal),Risperidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Risperidone is also a substrate of P-gp. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of risperidone. As the clinical relevance of this interaction is unknown, monitoring for risperidone toxicity should be considered.",See Summary
+338,Doxorubicin (liposomal),Rivaroxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant is unlikely. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine. Rivaroxaban is also a substrate of P-gp and BCRP. Doxorubicin does not interact with this metabolic or elimination pathway.",See Summary
+339,Doxorubicin (liposomal),Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYP2C9. Doxorubicin does not inhibit or induce CYP2C8 or CYP2C9.,See Summary
+340,Doxorubicin (liposomal),Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosuvastatin is largely excreted unchanged in the faeces via OATP1B1 and is a substrate of BCRP. Doxorubicin does not inhibit or induce OATP1B1 or BCRP.,See Summary
+341,Doxorubicin (liposomal),Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolised to the inactive salbutamol-4’-O-sulphate. Doxorubicin does not interact with this metabolic pathway.,See Summary
+342,Doxorubicin (liposomal),Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. The systemic exposure of salmeterol is low and doxorubicin does not inhibit or induce CYP3A4.,See Summary
+343,Doxorubicin (liposomal),Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. Doxorubicin does not inhibit or induce CYP3A4 or P-gp.,See Summary
+344,Doxorubicin (liposomal),Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces and also in other secretions. No clinically significant interactions are known.,See Summary
+345,Doxorubicin (liposomal),Sertindole,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but should be approached with caution. Sertindole is metabolised by CYP2D6 and CYP3A4. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of sertindole. As the clinical relevance of this interaction is unknown, monitoring for sertindole toxicity should be considered. Furthermore, the product labels for sertindole contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with doxorubicin has not been performed and it is unknown whether a contraindication is in place. If coadministration is unavoidable, monitor ECG closely.",See Summary
+346,Doxorubicin (liposomal),Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of sertraline. However, since CYP2D6 is a minor pathway, no clinically relevant effect on sertraline exposure is expected.",See Summary
+347,Doxorubicin (liposomal),Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. Doxorubicin does not inhibit or induce CYP3A4 or CYP2C9.,See Summary
+348,Doxorubicin (liposomal),Simvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolised by CYP3A4. Simvastatin is also a substrate of BCRP and the active metabolite is a substrate of OATP1B1. Doxorubicin does not inhibit or induce CYP3A4, BCRP or OATP1B1.",See Summary
+349,Doxorubicin (liposomal),Sirolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sirolimus is metabolised by CYP3A4 and is a substrate of P-gp. Doxorubicin does not inhibit or induce CYP3A4 or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+350,Doxorubicin (liposomal),Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1, and P-gp) and metabolism by CYP3A4 represents a minor metabolic pathway. Doxorubicin does not interact with this metabolic or elimination pathway.",See Summary
+351,Doxorubicin (liposomal),Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. Doxorubicin does not interact with this metabolic pathway.",See Summary
+352,Doxorubicin (liposomal),Sotalol,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sotalol is excreted unchanged via renal elimination. Doxorubicin is unlikely to interfere with this elimination pathway. However, the product labels for sotalol advise extreme caution if given with other drugs that prolong the QT interval. A thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. If coadministration is unavoidable, monitor ECG closely.",See Summary
+353,Doxorubicin (liposomal),Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+354,Doxorubicin (liposomal),Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolised by the flavin containing monooxygenases. Doxorubicin does not interact with this metabolic pathway.,See Summary
+355,Doxorubicin (liposomal),Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Doxorubicin is unlikely to interfere with this metabolic pathway.,See Summary
+356,Doxorubicin (liposomal),St John's Wort,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. St John’s wort is a P-gp and CYP3A4 inducer and may decrease doxorubicin concentrations. It was found that plasma clearance of doxorubicin increased by 50% after coadministration with barbiturates. A similar effect may occur after coadministration with St John’s Wort. As the clinical relevance of this interaction is unknown, coadministration should be avoided.",See Summary
+357,Doxorubicin (liposomal),Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Doxorubicin does not interact with this metabolic pathway.",See Summary
+358,Doxorubicin (liposomal),Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Streptomycin is eliminated by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+359,Doxorubicin (liposomal),Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Doxorubicin does not inhibit or induce CYP2C9.,See Summary
+360,Doxorubicin (liposomal),Sulpiride,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. Doxorubicin is unlikely to interfere with this elimination pathway. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+361,Doxorubicin (liposomal),Tacrolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tacrolimus is metabolised mainly by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. Tacrolimus is also an inhibitor of CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Therefore, no clinically relevant effect on doxorubicin exposure is expected due to CYP3A4 inhibition. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+362,Doxorubicin (liposomal),Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+363,Doxorubicin (liposomal),Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of tamsulosin. However, since CYP2D6 is a minor pathway, no clinically relevant effect on tamsulosin exposure is expected.",See Summary
+364,Doxorubicin (liposomal),Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+365,Doxorubicin (liposomal),Telithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. Doxorubicin does not interact with this metabolic pathway. However, telithromycin is an inhibitor of CYP3A4 (strong) and P-gp and may increase doxorubicin concentrations. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with telithromycin. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity.",See Summary
+366,Doxorubicin (liposomal),Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Doxorubicin does not inhibit or induce UGTs.,See Summary
+367,Doxorubicin (liposomal),Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Doxorubicin does not inhibit or induce UGTs.,See Summary
+368,Doxorubicin (liposomal),Terbinafine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYP2C8 and CYP2C19. Doxorubicin does not inhibit or induce these CYPs. However, terbinafine is also a moderate-strong inhibitor of CYP2D6 and may increase concentrations of doxorubicin. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for doxorubicin toxicity.",See Summary
+369,Doxorubicin (liposomal),Testosterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+370,Doxorubicin (liposomal),Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+371,Doxorubicin (liposomal),Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolised by CYP1A2. Doxorubicin does not inhibit or induce CYP1A2.,See Summary
+372,Doxorubicin (liposomal),Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+373,Doxorubicin (liposomal),Thioridazine,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but should be approached with caution. Thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of thioridazine. As the clinical relevance of this interaction is unknown, monitoring for thioridazine toxicity should be considered. Furthermore, the product labels for thioridazine contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with doxorubicin has not been performed and it is unknown whether a contraindication is in place. If coadministration is unavoidable, monitor ECG closely.",See Summary
+374,Doxorubicin (liposomal),Tiapride,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tiapride is excreted largely unchanged in urine. Doxorubicin is unlikely to interfere with this elimination pathway. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+375,Doxorubicin (liposomal),Ticagrelor,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Ticagrelor is a substrate of CYP3A4 and P-gp. Doxorubicin does not inhibit or induce CYP3A4 or P-gp. However, ticagrelor is also a mild inhibitor of CYP3A4 and may increase concentrations of doxorubicin. As the clinical relevance of this interaction is unknown, monitoring for doxorubicin toxicity may be required.",See Summary
+376,Doxorubicin (liposomal),Timolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Timolol is predominantly metabolised in the liver by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of timolol. As the clinical relevance of this interaction is unknown, monitoring for timolol toxicity should be considered. Note: the systemic absorption of timolol after ocular administration is low. Therefore, a clinically relevant interaction via CYP2D6 is unlikely.",See Summary
+377,Doxorubicin (liposomal),Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+378,Doxorubicin (liposomal),Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolised by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Doxorubicin does not inhibit or induce these CYPs.,See Summary
+379,Doxorubicin (liposomal),Tolterodine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Tolterodine is primarily metabolised by CYP2D6 with CYP3A4 playing a minor role. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of tolterodine. As the clinical relevance of this interaction is unknown, monitoring for tolterodine toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+380,Doxorubicin (liposomal),Torasemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolised mainly by CYP2C9. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Doxorubicin does not inhibit or induce CYP2C9 or OATs.,See Summary
+381,Doxorubicin (liposomal),Tramadol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of tramadol. The clinical relevance of this interaction is unknown. Care should be taken. Monitoring for tramadol toxicity should be considered.",See Summary
+382,Doxorubicin (liposomal),Trandolapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Doxorubicin does not interact with this metabolic pathway.,See Summary
+383,Doxorubicin (liposomal),Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranexamic acid is mainly cleared by glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+384,Doxorubicin (liposomal),Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Doxorubicin does not interact with this metabolic pathway.,See Summary
+385,Doxorubicin (liposomal),Trazodone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4. However, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+386,Doxorubicin (liposomal),Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+387,Doxorubicin (liposomal),Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. Doxorubicin does not inhibit or induce CYP3A4.,See Summary
+388,Doxorubicin (liposomal),Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. To a lesser extent (approximately 30%) trimethoprim is metabolised by CYP enzymes (in vitro data suggest CYPs 3A4, 1A2 and 2C9). Sulfamethoxazole is metabolised by CYP2C9. Furthermore, trimethoprim is a weak CYP2C8 inhibitor and in vitro data also suggest that trimethoprim is an inhibitor of OCT2 and MATE1. Sulfamethoxazole is a weak inhibitor of CYP2C9. Doxorubicin does not interact with these pathways.",See Summary
+389,Doxorubicin (liposomal),Trimipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Trimipramine is metabolised mainly by CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of trimipramine. As the clinical relevance of this interaction is unknown, monitoring for trimipramine toxicity should be considered.",See Summary
+390,Doxorubicin (liposomal),Tropisetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Tropisetron is metabolised mainly by CYP2D6 and is a substrate of P-gp. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of tropisetron. As the clinical relevance of this interaction is unknown, monitoring for tropisetron toxicity should be considered. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+391,Doxorubicin (liposomal),Ulipristal,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if doxorubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of ulipristal. However, since CYP2D6 is a minor pathway, no clinically relevant effect on ulipristal exposure is expected.",See Summary
+392,Doxorubicin (liposomal),Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolized by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolized by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Doxorubicin does not interact with this pathway.,See Summary
+393,Doxorubicin (liposomal),Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+394,Doxorubicin (liposomal),Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vancomycin is excreted unchanged via glomerular filtration. Doxorubicin is unlikely to interfere with this elimination pathway.,See Summary
+395,Doxorubicin (liposomal),Venlafaxine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of venlafaxine. The clinical relevance of this interaction is unknown and care should be taken. Monitoring for venlafaxine toxicity should be considered.",See Summary
+396,Doxorubicin (liposomal),Verapamil,"
+Potential Interaction
+","
+Low
+","Coadministration has been studied and should be approached with caution. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Doxorubicin does not inhibit or induce these CYPs. Verapamil is also a moderate inhibitor of CYP3A4 and may increase doxorubicin concentrations. The clinical relevance of this interaction is unknown. In one study, coadministration of doxorubicin and verapamil (different dosing regimens of I.V verapamil) resulted in no significant difference in the pharmacokinetic parameters of doxorubicin. However, another study observed a significantly higher doxorubicin AUC after coadministration with verapamil compared to doxorubicin alone. If coadministration is unavoidable, monitor closely for doxorubicin toxicity. Furthermore, doxorubicin cardiotoxicity is enhanced when coadministered with verapamil. Monitoring for symptoms of cardiotoxicity is recommended.",See Summary
+397,Doxorubicin (liposomal),Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate of P-gp. Doxorubicin does not interact with this metabolic pathway.,See Summary
+398,Doxorubicin (liposomal),Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+399,Doxorubicin (liposomal),Voriconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Voriconazole is metabolised by CYP2C19 (major) and to a lesser extent by CYP3A4 and CYP2C9. Doxorubicin does not inhibit or induce these CYPs. However, voriconazole is a strong inhibitor of CYP3A4 and a weak inhibitor of CYPs 2C9, 2C19 and 2B6. Doxorubicin concentrations may increase due to CYP3A4 inhibition. After coadministration with ciclosporin, a moderate CYP3A4 inhibitor, doxorubicin and doxorubicinol AUC increased by 48% and 443%, respectively. A similar effect may occur after coadministration with voriconazole. Coadministration should be approached with caution. If coadministration is unavoidable, a 40% dose reduction of doxorubicin should be considered. Monitor closely for doxorubicin toxicity. Furthermore, a thorough QT study with doxorubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+400,Doxorubicin (liposomal),Warfarin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and CYP3A4. S-warfarin (more potent) is metabolised by CYP2C9. Doxorubicin does not inhibit or induce these CYPs.,See Summary
+401,Doxorubicin (liposomal),Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Doxorubicin is unlikely to interfere this elimination pathway.",See Summary
+402,Doxorubicin (liposomal),Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent by CYP3A4. Doxorubicin does not interact with this metabolic pathway.,See Summary
+403,Doxorubicin (liposomal),Ziprasidone,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but should be approached with caution. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). Doxorubicin does not interact with this metabolic pathway. However, the product labels for ziprasidone contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with doxorubicin has not been performed and it is unknown whether a contraindication is in place. If coadministration is unavoidable, monitor ECG closely.",See Summary
+404,Doxorubicin (liposomal),Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zoledronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. No pharmacokinetic interaction is expected with doxorubicin.,See Summary
+405,Doxorubicin (liposomal),Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of zolpidem. However, since CYP2D6 is a minor pathway, no clinically relevant effect on zolpidem exposure is expected.",See Summary
+406,Doxorubicin (liposomal),Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. Doxorubicin does not inhibit or induce CYP3A4 or CYP2C8.,See Summary
+407,Doxorubicin (liposomal),Zotepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of zotepine. However, since CYP2D6 is a minor pathway, no clinically relevant effect on zotepine exposure is expected.",See Summary
+408,Doxorubicin (liposomal),Zuclopenthixol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Doxorubicin is an in vitro inhibitor of CYP2D6 and may increase concentrations of zuclopenthixol. As the clinical relevance of this interaction is unknown, monitoring for zuclopenthixol toxicity should be considered.",See Summary

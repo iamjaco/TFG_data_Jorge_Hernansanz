@@ -1,0 +1,15 @@
+"0","DB_DDI <- merge(DB_DDI, 
+                clinicaldrugpairs_counts[,c(""drug"",""codrug"")], 
+                by = c(""drug"", ""codrug""))
+"
+"2","Advarsel i doTryCatch(return(expr), name, parentenv, handler) :"
+"2","
+ "
+"2"," restarting interrupted promise evaluation
+"
+"0","DB_DDI <- merge(DB_DDI, "
+"0","                clinicaldrugpairs_counts[,c(""drug"",""codrug"")], "
+"0","                by = c(""drug"", ""codrug""))"
+"0","``"
+"2","Fejl: attempt to use zero-length variable name
+"

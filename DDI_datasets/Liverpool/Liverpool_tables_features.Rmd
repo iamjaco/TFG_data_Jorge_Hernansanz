@@ -1,0 +1,774 @@
+---
+title: "Liverpool_features"
+author: "Jorge H."
+date: "28/4/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+```
+
+
+Joining tables
+```{r}
+##########################
+files_CANCER <- list.files("cancer/DDI_dataframes/",full.names = T)
+
+DDI_CANCER <- data.frame(X = integer(),
+                           Drug_1 = character(),
+                           drug2 = character(),
+                           Level_of_interaction = character(),
+                           Quality_of_interaction = character(),
+                           Summary = character(),
+                        stringsAsFactors = FALSE
+                           )
+
+for (dataframe in files_CANCER){
+  x_file <- read_csv(dataframe)
+  DDI_CANCER <- rbind(DDI_CANCER,x_file)
+}
+
+DDI_CANCER <- unique(DDI_CANCER)
+######################################
+
+
+
+files_HIV <- list.files("hiv/DDI_dataframes/",full.names = T)
+
+DDI_HIV <- data.frame(X = integer(),
+                           Drug_1 = character(),
+                           drug2 = character(),
+                           Level_of_interaction = character(),
+                           Quality_of_interaction = character(),
+                           Summary = character(),
+                      stringsAsFactors = FALSE
+                           )
+
+
+for (dataframe in files_HIV){
+  x_file <- read_csv(dataframe)
+  DDI_HIV <- rbind(DDI_HIV,x_file)
+}
+
+DDI_HIV <- unique(DDI_HIV)
+############################################################################33
+
+
+
+files_HEP <- list.files("hep/DDI_dataframes/",full.names = T)
+
+DDI_HEP <- data.frame(X = integer(),
+                           Drug_1 = character(),
+                           drug2 = character(),
+                           Level_of_interaction = character(),
+                           Quality_of_interaction = character(),
+                           Summary = character(),
+                      stringsAsFactors = FALSE
+                           )
+
+for (dataframe in files_HEP){
+  x_file <- read_csv(dataframe)
+  DDI_HEP <- rbind(DDI_HEP,x_file)
+}
+
+DDI_HEP <- unique(DDI_HEP)
+```
+
+
+Importing identifiers tables
+```{r}
+Drug_ATC_codes_DB <- read_csv("Identifiers/Drug_ATC_codes_DB.csv")
+drugs <- read_csv("Identifiers/drugs.csv")
+```
+
+Creating indexes for DDI_X
+```{r}
+#########################################
+Index_CANCER <- unique(c(DDI_CANCER$Drug_1,DDI_CANCER$drug2))
+Index_CANCER <- data.frame(Name = as.character(Index_CANCER),stringsAsFactors = FALSE)
+
+Index_CANCER_drugbank <- merge(Index_CANCER, drugs[,c(1,6)], by.x = 'Name', by.y = 'name')
+colnames(Index_CANCER_drugbank)[2] <- 'Drugbank'
+
+
+################################################
+Index_HIV <- unique(c(DDI_HIV$Drug_1,DDI_HIV$drug2))
+Index_HIV <- data.frame(Name = as.character(Index_HIV),stringsAsFactors = FALSE)
+
+Index_HIV_drugbank <- merge(Index_HIV, drugs[,c(1,6)], by.x = 'Name', by.y = 'name')
+colnames(Index_HIV_drugbank)[2] <- 'Drugbank'
+
+
+#################################################
+Index_HEP <- unique(c(DDI_HEP$Drug_1,DDI_HEP$drug2))
+Index_HEP <- data.frame(Name = as.character(Index_HEP),stringsAsFactors = FALSE)
+
+Index_HEP_drugbank <- merge(Index_HEP, drugs[,c(1,6)], by.x = 'Name', by.y = 'name')
+colnames(Index_HEP_drugbank)[2] <- 'Drugbank'
+
+
+#Comprobating to check the missing ones with setdiff #Done in the R chunck from the bottom.
+Not_found_HIV <- setdiff(Index_HIV$Name,Index_HIV_drugbank$Name)
+Not_found_CANCER <- setdiff(Index_CANCER$Name,Index_CANCER_drugbank$Name)
+Not_found_HEP <- setdiff(Index_HEP$Name, Index_HEP_drugbank$Name)
+
+Not_found_total <- c(Not_found_HIV,Not_found_HEP, Not_found_CANCER)
+Not_found_total <- unique(Not_found_total)
+```
+
+
+We will do manual annotations of the following not found identifiers and check if they do have ATC code.
+For this mapping, we will work directly with the ATC index.
+
+
+```{r}
+Index_liverpool <- data.frame(Name = character(),
+                              Drugbank = character(),
+                              stringsAsFactors = FALSE
+                              )
+
+Index_liverpool <- rbind(Index_CANCER_drugbank,Index_HEP_drugbank,Index_HIV_drugbank)
+Index_liverpool <- unique(Index_liverpool)
+
+#Matching the Drugbank codes (The ones that we have at the moment) with the ATC codes.
+Drug_ATC_codes_DB <- read_csv("Identifiers/Drug_ATC_codes_DB.csv")
+Index_liverpool <- merge(Index_liverpool, Drug_ATC_codes_DB[,c(1,10)], by.x = "Drugbank", by.y = "parent_key")
+#Now we eliminate the drugbank code, as the following names are going to be mapped directly to their ATC codes.
+Index_liverpool <- Index_liverpool[,2:3]
+
+####################################################################################
+#After doing the manual annotations (Last chunk)
+```
+
+# Now we start with the subsetting with the clinical data
+
+Importing the clinical data
+```{r}
+clinicaldrugpairs_counts <-
+  read_delim("Identifiers//clinicaldrugpairs_counts.tsv", 
+  "\t", 
+  escape_double = FALSE, 
+  trim_ws = TRUE)
+```
+
+
+
+```{r}
+DDI_CANCER <- merge(DDI_CANCER[,2:5],Index_liverpool, by.x = 'Drug_1', by.y = 'Name')
+DDI_CANCER <- merge(DDI_CANCER,Index_liverpool, by.x = 'drug2', by.y = 'Name')
+DDI_CANCER <- unique(DDI_CANCER)
+DDI_CANCER[,3] <- gsub("[\n]","",DDI_CANCER[,3])
+DDI_CANCER[,4] <- gsub("[\n]","",DDI_CANCER[,4])
+  #Cancer database contains 69440 DDIs
+
+# Doing ATC duplicates
+Table1 <- DDI_CANCER
+Table2 <- DDI_CANCER[c(2:1,3,4)]
+colnames(Table1) <- c("drug", "codrug", "Level_of_interaction", "Quality_of_interaction")
+colnames(Table2) <- c("drug", "codrug", "Level_of_interaction", "Quality_of_interaction")
+
+DDI_CANCER <- rbind(Table1,Table2)
+
+DDI_CANCER <-merge(
+  DDI_CANCER,
+  clinicaldrugpairs_counts[,1:2],
+  by = c("drug", "codrug")
+  )
+
+# Adding the pair of ATC joined
+DDI_CANCER$ATC_vector <-paste(
+  DDI_CANCER$drug,
+  DDI_CANCER$codrug, 
+  sep = "_")
+
+# Adding level 1 ATC
+DDI_CANCER$level_1_atc_drug <- substr(DDI_CANCER$drug,1,1)
+DDI_CANCER$level_1_atc_codrug <- substr(DDI_CANCER$codrug,1,1)
+
+
+
+
+# Writting whole dataset to clinical data
+write_csv(DDI_CANCER,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_dataset/CANCER_DDI.txt")
+
+# Writting vector of ATCs 
+filese <- file("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_atc_vector/CANCER_vector.txt")
+writeLines(c(DDI_CANCER$ATC_vector), filese)
+close(filese)
+
+# Writting clinical_significance
+write_csv(DDI_CANCER[,c(1:3,6,7)],
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Clinical_significance/CANCER_clinical_significance_DDI.txt",
+          col_names = FALSE)
+
+# Writting evidence level
+write_csv(DDI_CANCER[,c(1,2,4,6,7)],
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Evidence_level/CANCER_evidence_level_DDI.txt",
+          col_names = FALSE)
+
+```
+
+
+
+```{r}
+DDI_HIV <- merge(DDI_HIV[,2:5],Index_liverpool, by.x = 'Drug_1', by.y = 'Name')
+DDI_HIV <- merge(DDI_HIV,Index_liverpool, by.x = 'drug2', by.y = 'Name')
+DDI_HIV <- DDI_HIV[,c(5,6,3,4)]
+DDI_HIV <- unique(DDI_HIV)
+  #HIV database contains 53287 DDIs
+
+# Doing ATC duplicates
+Table1 <- DDI_HIV
+Table2 <- DDI_HIV[c(2:1,3,4)]
+colnames(Table1) <- c("drug", "codrug", "Level_of_interaction", "Quality_of_interaction")
+colnames(Table2) <- c("drug", "codrug", "Level_of_interaction", "Quality_of_interaction")
+
+DDI_HIV <- rbind(Table1,Table2)
+
+DDI_HIV <-merge(
+  DDI_HIV,
+  clinicaldrugpairs_counts[,1:2],
+  by = c("drug", "codrug")
+  )
+
+# Adding the pair of ATC joined
+DDI_HIV$ATC_vector <-paste(
+  DDI_HIV$drug,
+  DDI_HIV$codrug, 
+  sep = "_")
+
+# Adding level 1 ATC
+DDI_HIV$level_1_atc_drug <- substr(DDI_HIV$drug,1,1)
+DDI_HIV$level_1_atc_codrug <- substr(DDI_HIV$codrug,1,1)
+
+
+
+# Writting whole dataset to clinical data
+write_csv(DDI_HIV,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_dataset/HIV_DDI.txt")
+
+# Writting vector of ATCs 
+filese <- file("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_atc_vector/HIV_vector.txt")
+writeLines(c(DDI_HIV$ATC_vector), filese)
+close(filese)
+
+# Writting clinical_significance
+write_csv(DDI_HIV[,c(1:3,6,7)],
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Clinical_significance/HIV_clinical_significance_DDI.txt",
+          col_names = FALSE)
+
+# Writting evidence level
+write_csv(DDI_HIV[,c(1,2,4,6,7)],
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Evidence_level/HIV_evidence_level_DDI.txt",
+          col_names = FALSE)
+
+```
+
+
+
+```{r}
+DDI_HEP <- merge(DDI_HEP[,2:5],Index_liverpool, by.x = 'Drug_1', by.y = 'Name')
+DDI_HEP <- merge(DDI_HEP,Index_liverpool, by.x = 'drug2', by.y = 'Name')
+DDI_HEP <- DDI_HEP[,c(5,6,3,4)]
+DDI_HEP <- unique(DDI_HEP)
+  #HEP database contains 43013 DDIs
+
+# Doing ATC duplicates
+Table1 <- DDI_HEP
+Table2 <- DDI_HEP[c(2:1,3,4)]
+colnames(Table1) <- c("drug", "codrug", "Level_of_interaction", "Quality_of_interaction")
+colnames(Table2) <- c("drug", "codrug", "Level_of_interaction", "Quality_of_interaction")
+
+DDI_HEP <- rbind(Table1,Table2)
+
+DDI_HEP <-merge(
+  DDI_HEP,
+  clinicaldrugpairs_counts[,1:2],
+  by = c("drug", "codrug")
+  )
+
+# Adding the pair of ATC joined
+DDI_HEP$ATC_vector <-paste(
+  DDI_HEP$drug,
+  DDI_HEP$codrug, 
+  sep = "_")
+
+# Adding level 1 ATC
+DDI_HEP$level_1_atc_drug <- substr(DDI_HEP$drug,1,1)
+DDI_HEP$level_1_atc_codrug <- substr(DDI_HEP$codrug,1,1)
+
+
+
+# Writting whole dataset to clinical data
+write_csv(DDI_HEP,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_dataset/HEP_DDI.txt")
+
+# Writting vector of ATCs 
+filese <- file("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_atc_vector/HEP_vector.txt")
+writeLines(c(DDI_HEP$ATC_vector), filese)
+close(filese)
+
+# Writting clinical_significance
+write_csv(DDI_HEP[,c(1:3,6,7)],
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Clinical_significance/HEP_clinical_significance_DDI.txt",
+          col_names = FALSE)
+
+# Writting evidence level
+write_csv(DDI_HEP[,c(1,2,4,6,7)],
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Evidence_level/HEP_evidence_level_DDI.txt",
+          col_names = FALSE)
+
+```
+
+
+
+
+Starting manual annotations with the *not_found_total* (ATC index 2017)
+```{r}
+Index_liverpool <- rbind(Index_liverpool,c("Abacavir (ABC)", "J05AF06"))
+Index_liverpool <- rbind(Index_liverpool,c("Atazanavir alone (ATV)", "J05AE08"))
+Index_liverpool <- rbind(Index_liverpool,c("Atazanavir/cobicistat (ATV/c)", "J05AR15"))
+Index_liverpool <- rbind(Index_liverpool,c("Darunavir/cobicistat (DRV/c)", "J05AR14"))
+Index_liverpool <- rbind(Index_liverpool,c("Didanosine (ddI)", "J05AF02"))
+Index_liverpool <- rbind(Index_liverpool,c("Dolutegravir (DTG)", "J05AX12"))
+Index_liverpool <- rbind(Index_liverpool,c("Dolutegravir/Abacavir/ Lamivudine (DTG/ABC/3TC)", "J05AR13"))
+Index_liverpool <- rbind(Index_liverpool,c("Efavirenz (EFV)", "J05AG03"))
+Index_liverpool <- rbind(Index_liverpool,c("Elvitegravir/Cobicistat/ Emtricitabine/Tenofovir-DF (EVG/c/FTC/TDF)", "J05AR09"))
+Index_liverpool <- rbind(Index_liverpool,c("Elvitegravir/Cobicistat/ Emtricitabine/Tenofovir alafenamide (EVG/c/FTC/TAF)", "J05AR18"))
+Index_liverpool <- rbind(Index_liverpool,c("Emtricitabine (FTC)", "J05AF09"))
+Index_liverpool <- rbind(Index_liverpool,c("Emtricitabine/Tenofovir-DF (FTC/TDF, PrEP)", "J05AR03"))
+Index_liverpool <- rbind(Index_liverpool,c("Emtricitabine/Tenofovir alafenamide (FTC/TAF, PrEP)", "J05AR17"))
+Index_liverpool <- rbind(Index_liverpool,c("Etravirine (ETV)", "J05AG04"))
+Index_liverpool <- rbind(Index_liverpool,c("Fosamprenavir (FPV)", "J05AE07"))
+Index_liverpool <- rbind(Index_liverpool,c("Indinavir (IDV)", "J05AE02"))
+Index_liverpool <- rbind(Index_liverpool,c("Lamivudine (3TC)", "J05AF05"))
+Index_liverpool <- rbind(Index_liverpool,c("Lopinavir (LPV)", "J05AR10"))
+Index_liverpool <- rbind(Index_liverpool,c("Maraviroc (MVC)", "J05AX09"))
+Index_liverpool <- rbind(Index_liverpool,c("Nevirapine (NVP)", "J05AG01"))
+Index_liverpool <- rbind(Index_liverpool,c("Raltegravir (RAL)", "J05AX08"))
+Index_liverpool <- rbind(Index_liverpool,c("Rilpivirine (RPV)", "J05AG05"))
+Index_liverpool <- rbind(Index_liverpool,c("Rilpivirine/ Emtricitabine/Tenofovir alafenamide (RPV/FTC/TAF)", "J05AR19"))
+Index_liverpool <- rbind(Index_liverpool,c("Ritonavir (RTV)", "J05AE03"))
+Index_liverpool <- rbind(Index_liverpool,c("Saquinavir (SQV)", "J05AE01"))
+Index_liverpool <- rbind(Index_liverpool,c("Stavudine (d4T)", "J05AF04"))
+Index_liverpool <- rbind(Index_liverpool,c("Tenofovir-DF (TDF)", "J05AF07"))
+Index_liverpool <- rbind(Index_liverpool,c("Tipranavir (TPV)", "J05AE09"))
+Index_liverpool <- rbind(Index_liverpool,c("Zidovudine (AZT/ZDV)", "J05AF01"))
+Index_liverpool <- rbind(Index_liverpool,c("Aciclovir (Acyclovir)", "J05AB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Aciclovir (Acyclovir)", "S01AD03"))
+Index_liverpool <- rbind(Index_liverpool,c("Aciclovir (Acyclovir)", "D06BB03"))
+Index_liverpool <- rbind(Index_liverpool,c("Aclidinium bromide", "R03BB05"))
+Index_liverpool <- rbind(Index_liverpool,c("Adrenaline (Epinephrine)", "A01AD01")) #
+Index_liverpool <- rbind(Index_liverpool,c("Adrenaline (Epinephrine)", "B02BC09"))
+Index_liverpool <- rbind(Index_liverpool,c("Adrenaline (Epinephrine)", "C01CA24"))
+Index_liverpool <- rbind(Index_liverpool,c("Adrenaline (Epinephrine)", "R01AA14"))
+Index_liverpool <- rbind(Index_liverpool,c("Adrenaline (Epinephrine)", "R03AA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Adrenaline (Epinephrine)", "S01EA01"))  
+Index_liverpool <- rbind(Index_liverpool,c("Alendronic Acid", "M05BA04")) 
+Index_liverpool <- rbind(Index_liverpool,c("Antacids","A02A")) #
+Index_liverpool <- rbind(Index_liverpool,c("Antacids","A02AA"))
+Index_liverpool <- rbind(Index_liverpool,c("Antacids","A02AA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Antacids","A02AA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Antacids","A02AA03"))
+Index_liverpool <- rbind(Index_liverpool,c("Antacids","A02AA04"))
+Index_liverpool <- rbind(Index_liverpool,c("Antacids","A02AA05"))
+Index_liverpool <- rbind(Index_liverpool,c("Asparaginase","L01XX02"))
+Index_liverpool <- rbind(Index_liverpool,c("Aspirin (Analgesic)","N02BA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Aspirin (Anti-platelet)","B01AC06"))
+Index_liverpool <- rbind(Index_liverpool,c("Beclometasone","A07EA07")) #
+Index_liverpool <- rbind(Index_liverpool,c("Beclometasone","D07AC15"))
+Index_liverpool <- rbind(Index_liverpool,c("Beclometasone","R01AD01"))
+Index_liverpool <- rbind(Index_liverpool,c("Beclometasone","R03BA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Bupropion (Amfebutamone)","N06AX12"))
+Index_liverpool <- rbind(Index_liverpool,c("Caffeine citrate","N06BC01"))
+Index_liverpool <- rbind(Index_liverpool,c("Calcium folinate","V03AF03"))
+Index_liverpool <- rbind(Index_liverpool,c("Cannabidiol (CBD)","N02BG10"))
+Index_liverpool <- rbind(Index_liverpool,c("Cefalexin","J01DB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Chlorphenamine","R06AB04"))
+Index_liverpool <- rbind(Index_liverpool,c("chlortalidone","C03BB04"))
+Index_liverpool <- rbind(Index_liverpool,c("Ciclosporin (Cyclosporine)","L04AD01"))
+Index_liverpool <- rbind(Index_liverpool,c("Ciclosporin (Cyclosporine)","S01XA18"))
+Index_liverpool <- rbind(Index_liverpool,c("Clomipramine (Chlorimipramine)", "N06AA04"))
+Index_liverpool <- rbind(Index_liverpool,c("Desogestrel (COC)", "G03AA09"))
+Index_liverpool <- rbind(Index_liverpool,c("Desogestrel (POP)", "G03AC09"))
+Index_liverpool <- rbind(Index_liverpool,c("Diamorphine (diacetylmorphine)", "N07BC06"))
+  Index_liverpool <- rbind(Index_liverpool,c("Drospirenone (COC)", "G03AA12"))
+Index_liverpool <- rbind(Index_liverpool,c("Drospirenone (HRT)", "G03FA17"))
+Index_liverpool <- rbind(Index_liverpool,c("Doxorubicin (Liposomal)","L01DB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Dydrogesterone (HRT)", "G03FA14"))
+Index_liverpool <- rbind(Index_liverpool,c("Elbasvir/Grazoprevir", "J05AX68"))
+Index_liverpool <- rbind(Index_liverpool,c("Enfuvirtide (T20)", "J05AX07"))
+Index_liverpool <- rbind(Index_liverpool,c("Ergometrine (Ergonovine)", "G02AB03"))
+Index_liverpool <- rbind(Index_liverpool,c("Etonogestrel (implant)", "G03AC08"))
+Index_liverpool <- rbind(Index_liverpool,c("Folic acid [alone]", "B03BB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Glibenclamide (Glyburide)", "A10BB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Glyceryl trinitrate (Nitroglycerin)", "C01DA02"))#
+Index_liverpool <- rbind(Index_liverpool,c("Glyceryl trinitrate (Nitroglycerin)", "C05AE01")) 
+Index_liverpool <- rbind(Index_liverpool,c("Glycopyrronium bromide", "A03AB02"))
+Index_liverpool <- rbind(Index_liverpool,c("Glycopyrronium bromide", "R03BB06"))
+Index_liverpool <- rbind(Index_liverpool,c("Hydrocortisone (topical)","C05AA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Hydrocortisone (oral)","H02AB09"))
+Index_liverpool <- rbind(Index_liverpool,c("Hydroxyurea (Hydroxycarbamide)","L01XX05"))
+Index_liverpool <- rbind(Index_liverpool,c("Ibandronic acid","M05BA06"))
+Index_liverpool <- rbind(Index_liverpool,c("Imipenem/Cilastatin","J01DH51")) 
+Index_liverpool <- rbind(Index_liverpool,c("Interleukin 2 (Aldesleukin)","L03AC01"))
+Index_liverpool <- rbind(Index_liverpool,c("Ibalizumab-uiyk","J05AX23"))
+Index_liverpool <- rbind(Index_liverpool,c("Ledipasvir/Sofosbuvir","J05AX65"))
+Index_liverpool <- rbind(Index_liverpool,c("Leuprorelin","L02AE02"))
+Index_liverpool <- rbind(Index_liverpool,c("Levamisole (Ergamisol)","P02CE01"))
+Index_liverpool <- rbind(Index_liverpool,c("Levomepromazine","N05AA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Lidocaine (Lignocaine)","C05AD01"))#
+Index_liverpool <- rbind(Index_liverpool,c("Lidocaine (Lignocaine)","D04AB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Lidocaine (Lignocaine)","N01BB02"))
+Index_liverpool <- rbind(Index_liverpool,c("Lidocaine (Lignocaine)","R02AD02"))
+Index_liverpool <- rbind(Index_liverpool,c("Lidocaine (Lignocaine)","S01HA07"))
+Index_liverpool <- rbind(Index_liverpool,c("Lidocaine (Lignocaine)","S02DA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Lithium","N05AN01"))
+Index_liverpool <- rbind(Index_liverpool,c("Medroxyprogesterone (depot injection)","G03AC06"))
+Index_liverpool <- rbind(Index_liverpool,c("Mesna","V03AF01"))
+Index_liverpool <- rbind(Index_liverpool,c("Methotrexate (Amethopterin)","L01BA01"))#
+Index_liverpool <- rbind(Index_liverpool,c("Methotrexate (Amethopterin)","L04AX03"))
+Index_liverpool <- rbind(Index_liverpool,c("Medroxyprogesterone (oral)","L02AB02"))
+Index_liverpool <- rbind(Index_liverpool,c("Midazolam (oral)","N05CD08"))
+Index_liverpool <- rbind(Index_liverpool,c("Midazolam (parenteral)","N05CD08"))
+Index_liverpool <- rbind(Index_liverpool,c("Multivitamins","A11A")) #
+Index_liverpool <- rbind(Index_liverpool,c("Multivitamins","A11AA"))
+Index_liverpool <- rbind(Index_liverpool,c("Multivitamins","A11AA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Multivitamins","A11AA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Multivitamins","A11AA03"))
+Index_liverpool <- rbind(Index_liverpool,c("Multivitamins","A11AA04"))
+Index_liverpool <- rbind(Index_liverpool,c("Multivitamins","A11AB"))
+Index_liverpool <- rbind(Index_liverpool,c("Multivitamins","A11B"))
+Index_liverpool <- rbind(Index_liverpool,c("Multivitamins","A11BA"))
+Index_liverpool <- rbind(Index_liverpool,c("Norgestimate (COC)","G03AA11")) 
+Index_liverpool <- rbind(Index_liverpool,c("Ombitasvir/Paritaprevir/r","J05AX67")) 
+Index_liverpool <- rbind(Index_liverpool,c("Ombitasvir/Paritaprevir/r + Dasabuvir","J05AX66"))
+Index_liverpool <- rbind(Index_liverpool,c("Para-aminosalicylic acid","J04AA01")) 
+Index_liverpool <- rbind(Index_liverpool,c("Paracetamol (Acetaminophen)","N02BE01"))
+Index_liverpool <- rbind(Index_liverpool,c("Pethidine (Meperidine)","N02AB02"))
+Index_liverpool <- rbind(Index_liverpool,c("Phenobarbital (Phenobarbitone)","N03AA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Poppers (Amyl nitrate)","V03AB22"))
+Index_liverpool <- rbind(Index_liverpool,c("Protamine sulphate","V03AB14"))
+Index_liverpool <- rbind(Index_liverpool,c("Senna","A06AB06"))
+Index_liverpool <- rbind(Index_liverpool,c("Sildenafil (Erectile Dysfunction)","G04BE03"))
+Index_liverpool <- rbind(Index_liverpool,c("Sodium nitroprusside","C02DD01"))
+Index_liverpool <- rbind(Index_liverpool,c("Sofosbuvir/Velpatasvir","J05AX15"))
+Index_liverpool <- rbind(Index_liverpool,c("Suramin sodium","P01CX02"))
+Index_liverpool <- rbind(Index_liverpool,c("Suxamethonium (Succinylcholine)","M03AB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Tadalafil (Erectile Dysfunction)","G04BE08"))
+Index_liverpool <- rbind(Index_liverpool,c("Tenofovir alafenamide (HBV)","J05AF13"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA01"))#
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA03"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA04"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA05"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA06"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA07"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA08"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA09"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA10"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA11"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA12"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA20"))
+Index_liverpool <- rbind(Index_liverpool,c("Tetracyclines","J01AA56"))
+Index_liverpool <- rbind(Index_liverpool,c("Tiotropium bromide","R03BB04"))
+Index_liverpool <- rbind(Index_liverpool,c("Trimethoprim/Sulfamethoxazole","J01EE01"))
+Index_liverpool <- rbind(Index_liverpool,c("Umeclidinium bromide","R03BB07"))
+Index_liverpool <- rbind(Index_liverpool,c("Valproate","N03AG01"))
+Index_liverpool <- rbind(Index_liverpool,c("Vardenafil (Erectile Dysfunction)","G04BE09"))
+Index_liverpool <- rbind(Index_liverpool,c("Ascorbic Acid (Vitamin C) [alone]","A11GA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Colecalciferol (Vitamin D3) [alone]","A11CC05"))
+Index_liverpool <- rbind(Index_liverpool,c("Phytomenadione (Vitamin K) [alone]","B02BA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Nicotinamide (Niacinamide) [alone]","A11HA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Tocopherol (Vitamin E) [alone]","A11HA03"))
+Index_liverpool <- rbind(Index_liverpool,c("Thiamine (Vitamin B1) [alone]","A11DA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Retinol (Vitamin A) [alone]" ,"A11CA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Pyridoxine (Vitamin B6) [alone]","A11HA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Cyanocobalamin (Vitamin B12) [alone]","B03BA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Riboflavin (Vitamin B2) [alone]","A11HA04"))
+Index_liverpool <- rbind(Index_liverpool,c("Lamivudine (HBV)","J05AF05"))
+Index_liverpool <- rbind(Index_liverpool,c("Tenofovir-DF (HBV)","J05AF07"))
+Index_liverpool <- rbind(Index_liverpool,c("Aciclovir","D06BB03"))#
+Index_liverpool <- rbind(Index_liverpool,c("Aciclovir","J05AB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Aciclovir","S01AD03"))
+Index_liverpool <- rbind(Index_liverpool,c("Aluminium hydroxide","A02AB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Alverine citrate","A03AX08"))
+Index_liverpool <- rbind(Index_liverpool,c("Ascorbic acid (Vitamin C)","A11GA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Aspirin","A01AD05"))
+Index_liverpool <- rbind(Index_liverpool,c("Atazanavir alone","J05AE08"))
+Index_liverpool <- rbind(Index_liverpool,c("Atazanavir/cobicistat","J05AR15"))
+Index_liverpool <- rbind(Index_liverpool,c("Azilsartan","C09CA09"))
+Index_liverpool <- rbind(Index_liverpool,c("Benzatropine","N04AC01"))
+Index_liverpool <- rbind(Index_liverpool,c("Calcitonin","H05BA03"))
+Index_liverpool <- rbind(Index_liverpool,c("Ceftaroline","J01DI02"))
+Index_liverpool <- rbind(Index_liverpool,c("Clobetasol (topical)","D07AD01"))
+Index_liverpool <- rbind(Index_liverpool,c("Clobetasone (topical)","D07AB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Clobetasone (topical)","S01BA09"))
+Index_liverpool <- rbind(Index_liverpool,c("Clodronate","M05BA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Clotiapine","N05AH06"))
+Index_liverpool <- rbind(Index_liverpool,c("Colecalciferol (Vitamin D)","A11CC05"))
+Index_liverpool <- rbind(Index_liverpool,c("Colestyramine","C10AC01"))
+Index_liverpool <- rbind(Index_liverpool,c("Cyanocobalamin (Vitamin B12)","B03BA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Darbepoetin","B03XA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Darunavir/cobicistat","J05AR14"))
+Index_liverpool <- rbind(Index_liverpool,c("Dexamfetamine","N06BA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Dolutegravir/rilpivirine","N06BA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Doravirine/Lamivudine/Tenofovir-DF","J05AR24"))
+Index_liverpool <- rbind(Index_liverpool,c("Emtricitabine/Tenofovir alafenamide (FTC/TAF)","J05AR17"))
+Index_liverpool <- rbind(Index_liverpool,c("Ergometrine (ergonovine)","G02AB03"))
+Index_liverpool <- rbind(Index_liverpool,c("Gadopentetate (gadolinium)","V08CA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Hyoscine","A04AD01"))
+Index_liverpool <- rbind(Index_liverpool,c("Hyoscine","S01FA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Indometacin","C01EB03"))
+Index_liverpool <- rbind(Index_liverpool,c("Indometacin","M02AA23"))
+Index_liverpool <- rbind(Index_liverpool,c("Lamivudine (HIV)","J05AF05"))
+Index_liverpool <- rbind(Index_liverpool,c("Lumacaftor/Ivacaftor","R07AX30"))
+Index_liverpool <- rbind(Index_liverpool,c("Macrogol","A06AD15"))
+Index_liverpool <- rbind(Index_liverpool,c("Metamizole (Dipyrone)","N02BB02"))
+Index_liverpool <- rbind(Index_liverpool,c("Methylergonovine","G02AB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Milk thistle (Silymarin)","A05BA03"))
+Index_liverpool <- rbind(Index_liverpool,c("Nusinersan","M09AX07"))
+Index_liverpool <- rbind(Index_liverpool,c("Pamidronate","M05BA03"))
+Index_liverpool <- rbind(Index_liverpool,c("Retigabine","N03AX21"))
+Index_liverpool <- rbind(Index_liverpool,c("Retinol (Vitamin A)","A11CA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Riboflavin (Vitamin B2)","A11HA04"))
+Index_liverpool <- rbind(Index_liverpool,c("Risedronate","M05BA07"))
+Index_liverpool <- rbind(Index_liverpool,c("Sultiame","N03AX03"))
+Index_liverpool <- rbind(Index_liverpool,c("Tenofovir-DF (HIV)","J05AF07"))
+Index_liverpool <- rbind(Index_liverpool,c("Tranexamic Acid","B02AA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Trimethoprim/ Sulfamethoxazole","J01EE01"))
+Index_liverpool <- rbind(Index_liverpool,c("Zuclopentixol","N05AF05"))
+Index_liverpool <- rbind(Index_liverpool,c("Norelgestromin/ethinylestradiol (patch)","G03AA13"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone (Norethindrone)/ethinylestradiol (COC)","G03AA05"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone (Norethindrone)/estradiol (HRT)","G03FA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Norgestimate/ethinylestradiol (COC)","G03AA11"))
+Index_liverpool <- rbind(Index_liverpool,c("Conjugated estrogens (HRT)","G03CA57"))
+Index_liverpool <- rbind(Index_liverpool,c("Norgestrel/ethinylestradiol (COC)","G03AA06"))
+Index_liverpool <- rbind(Index_liverpool,c("Drospirenone/ethinylestradiol (COC)","G03AA12"))
+Index_liverpool <- rbind(Index_liverpool,c("Drospirenone/estradiol (HRT)","G03FA17"))
+Index_liverpool <- rbind(Index_liverpool,c("Desogestrel/ethinylestradiol (COC)","G03AA09"))
+Index_liverpool <- rbind(Index_liverpool,c("Dydrogesterone/estradiol (HRT)","G03FA14"))
+Index_liverpool <- rbind(Index_liverpool,c("Gestodene/ethinylestradiol (COC)","G03AA10"))
+Index_liverpool <- rbind(Index_liverpool,c("Medroxyprogesterone/estradiol (HRT)","G03FA12"))
+Index_liverpool <- rbind(Index_liverpool,c("5-fluorouracil","L01BC02"))
+Index_liverpool <- rbind(Index_liverpool,c("Trastuzumab emtansine","L01XC14"))
+Index_liverpool <- rbind(Index_liverpool,c("Acetylsalicylic acid","A01AD05"))
+Index_liverpool <- rbind(Index_liverpool,c("Everolimus (Immunosuppressant)","L04AA18"))
+Index_liverpool <- rbind(Index_liverpool,c("Nicotinamide (Niacinamide)","A11HA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Phytomenadione (Vitamin K)","B02BA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Pyridoxine (Vitamin B6)","A11HA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Valproic acid (Valproate)","N03AG01"))
+
+
+
+Index_liverpool <- rbind(Index_liverpool,c("Bictegravir/ Emtricitabine/Tenofovir alafenamide (BIC/FTC/TAF)","J05AR20"))
+Index_liverpool <- rbind(Index_liverpool,c("Dolutegravir/Rilpivirine (DTG/RPV)","J05AR21"))
+Index_liverpool <- rbind(Index_liverpool,c("Dolutegravir/rilpivirine","J05AR21"))
+Index_liverpool <- rbind(Index_liverpool,c("Darunavir/Cobicistat/ Emtricitabine/Tenofovir alafenamide (DRV/c/FTC/TAF)","J05AR22"))
+Index_liverpool <- rbind(Index_liverpool,c("Atazanavir + ritonavir (ATV/r)","J05AR23"))
+Index_liverpool <- rbind(Index_liverpool,c("Atazanavir + ritonavir","J05AR23"))
+Index_liverpool <- rbind(Index_liverpool,c("Doravirine/Lamivudine/ Tenofovir-DF (DOR/3TC/TDF)","J05AR24"))
+Index_liverpool <- rbind(Index_liverpool,c("Dolutegravir/Lamivudine (DTG/3TC)","J05AR25"))
+Index_liverpool <- rbind(Index_liverpool,c("Darunavir + ritonavir (DRV/r)","J05AR26"))
+Index_liverpool <- rbind(Index_liverpool,c("Darunavir + ritonavir","J05AR26"))
+Index_liverpool <- rbind(Index_liverpool,c("Sofosbuvir/Velpatasvir/Voxilaprevir","J05AP56"))
+Index_liverpool <- rbind(Index_liverpool,c("Glecaprevir/Pibrentasvir","J05AP57"))
+Index_liverpool <- rbind(Index_liverpool,c("Glecaprevir/Pibrentasvir","J05AP57"))
+
+
+
+Index_liverpool <- rbind(Index_liverpool,c("Doravirine (DOR)","J05AG06"))
+Index_liverpool <- rbind(Index_liverpool,c("Alcohol","D08AX08")) # = ethanol
+Index_liverpool <- rbind(Index_liverpool,c("Anti-thymocyte globulin","L04AA03"))
+Index_liverpool <- rbind(Index_liverpool,c("Anti-thymocyte globulin","L04AA04"))
+Index_liverpool <- rbind(Index_liverpool,c("Clorazepate","N05BA05"))
+Index_liverpool <- rbind(Index_liverpool,c("GHB (Gamma-hydroxybutyrate)","N07XX04")) # = sodium oxybate
+Index_liverpool <- rbind(Index_liverpool,c("Insulin","A10AB01"))#
+Index_liverpool <- rbind(Index_liverpool,c("Insulin","A10AC01"))
+Index_liverpool <- rbind(Index_liverpool,c("Insulin","A10AD01"))
+Index_liverpool <- rbind(Index_liverpool,c("Insulin","A10AE01"))
+Index_liverpool <- rbind(Index_liverpool,c("Insulin","A10AF01"))
+Index_liverpool <- rbind(Index_liverpool,c("Interferon alpha","L03AB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Ipratropium bromide","R01AX03"))
+Index_liverpool <- rbind(Index_liverpool,c("Ipratropium bromide","R03BB01"))
+Index_liverpool <- rbind(Index_liverpool,c("Mycophenolate","L04AA06"))
+Index_liverpool <- rbind(Index_liverpool,c("Mycophenolate","L04AA06"))
+
+
+
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA02"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA03"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA04"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA05"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA06"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA07"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA08"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA09"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA10"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA11"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA12"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA13"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA14"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA15"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA16"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA17"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA18"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA19"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA20"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CA51"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE01"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE02"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE03"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE04"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE05"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE06"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE07"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE08"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE09"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE10"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CE30"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CF"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CF01"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CF02"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CF03"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CF04"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CF05"))
+Index_liverpool <- rbind(Index_liverpool,c("Penicillins","J01CF06"))
+
+
+
+Index_liverpool <- rbind(Index_liverpool,c("Dihydroartemisinin","P01BE05")) # = artenimol
+Index_liverpool <- rbind(Index_liverpool,c("Epoetin alfa","B03XA01"))# = erythropoietin
+Index_liverpool <- rbind(Index_liverpool,c("Penicillin V","J01CE02"))# = phenoxymethylpenicillin
+
+Index_liverpool <- rbind(Index_liverpool,c("Etonogestrel (vaginal ring)","G03AC08"))
+Index_liverpool <- rbind(Index_liverpool,c("Gestodene (COC)","G03AA10"))
+Index_liverpool <- rbind(Index_liverpool,c("Levonorgestrel (HRT)","G03AA07"))
+Index_liverpool <- rbind(Index_liverpool,c("Levonorgestrel (HRT)","G03FA11"))
+Index_liverpool <- rbind(Index_liverpool,c("Levonorgestrel (implant)","G03AC03"))
+Index_liverpool <- rbind(Index_liverpool,c("Levonorgestrel (IUD)","G03AD01"))
+Index_liverpool <- rbind(Index_liverpool,c("Levonorgestrel (POP)","G03AC03"))
+Index_liverpool <- rbind(Index_liverpool,c("Norelgestromin (patch)","G03AA13"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone [Norethindrone] (COC)" ,"G03AA05"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone [Norethindrone] (HRT)","G03AA05"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone [Norethindrone] (HRT)","G03FA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone [Norethindrone] (IM depot injection)", "G03AC01"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone [Norethindrone] (POP)","G03DC02"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone (Norethindrone) (POP)","G03DC02"))
+Index_liverpool <- rbind(Index_liverpool,c("Norgestimate (COC)","G03AA11"))
+Index_liverpool <- rbind(Index_liverpool,c("Norgestrel (COC)","G03AA06"))
+Index_liverpool <- rbind(Index_liverpool,c("Norgestrel (HRT)","G03AA06"))
+Index_liverpool <- rbind(Index_liverpool,c("Norgestrel (HRT)","G03FA10"))
+Index_liverpool <- rbind(Index_liverpool,c("Drospirenone (POP)","G03AC10"))
+Index_liverpool <- rbind(Index_liverpool,c("Drospirenone (POP)","G03AC10"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone (Norethindrone)/mestranol (COC)","G03AA05"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone (Norethindrone) (depot injection)","G03AC01"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone (Norethindrone)/estradiol (HRT)","G03AA05"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone (Norethindrone)/estradiol (HRT)","G03FA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Medroxyprogesterone (depot injection)","G03AC06"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone (Norethindrone)/estradiol (HRT)","G03FA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone (Norethindrone)/estradiol (HRT)","G03FA01"))
+Index_liverpool <- rbind(Index_liverpool,c("Norethisterone (Norethindrone)/estradiol (HRT)","G03FA01"))
+
+
+
+
+
+```
+
+#Drugs not attached an ATC code
+
++ **Drugs with additional components (COC, HRT...)**
+[272] "Norgestrel/conjugated estrogens (HRT)"
+
+[274] "Medroxyprogesterone (oncology)"
+[280] "Medroxyprogesterone/conjugated estrogens (HRT)"
+[290] "Medroxyprogesterone (depot)"                                                 
+[291] "Medroxyprogesterone (non-depot)"
+
+
+
+
+
++ **Normal drugs**
+[72] "Droloxifene"
+[133] "Minaxolone"
+[164] "Sildenafil (Pulmonary Arterial Hypertension)" Only ATC code for erectile disfunction)
+[172] "Tadalafil (Pulmonary Arterial Hypertension)" Only ATC code for erectile disfunction)
+[253] "Simeticone"
+[289] "Live vaccines"
+
+
++ **Multivitamins**
+[48] "Ascorbic Acid (Vitamin C) [in multivitamins]" 
+[66] "Colecalciferol (Vitamin D3) [in multivitamins]"
+[68] "Cyanocobalamin (Vitamin B12) [in multivitamins]"
+[85] "Folic acid [in multivitamins]"
+[106] "Iodine [in multivitamins]"
+[136] "Nicotinamide (Niacinamide) [in multivitamins]"
+[153] "Phytomenadione (Vitamin K) [in multivitamins]"
+[156] "Pyridoxine (Vitamin B6) [in multivitamins]"
+[158] "Retinol (Vitamin A) [in multivitamins]"                                      
+[159] "Riboflavin (Vitamin B2) [in multivitamins]"
+[175] "Thiamine (Vitamin B1) [in multivitamins]"
+[182] "Tocopherol (Vitamin E) [in multivitamins]"
+
+
++ **Plants**
+[42] "African Potato"
+[45] "Aloe vera"
+[59] "Cat's Claw (Uncaria tomentosa)"
+[67] "Cubeb pepper (Piper cubeba)"
+[82] "Eucalyptus globulus"
+[83] "Fish oils"
+[88] "Ginger (Zingiber officinale)"
+[93] "Goldenseal root (Hydrastis canadensis)"
+[94] "Grapefruit juice"
+[96] "Hops (Humulus lupulus)"
+[105] "Inula racemosa"
+[120] "Liquorice (Glycyrrhiza glabra)"
+[124] "Malabar nut tree (Justicia adhatoda, Adhatoda vasica)"
+[127] "Menthol"
+[157] "Red yeast rice"
+[160] "Saw palmetto (Serenoa repens)"
+[162] "Seville orange juice"
+[168] "St John's Wort"
+[178] "Turmeric (Curcuma longa)"
+[191] "Iodine [alone]"
+[206] "Black cohosh (Actaea racemosa)"
+[230] "Goldenseal (Hydrastis canadensis)"
+[231] "Grape seed extract"
+[232] "Green tea (Camellia sinensis)"
+[235] "Ispaghula husk"
+[236] "Kava kava (Piper methysticum)"
+[250] "Serenoa repens"
+[262] "Turmeric (curcumin)"
+[288] "Green tea"
+
+
+
++ **Minerals**
+[56] "Calcium supplements"
+[108] "Iron supplements"
+[123] "Magnesium supplements"
+[208] "Calcium resonium"
+
+
+
++ **Bad drugs**
+[58] "Cannabis"
+[76] "Ecstasy (MDMA)"
+[95] "Heroin"
+[122] "LSD (Lysergic acid diethylamide)"
+[129] "Methamphetamine"
+[151] "Phencyclidine (PCP)"

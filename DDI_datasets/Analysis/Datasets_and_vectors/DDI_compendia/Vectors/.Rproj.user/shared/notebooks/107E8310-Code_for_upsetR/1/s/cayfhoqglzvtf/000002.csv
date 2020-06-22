@@ -1,0 +1,2 @@
+"0","Crediblemeds <- readLines(""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Vectors/Vector_of_Crediblemeds_DDI.txt"")"
+"0","Crediblemeds <- unique(Crediblemeds)"

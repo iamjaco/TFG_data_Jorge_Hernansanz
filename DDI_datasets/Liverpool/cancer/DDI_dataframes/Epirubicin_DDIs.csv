@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Epirubicin,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. Epirubicin does not interact with this metabolic pathway.",See Summary
+1,Epirubicin,Acenocoumarol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Acenocoumarol is mainly metabolised by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Epirubicin does not inhibit or induce CYPs.,See Summary
+2,Epirubicin,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolised by glucuronidation (by several UGTs, major UGT1A6). Epirubicin does not inhibit or induce UGTs.",See Summary
+3,Epirubicin,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). Epirubicin does not inhibit or induce CYPs.",See Summary
+4,Epirubicin,Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alendronate is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. No pharmacokinetic interaction is expected with epirubicin.,See Summary
+5,Epirubicin,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. Epirubicin does not inhibit or induce CYPs.,See Summary
+6,Epirubicin,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolised by CYP3A. Epirubicin does not inhibit or induce CYPs.,See Summary
+7,Epirubicin,Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolised and is mainly excreted unchanged in faeces. Aliskiren is also a substrate of P-gp. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+8,Epirubicin,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Epirubicin does not interact with this metabolic pathway.,See Summary
+9,Epirubicin,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. Epirubicin does not inhibit or induce CYPs.",See Summary
+10,Epirubicin,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+11,Epirubicin,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aluminium hydroxide is not metabolised. Epirubicin is unlikely to interfere with this metabolic pathway.,See Summary
+12,Epirubicin,Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolized by glucuronidation via UGTs 1A3, 1A9 and 2B7 and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Epirubicin does not inhibit or induce CYPs, UGTs or P-gp.",See Summary
+13,Epirubicin,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amikacin is eliminated by glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway. ,See Summary
+14,Epirubicin,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+15,Epirubicin,Amiodarone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amiodarone is metabolised by CYP3A4 and CYP2C8. The major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Epirubicin does not interact with this pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered. Note: due to the long half-life of amiodarone, interactions can be observed for several months after discontinuation of amiodarone. ",See Summary
+16,Epirubicin,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolised and is primarily renally eliminated (possibly via OCT). Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+17,Epirubicin,Amitriptyline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+18,Epirubicin,Amlodipine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amlodipine is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, coadministration of epirubicin and amlodipine may increase the risk of cardiotoxicity. Coadministration should be avoided. If coadministration is judged clinically necessary, use with extreme caution. Monitor closely for symptoms of cardiotoxicity.",See Summary
+19,Epirubicin,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+20,Epirubicin,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amphotericin B is not appreciably metabolised but is eliminated to a large extent in the bile. Epirubicin does not interfere with this elimination pathway. However, the European SPC for amphotericin states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Monitoring may be required.",See Summary
+21,Epirubicin,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20-40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60-80% is excreted in the urine within 6 hours. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+22,Epirubicin,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. Epirubicin does not interact with this metabolic pathway.,See Summary
+23,Epirubicin,Antacids,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Antacids are not metabolised by CYPs. Epirubicin is unlikely to interfere with this metabolic pathway.,See Summary
+24,Epirubicin,Apixaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Apixaban is a substrate of P-gp and BCRP, and is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Epirubicin does not inhibit or induce CYPs, P-gp or BCRP.",See Summary
+25,Epirubicin,Aprepitant,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Aprepitant is mainly metabolized by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Epirubicin does not inhibit or induce CYPs. During treatment, aprepitant is a moderate inhibitor of CYP3A4. After treatment, aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Both epirubicin and the active metabolite, epirubicinol, are metabolized by UGT2B7 and concentrations may decrease due to UGT2B7 induction. As the clinical relevance of this interaction is unknown, monitoring of epirubicin efficacy should be considered.",See Summary
+26,Epirubicin,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolised by CYP3A4 and CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+27,Epirubicin,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 (minor) and 2D6 (minor)). Epirubicin does not inhibit or induce CYPs or UGTs.",See Summary
+28,Epirubicin,Astemizole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+29,Epirubicin,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.",See Summary
+30,Epirubicin,Atorvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolised by CYP3A4 and is a substrate of P-gp and OATP1B1. Epirubicin does not inhibit or induce CYPs, P-gp or OATP1B1.",See Summary
+31,Epirubicin,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolised analogously to natural purines. Epirubicin does not interact with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+32,Epirubicin,Azithromycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Azithromycin is mainly eliminated via biliary excretion; animal data suggest this may occur via P-gp and MRP2. Epirubicin does not inhibit or induce P-gp or MRP2. Azithromycin is also an inhibitor of P-gp, but the clinical relevance of P-gp inhibition is unknown. Epirubicin is an in vitro substrate of P-gp and concentrations may increase due to P-gp inhibition. Monitoring for epirubicin toxicity may be required. Furthermore, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+33,Epirubicin,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Epirubicin does not interact with this metabolic pathway.",See Summary
+34,Epirubicin,Bedaquiline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Bedaquiline is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+35,Epirubicin,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. In vitro data indicate that bendroflumethiazide inhibits these renal transporters but a clinically significant interaction is unlikely in the range of observed clinical concentrations. Epirubicin does not interact with this pathway.,See Summary
+36,Epirubicin,Bepridil,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+37,Epirubicin,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+38,Epirubicin,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Half of a bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Epirubicin is unlikely to interfere with this pathway.,See Summary
+39,Epirubicin,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. Epirubicin does not interact with this metabolic or elimination pathway.,See Summary
+40,Epirubicin,Bisoprolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6, and partly eliminated unchanged in the urine. Epirubicin is unlikely to interfere with this metabolic or elimination pathway.",See Summary
+41,Epirubicin,Bosentan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bosentan is a substrate and weak inducer of CYP3A4 and CYP2C9. Epirubicin does not interact with this pathway.,See Summary
+42,Epirubicin,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may also play a role. Epirubicin does not inhibit or induce CYPs.",See Summary
+43,Epirubicin,Budesonide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+44,Epirubicin,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+45,Epirubicin,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolised by CYP2B6 and is a strong inhibitor of CYP2D6. Epirubicin does not interact with this pathway.,See Summary
+46,Epirubicin,Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+47,Epirubicin,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. Epirubicin is unlikely to interfere with these elimination pathways.",See Summary
+48,Epirubicin,Candesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+49,Epirubicin,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+50,Epirubicin,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Epirubicin does not inhibit or induce OATs.,See Summary
+51,Epirubicin,Carbamazepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carbamazepine is primarily metabolized by CYP3A4 and to a lesser extent by CYP2C8. Carbamazepine is also an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong), 1A2 (weak), 2B6 and UGT1A1. Epirubicin does not interact with this pathway.",See Summary
+52,Epirubicin,Carvedilol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additional metabolism via CYP2D6 and to a lesser extent by CYPs 2C9 and 1A2. Epirubicin does not inhibit or induce CYPs or UGTs.",See Summary
+53,Epirubicin,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non-CYP mediated pathway. Epirubicin does not interact with this metabolic pathway.,See Summary
+54,Epirubicin,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly renally eliminated unchanged by glomerular filtration and tubular secretion via OAT1 and MATE1. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+55,Epirubicin,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Epirubicin is unlikely to interfere with this elimination pathway.",See Summary
+56,Epirubicin,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefixime is renally excreted predominantly by glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+57,Epirubicin,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolised by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Epirubicin does not interact with this metabolic or elimination pathway.",See Summary
+58,Epirubicin,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftazidime is excreted predominantly by renal glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+59,Epirubicin,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Epirubicin is unlikely to interfere with this elimination pathway.",See Summary
+60,Epirubicin,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolised by CYP2C9. Epirubicin does not inhibit or induce CYPs.,See Summary
+61,Epirubicin,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion. In vitro data indicate that cetirizine is also an inhibitor of OCT2. Epirubicin is unlikely to interfere with this pathway.,See Summary
+62,Epirubicin,Chloramphenicol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chloramphenicol is predominantly glucuronidated. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Epirubicin does not interact with this pathway.",See Summary
+63,Epirubicin,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce cytochromes. Epirubicin does not interact with this pathway.",See Summary
+64,Epirubicin,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolised in the liver via CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+65,Epirubicin,Chlorpromazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Chlorpromazine is metabolised mainly by CYP2D6, but also by CYP1A2. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+66,Epirubicin,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+67,Epirubicin,Ciclosporin (Cyclosporine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ciclosporin is a substrate of CYP3A4 and P-gp and also inhibits CYP3A4 and OATP1B1. Epirubicin does not interact with this pathway.,See Summary
+68,Epirubicin,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+69,Epirubicin,Cimetidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has been studied and should be approached with caution. Cimetidine is metabolised by CYP450 enzymes. In vitro data indicate that cimetidine inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations. Cimetidine is also a weak inhibitor of CYPs 3A4, 1A2, 2D6 and 2C19. Epirubicin does not interact with this pathway. However, after coadministration with cimetidine a 50% increase in epirubicin AUC was observed. The AUC of epirubicinol, an active metabolite of epirubicin, increased by 41%. The product labels for epirubicin recommend to stop cimetidine during treatment with epirubicin. If coadministration is unavoidable, monitor closely for epirubicin toxicity. A 50% dose reduction should be considered for epirubicin.",See Summary
+70,Epirubicin,Ciprofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. It is metabolised and partially cleared through the bile and intestine. Ciprofloxacin is also a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Epirubicin does not interact with this pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+71,Epirubicin,Cisapride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Cisapride is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, coadministration with other drugs that prolong the QTc interval should be avoided. A thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring is recommended.",See Summary
+72,Epirubicin,Citalopram,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+73,Epirubicin,Clarithromycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Clarithromycin is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, clarithromycin is an inhibitor of CYP3A4 (strong) and P-gp. Epirubicin is an in vitro substrate of P-gp and concentrations may increase due to P-gp inhibition. As the clinical relevance of this interaction is unknown, monitoring for epirubicin toxicity should be considered. Furthermore, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+74,Epirubicin,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolised (likely non-CYP mediated pathway) and excreted in the urine by glomerular filtration. Epirubicin is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+75,Epirubicin,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolised in the liver via CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+76,Epirubicin,Clindamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clindamycin is metabolised by CYP3A4 and in vitro data suggest that it is a CYP3A4 inhibitor. Epirubicin does not interact with this pathway.,See Summary
+77,Epirubicin,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,See Summary
+78,Epirubicin,Clofazimine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces. In vitro data suggest that clofazimine is a CYP3A4 inhibitor. Epirubicin does not interact with this pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+79,Epirubicin,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolysed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Epirubicin does not interact with this metabolic or elimination pathway.",See Summary
+80,Epirubicin,Clomipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. Clomipramine and desmethylclomipramine are both metabolised by CYP2D6. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+81,Epirubicin,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in the form of the unchanged parent drug (40-60% of the dose). Clonidine is also a weak inhibitor of OCT2. Epirubicin is unlikely to interact with this pathway.",See Summary
+82,Epirubicin,Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. Clopidogrel is also an inhibitor of CYP2C8 (strong), CYP2B6 (weak) and of CYP2C9 (in vitro) at high concentrations. The clinical relevance of CYP2C9 inhibition is unknown. Epirubicin does not interact with this pathway.",See Summary
+83,Epirubicin,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Oxazepam is mainly glucuronidated. Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+84,Epirubicin,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion. Epirubicin is unlikely to interfere with this elimination pathway.",See Summary
+85,Epirubicin,Clozapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Epirubicin does not inhibit or induce CYPs. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. Furthermore, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+86,Epirubicin,Codeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolized by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. The metabolite morphine is a substrate of P-gp. Epirubicin does not inhibit or induce CYPs, UGTs or P-gp.",See Summary
+87,Epirubicin,Colchicine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Colchicine is metabolised by CYP3A4 and is a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp.,See Summary
+88,Epirubicin,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly renally excreted via glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+89,Epirubicin,Dabigatran,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dabigatran is transported via P-gp and is renally excreted. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+90,Epirubicin,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+91,Epirubicin,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP450 enzymes. Epirubicin does not inhibit or induce CYPs.",See Summary
+92,Epirubicin,Desipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Desipramine is metabolised by CYP2D6. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+93,Epirubicin,Desogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+94,Epirubicin,Dexamethasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dexamethasone is a substrate of CYP3A4. Dexamethasone has also been described as a weak inducer of CYP3A4. However, the induction of CYP3A4 by dexamethasone has not yet been established. Epirubicin does not interact with this pathway.",See Summary
+95,Epirubicin,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+96,Epirubicin,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolised by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Epirubicin does not inhibit or induce UGTs or P-gp.",See Summary
+97,Epirubicin,Diazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Temazepam is mainly glucuronidated. Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+98,Epirubicin,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidised by CYP2C9. Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+99,Epirubicin,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is renally eliminated via OATP4C1 and P-gp. Epirubicin does not inhibit or induce OATP4C1 and P-gp.,See Summary
+100,Epirubicin,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Epirubicin does not inhibit or induce CYPs or UGTs.",See Summary
+101,Epirubicin,Diltiazem,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Diltiazem is metabolised by CYP3A4 and CYP2D6. Diltiazem is also a moderate inhibitor of CYP3A4. Epirubicin does not interact with this pathway. However, coadministration of epirubicin and diltiazem may increase the risk of cardiotoxicity. Coadministration should be avoided. If coadministration is judged clinically necessary, use with extreme caution. Monitor closely for symptoms of cardiotoxicity.",See Summary
+102,Epirubicin,Diphenhydramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. Diphenhydramine is also a weak inhibitor of CYP2D6. Epirubicin does not interact with this pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+103,Epirubicin,Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Epirubicin does not inhibit or induce UGTs.",See Summary
+104,Epirubicin,Disopyramide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. Epirubicin is unlikely to interfere with this metabolic or elimination pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+105,Epirubicin,Dolasetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). Epirubicin does not interact with this metabolic pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+106,Epirubicin,Domperidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+107,Epirubicin,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. There is little potential for dopamine to affect disposition of dopamine, or to be affected if coadministered with dopamine.",See Summary
+108,Epirubicin,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+109,Epirubicin,Doxepin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolised to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. Doxepin and nordoxepin are metabolised by CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+110,Epirubicin,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+111,Epirubicin,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+112,Epirubicin,Drospirenone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+113,Epirubicin,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dulaglutide is degraded by endogenous endopeptidases. Epirubicin does not interact with this metabolic pathway.,See Summary
+114,Epirubicin,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolised by CYP2D6 and CYP1A2. Epirubicin does not inhibit or induce CYPs.,See Summary
+115,Epirubicin,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+116,Epirubicin,Dydrogesterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). Epirubicin does not inhibit or induce CYPs.,See Summary
+117,Epirubicin,Edoxaban,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is partially metabolised by CYP3A4 (<10%) and is transported via P-gp. Epirubicin does not inhibit or induce CYPs or P-gp.,See Summary
+118,Epirubicin,Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1 and UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+119,Epirubicin,Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is renally eliminated (possibly via OATs). Epirubicin is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+120,Epirubicin,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is predominantly renally excreted. Epirubicin does not interact with this metabolic or elimination pathway.",See Summary
+121,Epirubicin,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eprosartan is largely excreted in bile and urine as unchanged drug. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+122,Epirubicin,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor role. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+123,Epirubicin,Erythromycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Erythromycin is a substrate of CYP3A4 and P-gp. Epirubicin does not inhibit or induce CYPs or P-gp. However, erythromycin is an inhibitor of CYP3A4 (moderate) and P-gp. Epirubicin is an in vitro substrate of P-gp and concentrations may increase due to P-gp inhibition. As the clinical relevance of this interaction is unknown, monitoring for epirubicin toxicity should be considered. Furthermore, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+124,Epirubicin,Escitalopram,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+125,Epirubicin,Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4. Esomeprazole is also an inhibitor of CYP2C19. Epirubicin does not interact with this pathway.,See Summary
+126,Epirubicin,Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+127,Epirubicin,Estradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. Epirubicin does not inhibit or induce CYPs or UGTs.",See Summary
+128,Epirubicin,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolised by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and urine (50%). Epirubicin does not interact with this metabolic or elimination pathway.,See Summary
+129,Epirubicin,Ethinylestradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Epirubicin does not inhibit or induce CYPs or UGTs.",See Summary
+130,Epirubicin,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolised in the liver; animal studies suggest involvement of flavin-containing monooxygenases. Epirubicin does not interact with this metabolic pathway.,See Summary
+131,Epirubicin,Etonogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+132,Epirubicin,Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+133,Epirubicin,Exenatide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Exenatide is cleared mainly by glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+134,Epirubicin,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Epirubicin does not inhibit or induce UGTs.,See Summary
+135,Epirubicin,Famotidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Famotidine is excreted via OAT1/OAT3. Epirubicin does not inhibit or induce OATs.,See Summary
+136,Epirubicin,Felodipine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Felodipine is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, coadministration of epirubicin and felodipine may increase the risk of cardiotoxicity. Coadministration should be avoided. If coadministration is judged clinically necessary, use with extreme caution. Monitor closely for symptoms of cardiotoxicity.",See Summary
+137,Epirubicin,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolysed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Epirubicin does not interact with this pathway.",See Summary
+138,Epirubicin,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Epirubicin does not inhibit or induce CYPs.,See Summary
+139,Epirubicin,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine is a substrate of P-gp. Epirubicin does not inhibit or induce P-gp.,See Summary
+140,Epirubicin,Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+141,Epirubicin,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+142,Epirubicin,Flecainide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flecainide is metabolised mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also renally eliminated unchanged. Epirubicin is unlikely to interfere with this metabolic or elimination pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+143,Epirubicin,Flucloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Flucloxacillin is described as a CYP3A4 inducer, but the mechanism and clinical relevance of this interaction is unknown. Epirubicin does not interact with this pathway.",See Summary
+144,Epirubicin,Fluconazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fluconazole is cleared primarily by renal excretion and is also an inhibitor of CYPs 3A4 (moderate), 2C9 (moderate) and 2C19 (strong). Epirubicin does not interact with this pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+145,Epirubicin,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase to an inactive metabolite. Epirubicin does not interfere with this elimination pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Epirubicin also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+146,Epirubicin,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. Epirubicin does not inhibit or induce CYPs.",See Summary
+147,Epirubicin,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. Epirubicin does not inhibit or induce CYPs.,See Summary
+148,Epirubicin,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is mainly metabolised by CYP2D6 and CYP2C9 and to a lesser extent by CYP2C19 and CYP3A4 to form norfluoxetine. Fluoxetine is also a strong inhibitor of CYP2D6 and CYP2C19. Epirubicin does not interact with this pathway.,See Summary
+149,Epirubicin,Fluphenazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+150,Epirubicin,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Epirubicin does not inhibit or induce CYPs.,See Summary
+151,Epirubicin,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+152,Epirubicin,Fluvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvastatin is mainly metabolised by CYP2C9 (75%) and to a lesser extent by CYP3A4 (20%) and CYP2C8 (5%). Fluvastatin also potentially inhibits CYP2C9, but the clinical relevance of CYP2C9 inhibition is unknown. Epirubicin does not interact with this pathway.",See Summary
+153,Epirubicin,Fluvoxamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Fluvoxamine is also an inhibitor of CYPs 1A2 (strong), 2C19 (strong), 3A4 (moderate), 2C9 (weak-moderate) and 2D6 (weak). Epirubicin does not interact with this pathway.",See Summary
+154,Epirubicin,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is predominantly renally eliminated. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+155,Epirubicin,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation. As multiple CYP450 and UGT enzymes catalyse the transformation the potential for a pharmacokinetic interaction is low. Furthermore, epirubicin does not inhibit or induce CYPs or UGTs.",See Summary
+156,Epirubicin,Fosaprepitant,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Epirubicin does not interact with this metabolic pathway. Aprepitant is mainly metabolized by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Epirubicin does not inhibit or induce CYPs. During treatment, aprepitant is a moderate inhibitor of CYP3A4. After treatment, aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Both epirubicin and the active metabolite, epirubicinol, are metabolized by UGT2B7 and concentrations may decrease due to UGT2B7 induction. As the clinical relevance of this interaction is unknown, monitoring of epirubicin efficacy should be considered.",See Summary
+157,Epirubicin,Fosphenytoin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Epirubicin does not interact with this metabolic pathway. Phenytoin is mainly metabolized by CYP2C9 and to a lesser extent by CYP2C19. Epirubicin does not inhibit or induce CYPs. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Epirubicin is an in vitro substrate of P-gp, and both epirubicin and the active metabolite, epirubicinol, are metabolized by UGT2B7. Phenytoin may decrease epirubicin and epirubicinol concentrations due to UGT2B7 and P-gp induction. As the clinical relevance of this interaction is unknown, monitoring of epirubicin efficacy should be considered.",See Summary
+158,Epirubicin,Furosemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also renally eliminated unchanged (via OATs). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. In vitro data indicate that furosemide is also an inhibitor of the renal transporters OAT1/3. Epirubicin does not inhibit or induce UGTs or OATs.,See Summary
+159,Epirubicin,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+160,Epirubicin,Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Gemfibrozil is also an inhibitor of CYP2C8 (strong), OATP1B1 and OAT3. In vitro data indicate gemfibrozil to be a strong inhibitor of CYP2C9 but in vivo data showed no clinically relevant effect on CYP2C9. Epirubicin does not interact with this pathway.",See Summary
+161,Epirubicin,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+162,Epirubicin,Gestodene,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Epirubicin does not inhibit or induce CYPs.,See Summary
+163,Epirubicin,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. Epirubicin does not inhibit or induce CYPs.,See Summary
+164,Epirubicin,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C19. Epirubicin does not inhibit or induce CYPs.,See Summary
+165,Epirubicin,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolised by CYP2C9. Epirubicin does not inhibit or induce CYPs.,See Summary
+166,Epirubicin,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolised by CYP2C9. Epirubicin does not inhibit or induce CYPs.,See Summary
+167,Epirubicin,Granisetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Granisetron is metabolised by CYP3A4 and is a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+168,Epirubicin,Grapefruit juice,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Grapefruit juice is known to inhibit CYP3A4 enzymes. Epirubicin is not metabolised by CYPs.,See Summary
+169,Epirubicin,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+170,Epirubicin,Griseofulvin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Griseofulvin is also a liver microsomal enzyme inducer and may lower plasma levels, and therefore reduce the efficacy of concomitantly administered medicinal products that are metabolised by CYP3A4. Epirubicin does not interact with this pathway.",See Summary
+171,Epirubicin,Haloperidol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGTs 2B7>1A4, 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4 and CYP2D6). Epirubicin does not inhibit or induce CYPs or UGTs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+172,Epirubicin,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Epirubicin does not interact with this metabolic pathway.,See Summary
+173,Epirubicin,Hydralazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. In vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6. Epirubicin does not interact with this pathway.",See Summary
+174,Epirubicin,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrochlorothiazide is not metabolised but is cleared by the kidneys via OAT1. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Epirubicin does not inhibit or induce OATs.,See Summary
+175,Epirubicin,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Epirubicin does not inhibit or induce CYPs.",See Summary
+176,Epirubicin,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+177,Epirubicin,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone. ,See Summary
+178,Epirubicin,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Epirubicin does not inhibit or induce UGTs.",See Summary
+179,Epirubicin,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is metabolised in the liver and cleared via the lungs and kidneys. Epirubicin is unlikely to interfere with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+180,Epirubicin,Hydroxyzine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. Epirubicin does not interact with this metabolic pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+181,Epirubicin,Ibandronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibandronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. No pharmacokinetic interaction is expected with epirubicin.,See Summary
+182,Epirubicin,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+183,Epirubicin,Iloperidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Iloperidone is metabolised by CYP3A4 and CYP2D6. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+184,Epirubicin,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent by active tubular secretion. Epirubicin is unlikely to interfere with these elimination pathways.,See Summary
+185,Epirubicin,Imipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+186,Epirubicin,Indapamide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Indapamide is extensively metabolised by CYP450s. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Epirubicin does not inhibit or induce CYPs or OATs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+187,Epirubicin,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+188,Epirubicin,Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has been studied and care should be taken. After coadministration with interferon alpha 2b, epirubicin AUC increased by 28%. No a priori dose adjustment is recommended. However, monitoring for epirubicin toxicity should be considered. Furthermore, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+189,Epirubicin,Interleukin 2 (Aldesleukin),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+190,Epirubicin,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Epirubicin does not interact with this metabolic pathway.,See Summary
+191,Epirubicin,Irbesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolised by glucuronidation and oxidation (mainly CYP2C9). Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+192,Epirubicin,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+193,Epirubicin,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Epirubicin does not interact with this metabolic pathway.,See Summary
+194,Epirubicin,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Epirubicin does not inhibit or induce CYPs.,See Summary
+195,Epirubicin,Itraconazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Itraconazole is primarily metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, itraconazole is an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Epirubicin is an in vitro substrate of P-gp and concentrations may increase due to P-gp inhibition. As the clinical relevance of this interaction is unknown, monitoring for epirubicin toxicity should be considered.",See Summary
+196,Epirubicin,Ivabradine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ivabradine is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+197,Epirubicin,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+198,Epirubicin,Ketoconazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Ketoconazole is a substrate of CYP3A4. Epirubicin does not inhibit or induce CYPs. However, ketoconazole is an inhibitor of CYP3A4 (strong) and P-gp. Epirubicin is an in vitro substrate of P-gp and concentrations may increase due to P-gp inhibition. As the clinical relevance of this interaction is unknown, monitoring for epirubicin toxicity should be considered. Furthermore, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+199,Epirubicin,Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Epirubicin does not inhibit or induce UGTs.,See Summary
+200,Epirubicin,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+201,Epirubicin,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. Epirubicin does not interact with this metabolic pathway.,See Summary
+202,Epirubicin,Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+203,Epirubicin,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is mainly metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+204,Epirubicin,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion. Epirubicin is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+205,Epirubicin,Levofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Levofloxacin is renally eliminated mainly by glomerular filtration and active secretion (possibly OCT2). Epirubicin is unlikely to interfere with this elimination pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+206,Epirubicin,Levomepromazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Levomepromazine is metabolised by CYP2D6. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+207,Epirubicin,Levonorgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+208,Epirubicin,Levonorgestrel (Emergency Contraception),"
+Potential Interaction
+","
+Very Low
+","Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. However, the use of levonorgestrel as emergency contraception is a relative contraindication due to the risk of a pregnancy while having a hormone sensitive tumour. Therefore, the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Epirubicin does not inhibit or induce CYPs or UGTs.",See Summary
+209,Epirubicin,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolised by deiodination (by enzymes of deiodinase family) and glucuronidation. Epirubicin does not interact with this metabolic pathway.,See Summary
+210,Epirubicin,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+211,Epirubicin,Linagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor metabolic pathway. Linagliptin is also a substrate of P-gp and is a weak inhibitor of CYP3A4. Epirubicin does not interact with this pathway.,See Summary
+212,Epirubicin,Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. Epirubicin is unlikely to interfere with this metabolic pathway.,See Summary
+213,Epirubicin,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Liraglutide is degraded by endogenous endopeptidases. Epirubicin does not interact with this pathway.,See Summary
+214,Epirubicin,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is renally eliminated unchanged via glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+215,Epirubicin,Lithium,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate. Therefore, no pharmacokinetic interaction is expected. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+216,Epirubicin,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalised infections can occur.",See Summary
+217,Epirubicin,Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8, and is a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp.",See Summary
+218,Epirubicin,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+219,Epirubicin,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam undergoes non-CYP mediated elimination. Epirubicin is unlikely to interact with this metabolic pathway.,See Summary
+220,Epirubicin,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Epirubicin does not inhibit or induce UGTs.,See Summary
+221,Epirubicin,Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Epirubicin does not inhibit or induce CYPs.,See Summary
+222,Epirubicin,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+223,Epirubicin,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Epirubicin does not inhibit or induce CYPs.",See Summary
+224,Epirubicin,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in the kidney, mainly by glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.",See Summary
+225,Epirubicin,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolised by CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+226,Epirubicin,Medroxyprogesterone (depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+227,Epirubicin,Medroxyprogesterone (non-depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+228,Epirubicin,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolised by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+229,Epirubicin,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+230,Epirubicin,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney with in vitro data suggesting it is a substrate of the renal transporters OAT3>OAT1. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+231,Epirubicin,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolised to N-acetyl-mesalazine by N-acetyltransferase. Epirubicin does not interact with this metabolic pathway.,See Summary
+232,Epirubicin,Metamizole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Metamizole is metabolised in serum and excreted via urine (90%) and faeces (10%). Metamizole is also an inducer of CYP3A4. Epirubicin does not interact with this pathway.,See Summary
+233,Epirubicin,Metformin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine and is a substrate of OCT1/2/3, MATE1 and MATE2K. Epirubicin does not inhibit or induce OCTs or MATEs.",See Summary
+234,Epirubicin,Methadone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Methadone is demethylated by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+235,Epirubicin,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. Epirubicin is unlikely to interfere with this elimination pathway.",See Summary
+236,Epirubicin,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolised by CYP450s to a clinically relevant extent and does not inhibit or induce CYP450s. Therefore, there is little potential for methylphenidate to affect disposition of epirubicin, or to be affected if coadministered with epirubicin.",See Summary
+237,Epirubicin,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+238,Epirubicin,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolised by the CYP450 system (mainly CYP2D6). Epirubicin does not inhibit or induce CYPs.,See Summary
+239,Epirubicin,Metolazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metolazone is largely excreted unchanged in the urine. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+240,Epirubicin,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolised by CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+241,Epirubicin,Metronidazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metronidazole is eliminated via glomerular filtration. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). The mechanism of the interaction with CYP3A has not yet been identified. Epirubicin does not interact with this pathway.",See Summary
+242,Epirubicin,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Epirubicin does not inhibit or induce CYPs.,See Summary
+243,Epirubicin,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolised by CYP2D6 and CYP1A2, and to a lesser extent by CYP3A4. Epirubicin does not inhibit or induce CYPs.",See Summary
+244,Epirubicin,Miconazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Miconazole is extensively metabolized by the liver. Miconazole is also an inhibitor of CYP2C9 (moderate) and CYP3A4 (strong). Epirubicin is unlikely to interact with this pathway.,See Summary
+245,Epirubicin,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+246,Epirubicin,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+247,Epirubicin,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Epirubicin does not interact with this metabolic or elimination pathway.",See Summary
+248,Epirubicin,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Epirubicin does not inhibit or induce CYPs.",See Summary
+249,Epirubicin,Mometasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+250,Epirubicin,Montelukast,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYP3A4 and CYP2C9. Epirubicin does not inhibit or induce CYPs.,See Summary
+251,Epirubicin,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Epirubicin does not inhibit or induce UGTs or P-gp.",See Summary
+252,Epirubicin,Moxifloxacin,"
+Potential Weak Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Epirubicin does not inhibit or induce UGTs. However, the product labels for moxifloxacin contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+253,Epirubicin,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and UGT2B7. The active metabolite of mycophenolate, mycophenolic acid, is an inhibitor of OAT1/OAT3. Epirubicin does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+254,Epirubicin,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+255,Epirubicin,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolised in the liver by alpha-reductase. Epirubicin does not interact with this pathway.,See Summary
+256,Epirubicin,Naproxen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+257,Epirubicin,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent by CYP3A4 (30%). Epirubicin does not inhibit or induce CYPs.,See Summary
+258,Epirubicin,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+259,Epirubicin,Nefazodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nefazodone is mainly metabolised by, and is a strong inhibitor of, CYP3A4. Epirubicin does not interact with this pathway.",See Summary
+260,Epirubicin,Nicardipine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. Nicardipine is a weak inhibitor of CYP3A4. Epirubicin does not interact with this pathway. However, coadministration of epirubicin and nicardipine may increase the risk of cardiotoxicity. Coadministration should be avoided. If coadministration is judged clinically necessary, use with extreme caution. Monitor closely for symptoms of cardiotoxicity.",See Summary
+261,Epirubicin,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolised by xanthine oxidase and aldehyde oxidase. Epirubicin does not interact with this metabolic pathway.,See Summary
+262,Epirubicin,Nifedipine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, coadministration of epirubicin and nifedipine may increase the risk of cardiotoxicity. Coadministration should be avoided. If coadministration is judged clinically necessary, use with extreme caution. Monitor closely for symptoms of cardiotoxicity.",See Summary
+263,Epirubicin,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolised in the liver following multiple pathways including CYP2C9. Epirubicin does not inhibit or induce CYPs.,See Summary
+264,Epirubicin,Nisoldipine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nisoldipine is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, coadministration of epirubicin and nisoldipine may increase the risk of cardiotoxicity. Coadministration should be avoided. If coadministration is judged clinically necessary, use with extreme caution. Monitor closely for symptoms of cardiotoxicity.",See Summary
+265,Epirubicin,Nitrendipine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, coadministration of epirubicin and nitrendipine may increase the risk of cardiotoxicity. Coadministration should be avoided. If coadministration is judged clinically necessary, use with extreme caution. Monitor closely for symptoms of cardiotoxicity.",See Summary
+266,Epirubicin,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolised in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). Epirubicin does not interact with this metabolic or elimination pathway. ,See Summary
+267,Epirubicin,Norelgestromin,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). Epirubicin does not inhibit or induce CYPs.,See Summary
+268,Epirubicin,Norethisterone (Norethindrone),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Epirubicin does not interact with this metabolic pathway.",See Summary
+269,Epirubicin,Norgestimate,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. Epirubicin does not inhibit or induce CYPs.,See Summary
+270,Epirubicin,Norgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolized by CYP3A4 and is glucuronidated to a minor extent. Epirubicin does not inhibit or induce CYPs or UGTs.,See Summary
+271,Epirubicin,Nortriptyline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nortriptyline is metabolised mainly by CYP2D6. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+272,Epirubicin,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant. Therefore, no drug interactions are expected.",See Summary
+273,Epirubicin,Ofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ofloxacin is renally eliminated unchanged by glomerular filtration and active tubular secretion via both cationic and anionic transport systems. Epirubicin is unlikely to interfere with this elimination pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+274,Epirubicin,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolised mainly by CYP1A2 (major) and CYP2D6, but also by glucuronidation (UGT1A4). Epirubicin does not inhibit or induce CYPs or UGTs.",See Summary
+275,Epirubicin,Olmesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. Epirubicin does not interact with this metabolic or elimination pathway.,See Summary
+276,Epirubicin,Omeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Omeprazole is also an inducer of CYP1A2 and an inhibitor of CYP2C19. Epirubicin does not interact with this pathway.,See Summary
+277,Epirubicin,Ondansetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ondansetron is metabolised mainly by CYP1A2 and CYP3A4 and to a lesser extent by CYP2D6. Ondansetron is also a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+278,Epirubicin,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Epirubicin does not inhibit or induce UGTs.,See Summary
+279,Epirubicin,Oxcarbazepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxcarbazepine is extensively metabolized to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5 and are inhibitors of CYP2C19. Epirubicin does not interact with this pathway. ,See Summary
+280,Epirubicin,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolised via glucuronidation. Epirubicin does not inhibit or induce UGTs.,See Summary
+281,Epirubicin,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+282,Epirubicin,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily renally eliminated (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. Epirubicin is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+283,Epirubicin,Palonosetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Palonosetron is also a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp.,See Summary
+284,Epirubicin,Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pamidronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. No pharmacokinetic interaction is expected with epirubicin.,See Summary
+285,Epirubicin,Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. Epirubicin does not inhibit or induce CYPs.",See Summary
+286,Epirubicin,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+287,Epirubicin,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1, and 2B15), sulfation and to a lesser extent, by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). Epirubicin does not inhibit or induce CYPs or UGTs.",See Summary
+288,Epirubicin,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolised by CYP2D6. Paroxetine is also an inhibitor of CYP2D6 (strong) and CYP2C9. Epirubicin does not interact with this pathway.,See Summary
+289,Epirubicin,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored of coadministered.",See Summary
+290,Epirubicin,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Epirubicin is unlikely to interfere with these elimination pathways.,See Summary
+291,Epirubicin,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is mainly metabolised by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. Epirubicin does not inhibit or induce CYPs or FMO3.",See Summary
+292,Epirubicin,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Epirubicin does not inhibit or induce CYPs. ,See Summary
+293,Epirubicin,Perindopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolised to other inactive metabolites. Elimination occurs predominantly via the urine. Epirubicin is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+294,Epirubicin,Perphenazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Perphenazine is metabolised by CYP2D6. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+295,Epirubicin,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+296,Epirubicin,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolised by oxidation via monoamine oxidase and to a lesser extent by acetylation. Epirubicin does not interact with this metabolic pathway.,See Summary
+297,Epirubicin,Phenobarbital (Phenobarbitone),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Phenobarbital is metabolized by CYP2C19 and CYP2C9 (major) and to a lesser extent by CYP2E1. Epirubicin does not inhibit or induce CYPs. However, phenobarbital is a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Both epirubicin and the active metabolite, epirubicinol, are metabolized by UGT2B7 and concentrations may decrease due to UGT2B7 induction. As the clinical relevance of this interaction is unknown, monitoring of epirubicin efficacy should be considered.",See Summary
+298,Epirubicin,Phenprocoumon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenprocoumon is mainly metabolised by CYP2C9 and CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+299,Epirubicin,Phenytoin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Phenytoin is mainly metabolized by CYP2C9 and to a lesser extent by CYP2C19. Epirubicin does not inhibit or induce CYPs. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Epirubicin is an in vitro substrate of P-gp and both epirubicin and the active metabolite, epirubicinol, are metabolized by UGT2B7. Phenytoin may decrease epirubicin and epirubicinol concentrations due to UGT2B7 and P-gp induction. As the clinical relevance of this interaction is unknown, monitoring of epirubicin efficacy should be considered.",See Summary
+300,Epirubicin,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Epirubicin does not inhibit or induce CYPs.,See Summary
+301,Epirubicin,Pimozide,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Pimozide is mainly metabolised by CYP3A4 and CYP2D6 and to a lesser extent by CYP1A2. Epirubicin does not inhibit or induce CYPs. However, the product labels for pimozide contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. Close monitoring of ECG is recommended.",See Summary
+302,Epirubicin,Pindolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolised to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine. Epirubicin does not interact with this metabolic or elimination pathway.,See Summary
+303,Epirubicin,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Epirubicin does not inhibit or induce CYPs.",See Summary
+304,Epirubicin,Pipotiazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+305,Epirubicin,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolised by CYP2C9. Epirubicin does not inhibit or induce CYPs.,See Summary
+306,Epirubicin,Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolised by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Pitavastatin is also a substrate of OATP1B1. Epirubicin does not inhibit or induce CYPs, UGTs or OATP1B1.",See Summary
+307,Epirubicin,Posaconazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Posaconazole is primarily metabolised by UGTs and is a substrate of P-gp. Posaconazole is also a strong inhibitor of CYP3A4. Epirubicin does not interact with this pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+308,Epirubicin,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is renally eliminated. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+309,Epirubicin,Prasugrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. Epirubicin does not inhibit or induce CYPs.,See Summary
+310,Epirubicin,Pravastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Epirubicin does not inhibit or induce CYPs or OATP1B1.,See Summary
+311,Epirubicin,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolised, primarily by demethylation and conjugation. Epirubicin does not interact with this metabolic pathway.",See Summary
+312,Epirubicin,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+313,Epirubicin,Prednisone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. Epirubicin does not interact with this metabolic pathway.,See Summary
+314,Epirubicin,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration (90% as unchanged drug). Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+315,Epirubicin,Prochlorperazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+316,Epirubicin,Promethazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Promethazine is metabolised by CYP2D6. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+317,Epirubicin,Propafenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+318,Epirubicin,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolised by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Epirubicin does not inhibit or induce CYPs or UGTs.",See Summary
+319,Epirubicin,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly renally eliminated, partly by active secretion by renal transporters. Prucalopride is also a substrate of P-gp. Epirubicin is unlikely to interfere with this elimination pathway.",See Summary
+320,Epirubicin,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolised by xanthine oxidase. Epirubicin does not interact with this metabolic pathway.,See Summary
+321,Epirubicin,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+322,Epirubicin,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+323,Epirubicin,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+324,Epirubicin,Quinidine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp. However, quinidine is also an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate). Epirubicin is a substrate of P-gp in vitro and concentrations may increase due to P-gp inhibition. Furthermore, quinidine is a stereoisomer of quinine. Quinine may accelerate the initial distribution of epirubicin from blood into the tissues and may have an influence on the red blood cells partitioning of epirubicin. As the clinical relevance of this interaction is unknown, monitoring for epirubicin toxicity should be considered. A thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+325,Epirubicin,Rabeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. Epirubicin does not interact with this metabolic pathway.,See Summary
+326,Epirubicin,Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolised to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Epirubicin does not interact with this metabolic pathway.",See Summary
+327,Epirubicin,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranitidine is excreted via OAT1/OAT3. Epirubicin does not inhibit or induce OATs.,See Summary
+328,Epirubicin,Ranolazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Ranolazine is primarily metabolized by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp. However, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Epirubicin is an in vitro substrate of P-gp and concentrations may increase due to P-gp inhibition. As the clinical relevance of this interaction is unknown, monitoring for epirubicin toxicity should be considered. Furthermore, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+329,Epirubicin,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. Epirubicin does not interact with this pathway.,See Summary
+330,Epirubicin,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolised by CYP2C8 and CYP3A4, with clinical data indicating it is a substrate of the hepatic transporter OATP1B1. Epirubicin does not inhibit or induce CYPs or OATP1B1.",See Summary
+331,Epirubicin,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver but retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Epirubicin does not interact with this metabolic pathway.",See Summary
+332,Epirubicin,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+333,Epirubicin,Rifabutin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Rifabutin is metabolised by CYP3A and via deacetylation. Epirubicin does not interact with this metabolic pathway. However, rifabutin is a strong CYP3A4 and P-gp inducer. Epirubicin is an in vitro substrate of P-gp and concentrations may decrease due to P-gp induction. As the clinical relevance of this interaction is unknown, monitoring of epirubicin efficacy should be considered.",See Summary
+334,Epirubicin,Rifampicin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Rifampicin is metabolised via deacetylation. Epirubicin does not interact with this metabolic pathway. However, rifampicin is a strong CYP3A4 and P-gp inducer. Epirubicin is an in vitro substrate of P-gp and concentrations may decrease due to P-gp induction. As the clinical relevance of this interaction is unknown, monitoring of epirubicin efficacy should be considered.",See Summary
+335,Epirubicin,Rifapentine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Rifapentine is metabolised via deacetylation. Epirubicin does not interact with this metabolic pathway. However, rifapentine is a strong CYP3A4, CYP2C8 and P-gp inducer. Epirubicin is an in vitro substrate of P-gp and concentrations may decrease due to P-gp induction. As the clinical relevance of this interaction is unknown, monitoring of epirubicin efficacy should be considered.",See Summary
+336,Epirubicin,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Epirubicin is unlikely to interfere with this elimination pathway.",See Summary
+337,Epirubicin,Risperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Risperidone is also a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp.,See Summary
+338,Epirubicin,Rivaroxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant is unlikely. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine. Rivaroxaban is a substrate of P-gp and BCRP. Epirubicin does not interact with this metabolic or elimination pathway.",See Summary
+339,Epirubicin,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYP2C9. Epirubicin does not inhibit or induce CYPs.,See Summary
+340,Epirubicin,Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosuvastatin is largely excreted unchanged in the faeces via OATP1B1 and is a substrate of BCRP. Epirubicin does not inhibit or induce OATP1B1 or BCRP.,See Summary
+341,Epirubicin,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolised to the inactive salbutamol-4’-O-sulphate. Epirubicin does not interact with this metabolic pathway.,See Summary
+342,Epirubicin,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. The systemic exposure of salmeterol is low. Epirubicin does not inhibit or induce CYPs.,See Summary
+343,Epirubicin,Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp.,See Summary
+344,Epirubicin,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces and also in other secretions. No clinically significant interactions are known.,See Summary
+345,Epirubicin,Sertindole,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sertindole is metabolised by CYP2D6 and CYP3A4. Epirubicin does not inhibit or induce CYPs. However, the product labels for sertindole contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. Close monitoring of ECG is recommended.",See Summary
+346,Epirubicin,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Epirubicin does not inhibit or induce CYPs.",See Summary
+347,Epirubicin,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. Epirubicin does not inhibit or induce CYPs.,See Summary
+348,Epirubicin,Simvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolised by CYP3A4. Simvastatin is also a substrate of BCRP and the active metabolite is a substrate of OATP1B1. Epirubicin does not inhibit or induce CYPs, BCRP or OATP1B1.",See Summary
+349,Epirubicin,Sirolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sirolimus is metabolised by CYP3A4 and is a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+350,Epirubicin,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1, and P-gp) and metabolism by CYP3A4 represents a minor metabolic pathway. Epirubicin does not interact with this metabolic or elimination pathway.",See Summary
+351,Epirubicin,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. Epirubicin does not interact with this metabolic pathway.",See Summary
+352,Epirubicin,Sotalol,"
+Potential Weak Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sotalol is excreted unchanged via renal elimination. Epirubicin is unlikely to interfere with this elimination pathway. However, the product labels for sotalol advise extreme caution if given with other drugs that prolong the QT interval. A thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+353,Epirubicin,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+354,Epirubicin,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolised by the flavin containing monooxygenases. Epirubicin does not interact with this metabolic pathway.,See Summary
+355,Epirubicin,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Epirubicin is unlikely to interfere with this metabolic pathway.,See Summary
+356,Epirubicin,St John's Wort,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. St John’s wort is a P-gp and CYP3A4 inducer. Epirubicin is an in vitro substrate of P-gp and concentrations may decrease due to P-gp induction. As the clinical relevance of this interaction is unknown, monitoring of epirubicin efficacy should be considered.",See Summary
+357,Epirubicin,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Epirubicin is unlikely to interfere with this metabolic pathway.",See Summary
+358,Epirubicin,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Streptomycin is eliminated by glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+359,Epirubicin,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Epirubicin does not inhibit or induce CYPs.,See Summary
+360,Epirubicin,Sulpiride,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. Epirubicin is unlikely to interfere with this elimination pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+361,Epirubicin,Tacrolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tacrolimus is metabolised mainly by CYP3A4. Tacrolimus is also an inhibitor of CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Epirubicin does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+362,Epirubicin,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+363,Epirubicin,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Epirubicin does not inhibit or induce CYPs. ,See Summary
+364,Epirubicin,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+365,Epirubicin,Telithromycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. Epirubicin does not interact with this metabolic pathway. However, telithromycin is an inhibitor of CYP3A4 (strong) and P-gp. Epirubicin is an in vitro substrate of P-gp and concentrations may increase due to P-gp inhibition. As the clinical relevance of this interaction is unknown, monitoring for epirubicin toxicity should be considered.",See Summary
+366,Epirubicin,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Epirubicin does not inhibit or induce UGTs.,See Summary
+367,Epirubicin,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Epirubicin does not inhibit or induce UGTs.,See Summary
+368,Epirubicin,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYP2C8 and CYP2C19. Terbinafine is also a moderate-strong inhibitor of CYP2D6. Epirubicin does not interact with this pathway.",See Summary
+369,Epirubicin,Testosterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+370,Epirubicin,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+371,Epirubicin,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolised by CYP1A2. Epirubicin does not inhibit or induce CYPs.,See Summary
+372,Epirubicin,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+373,Epirubicin,Thioridazine,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, the product labels for thioridazine contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. Close monitoring of ECG is recommended.",See Summary
+374,Epirubicin,Tiapride,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tiapride is excreted largely unchanged in urine. Epirubicin is unlikely to interfere with this elimination pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+375,Epirubicin,Ticagrelor,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ticagrelor is a substrate and mild inhibitor of CYP3A4. Ticagrelor is also a substrate of P-gp. Epirubicin does not interact with this pathway.,See Summary
+376,Epirubicin,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+377,Epirubicin,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+378,Epirubicin,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolised by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Epirubicin does not inhibit or induce CYPs.,See Summary
+379,Epirubicin,Tolterodine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 with CYP3A4 playing a minor role. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+380,Epirubicin,Torasemide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolised mainly by CYP2C9. Furthermore, OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Epirubicin does not inhibit or induce CYPs or OATs.",See Summary
+381,Epirubicin,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. Epirubicin does not inhibit or induce CYPs.",See Summary
+382,Epirubicin,Trandolapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Epirubicin does not interact with this metabolic pathway.,See Summary
+383,Epirubicin,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranexamic acid is mainly cleared by glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+384,Epirubicin,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Epirubicin does not interact with this metabolic pathway.,See Summary
+385,Epirubicin,Trazodone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+386,Epirubicin,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+387,Epirubicin,Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+388,Epirubicin,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. To a lesser extent (approximately 30%) trimethoprim is metabolised by CYP enzymes (in vitro data suggest CYPs 3A4, 1A2 and 2C9). Sulfamethoxazole is metabolised by CYP2C9. Furthermore, trimethoprim is a weak CYP2C8 inhibitor and in vitro data also suggest that trimethoprim is an inhibitor of OCT2 and MATE1. Sulfamethoxazole is a weak inhibitor of CYP2C9. Epirubicin does not interact with this pathway.",See Summary
+389,Epirubicin,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolised mainly by CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+390,Epirubicin,Tropisetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tropisetron is metabolised mainly by CYP2D6 and is a substrate of P-gp. Epirubicin does not inhibit or induce CYPs or P-gp. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+391,Epirubicin,Ulipristal,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if epirubicin is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+392,Epirubicin,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolized by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolized by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Epirubicin does not interact with this pathway.,See Summary
+393,Epirubicin,Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+394,Epirubicin,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vancomycin is excreted unchanged via glomerular filtration. Epirubicin is unlikely to interfere with this elimination pathway.,See Summary
+395,Epirubicin,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Epirubicin does not inhibit or induce CYPs.",See Summary
+396,Epirubicin,Verapamil,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration should be avoided. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Verapamil is also a moderate inhibitor of CYP3A4. Epirubicin does not interact with this pathway. However, in 10 patients coadministration of epirubicin and verapamil increased epirubicin AUC. At steady state, epirubicin AUC did not differ significantly. Furthermore, dexverapamil increased the mean AUC of epirubicin and epirubicinol, the active metabolite of epirubicin, by 17% and 45% respectively. No a priori dose adjustment is necessary, but the bone marrow depressant effects of epirubicin may increase. Coadministration of epirubicin and verapamil may increase the risk of cardiotoxicity. Coadministration should be avoided. If coadministration is judged clinically necessary, use with extreme caution. Monitor closely for symptoms of cardiotoxicity.",See Summary
+397,Epirubicin,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate of P-gp. Epirubicin does not inhibit or induce P-gp.,See Summary
+398,Epirubicin,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+399,Epirubicin,Voriconazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Voriconazole is metabolised by CYP2C19 (major) and to a lesser extent by CYP3A4 and CYP2C9. Voriconazole is also a strong inhibitor of CYP3A4 and a weak inhibitor of CYPs 2C9, 2C19 and 2B6. Epirubicin does not interact with this pathway. However, a thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. ECG monitoring should be considered.",See Summary
+400,Epirubicin,Warfarin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and CYP3A4. S-warfarin (more potent) is metabolised by CYP2C9. Epirubicin does not inhibit or induce CYPs.,See Summary
+401,Epirubicin,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Epirubicin is unlikely to interfere with this elimination pathway.",See Summary
+402,Epirubicin,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent by CYP3A4. Epirubicin does not inhibit or induce CYPs.,See Summary
+403,Epirubicin,Ziprasidone,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). Epirubicin does not inhibit or induce CYPs. However, the product labels for ziprasidone contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with epirubicin has not been performed and it is unknown whether a warning is in place. Close monitoring of ECG is recommended.",See Summary
+404,Epirubicin,Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zoledronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. No pharmacokinetic interaction is expected with epirubicin.,See Summary
+405,Epirubicin,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. Epirubicin does not inhibit or induce CYPs.",See Summary
+406,Epirubicin,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. Epirubicin does not inhibit or induce CYPs.,See Summary
+407,Epirubicin,Zotepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Epirubicin does not inhibit or induce CYPs.,See Summary
+408,Epirubicin,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Epirubicin does not inhibit or induce CYPs or UGTs.",See Summary

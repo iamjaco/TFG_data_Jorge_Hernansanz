@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Avelumab,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. Avelumab is unlikely to interfere with this pathway.",(See Summary)
+1,Avelumab,Acenocoumarol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Acenocoumarol is mainly metabolised by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Avelumab does not inhibit or induce CYPs.,(See Summary)
+2,Avelumab,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolised by glucuronidation (by several UGTs, major UGT1A6). Avelumab does not inhibit or induce UGTs.",(See Summary)
+3,Avelumab,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). Avelumab does not inhibit or induce CYPs.",(See Summary)
+4,Avelumab,Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alendronate is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Avelumab does not interact with this elimination pathway.,(See Summary)
+5,Avelumab,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. Avelumab does not inhibit or induce CYPs.,(See Summary)
+6,Avelumab,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolised by CYP3A. Avelumab does not inhibit or induce CYPs.,(See Summary)
+7,Avelumab,Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolised and is mainly excreted unchanged in faeces. Aliskiren is also a substrate of P-gp. Avelumab does not interact with this pathway.,(See Summary)
+8,Avelumab,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Avelumab does not interact with this metabolic pathway.,(See Summary)
+9,Avelumab,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. Avelumab does not inhibit or induce CYPs.",(See Summary)
+10,Avelumab,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+11,Avelumab,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+12,Avelumab,Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolised by glucuronidation via UGTs 1A3, 1A9 and 2B7, and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Avelumab does not inhibit or induce UGTs, CYPs or P-gp.",(See Summary)
+13,Avelumab,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amikacin is eliminated by glomerular filtration. Avelumab does not interfere with this elimination pathway.,(See Summary)
+14,Avelumab,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Avelumab is unlikely to interfere with this elimination pathway.,(See Summary)
+15,Avelumab,Amiodarone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiodarone is metabolised by CYP2C8 and CYP3A4. The major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Avelumab does not interact with this pathway.",(See Summary)
+16,Avelumab,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolised and is primarily renally eliminated (possibly via OCT). Avelumab is unlikely to interfere with this metabolic or elimination pathway.,(See Summary)
+17,Avelumab,Amitriptyline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. Avelumab does not inhibit or induce CYPs.",(See Summary)
+18,Avelumab,Amlodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+19,Avelumab,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Avelumab is unlikely to interfere with this elimination pathway.,(See Summary)
+20,Avelumab,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amphotericin B is not appreciably metabolised and is eliminated to a large extent in the bile. Avelumab does not interfere with this elimination pathway. However, the European SPC for amphotericin states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension and so monitoring may be required.",(See Summary)
+21,Avelumab,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20-40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60-80% is excreted in the urine within 6 hours. Avelumab is unlikely to interfere with this elimination pathway.,(See Summary)
+22,Avelumab,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. Avelumab is unlikely to interfere with this pathway.,(See Summary)
+23,Avelumab,Antacids,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+24,Avelumab,Apixaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Apixaban is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Apixaban is also a substrate of P-gp and BCRP. Avelumab does not inhibit or induce CYPs, P-gp or BCRP.",(See Summary)
+25,Avelumab,Aprepitant,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. During treatment, aprepitant is a moderate inhibitor of CYP3A4, but after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Avelumab does not interact with this pathway.",(See Summary)
+26,Avelumab,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolised by CYP3A4 and CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+27,Avelumab,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 (minor) and 2D6 (minor)). Avelumab does not inhibit or induce CYPs or UGTs.",(See Summary)
+28,Avelumab,Astemizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. Avelumab does not inhibit or induce CYPs.",(See Summary)
+29,Avelumab,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. Avelumab does not interact with this elimination pathway.",(See Summary)
+30,Avelumab,Atorvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolised by CYP3A4 and is a substrate of P-gp and OATP1B1. Avelumab does not inhibit or induce CYPs, P-gp or OATPs.",(See Summary)
+31,Avelumab,Azathioprine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolised analogously to natural purines. Avelumab does not interfere with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. Furthermore, the use of systemic azathioprine before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions.",(See Summary)
+32,Avelumab,Azithromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Azithromycin is mainly eliminated via biliary excretion with animal data suggesting this may occur via P-gp and MRP2. Azithromycin is also an inhibitor of P-gp. Avelumab does not interact with this pathway.,(See Summary)
+33,Avelumab,Beclometasone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYPs, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Avelumab does not interact with this metabolic pathway. However, the use of systemic beclomethasone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is not expected with topical use of beclometasone.",(See Summary)
+34,Avelumab,Bedaquiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bedaquiline is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+35,Avelumab,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. In vitro data indicate that bendroflumethiazide inhibits these renal transporters but a clinically significant interaction is unlikely in the range of observed clinical concentrations. Avelumab does not interact with this pathway.,(See Summary)
+36,Avelumab,Bepridil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+37,Avelumab,Betamethasone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Betamethasone is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs. However, the use of systemic betamethasone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is not expected with topical use of betamethasone.",(See Summary)
+38,Avelumab,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Half of a bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Avelumab does not interact with this pathway.,(See Summary)
+39,Avelumab,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. Avelumab is unlikely to interfere with this pathway.,(See Summary)
+40,Avelumab,Bisoprolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6, and partly eliminated unchanged in the urine. Avelumab does not interact with this metabolic or elimination pathway.",(See Summary)
+41,Avelumab,Bosentan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bosentan is a substrate and weak inducer of CYP3A4 and CYP2C9. Avelumab does not interact with this pathway.,(See Summary)
+42,Avelumab,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other CYPs such as CYP2D6 or CYP1A2 may play a role. Avelumab does not inhibit or induce CYPs.",(See Summary)
+43,Avelumab,Budesonide,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Budesonide is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs. However, the use of systemic budesonide before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is not expected with topical use of budesonide.",(See Summary)
+44,Avelumab,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Avelumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+45,Avelumab,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolised by CYP2B6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+46,Avelumab,Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+47,Avelumab,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. Avelumab does not interact with these elimination pathways.",(See Summary)
+48,Avelumab,Candesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. Avelumab does not interact with this elimination pathway.,(See Summary)
+49,Avelumab,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Avelumab does not interfere with this elimination pathway.,(See Summary)
+50,Avelumab,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Avelumab does not interact with this elimination pathway.,(See Summary)
+51,Avelumab,Carbamazepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carbamazepine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2C8. Furthermore, carbamazepine is an inducer of CYPs 3A4 (strong), 2C8 (strong), 2C9 (strong), 1A2 (weak), 2B6 and UGT1A1. Avelumab does not interact with this pathway.",(See Summary)
+52,Avelumab,Carvedilol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additional metabolism via CYP2D6 and to a lesser extent by CYPs 2C9 and 1A2. Avelumab does not inhibit or induce CYPs and UGTs.",(See Summary)
+53,Avelumab,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non CYP-mediated pathway. Avelumab does not interact with this metabolic pathway.,(See Summary)
+54,Avelumab,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly eliminated unchanged renally by glomerular filtration and tubular secretion via OAT1 and MATE1. Avelumab does not interfere with this elimination pathway.,(See Summary)
+55,Avelumab,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Avelumab does not interfere with this elimination pathway.",(See Summary)
+56,Avelumab,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefixime is renally excreted predominantly by glomerular filtration. Avelumab does not interfere with this elimination pathway.,(See Summary)
+57,Avelumab,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolised by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Avelumab does not interfere with this elimination pathway.",(See Summary)
+58,Avelumab,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftazidime is excreted predominantly by renal glomerular filtration. Avelumab does not interfere with this elimination pathway.,(See Summary)
+59,Avelumab,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Avelumab does not interfere with this elimination pathway.",(See Summary)
+60,Avelumab,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolised by CYP2C9. Avelumab does not inhibit or induce CYPs.,(See Summary)
+61,Avelumab,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion. In vitro data indicate that cetirizine inhibits OCT2. Avelumab is unlikely to interact with this pathway.,(See Summary)
+62,Avelumab,Chloramphenicol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chloramphenicol is predominately glucuronidated. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Avelumab does not interact with this pathway.",(See Summary)
+63,Avelumab,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce cytochromes. Avelumab does not inhibit or induce CYPs.",(See Summary)
+64,Avelumab,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolised in the liver via CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+65,Avelumab,Chlorpromazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorpromazine is metabolised mainly by CYP2D6, but also by CYP1A2. Avelumab does not inhibit or induce CYPs.",(See Summary)
+66,Avelumab,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Avelumab does not interfere with this pathway.,(See Summary)
+67,Avelumab,Ciclosporin (Cyclosporine),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ciclosporin is a substrate of CYP3A4 and P-gp and inhibits CYP3A4 and OATP1B1. Avelumab does not interact with this pathway. However, the use of systemic ciclosporin before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions.",(See Summary)
+68,Avelumab,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys. Avelumab does not interact with this elimination pathway.,(See Summary)
+69,Avelumab,Cimetidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cimetidine is metabolised by CYP450 enzymes. In vitro data indicate that cimetidine inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations. Cimetidine is also a weak inhibitor of CYPs 3A4, 1A2, 2D6 and 2C19. Avelumab does not interact with this metabolic pathway.",(See Summary)
+70,Avelumab,Ciprofloxacin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. It is also metabolised and partially cleared through the bile and intestine. Furthermore, ciprofloxacin is a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Avelumab does not interact with this pathway.",(See Summary)
+71,Avelumab,Cisapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cisapride is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+72,Avelumab,Citalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). Avelumab does not inhibit or induce CYPs.",(See Summary)
+73,Avelumab,Clarithromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clarithromycin is metabolised by CYP3A4 and is also an inhibitor of CYP3A4 (strong) and P-gp. Avelumab does not interact with this metabolic pathway.,(See Summary)
+74,Avelumab,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolised (likely non-CYP mediated pathway) and excreted in the urine by glomerular filtration. Avelumab is unlikey to interfere with this metabolic or elimination pathway.,(See Summary)
+75,Avelumab,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolised in the liver via CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+76,Avelumab,Clindamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clindamycin is metabolised by CYP3A4 with in vitro data suggesting it is a CYP3A4 inhibitor. Avelumab does not interact with this metabolic pathway.,(See Summary)
+77,Avelumab,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,(See Summary)
+78,Avelumab,Clofazimine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces. In vitro data suggest that clofazimine is a CYP3A4 inhibitor. Avelumab does not interact with this pathway.,(See Summary)
+79,Avelumab,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolysed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Avelumab does not interfere with this metabolic or elimination pathway.",(See Summary)
+80,Avelumab,Clomipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. Clomipramine and desmethylclomipramine are also metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.",(See Summary)
+81,Avelumab,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in the form of the unchanged parent drug (40-60% of the dose). Clonidine is a weak inhibitor of OCT2 but is unlikely to interact with avelumab elimination. Avelumab does not interfere with this pathway.",(See Summary)
+82,Avelumab,Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. Clopidogrel is also an inhibitor of CYP2C8 (strong), CYP2B6 (weak) and of CYP2C9 (in vitro) at high concentrations. The clinical relevance of CYP2C9 inhibition is unknown. Avelumab does not interact with this pathway.",(See Summary)
+83,Avelumab,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Oxazepam is mainly glucuronidated. Avelumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+84,Avelumab,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion. Avelumab does not interact with this metabolic or elimination pathway.",(See Summary)
+85,Avelumab,Clozapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Avelumab does not inhibit or induce CYPs. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+86,Avelumab,Codeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolised by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Morphine is also a substrate of P-gp. Furthermore, codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. Avelumab does not inhibit or induce CYPs, UGTs or P-gp.",(See Summary)
+87,Avelumab,Colchicine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Colchicine is metabolised by CYP3A4 and is a substrate of P-gp. Avelumab does not inhibit or induce CYPs or P-gp.,(See Summary)
+88,Avelumab,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly excreted renally via glomerular filtration. Avelumab does not interact with this elimination pathway.,(See Summary)
+89,Avelumab,Dabigatran,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dabigatran is a substrate of P-gp and is excreted renally. Avelumab does not interact with this pathway.,(See Summary)
+90,Avelumab,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys. Avelumab does not interfere with the renal excretion of dalteparin.,(See Summary)
+91,Avelumab,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP450 enzymes. Avelumab does not inhibit or induce CYPs.",(See Summary)
+92,Avelumab,Desipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desipramine is metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+93,Avelumab,Desogestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+94,Avelumab,Dexamethasone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dexamethasone is a known substrate of CYP3A4 and has also been described as an inducer of CYP3A4, but the induction of CYP3A4 by dexamethasone has not yet been established. Avelumab does not interact with this pathway. The use of systemic dexamethasone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is not expected with topical use of dexamethasone.",(See Summary)
+95,Avelumab,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+96,Avelumab,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolised by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Furthermore, morphine is substrate of P-gp. Avelumab does not interact with this pathway.",(See Summary)
+97,Avelumab,Diazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Temazepam is mainly glucuronidated. Avelumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+98,Avelumab,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidised by CYP2C9. Avelumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+99,Avelumab,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is eliminated renally via the renal transporters OATP4C1 and P-gp. Avelumab does not inhibit or induce OATPs or P-gp.,(See Summary)
+100,Avelumab,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Avelumab does not inhibit or induce CYPs or UGTs.",(See Summary)
+101,Avelumab,Diltiazem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diltiazem is metabolised by CYP3A4 and CYP2D6. Diltiazem is also an inhibitor of CYP3A4. Avelumab does not interact with this pathway.,(See Summary)
+102,Avelumab,Diphenhydramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. Diphenhydramine is also a weak inhibitor of CYP2D6. Avelumab does not interact with this pathway.",(See Summary)
+103,Avelumab,Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Avelumab does not inhibit or induce UGTs.",(See Summary)
+104,Avelumab,Disopyramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. Avelumab does not interact with this metabolic or elimination pathway.,(See Summary)
+105,Avelumab,Dolasetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). Avelumab does not interact with this metabolic pathway.",(See Summary)
+106,Avelumab,Domperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+107,Avelumab,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. Avelumab does not interact with this metabolic pathway.",(See Summary)
+108,Avelumab,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+109,Avelumab,Doxepin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolised to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. Doxepin and nordoxepin are also metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+110,Avelumab,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. Avelumab does not interfere with this elimination pathway.,(See Summary)
+111,Avelumab,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+112,Avelumab,Drospirenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+113,Avelumab,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dulaglutide is degraded by endogenous endopeptidases. Avelumab does not interact with this pathway.,(See Summary)
+114,Avelumab,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolised by CYP2D6 and CYP1A2. Avelumab does not inhibit or induce CYPs.,(See Summary)
+115,Avelumab,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+116,Avelumab,Dydrogesterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). Avelumab does not inhibit or induce CYPs.,(See Summary)
+117,Avelumab,Edoxaban,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is partially metabolised by CYP3A4 (<10%) and is transported via P-gp. Avelumab does not inhibit or induce CYPs or P-gp.,(See Summary)
+118,Avelumab,Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1 and UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Avelumab does not inhibit or induce CYPs and UGTs.,(See Summary)
+119,Avelumab,Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is renally eliminated (possibly via OATs). Avelumab does not interact with this elimination pathway.,(See Summary)
+120,Avelumab,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is excreted predominantly renally. Avelumab does not interact with this metabolic or elimination pathway.",(See Summary)
+121,Avelumab,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eprosartan is largely excreted in bile and urine as unchanged drug. Avelumab does not interfere with this elimination pathway.,(See Summary)
+122,Avelumab,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated by the kidneys via glomerular filtration with tubular secretion playing a minor role. Avelumab does not interact with this elimination pathway.,(See Summary)
+123,Avelumab,Erythromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Erythromycin is a substrate of CYP3A4 and P-gp. Erythromycin is also an inhibitor of CYP3A4 (moderate) and P-gp. Avelumab does not interact with this metabolic pathway.,(See Summary)
+124,Avelumab,Escitalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Avelumab does not inhibit or induce CYPs.",(See Summary)
+125,Avelumab,Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4. Esomeprazole is also an inhibitor of CYP2C19. Avelumab does not interact with this pathway.,(See Summary)
+126,Avelumab,Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+127,Avelumab,Estradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. Avelumab does not inhibit or induce CYPs or UGTs.",(See Summary)
+128,Avelumab,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolised by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and urine (50%). Avelumab does not interact with this metabolic or elimination pathway.,(See Summary)
+129,Avelumab,Ethinylestradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Avelumab does not interact with this metabolic pathway.",(See Summary)
+130,Avelumab,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolised in the liver; animal studies suggest involvement of flavin-containing monooxygenases. Avelumab does not interfere with this pathway.,(See Summary)
+131,Avelumab,Etonogestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+132,Avelumab,Everolimus (Immunosuppressant),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. Avelumab does not inhibit or induce CYPs or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. Furthermore, the use of systemic everolimus before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions.",(See Summary)
+133,Avelumab,Exenatide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Exenatide is cleared mainly by glomerular filtration. Avelumab does not interact with this elimination pathway.,(See Summary)
+134,Avelumab,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Avelumab does not inhibit or induce UGTs.,(See Summary)
+135,Avelumab,Famotidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Famotidine is excreted via OAT1/OAT3. Avelumab does not inhibit or induce OATs.,(See Summary)
+136,Avelumab,Felodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Felodipine is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+137,Avelumab,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolysed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Avelumab does not interact with this pathway.",(See Summary)
+138,Avelumab,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Avelumab does not inhibit or induce CYPs.,(See Summary)
+139,Avelumab,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine is a substrate of P-gp. Avelumab does not inhibit or induce P-gp.,(See Summary)
+140,Avelumab,Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+141,Avelumab,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+142,Avelumab,Flecainide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flecainide is metabolised mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also eliminated unchanged renally. Avelumab does not interact with this metabolic or elimination pathway.",(See Summary)
+143,Avelumab,Flucloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Flucloxacillin has been described as a CYP3A4 inducer, but the mechanism and clinical relevance of this interaction is unknown. Avelumab does not interact with this pathway.",(See Summary)
+144,Avelumab,Fluconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluconazole is cleared primarily by renal excretion and is also an inhibitor of CYPs 2C19 (strong), 3A4 (moderate) and 2C9 (moderate). Avelumab does not interact with this metabolic pathway.",(See Summary)
+145,Avelumab,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase to an inactive metabolite. Avelumab does not interfere with this metabolic pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Avelumab also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+146,Avelumab,Fludrocortisone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. Avelumab does not inhibit or induce CYPs. However, the use of systemic fludrocortisone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is not expected with topical use of fludrocortisone.",(See Summary)
+147,Avelumab,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. Avelumab does not inhibit or induce CYPs.,(See Summary)
+148,Avelumab,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is metabolised by CYP2D6 and CYP2C9 and to a lesser extent by CYP2C19 and CYP3A4 to form norfluoxetine. Fluoxetine is a strong inhibitor of CYP2D6 and CYP2C19. Avelumab does not interact with this pathway.,(See Summary)
+149,Avelumab,Fluphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+150,Avelumab,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Avelumab does not inhibit or induce CYPs.,(See Summary)
+151,Avelumab,Fluticasone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fluticasone is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs. However, the use of systemic fluticasone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is unlikely with the topical use of fluticasone.",(See Summary)
+152,Avelumab,Fluvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvastatin is mainly metabolised by CYP2C9 (75%) and to a lesser extent by CYP3A4 (20%) and CYP2C8 (5%). Fluvastatin also potentially inhibits CYP2C9. However, the clinical relevance of CYP2C9 inhibition is unknown. Avelumab does not interact with this pathway.",(See Summary)
+153,Avelumab,Fluvoxamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Fluvoxamine is also an inhibitor of CYPs 1A2 (strong), 2C19 (strong), 3A4 (moderate), 2C9 (weak-moderate) and 2D6 (weak). Avelumab does not interact with this pathway.",(See Summary)
+154,Avelumab,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is eliminated predominantly renally. Avelumab does not interact with this elimination pathway.,(See Summary)
+155,Avelumab,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation. As multiple CYP450 and UGT enzymes catalyse the transformation the potential for a pharmacokinetic interaction is low. Avelumab does not inhibit or induce CYPs or UGTs.",(See Summary)
+156,Avelumab,Fosaprepitant,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Avelumab does not interact with this metabolic pathway. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. During treatment, aprepitant is a moderate inhibitor of CYP3A4, but after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Avelumab does not interact with this pathway.",(See Summary)
+157,Avelumab,Fosphenytoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Phenytoin is also a potent inducer of CYP3A4, UGT and P-gp. Avelumab does not interact with this pathway.",(See Summary)
+158,Avelumab,Furosemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also renally eliminated unchanged (via OATs). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. In vitro data indicate that furosemide is an inhibitor of the renal transporters OAT1/OAT3. Avelumab does not interfere with this pathway.,(See Summary)
+159,Avelumab,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Avelumab does not interact with this elimination pathway.,(See Summary)
+160,Avelumab,Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Gemfibrozil is also an inhibitor of CYP2C8 (strong), OATP1B1 and OAT3. In vitro data indicate gemfibrozil to be a strong inhibitor of CYP2C9 but in vivo data showed no clinically relevant effect on CYP2C9. Avelumab does not interact with this pathway.",(See Summary)
+161,Avelumab,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Avelumab does not interact with this elimination pathway.,(See Summary)
+162,Avelumab,Gestodene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Avelumab does not inhibit or induce CYPs.,(See Summary)
+163,Avelumab,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. Avelumab does not inhibit or induce CYPs.,(See Summary)
+164,Avelumab,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C19. Avelumab does not inhibit or induce CYPs.,(See Summary)
+165,Avelumab,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolised by CYP2C9. Avelumab does not inhibit or induce CYPs.,(See Summary)
+166,Avelumab,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolised by CYP2C9. Avelumab does not inhibit or induce CYPs.,(See Summary)
+167,Avelumab,Granisetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Granisetron is metabolised by CYP3A4 and is a substrate of P-gp. Avelumab does not inhibit or induce CYPs or P-gp.,(See Summary)
+168,Avelumab,Grapefruit juice,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Grapefruit juice is a known inhibitor of CYP3A4. Avelumab is not metabolised by CYP3A4.,(See Summary)
+169,Avelumab,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+170,Avelumab,Griseofulvin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Griseofulvin is a liver microsomal enzyme inducer. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Avelumab does not interact with this pathway.,(See Summary)
+171,Avelumab,Haloperidol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGTs 2B7>1A4 and 1A9), carbonyl reduction, as well as oxidative metabolism (CYP3A4 and CYP2D6). Avelumab does not interact with this metabolic pathway.",(See Summary)
+172,Avelumab,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Avelumab does not interact with this metabolic pathway.,(See Summary)
+173,Avelumab,Hydralazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. In vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6. Avelumab does not interact with this pathway.",(See Summary)
+174,Avelumab,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrochlorothiazide is not metabolised but is cleared by the kidneys via OAT1. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Avelumab does not interfere with this pathway.,(See Summary)
+175,Avelumab,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Avelumab does not inhibit or induce CYPs.",(See Summary)
+176,Avelumab,Hydrocortisone (oral),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs. However, the use of systemic hydrocortisone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions.",(See Summary)
+177,Avelumab,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone.,(See Summary)
+178,Avelumab,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Avelumab does not inhibit or induce UGTs.",(See Summary)
+179,Avelumab,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is metabolised in the liver and cleared via the lung and kidney. Avelumab does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+180,Avelumab,Hydroxyzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+181,Avelumab,Ibandronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibandronic acid is excreted via urine. Avelumab does not interact with this pathway.,(See Summary)
+182,Avelumab,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Avelumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+183,Avelumab,Iloperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Iloperidone is metabolised by CYP3A4 and CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+184,Avelumab,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem and cilastatin are eliminated by glomerular filtration and to a lesser extent by active tubular secretion. Avelumab does not interact with this elimination pathway.,(See Summary)
+185,Avelumab,Imipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.",(See Summary)
+186,Avelumab,Indapamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Indapamide is extensively metabolised by CYPs. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Avelumab does not inhibit or induce CYPs or OATs.,(See Summary)
+187,Avelumab,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+188,Avelumab,Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+189,Avelumab,Interleukin 2 (Aldesleukin),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Avelumab does not interfere with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+190,Avelumab,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Avelumab does not interact with this metabolic pathway.,(See Summary)
+191,Avelumab,Irbesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolised by glucuronidation and oxidation (mainly CYP2C9). Avelumab does not inhibit or induce UGTs or CYPs.,(See Summary)
+192,Avelumab,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+193,Avelumab,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Avelumab does not interact with this metabolic pathway.,(See Summary)
+194,Avelumab,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Avelumab does not inhibit or induce CYPs.,(See Summary)
+195,Avelumab,Itraconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Itraconazole is metabolised by CYP3A4 and is also an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Avelumab does not interact with this pathway.",(See Summary)
+196,Avelumab,Ivabradine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ivabradine is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+197,Avelumab,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration. Avelumab does not interfere with this elimination pathway.,(See Summary)
+198,Avelumab,Ketoconazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ketoconazole is a substrate and inhibitor of CYP3A4 (strong) and P-gp. Avelumab does not interact with this pathway.,(See Summary)
+199,Avelumab,Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Avelumab does not inhibit or induce UGTs.,(See Summary)
+200,Avelumab,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+201,Avelumab,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. Avelumab is unlikely to interfere with this pathway.,(See Summary)
+202,Avelumab,Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+203,Avelumab,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is mainly metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+204,Avelumab,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion. Avelumab does not interact with this elimination pathway.,(See Summary)
+205,Avelumab,Levofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levofloxacin is renally eliminated mainly by glomerular filtration and active secretion (possibly OCT2). Avelumab does not interact with this elimination pathway.,(See Summary)
+206,Avelumab,Levomepromazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levomepromazine is metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+207,Avelumab,Levonorgestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Avelumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+208,Avelumab,Levonorgestrel (Emergency Contraception),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Avelumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+209,Avelumab,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolised by deiodination (by enzymes of deiodinase family) and glucuronidation. Avelumab does not interact with this metabolic pathway.,(See Summary)
+210,Avelumab,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+211,Avelumab,Linagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor metabolic pathway. Linagliptin is also a substrate of P-gp and is a weak inhibitor of CYP3A4. Avelumab does not interact with this pathway.,(See Summary)
+212,Avelumab,Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. Avelumab is unlikely to interfere with this metabolic pathway.,(See Summary)
+213,Avelumab,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Liraglutide is degraded by endogenous endopeptidases. Avelumab does not interact with this pathway.,(See Summary)
+214,Avelumab,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is renally eliminated unchanged via glomerular filtration. Avelumab does not interact with this elimination pathway.,(See Summary)
+215,Avelumab,Lithium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate therefore no pharmacokinetic interaction is expected.,(See Summary)
+216,Avelumab,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalized infections can occur.",(See Summary)
+217,Avelumab,Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8, and is a substrate of P-gp. Avelumab does not inhibit or induce CYPs or P-gp.",(See Summary)
+218,Avelumab,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+219,Avelumab,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam undergoes non-CYP mediated metabolism. Avelumab is unlikely to interfere with this metabolic pathway.,(See Summary)
+220,Avelumab,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Avelumab does not inhibit or induce UGTs.,(See Summary)
+221,Avelumab,Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Avelumab does not inhibit or induce CYPs.,(See Summary)
+222,Avelumab,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+223,Avelumab,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Avelumab does not inhibit or induce CYPs.",(See Summary)
+224,Avelumab,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in the kidney, mainly by glomerular filtration. Avelumab does not interfere with this pathway.",(See Summary)
+225,Avelumab,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+226,Avelumab,Medroxyprogesterone (depot),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+227,Avelumab,Medroxyprogesterone (non-depot),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+228,Avelumab,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolised by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Avelumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+229,Avelumab,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine. Avelumab does not interact with this elimination pathway.,(See Summary)
+230,Avelumab,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney with in vitro data suggesting it is a substrate of OAT3>OAT1. Avelumab does not interfere with this elimination pathway.,(See Summary)
+231,Avelumab,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolised to N-acetyl-mesalazine by N-acetyltransferase. Avelumab does not interfere with this metabolic pathway.,(See Summary)
+232,Avelumab,Metamizole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Metamizole is metabolised in serum and excreted via urine (90%) and faeces (10%). Metamizole is also an inducer of CYP3A4. Avelumab does not interact with this pathway.,(See Summary)
+233,Avelumab,Metformin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine and is a substrate of OCT1/2/3, MATE1 and MATE2K. Avelumab does not interact with this pathway.",(See Summary)
+234,Avelumab,Methadone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methadone is demethylated by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+235,Avelumab,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. Avelumab does not interact with this pathway.",(See Summary)
+236,Avelumab,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolised by CYPs to a clinically relevant extent and does not inhibit or induce CYPs. Avelumab does not interfere with this pathway.,(See Summary)
+237,Avelumab,Methylprednisolone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs. However, the use of systemic methylprednisolone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is not expected with topical use of methylprednisolone.",(See Summary)
+238,Avelumab,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolised by the CYP450 system (mainly CYP2D6). Avelumab does not inhibit or induce CYPs.,(See Summary)
+239,Avelumab,Metolazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metolazone is largely excreted unchanged in the urine. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Avelumab does not interfere with this metabolic pathway.,(See Summary)
+240,Avelumab,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+241,Avelumab,Metronidazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metronidazole is eliminated via glomerular filtration. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Avelumab does not interact with this pathway.",(See Summary)
+242,Avelumab,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Avelumab does not inhibit or induce CYPs.,(See Summary)
+243,Avelumab,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolised by CYPs 2D6 and 1A2, and to a lesser extent by CYP3A4. Avelumab does not inhibit or induce CYPs.",(See Summary)
+244,Avelumab,Miconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Miconazole is extensively metabolised by the liver, potentially CYP-mediated. Miconazole is also an inhibitor of CYP2C9 (moderate) and CYP3A4 (strong). Avelumab does not interact with this pathway.",(See Summary)
+245,Avelumab,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+246,Avelumab,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+247,Avelumab,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Avelumab is unlikely to interfere with this pathway.",(See Summary)
+248,Avelumab,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Avelumab does not inhibit or induce CYPs.",(See Summary)
+249,Avelumab,Mometasone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mometasone is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs. However, the use of systemic mometasone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is not expected with topical use of mometasone.",(See Summary)
+250,Avelumab,Montelukast,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. Avelumab does not inhibit or induce CYPs.,(See Summary)
+251,Avelumab,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Avelumab does not inhibit or induce UGTs or P-gp.",(See Summary)
+252,Avelumab,Moxifloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Avelumab does not inhibit or induce UGTs.,(See Summary)
+253,Avelumab,Mycophenolate,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and UGT2B7. Mycophenolic acid (active metabolite) is an inhibitor of OAT1/OAT3. Avelumab does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. Furthermore, the use of systemic mycophenolate before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions.",(See Summary)
+254,Avelumab,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Avelumab does not interact with this elimination pathway.,(See Summary)
+255,Avelumab,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolised in the liver by alpha-reductase. Avelumab does not interact with this metabolic pathway.,(See Summary)
+256,Avelumab,Naproxen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Avelumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+257,Avelumab,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent by CYP3A4 (30%). Avelumab does not inhibit or induce CYPs.,(See Summary)
+258,Avelumab,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+259,Avelumab,Nefazodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nefazodone is a substrate and strong inhibitor of CYP3A4. Avelumab does not interact with this pathway.,(See Summary)
+260,Avelumab,Nicardipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. Nicardipine is also a weak inhibitor of CYP3A4. Avelumab does not interact with this metabolic pathway.,(See Summary)
+261,Avelumab,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolised by xanthine oxidase and aldehyde oxidase. Avelumab does not interact with this metabolic pathway.,(See Summary)
+262,Avelumab,Nifedipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+263,Avelumab,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolised in the liver following multiple pathways including CYP2C9. Avelumab does not inhibit or induce CYPs.,(See Summary)
+264,Avelumab,Nisoldipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+265,Avelumab,Nitrendipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+266,Avelumab,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolised in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). Avelumab does not interact with this metabolic or elimination pathway.,(See Summary)
+267,Avelumab,Norelgestromin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). Avelumab does not inhibit or induce CYPs.,(See Summary)
+268,Avelumab,Norethisterone (Norethindrone),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Avelumab does not interact with this metabolic pathway.",(See Summary)
+269,Avelumab,Norgestimate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. Avelumab does not interact with this metabolic pathway.,(See Summary)
+270,Avelumab,Norgestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Avelumab does not inhibit or induce CYPs.,(See Summary)
+271,Avelumab,Nortriptyline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nortriptyline is metabolised mainly by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+272,Avelumab,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant, therefore no drug interactions are expected with avelumab.",(See Summary)
+273,Avelumab,Ofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ofloxacin is renally eliminated unchanged by glomerular filtration and active tubular secretion via both cationic and anionic transport systems. Avelumab is unlikely to interfere with this elimination pathway.,(See Summary)
+274,Avelumab,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolised mainly by CYP1A2 (major) and CYP2D6, but also by glucuronidation (UGT1A4). Avelumab does not inhibit or induce CYPs and UGTs.",(See Summary)
+275,Avelumab,Olmesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine.,(See Summary)
+276,Avelumab,Omeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Omeprazole is also an inducer of CYP1A2 and inhibits CYP2C19. Avelumab does not interact with this pathway.,(See Summary)
+277,Avelumab,Ondansetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ondansetron is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2D6. Ondansetron is also a substrate of P-gp. Avelumab does not inhibit or induce CYPs or P-gp.",(See Summary)
+278,Avelumab,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Avelumab does not inhibit or induce UGTs.,(See Summary)
+279,Avelumab,Oxcarbazepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxcarbazepine is extensively metabolised to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5 and are inhibitors of CYP2C19. Avelumab does not interact with this pathway.,(See Summary)
+280,Avelumab,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolised via glucuronidation. Avelumab does not inhibit or induce UGTs.,(See Summary)
+281,Avelumab,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+282,Avelumab,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily eliminated renally (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+283,Avelumab,Palonosetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Palonosetron is also a substrate of P-gp. Avelumab does not inhibit or induce CYPs or P-gp.,(See Summary)
+284,Avelumab,Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pamidronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Avelumab does not interact with this pathway.,(See Summary)
+285,Avelumab,Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. Avelumab does not inhibit or induce CYPs.",(See Summary)
+286,Avelumab,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Avelumab does not interact with this elimination pathway.,(See Summary)
+287,Avelumab,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1 and 2B15), sulfation, and to a lesser extent by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). Avelumab does not interact with this metabolic pathway.",(See Summary)
+288,Avelumab,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolised by CYP2D6. Paroxetine is also an inhibitor of CYP2D6 (strong) and CYP2C9. Avelumab does not interact with this pathway.,(See Summary)
+289,Avelumab,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+290,Avelumab,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Avelumab does not interfere with the elimination of penicillins.,(See Summary)
+291,Avelumab,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is metabolised mainly by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. Avelumab does not inhibit or induce CYPs or FMO3.",(See Summary)
+292,Avelumab,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterised but is likely to involve CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+293,Avelumab,Perindopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolised to other inactive metabolites. Elimination occurs predominantly via the urine. Avelumab does not interact with this metabolic or elimination pathway.,(See Summary)
+294,Avelumab,Perphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perphenazine is metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+295,Avelumab,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+296,Avelumab,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolised by oxidation via monoamine oxidase and to a lesser extent by acetylation. Avelumab does not interact with this metabolic pathway.,(See Summary)
+297,Avelumab,Phenobarbital (Phenobarbitone),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenobarbital is metabolised by CYP2C19 and CYP2C9 (major pathway) and to a lesser extent by CYP2E1. Phenobarbital is a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Avelumab does not interact with this pathway.",(See Summary)
+298,Avelumab,Phenprocoumon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenprocoumon is metabolised by CYP2C9 and CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+299,Avelumab,Phenytoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Phenytoin is also a strong inducer of CYP3A4, UGT and P-gp. Avelumab does not interact with this pathway.",(See Summary)
+300,Avelumab,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Avelumab does not inhibit or induce CYPs.,(See Summary)
+301,Avelumab,Pimozide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pimozide is mainly metabolised by CYP3A4 and CYP2D6 and to a lesser extent by CYP1A2. Avelumab does not inhibit or induce CYPs.,(See Summary)
+302,Avelumab,Pindolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolised to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine. Avelumab is not expected to interfere with this metabolic or elimination pathway.,(See Summary)
+303,Avelumab,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Avelumab does not inhibit or induce CYPs.",(See Summary)
+304,Avelumab,Pipotiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+305,Avelumab,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolised by CYP2C9. Avelumab does not inhibit or induce CYPs.,(See Summary)
+306,Avelumab,Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolised by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Furthermore, pitavastatin is a substrate of OATP1B1. Avelumab does not inhibit or induce CYPs, UGTs or OATPs.",(See Summary)
+307,Avelumab,Posaconazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Posaconazole is primarily metabolised by UGTs and is a substrate of P-gp. Posaconazole is also a strong inhibitor of CYP3A4. Avelumab does not interact with this metabolic pathway.,(See Summary)
+308,Avelumab,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is renally eliminated. Avelumab does not interfere with this elimination pathway.,(See Summary)
+309,Avelumab,Prasugrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. Avelumab does not inhibit or induce CYPs.,(See Summary)
+310,Avelumab,Pravastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Avelumab does not inhibit or induce CYPs or OATPs.,(See Summary)
+311,Avelumab,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolised, primarily by demethylation and conjugation. Avelumab is unlikely to interact with this metabolic pathway.",(See Summary)
+312,Avelumab,Prednisolone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Avelumab does not inhibit or induce CYPs. However, the use of systemic prednisolone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is not expected with topical use of prednisolone.",(See Summary)
+313,Avelumab,Prednisone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. Avelumab does not interact with this metabolic pathway. However, the use of systemic prednisone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is not expected with topical use of prednisone.",(See Summary)
+314,Avelumab,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration (90% as unchanged drug). Avelumab does not interfere with this elimination pathway.,(See Summary)
+315,Avelumab,Prochlorperazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Avelumab does not inhibit or induce CYPs.,(See Summary)
+316,Avelumab,Promethazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Promethazine is metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+317,Avelumab,Propafenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. Avelumab does not inhibit or induce CYPs,(See Summary)
+318,Avelumab,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolised by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Avelumab does not interact with this metabolic pathway.",(See Summary)
+319,Avelumab,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly renally eliminated, partly by active secretion by renal transporters. Prucalopride is also a substrate of P-gp. Avelumab does not interact with this metabolic or elimination pathway.",(See Summary)
+320,Avelumab,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolised by xanthine oxidase. Avelumab does not interact with this metabolic pathway.,(See Summary)
+321,Avelumab,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+322,Avelumab,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+323,Avelumab,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Avelumab does not interfere with this metabolic or elimination pathway.,(See Summary)
+324,Avelumab,Quinidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is a substrate of P-gp. Quinidine is also an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate). Avelumab does not interact with this pathway.",(See Summary)
+325,Avelumab,Rabeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. Avelumab does not interfere with this metabolic pathway.,(See Summary)
+326,Avelumab,Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolised to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Avelumab does not interfere with this metabolic or elimination pathway.",(See Summary)
+327,Avelumab,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranitidine is excreted via OAT1/OAT3. Avelumab does not interact with this elimination pathway.,(See Summary)
+328,Avelumab,Ranolazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranolazine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Furthermore, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Avelumab does not interact with this pathway.",(See Summary)
+329,Avelumab,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. Avelumab does not interact with this metabolic pathway.,(See Summary)
+330,Avelumab,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolised by CYP2C8 and CYP3A4 with clinical data indicating it is a substrate of OATP1B1. Avelumab does not interact with this metabolic pathway.,(See Summary)
+331,Avelumab,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver, but retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Avelumab does not interact with this metabolic pathway.",(See Summary)
+332,Avelumab,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+333,Avelumab,Rifabutin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifabutin is metabolised by CYP3A and via deacetylation. Rifabutin is also a strong CYP3A4 and P-gp inducer. Avelumab does not interact with this pathway.,(See Summary)
+334,Avelumab,Rifampicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifampicin is metabolised via deacetylation and is also a strong CYP3A4 and P-gp inducer. Avelumab does not interact with this pathway.,(See Summary)
+335,Avelumab,Rifapentine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifapentine is metabolised via deacetylation and is also a strong CYP3A4, CYP2C8 and P-gp inducer. Avelumab does not interact with this pathway.",(See Summary)
+336,Avelumab,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Avelumab does not interact with this elimination pathway.",(See Summary)
+337,Avelumab,Risperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Risperidone is also a substrate of P-gp. Avelumab does not inhibit or induce CYPs or P-gp.,(See Summary)
+338,Avelumab,Rivaroxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine. Rivaroxaban is also a substrate of P-gp and BCRP. Avelumab does not interact with this pathway.",(See Summary)
+339,Avelumab,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYP2C9. Avelumab does not inhibit or induce CYPs.,(See Summary)
+340,Avelumab,Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosuvastatin is largely excreted unchanged via the faeces via OATP1B1. Rosuvastatin is also a substrate of BCRP. Avelumab does not inhibit or induce OATPs or BCRP.,(See Summary)
+341,Avelumab,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolised to the inactive salbutamol-4’-O-sulphate. Avelumab does not interact with this metabolic pathway.,(See Summary)
+342,Avelumab,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+343,Avelumab,Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. Avelumab does not inhibit or induce CYPs or P-gp.,(See Summary)
+344,Avelumab,Senna,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces, and also in other secretions. Avelumab is unlikely to interfere with this pathway.",(See Summary)
+345,Avelumab,Sertindole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertindole is metabolised by CYP2D6 and CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+346,Avelumab,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Avelumab does not inhibit or induce CYPs.",(See Summary)
+347,Avelumab,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. Avelumab does not inhibit or induce CYPs.,(See Summary)
+348,Avelumab,Simvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolised by CYP3A4 to its active metabolite. Simvastatin is also a substrate of BCRP and the active metabolite is a substrate of OATP1B1. Avelumab does not inhibit or induce CYPs, BCRP or OATPs.",(See Summary)
+349,Avelumab,Sirolimus,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sirolimus is metabolised by CYP3A4 and is a substrate of P-gp. Avelumab does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. Furthermore, the use of systemic sirolimus before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions.",(See Summary)
+350,Avelumab,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1 and P-gp) and metabolism by CYP3A4 represents a minor metabolic pathway. Avelumab does not interact with this pathway.",(See Summary)
+351,Avelumab,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. Avelumab does not interact with this pathway.",(See Summary)
+352,Avelumab,Sotalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sotalol is excreted unchanged via renal elimination. Avelumab does not interact with this elimination pathway.,(See Summary)
+353,Avelumab,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Avelumab does not interact with this elimination pathway.,(See Summary)
+354,Avelumab,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolised by the flavin containing monooxygenases. Avelumab does not interfere with this metabolic pathway.,(See Summary)
+355,Avelumab,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Avelumab does not interact with this metabolic pathway.,(See Summary)
+356,Avelumab,St John's Wort,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. St John’s wort is a P-gp and CYP3A4 inducer. Avelumab is not a substrate of CYPs or P-gp.,(See Summary)
+357,Avelumab,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Avelumab is unlikely to interfere with this pathway.",(See Summary)
+358,Avelumab,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Streptomycin is eliminated by glomerular filtration. Avelumab does not interfere with this elimination pathway.,(See Summary)
+359,Avelumab,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Avelumab does inhibit or induce CYPs.,(See Summary)
+360,Avelumab,Sulpiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. Avelumab is unlikely to significantly impair sulpiride elimination.,(See Summary)
+361,Avelumab,Tacrolimus,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tacrolimus is metabolised mainly by CYP3A4. Tacrolimus inhibits CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Avelumab does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. Furthermore, the use of systemic tacrolimus before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions.",(See Summary)
+362,Avelumab,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+363,Avelumab,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+364,Avelumab,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Avelumab is unlikely to interfere with this elimination pathway.,(See Summary)
+365,Avelumab,Telithromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. Telithromycin is also an inhibitor of CYP3A4 (strong) and P-gp. Avelumab does not interact with this pathway.,(See Summary)
+366,Avelumab,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Avelumab not inhibit or induce UGTs.,(See Summary)
+367,Avelumab,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Avelumab does not inhibit or induce UGTs.,(See Summary)
+368,Avelumab,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYP2C8 and CYP2C19. Avelumab does not inhibit or induce CYPs.",(See Summary)
+369,Avelumab,Testosterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+370,Avelumab,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Avelumab does not interact with this elimination pathway.,(See Summary)
+371,Avelumab,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolised by CYP1A2. Avelumab does not inhibit or induce CYPs.,(See Summary)
+372,Avelumab,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+373,Avelumab,Thioridazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+374,Avelumab,Tiapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tiapride is excreted largely unchanged in urine. Avelumab does not interfere with this elimination pathway.,(See Summary)
+375,Avelumab,Ticagrelor,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ticagrelor undergoes extensive CYP3A4 metabolism and is a weak inhibitor of CYP3A4. Ticagrelor is also a substrate of P-gp. Avelumab does not interact with this pathway.,(See Summary)
+376,Avelumab,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is metabolised by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+377,Avelumab,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Avelumab does not interact with this elimination pathway.,(See Summary)
+378,Avelumab,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolised by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Avelumab does not inhibit or induce CYPs.,(See Summary)
+379,Avelumab,Tolterodine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 and CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+380,Avelumab,Torasemide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolised mainly by CYP2C9. Furthermore, OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Avelumab does not inhibit or induce CYPs or OATs.",(See Summary)
+381,Avelumab,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. Avelumab does not inhibit or induce CYPs.",(See Summary)
+382,Avelumab,Trandolapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Avelumab does not interact with this metabolic pathway.,(See Summary)
+383,Avelumab,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranexamic acid is mainly cleared by glomerular filtration. Avelumab does not interfere with this elimination pathway.,(See Summary)
+384,Avelumab,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Avelumab does not interact with this metabolic pathway.,(See Summary)
+385,Avelumab,Trazodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+386,Avelumab,Triamcinolone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Triamcinolone is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs. However, the use of systemic triamcinolone before starting avelumab should be avoided due to the potential interference with the pharmacodynamic activity and efficacy of avelumab. Systemic corticosteroids or other immunosuppressants can be used after starting avelumab to treat immune-related adverse reactions. Note: A clinically relevant interaction is not expected with topical use of triamcinolone.",(See Summary)
+387,Avelumab,Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. Avelumab does not inhibit or induce CYPs.,(See Summary)
+388,Avelumab,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. To a lesser extent (approximately 30%) trimethoprim is metabolised by CYP-enzymes (in vitro data suggest CYPs 3A4, 1A2 and 2C9). Trimethoprim is a weak CYP2C8 inhibitor and in vitro data also suggest that trimethoprim is an inhibitor of OCT2 and MATE1. Sulfamethoxazole is metabolised via and is a weak inhibitor of CYP2C9. Avelumab does not interact with these pathways.",(See Summary)
+389,Avelumab,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolised mainly by CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+390,Avelumab,Tropisetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tropisetron is metabolised mainly by CYP2D6 and is a substrate of P-gp. Avelumab does not inhibit or induce CYPs or P-gp.,(See Summary)
+391,Avelumab,Ulipristal,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+392,Avelumab,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolised by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolised by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Avelumab does not interact with this pathway.,(See Summary)
+393,Avelumab,Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Avelumab does not interact with this elimination pathway.,(See Summary)
+394,Avelumab,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vancomycin is excreted unchanged via glomerular filtration. Avelumab does not interfere with this elimination pathway.,(See Summary)
+395,Avelumab,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Avelumab does not inhibit or induce CYPs.",(See Summary)
+396,Avelumab,Verapamil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Verapamil is also a moderate inhibitor of CYP3A4. Avelumab does not interact with this pathway.",(See Summary)
+397,Avelumab,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate of P-gp. Avelumab does not interact with this pathway.,(See Summary)
+398,Avelumab,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+399,Avelumab,Voriconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Voriconazole is metabolised by CYP2C19 (major) and to a lesser extent by CYP2C9 and CYP3A4. Voriconazole is also a strong inhibitor of CYP3A4 and a weak inhibitor of CYPs 2C9, 2C19 and 2B6. Avelumab does not interact with this metabolic pathway.",(See Summary)
+400,Avelumab,Warfarin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and CYP3A4. S-warfarin (more potent) is metabolised by CYP2C9. Avelumab does not inhibit or induce CYPs.,(See Summary)
+401,Avelumab,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). Furthermore, OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Avelumab does not interfere with this pathway.",(See Summary)
+402,Avelumab,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent by CYP3A4. Avelumab does not interact with this metabolic pathway.,(See Summary)
+403,Avelumab,Ziprasidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). Avelumab does not interfere with this pathway.",(See Summary)
+404,Avelumab,Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zoledronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Avelumab does not interact with this pathway.,(See Summary)
+405,Avelumab,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. Avelumab does not inhibit or induce CYPs.",(See Summary)
+406,Avelumab,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. Avelumab does not inhibit or induce CYPs.,(See Summary)
+407,Avelumab,Zotepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Avelumab does not inhibit or induce CYPs.,(See Summary)
+408,Avelumab,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Avelumab does not interfere with this metabolic pathway.",(See Summary)

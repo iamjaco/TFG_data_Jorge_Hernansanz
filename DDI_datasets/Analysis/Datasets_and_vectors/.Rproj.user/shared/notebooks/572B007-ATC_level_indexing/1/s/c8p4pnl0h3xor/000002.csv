@@ -1,0 +1,106 @@
+"0","#Fetching the files to read"
+"0","data_files <- list.files(""Vectors/"", full.names = T)"
+"0","data_files <- data_files[grepl(""*.txt"", data_files)]"
+"0",""
+"0","for (file_name in data_files){"
+"0","  index = read_table2(file_name, "
+"0","    col_names = FALSE)"
+"0","  "
+"0","  #Separating '_' to obtain two columns."
+"0","  index <- index %>%"
+"0","    separate(X1, into = c(""X1"",""X2""), sep = '_')"
+"0","  "
+"0","  index <- unique(c(index$X1,index$X2))"
+"0","  index <- as.data.frame(sort(index))"
+"0","  "
+"0","  colnames(index)[1] <- 'ATC_CODE'"
+"0","  "
+"0","  "
+"0","  index$ATC_Level_1 <- substring(index$ATC_CODE,1,1)"
+"0","  index$ATC_Level_2 <- substring(index$ATC_CODE,1,3)"
+"0","  index$ATC_Level_3 <- substring(index$ATC_CODE,1,4)"
+"0","  index$ATC_Level_4 <- substring(index$ATC_CODE,1,5)"
+"0","  index$ATC_Level_5 <- substring(index$ATC_CODE,1,7)"
+"0","  "
+"0","  file_name <- gsub(""Vectors/Vector_of_"","""",file_name)"
+"0","  file_name <- gsub(""_DDI.txt"",""_ATC_index"",file_name)"
+"0","  "
+"0","  url_file = sprintf(""Indexes/%s.txt"",file_name)"
+"0","  "
+"0","  write_csv(index, url_file)"
+"0","}"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"

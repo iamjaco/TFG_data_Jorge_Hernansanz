@@ -1,0 +1,122 @@
+---
+title: "Grouping DDI databases"
+author: "Jorge H."
+date: "24/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document aims to recollect all existing databases that relates to DDI. Also, it will be mentioned supplementary databases that may give additional information to our principal ones. 
+
+Posteriorly,all this information below will be considered if it is worthy of being added to our project or not.
+<br><br>
+
+
+### Drugbank
+Has a freely available XML dataset containing DDI and its *description*, followed by extra information about the individual drugs.
+Accesing to more information (Paying), we would have information of *adverse effects*, *contraindications*, and *blackbox warnings*.
+
+### KEGG
+Its REST API allows to access to the DDI dataset where it is stated the *severity concept* and the *mechanism of action*. Theer is no more information about DDIs.
+
+### NDF-RT
+It has a repository with DDI information. It has information regarding *severity concept*.
+
+### TWOSIDE
+We have a dataset with DDI along with *side effects* and its *propensity scores* (For each side effect.).
+
+### DDI-CORPUS-2013
+We have access to a *description* and a *category* for each DDI.
+<br><br>
+
+
+# Note
+**Below there are databases that I have not explored yet. It is just mentioned the information there is about DDI without parsing any document, and the one that can be found in papers.**
+<br><br>
+
+
+
+### CredibleMeds
+According to the **paper1**, we can find DDI information of *description*, *clinical effects*,the *mechanism*, *precipitant/object distinction*, and *related drugs*. It has an API that cover information about drugs.
+
+### SemMedDB
+According to **paper1**, there is a *citation evidence* of the DDIs. It has a public database at NIH that can be downloaded.
+
+### DIKB
+According to **paper1**, there is a *description*, *citation evidence* and *mechanism* of the DDIs. There is a github repository with more information about this database.
+
+### NML-DDI-CORPUS
+According to **paper1**, there is a *description*, *mechanism*, and *precipitant/object distinction* of the DDIs. No public database neither API to access it. Just the information stored a the github project of the paper aforementioned. There is a repository called *Orbit* that has information of it and a dataset to download (From 2010)
+
+### DDI Corpus 2011
+Acording to **paper1**, there is just a *description* for each of the DDIs. The DDI corpus is mentioned in OMICX, some scientific papers, and in another small webpages but links accessing the datasets are broken. We just have the information that is stored in the github repositories.
+
+### DDI Corpus 2013
+According to **paper1**, there is a *description*, *clinical effect*, *mechanism* and *precipitant/object distinction* for the DDIs. It's availability is the same as *DDI Corpus 2011*; just from local repositories of github.
+
+### PK DDI Corpus
+According to **paper1**, there is a *description*, a *modality*, and a *precipitant/object distinction* of the DDIs. Same availability like DDI Corpus 2011 and 2013.
+
+
+### OSCAR
+According to **paper1**, there is a *clinical effect*, *citation of evidence*, *precipitant/object distinction*, and *severity concept* for the DDIs. It has a website where you have to register in orer to access information.
+
+
+### ONC Non-interruptive
+According to **paper1**, there is a *precipitant/object distiction* and *severity concept* for the DDIs. It has its own website (ONC) but looks very difficult to download something in an easy way. According to **paper1** they extracted the information from tables of **paper2**. 
+
+### ONC High priority
+According to **paper1**, there is a *precipitant/object distinction* and *severity concept* for the DDIs. It has its own website (ONC) but looks very difficult to download something in an easy way. According to **paper1** they extracted the information from tables of **paper3**.
+
+### HIV-Insite-interactions
+Database of antiretroviral drug interactions. It has its own webpage (HIVInSite) and has interactions for a specific number of drugs. We have information of the effect on drug levels, potential clinical effects, and mechanism of interaction.
+
+### HIV-drug-interactions
+Database from Liverpool university. Have access to DDI but in HTML format. We have infomation of potential DDIs,where it is stated the quality of this evidence and a summary of it.
+
+### FDA (Food and Drug administration)
+Has a database of DDI information in PDF format. It has a open source (**openFDA**) where we can access Drug Adverse Events recorder from 2004 to 2019.
+
+### HEP-drug-interactions
+Same as **HIV-drug-interactions** but focusing on drugs afecting hepatitis.
+
+### Danish drug interaction databases
+Contains a XML file of DDIs provided by Danish medicines Agency.º
+
+### French Pharmacovigilance Database(FPVD)
+Not seeing a clear path to obtain information from here.
+<br><br><br><br>
+
+# COMPLEMENTARY RESOURCES FOR DDIs
+
+### DGldb
+Contains a database of drug-gene interaction
+
+### SIDER
+Information about drug side effects
+
+### Vigibase
+Contains pharmacovigilance information like drugs and its MEDRAA id.
+
+### Pubmed 
+This **paper 4** seems to have worked with DDIs in PubMed.
+
+### DrumPID
+Contains information of Drug-protein interactions.
+
+## PHARMGKB
+Annotated drugs
+<br><br>
+
+
+
++ **1 ->** https://www.sciencedirect.com/science/article/pii/S1532046415000738
++ **2 ->** http://refhub.elsevier.com/S1532-0464(15)00073-8/h0125
++ **3 ->** http://refhub.elsevier.com/S1532-0464(15)00073-8/h0120
++ **4 ->** https://figshare.com/articles/step_1_download_Substance_py/4711516/2 
+<br><br>
+
+**Other webpages like open-targets, Stich, metacyc... were not considered as no information related to drug was founded**

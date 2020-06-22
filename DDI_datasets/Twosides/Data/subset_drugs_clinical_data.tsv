@@ -1,0 +1,461 @@
+PRIM_ATC	NAME_ATC	n_pid
+N02BE01	Paracetamol	790147
+N02AA01	Morphine	396098
+M01AE01	Ibuprofen	370843
+J01DC02	Cefuroxime	326125
+A04AA01	Ondansetron	241847
+A02BC02	Pantoprazole	231514
+N02AX02	Tramadol	226992
+B01AC06	Acetylsalicylic acid	219820
+B01AB10	Tinzaparin	211117
+A02AA04	Magnesium hydroxide	195307
+A12BA01	Potassium chloride	193948
+N05CF01	Zopiclone	193507
+N02AA05	Oxycodone	180204
+C03CA01	Furosemide	180041
+C10AA01	Simvastatin	160563
+J01XD01	Metronidazole	148557
+A03FA01	Metoclopramide	147392
+A06AB02	Bisacodyl	134995
+C07AB02	Metoprolol	134948
+M01AB05	Diclofenac	133225
+A06AD11	Lactulose	118611
+B01AB04	Dalteparin	117119
+H02AB06	Prednisolone	113681
+B02BA01	Phytomenadione	112734
+H02AB02	Dexamethasone	111976
+J01CE01	Benzylpenicillin	105643
+B01AC04	Clopidogrel	105217
+J01GB03	Gentamicin	102912
+J01CF01	Dicloxacillin	101508
+J01CA08	Pivmecillinam	97306
+C08CA01	Amlodipine	96611
+J01MA02	Ciprofloxacin	88473
+N03AX12	Gabapentin	82403
+H01BB02	Oxytocin	80958
+N05BA01	Diazepam	77872
+J01CE02	Phenoxymethylpenicillin	76636
+M01AB15	Ketorolac	73831
+N05BA04	Oxazepam	69784
+P01AB01	Metronidazole	69688
+B02AA02	Tranexamic acid	68662
+B01AB05	Enoxaparin	68428
+C09AA02	Enalapril	68247
+H02AB04	Methylprednisolone	66097
+A06AB08	Sodium picosulfate	64724
+B05BB01	Electrolytes	61482
+C01AA05	Digoxin	58014
+J01CR05	Piperacillin and enzyme inhibitor	57760
+A11DA01	Thiamine (vit b1)	57724
+N01BB02	Lidocaine	56032
+N06AB04	Citalopram	55324
+J02AC01	Fluconazole	51594
+A06AD65	Macrogol, combinations	51564
+C09CA01	Losartan	50077
+N05AD01	Haloperidol	49974
+A10BA02	Metformin	49885
+R05DA04	Codeine	48955
+A02BC03	Lansoprazole	48417
+B01AX05	Fondaparinux	46860
+B01AA03	Warfarin	45756
+J01CA01	Ampicillin	43944
+N01AH01	Fentanyl	40386
+C03DA01	Spironolactone	39468
+C10AA05	Atorvastatin	37487
+N05CD05	Triazolam	36688
+M01AH01	Celecoxib	36405
+J01DH02	Meropenem	36390
+M03BB03	Chlorzoxazone	36237
+R06AE07	Cetirizine	35057
+B01AF01	Rivaroxaban	34532
+A11CC05	Colecalciferol	34334
+A10AB05	Insulin aspart	33813
+A12AX	Calcium, combinations with vitamin d and/or other drugs	33797
+N07BA01	Nicotine	33712
+H03AA01	Levothyroxine sodium	33255
+C09AA05	Ramipril	32689
+N05CD08	Midazolam	31490
+C03AB01	Bendroflumethiazide and potassium	31319
+B01AC24	Ticagrelor	31032
+N02AB03	Fentanyl	30948
+A02BC05	Esomeprazole	30377
+R03BB04	Tiotropium bromide	29710
+N06AX11	Mirtazapine	29281
+V08AB10	Iomeprol	28576
+A07AA02	Nystatin	28194
+R06AD02	Promethazine	27373
+N05AH04	Quetiapine	25924
+R03AC02	Salbutamol	25885
+M04AA01	Allopurinol	24472
+C01DA02	Glyceryl trinitrate	24410
+J01CA04	Amoxicillin	24124
+R03BA02	Budesonide	23380
+B03BB01	Folic acid	23376
+A02BB01	Misoprostol	23130
+J01XA01	Vancomycin	23062
+N05BA02	Chlordiazepoxide	22955
+A10AB01	Insulin (human)	22729
+J01CR02	Amoxicillin and enzyme inhibitor	22361
+N01BB01	Bupivacaine	22259
+N05AH03	Olanzapine	22195
+J01CF05	Flucloxacillin	22093
+N01BB52	Lidocaine, combinations	21797
+J01FA09	Clarithromycin	21606
+R06AA04	Clemastine	21457
+B01AB01	Heparin	21284
+A02BC01	Omeprazole	21282
+N02AG02	Ketobemidone and antispasmodics	20656
+B03AA02	Ferrous fumarate	20235
+C01DA14	Isosorbide mononitrate	20207
+N05CF02	Zolpidem	20199
+C01BD01	Amiodarone	20087
+M05BA04	Alendronic acid	19259
+A11EA	Vitamin b-complex, plain	19093
+B01AC07	Dipyridamole	18983
+P01BC01	Quinine	18908
+A11AA03	Multivitamins and other minerals, incl. combinations	18611
+C07AG01	Labetalol	18331
+N02BA01	Acetylsalicylic acid	17752
+C07AG02	Carvedilol	17232
+V03AE01	Polystyrene sulfonate	16918
+N05AF03	Chlorprothixene	16847
+N02AB01	Ketobemidone	15868
+R03AK04	Salbutamol and sodium cromoglicate	15726
+N01AH02	Alfentanil	15649
+C08DA01	Verapamil	15127
+J01CA02	Pivampicillin	14956
+N06AB06	Sertraline	14856
+B01AE07	Dabigatran etexilate	14834
+N05BA06	Lorazepam	14695
+B03BA01	Cyanocobalamin	14474
+R05CB01	Acetylcysteine	14402
+B03AA07	Ferrous sulfate	14216
+N02AB02	Pethidine	14164
+A12CC30	Magnesium (different salts in combination)	14113
+R03AK03	NULL	14069
+A02AD01	Ordinary salt combinations	13987
+R03AL01	Fenoterol and ipratropium bromide	13897
+A07DA03	Loperamide	13885
+A10BB12	Glimepiride	13765
+G04CA01	Alfuzosin	13741
+N06AB10	Escitalopram	13698
+N01AH03	Sufentanil	13601
+M01AE02	Naproxen	13577
+J01EA01	Trimethoprim	13567
+N06AX16	Venlafaxine	13551
+J01XE01	Nitrofurantoin	13248
+N06AA09	Amitriptyline	13173
+N05AD08	Droperidol	13083
+B05BA03	Carbohydrates	12936
+N01BB09	Ropivacaine	12797
+N03AX16	Pregabalin	12777
+J05AB01	Aciclovir	12510
+H02AB09	Hydrocortisone	12402
+M01AX05	Glucosamine	12339
+J01DD04	Ceftriaxone	12317
+N03AX09	Lamotrigine	12131
+N02AA59	Codeine, combinations excl. psycholeptics	12059
+D01AC02	Miconazole	11958
+G03CA03	Estradiol	11843
+J06BB01	Anti-d (rh) immunoglobulin	11829
+N03AA02	Phenobarbital	11228
+C07AB07	Bisoprolol	11181
+A11	Vitamins	11175
+S01AA01	Chloramphenicol	11169
+A03FA03	Domperidone	11137
+N05AX08	Risperidone	10947
+N02AE01	Buprenorphine	10864
+N05BA12	Alprazolam	10847
+N07BB01	Disulfiram	10821
+C09AA10	Trandolapril	10815
+N03AG01	Valproic acid	10807
+A10AC01	Insulin (human)	10664
+R03AK07	Formoterol and budesonide	10567
+J01EB02	Sulfamethizole	10337
+M01AB08	Etodolac	10323
+N03AE01	Clonazepam	10286
+R03AC03	Terbutaline	10252
+S01AA13	Fusidic acid	10245
+N05CH01	Melatonin	9745
+A10AE04	Insulin glargine	9539
+N07BC02	Methadone	9473
+C09CA06	Candesartan	9308
+A07AA09	Vancomycin	8868
+J01FA06	Roxithromycin	8799
+N02AA51	Morphine, combinations	8764
+A06AG10	Docusate sodium, incl. combinations	8484
+B01AF02	Apixaban	8453
+G04CA02	Tamsulosin	8438
+C10AA07	Rosuvastatin	8393
+J01MA14	Moxifloxacin	8381
+C01CA24	Epinephrine	8335
+A12CB01	Zinc sulfate	8237
+A01AB09	Miconazole	8164
+C08CA02	Felodipine	8159
+N02AG01	Morphine and antispasmodics	8103
+C07AA05	Propranolol	7902
+A10AD05	Insulin aspart	7814
+N05AX12	Aripiprazole	7790
+N03AX14	Levetiracetam	7744
+N02CX02	Clonidine	7640
+N06AA10	Nortriptyline	7604
+V04CX	Other diagnostic agents	7498
+R03AK06	Salmeterol and fluticasone	7409
+A12CA01	Sodium chloride	7390
+V03AB15	Naloxone	7263
+A06AG01	Sodium phosphate	7210
+J01FF01	Clindamycin	7187
+A12AA04	Calcium carbonate	7158
+B05XA05	Magnesium sulfate	6941
+C07AB03	Atenolol	6783
+C09DA01	Losartan and diuretics	6766
+D07AB02	Hydrocortisone butyrate	6657
+N06AX21	Duloxetine	6605
+J01CA11	Mecillinam	6543
+N01AX10	Propofol	6506
+N05AA02	Levomepromazine	6503
+A12CX	Other mineral products	6485
+N06AX03	Mianserin	6395
+A11CC03	Alfacalcidol	6273
+A12AA07	Calcium chloride	6077
+B05AA01	Albumin	5878
+M01AC05	Lornoxicam	5861
+A12AA06	Calcium lactate gluconate	5728
+A12CC10	Magnesium oxide	5659
+V03AB23	Acetylcysteine	5547
+B03XA02	Darbepoetin alfa	5532
+C09AA04	Perindopril	5520
+H03BB02	Thiamazole	5519
+S01EE01	Latanoprost	5508
+A11GA01	Ascorbic acid (vit c)	5492
+G04CB01	Finasteride	5447
+N04AB02	Orphenadrine (chloride)	5442
+C03BA08	Metolazone	5389
+A02BX13	Alginic acid	5382
+G04BD07	Tolterodine	5347
+G02CB03	Cabergoline	5318
+R03AC13	Formoterol	5317
+J01XC01	Fusidic acid	5232
+J01FA01	Erythromycin	5221
+G02AD	Prostaglandins	5196
+A10AE05	Insulin detemir	5174
+G02AD06	Misoprostol	5172
+A03BB01	Butylscopolamine	5147
+R03AL02	Salbutamol and ipratropium bromide	5139
+A04AD12	Aprepitant	5034
+N05CD02	Nitrazepam	4924
+A02AH	Antacids with sodium bicarbonate	4900
+R03BA05	Fluticasone	4879
+B05XA	Electrolyte solutions	4817
+C03CA02	Bumetanide	4816
+G04BD08	Solifenacin	4781
+B05BA10	Combinations	4774
+L02BG04	Letrozole	4764
+C08CA05	Nifedipine	4745
+B03AC	Iron, parenteral preparations	4742
+B05BB02	Electrolytes with carbohydrates	4704
+J01FA10	Azithromycin	4644
+L04AX03	Methotrexate	4587
+D01AE15	Terbinafine	4585
+N06DA02	Donepezil	4532
+N05AN01	Lithium	4500
+J01XX08	Linezolid	4481
+J04AB02	Rifampicin	4435
+R03BB01	Ipratropium bromide	4410
+C08DB01	Diltiazem	4402
+N06BA04	Methylphenidate	4392
+A11CC01	Ergocalciferol	4385
+N05AF05	Zuclopenthixol	4377
+B01AC22	Prasugrel	4366
+L02BB03	Bicalutamide	4359
+H02AB01	Betamethasone	4337
+ÅÅ	NULL	4328
+C01DA08	Isosorbide dinitrate	4323
+A04AA05	Palonosetron	4232
+B03AA01	Ferrous glycine sulfate	4204
+M03BX01	Baclofen	4198
+J01GB01	Tobramycin	4179
+C09BA02	Enalapril and diuretics	4096
+S01XA20	Artificial tears and other indifferent preparations	3980
+L04AX01	Azathioprine	3934
+N01BB53	Mepivacaine, combinations	3912
+B03BA03	Hydroxocobalamin	3912
+C08CA13	Lercanidipine	3892
+N06AB03	Fluoxetine	3879
+C01CA03	Norepinephrine	3859
+M04AC01	Colchicine	3816
+N04BC05	Pramipexole	3814
+A07EC02	Mesalazine	3766
+D07AC13	Mometasone	3709
+C02CA04	Doxazosin	3706
+M05BA08	Zoledronic acid	3701
+A03BA01	Atropine	3700
+C01BC04	Flecainide	3692
+N03AF01	Carbamazepine	3601
+R03CC03	Terbutaline	3601
+J02AX04	Caspofungin	3512
+R03DC03	Montelukast	3509
+B01AD02	Alteplase	3496
+N06DX01	Memantine	3433
+A02BA02	Ranitidine	3420
+J06BA02	Immunoglobulins, normal human, for intravascular adm.	3367
+N03AF02	Oxcarbazepine	3367
+C10AX09	Ezetimibe	3298
+D07AC01	Betamethasone	3283
+B05XA11	Magnesium chloride	3259
+N05BA09	Clobazam	3239
+R06AX26	Fexofenadine	3208
+A10BH01	Sitagliptin	3180
+L04AA06	Mycophenolic acid	3160
+A09AA02	Multienzymes (lipase, protease etc.)	3112
+V03AB14	Protamine	3106
+N01BB51	Bupivacaine, combinations	3104
+N06AB05	Paroxetine	3045
+L03AA02	Filgrastim	3015
+A07FA01	Lactic acid producing organisms	3015
+A06AD	Osmotically acting laxatives	2969
+J01AA02	Doxycycline	2963
+C02AC05	Moxonidine	2937
+S01BA01	Dexamethasone	2908
+H01BA04	Terlipressin	2907
+C05BA01	Organo-heparinoid	2821
+H02AB07	Prednisone	2811
+C01CA26	Ephedrine	2805
+A01AB03	Chlorhexidine	2780
+R03DA04	Theophylline	2778
+A06AG11	Sodium lauryl sulfoacetate, incl. combinations	2777
+N01AH06	Remifentanil	2751
+B05XA01	Potassium chloride	2734
+J05AH02	Oseltamivir	2716
+C02AB01	Methyldopa (levorotatory)	2715
+A04AD05	Metopimazine	2711
+R06AX13	Loratadine	2682
+J05AB11	Valaciclovir	2666
+G02AD02	Dinoprostone	2594
+C09AA03	Lisinopril	2582
+N02AJ06	Codeine and paracetamol	2549
+N06DA03	Rivastigmine	2541
+A12AA02	Calcium glubionate	2516
+R06AX27	Desloratadine	2484
+N06BC01	Caffeine	2472
+M01AB01	Indometacin	2465
+L02BA01	Tamoxifen	2443
+B03XA01	Erythropoietin	2423
+N05BA08	Bromazepam	2389
+J01DD02	Ceftazidime	2372
+V08AB09	Iodixanol	2372
+L04AD01	Ciclosporin	2359
+C01CA02	Isoprenaline	2346
+N06AA02	Imipramine	2344
+A10BJ02	Liraglutide	2339
+H01BA02	Desmopressin	2297
+N02AA04	Nicomorphine	2252
+N04AA02	Biperiden	2251
+S01EC01	Acetazolamide	2231
+A07EC01	Sulfasalazine	2224
+N05AH02	Clozapine	2219
+L03AA13	Pegfilgrastim	2218
+L01BC06	Capecitabine	2210
+N01BB03	Mepivacaine	2196
+L01DC03	Mitomycin	2187
+V03AB25	Flumazenil	2179
+D06AX01	Fusidic acid	2176
+J01DD01	Cefotaxime	2173
+N03AB02	Phenytoin	2162
+B01AC30	Combinations	2137
+G04CB02	Dutasteride	2130
+N05BB01	Hydroxyzine	2128
+A12	Mineral supplements	2095
+R01AD09	Mometasone	2093
+J01DH03	Ertapenem	2091
+H01CB02	Octreotide	2055
+N02CC01	Sumatriptan	2053
+C05AA08	Fluocortolone	2052
+L01XX05	Hydroxycarbamide	2046
+L01AA01	Cyclophosphamide	2045
+C01EB10	Adenosine	2042
+G02AB01	Methylergometrine	2041
+V03AE02	Sevelamer	2028
+C05AA01	Hydrocortisone	2025
+A03AB02	Glycopyrronium bromide	2013
+L04AD02	Tacrolimus	1944
+L02AE03	Goserelin	1942
+V07AB	Solvents and diluting agents, incl. irrigating solutions	1930
+L04AB02	Infliximab	1930
+A07EA06	Budesonide	1911
+C01CA04	Dopamine	1883
+J01XB01	Colistin	1879
+L01BA01	Methotrexate	1864
+B03BA02	Cyanocobalamin tannin complex	1845
+R01AA07	Xylometazoline	1828
+L01XC02	Rituximab	1796
+N05AX13	Paliperidone	1784
+A07DA02	Opium	1744
+A11HA02	Pyridoxine (vit b6)	1724
+A06AD04	Magnesium sulfate	1716
+B05XA03	Sodium chloride	1704
+A05AA02	Ursodeoxycholic acid	1702
+B05XA09	Sodium phosphate	1689
+N05CC01	Chloral hydrate	1681
+N06AX22	Agomelatine	1648
+N03AB05	Fosphenytoin	1632
+B05AA05	Dextran	1594
+B03AB	Iron trivalent, oral preparations	1588
+L02AE04	Triptorelin	1578
+J02AA01	Amphotericin b	1545
+N03AX11	Topiramate	1517
+J05AB14	Valganciclovir	1463
+J02AC03	Voriconazole	1437
+B03AC02	NULL	1436
+J07AM51	Tetanus toxoid, combinations with diphtheria toxoid	1417
+G03XB01	Mifepristone	1416
+R06AE03	Cyclizine	1409
+N05AE04	Ziprasidone	1400
+M05BA03	Pamidronic acid	1395
+N05AB03	Perphenazine	1385
+M05BX04	Denosumab	1360
+G02CX01	Atosiban	1251
+C07AA07	Sotalol	1244
+C08CA06	Nimodipine	1239
+B05XA02	Sodium bicarbonate	1159
+L02BG06	Exemestane	1064
+A04AA02	Granisetron	1044
+L02BG03	Anastrozole	1044
+C09AA01	Captopril	1016
+A07BA01	Medicinal charcoal	1000
+N05AL05	Amisulpride	984
+J02AC04	Posaconazole	966
+L01CB01	Etoposide	964
+G03BA03	Testosterone	940
+L04AB01	Etanercept	901
+N06BA09	Atomoxetine	896
+L04AB04	Adalimumab	885
+H01AA02	Tetracosactide	823
+A11BA	Multivitamins, plain	800
+N01AX14	Esketamine	741
+R03CC02	Salbutamol	695
+H01AC01	Somatropin	692
+V09CX	Other renal system diagnostic radiopharmaceuticals	606
+G04BE03	Sildenafil	590
+R03DX	Other systemic drugs for obstructive airway diseases	582
+N01BB20	Combinations	568
+G03DA04	Progesterone	561
+H03AA02	Liothyronine sodium	554
+J07BC01	Hepatitis b, purified antigen	532
+L01CA04	Vinorelbine	531
+L02AE02	Leuprorelin	526
+G03AA07	Levonorgestrel and ethinylestradiol	509
+L03AB07	Interferon beta-1a	504
+A11AB	Multivitamins, other combinations	491
+N01AB	Halogenated hydrocarbons	430
+G03AA10	Gestodene and ethinylestradiol	415
+L04AA23	Natalizumab	394
+L04AC07	Tocilizumab	386
+B05XB01	Arginine hydrochloride	346
+L03AA14	Lipegfilgrastim	330
+J06BA01	Immunoglobulins, normal human, for extravascular adm.	322
+V04CM01	Gonadorelin	306
+N02AA02	Opium	177
+M03AX01	Botulinum toxin	172
+J05AF01	Zidovudine	171
+D05BA02	Methoxsalen	153

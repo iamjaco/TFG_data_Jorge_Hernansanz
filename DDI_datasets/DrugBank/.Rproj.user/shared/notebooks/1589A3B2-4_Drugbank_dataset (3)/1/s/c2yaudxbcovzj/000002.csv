@@ -1,0 +1,10 @@
+"0","# ATC vector
+write_csv(unique(Drugbank_DDI[,-1]),
+          ""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/ATC_Drugbank.txt"")
+"
+"2","
+"
+"2","
+"
+"2","
+"

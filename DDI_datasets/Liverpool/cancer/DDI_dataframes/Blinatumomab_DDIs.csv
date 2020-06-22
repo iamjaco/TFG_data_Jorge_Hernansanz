@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Blinatumomab,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. Blinatumomab is unlikely to interfere with this pathway.",(See Summary)
+1,Blinatumomab,Acenocoumarol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Acenocoumarol is mainly metabolised by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+2,Blinatumomab,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolised by glucuronidation (by several UGTs, major UGT1A6). Blinatumomab does not inhibit or induce UGTs.",(See Summary)
+3,Blinatumomab,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+4,Blinatumomab,Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alendronate is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Blinatumomab does not interact with this pathway.,(See Summary)
+5,Blinatumomab,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy, which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+6,Blinatumomab,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolised by CYP3A. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+7,Blinatumomab,Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolised and is mainly excreted unchanged in faeces. Aliskiren is also a substrate of P-gp. Blinatumomab does not interact with this metabolic or elimination pathway.,(See Summary)
+8,Blinatumomab,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+9,Blinatumomab,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+10,Blinatumomab,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+11,Blinatumomab,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aluminium hydroxide is not metabolised.,(See Summary)
+12,Blinatumomab,Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolised by glucuronidation via UGTs 1A3, 1A9 and 2B7, and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Blinatumomab does not inhibit or induce UGTs, CYPs or P-gp.",(See Summary)
+13,Blinatumomab,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amikacin is eliminated by glomerular filtration. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+14,Blinatumomab,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Blinatumomab is unlikely to interfere with this elimination pathway.,(See Summary)
+15,Blinatumomab,Amiodarone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiodarone is metabolised by CYP3A4 and CYP2C8. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, the major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Blinatumomab is not metabolised by CYPs.",(See Summary)
+16,Blinatumomab,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolised and is primarily eliminated renally (possibly via OCT). Blinatumomab is unlikely to interfere with this metabolic or elimination pathway.,(See Summary)
+17,Blinatumomab,Amitriptyline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+18,Blinatumomab,Amlodipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+19,Blinatumomab,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Blinatumomab is unlikely to interfere with this elimination pathway.,(See Summary)
+20,Blinatumomab,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amphotericin B is not appreciably metabolised but is eliminated to a large extent in the bile. Blinatumomab does not interfere with this elimination pathway. However, the European SPC for amphotericin B states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Monitoring may be required.",(See Summary)
+21,Blinatumomab,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20-40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60-80% is excreted in the urine within 6 hours. Blinatumomab is unlikely to interfere with this elimination pathway.,(See Summary)
+22,Blinatumomab,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. Blinatumomab is unlikely to interfere with this pathway.,(See Summary)
+23,Blinatumomab,Antacids,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Antacids are not metabolised by CYPs. Blinatumomab is unlikely to interfere with this metabolic pathway.,(See Summary)
+24,Blinatumomab,Apixaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Apixaban is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Apixaban is also a substrate of P-gp and BCRP. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+25,Blinatumomab,Aprepitant,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. During treatment, aprepitant is a moderate inhibitor of CYP3A4 but after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGTs. Blinatumomab is not a substrate of CYPs or UGTs.",(See Summary)
+26,Blinatumomab,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolised by CYP3A4 and CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+27,Blinatumomab,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 (minor) and 2D6 (minor)). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+28,Blinatumomab,Astemizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+29,Blinatumomab,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. Blinatumomab does not interfere with this elimination pathway.",(See Summary)
+30,Blinatumomab,Atorvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolised by CYP3A4 and is also a substrate of P-gp and OATP1B1. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+31,Blinatumomab,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolised analogously to natural purines. Blinatumomab does not interfere with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+32,Blinatumomab,Azithromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Azithromycin is mainly eliminated via biliary excretion with animal data suggesting this may occur via P-gp and MRP2. Azithromycin is also an inhibitor of P-gp. Blinatumomab is unlikely to interfere with this pathway.,(See Summary)
+33,Blinatumomab,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Blinatumomab does not interact with this metabolic pathway.",(See Summary)
+34,Blinatumomab,Bedaquiline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bedaquiline is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+35,Blinatumomab,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. In vitro data indicate that bendroflumethiazide inhibits these renal transporters but a clinically significant interaction is unlikely in the range of observed clinical concentrations. Blinatumomab does not interact with this metabolic or elimination pathway.,(See Summary)
+36,Blinatumomab,Bepridil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+37,Blinatumomab,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+38,Blinatumomab,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Half of a bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Blinatumomab does not interact with this pathway.,(See Summary)
+39,Blinatumomab,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. Blinatumomab does not interfere with this metabolic pathway.,(See Summary)
+40,Blinatumomab,Bisoprolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6, and partly eliminated unchanged in the urine. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+41,Blinatumomab,Bosentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bosentan is a substrate of CYP3A4 and CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, bosentan is also a weak inducer of CYP3A4 and CYP2C9. Blinatumomab is not metabolised by CYPs.",(See Summary)
+42,Blinatumomab,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 and CYP1A2 may play a role. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+43,Blinatumomab,Budesonide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+44,Blinatumomab,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+45,Blinatumomab,Bupropion,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolised by CYP2B6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+46,Blinatumomab,Buspirone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+47,Blinatumomab,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. Blinatumomab does not interfere with these elimination pathways.",(See Summary)
+48,Blinatumomab,Candesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+49,Blinatumomab,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+50,Blinatumomab,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Blinatumomab does not inhibit or induce OATs.,(See Summary)
+51,Blinatumomab,Carbamazepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carbamazepine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2C8. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, carbamazepine is an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong), 1A2 (weak), 2B6 and UGT1A1. Blinatumomab is not a substrate of CYPs or UGTs.",(See Summary)
+52,Blinatumomab,Carvedilol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additional metabolism via CYP2D6 and to a lesser extent by CYPs 2C9 and 1A2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+53,Blinatumomab,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non-CYP mediated pathway. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+54,Blinatumomab,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly eliminated unchanged renally by glomerular filtration and tubular secretion via OAT1 and MATE1. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+55,Blinatumomab,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Blinatumomab does not interfere with this elimination pathway.",(See Summary)
+56,Blinatumomab,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefixime is renally excreted predominantly by glomerular filtration. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+57,Blinatumomab,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolised by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Blinatumomab does not interfere with this elimination pathway.",(See Summary)
+58,Blinatumomab,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftazidime is excreted predominantly by renal glomerular filtration. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+59,Blinatumomab,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Blinatumomab does not interfere with this elimination pathway.",(See Summary)
+60,Blinatumomab,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolised by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+61,Blinatumomab,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion. In vitro data indicate that cetirizine inhibits OCT2. Blinatumomab is unlikely to interact with this elimination pathway.,(See Summary)
+62,Blinatumomab,Chloramphenicol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chloramphenicol is predominantly glucuronidated. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Blinatumomab does not interact with this pathway.",(See Summary)
+63,Blinatumomab,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce cytochromes. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+64,Blinatumomab,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolised in the liver via CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+65,Blinatumomab,Chlorpromazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorpromazine is  mainly metabolised by CYP2D6, but also by CYP1A2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+66,Blinatumomab,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Blinatumomab does not inhibit or induce OATs.,(See Summary)
+67,Blinatumomab,Ciclosporin (Cyclosporine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ciclosporin is a substrate of CYP3A4 and P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, ciclosporin is also an inhibitor of CYP3A4 and OATP1B1. Blinatumomab is not a substrate of CYPs or OATPs.",(See Summary)
+68,Blinatumomab,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+69,Blinatumomab,Cimetidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cimetidine is metabolised by CYP450 enzymes. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Cimetidine is also a weak inhibitor of several CYP-enzymes, (mainly CYPs 3A4, 1A2, 2D6 and 2C19). In vitro data indicate that cimetidine also inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations. Blinatumomab is not a substrate of CYPs, OCTs or OATs.",(See Summary)
+70,Blinatumomab,Ciprofloxacin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. It is also metabolised and partially cleared through the bile and intestine. Furthermore, ciprofloxacin is a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Blinatumomab does not interact with this pathway.",(See Summary)
+71,Blinatumomab,Cisapride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cisapride is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+72,Blinatumomab,Citalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+73,Blinatumomab,Clarithromycin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clarithromycin is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, clarithromycin is also an inhibitor of CYP3A4 (strong) and P-gp. Blinatumomab is not a substrate of CYPs or P-gp.",(See Summary)
+74,Blinatumomab,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolised (likely non-CYP mediated pathway) and excreted in the urine by glomerular filtration. Blinatumomab does not interact with this metabolic or elimination pathway.,(See Summary)
+75,Blinatumomab,Clemastine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolised in the liver via CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+76,Blinatumomab,Clindamycin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clindamycin is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, in vitro data suggest clindamycin is an inhibitor of CYP3A4. Blinatumomab is not metabolised by CYPs.",(See Summary)
+77,Blinatumomab,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,(See Summary)
+78,Blinatumomab,Clofazimine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces and in vitro data suggest clofazimine is a CYP3A4 inhibitor. Blinatumomab does not interact with this pathway.,(See Summary)
+79,Blinatumomab,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolysed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Blinatumomab does not interfere with this elimination pathway.",(See Summary)
+80,Blinatumomab,Clomipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. Clomipramine and desmethylclomipramine are both metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+81,Blinatumomab,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in the form of the unchanged parent drug (40-60% of the dose). Clonidine is also a weak inhibitor of OCT2 but is unlikely to interact with blinatumomab elimination. Blinatumomab does not interfere with this pathway.",(See Summary)
+82,Blinatumomab,Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, clopidogrel is an inhibitor of CYP2C8 (strong), CYP2B6 (weak) and of CYP2C9 (in vitro) at high concentrations. Blinatumomab is not metabolised by CYPs.",(See Summary)
+83,Blinatumomab,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Oxazepam is mainly glucuronidated. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+84,Blinatumomab,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion. Blinatumomab does not interact with this elimination pathway.",(See Summary)
+85,Blinatumomab,Clozapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Note: Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+86,Blinatumomab,Codeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolised by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Morphine is also a substrate of P-gp. Furthermore, codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+87,Blinatumomab,Colchicine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Colchicine is metabolised by CYP3A4 and is a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+88,Blinatumomab,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly renally excreted via glomerular filtration. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+89,Blinatumomab,Dabigatran,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dabigatran is transported via P-gp and is renally excreted. Blinatumomab does not interact with this pathway.,(See Summary)
+90,Blinatumomab,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+91,Blinatumomab,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYPs. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+92,Blinatumomab,Desipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desipramine is metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+93,Blinatumomab,Desogestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+94,Blinatumomab,Dexamethasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dexamethasone is a known substrate of CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, dexamethasone has also been described an inducer of CYP3A4, but induction of CYP3A4 by dexamethasone has yet to be established. Blinatumomab is not metabolised by CYPs.",(See Summary)
+95,Blinatumomab,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+96,Blinatumomab,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolised by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Blinatumomab does not inhibit or induce UGTs or P-gp.",(See Summary)
+97,Blinatumomab,Diazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Temazepam is mainly glucuronidated. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+98,Blinatumomab,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidised by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+99,Blinatumomab,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is eliminated renally via OATP4C1 and P-gp. Blinatumomab does not inhibit or induce OATPs or P-gp.,(See Summary)
+100,Blinatumomab,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4-mediated metabolism accounting for only 5-10% of the overall metabolism. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+101,Blinatumomab,Diltiazem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diltiazem is metabolised by CYP3A4 and CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, diltiazem is also a moderate inhibitor of CYP3A4. Blinatumomab is not metabolised by CYPs.",(See Summary)
+102,Blinatumomab,Diphenhydramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, diphenhydramine is a weak inhibitor of CYP2D6. Blinatumomab is not metabolised by CYPs.",(See Summary)
+103,Blinatumomab,Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Blinatumomab does not to inhibit or induce UGTs.",(See Summary)
+104,Blinatumomab,Disopyramide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+105,Blinatumomab,Dolasetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+106,Blinatumomab,Domperidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+107,Blinatumomab,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. Blinatumomab does not interact with this metabolic pathway.",(See Summary)
+108,Blinatumomab,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+109,Blinatumomab,Doxepin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolised to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. Doxepin and nordoxepin are both metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+110,Blinatumomab,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+111,Blinatumomab,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+112,Blinatumomab,Drospirenone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+113,Blinatumomab,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dulaglutide is degraded by endogenous endopeptidases. Blinatumomab does not interact with this pathway.,(See Summary)
+114,Blinatumomab,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolised by CYP2D6 and CYP1A2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+115,Blinatumomab,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+116,Blinatumomab,Dydrogesterone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+117,Blinatumomab,Edoxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is partially metabolised by CYP3A4 (<10%) and is transported via P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+118,Blinatumomab,Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1 and UGT1A3) and oxidation (via CYP1A2 and CYP2C8). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+119,Blinatumomab,Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is renally eliminated (possibly via OATs). Blinatumomab does not interact with this elimination pathway.,(See Summary)
+120,Blinatumomab,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is excreted predominantly renally. Blinatumomab does not interact with this metabolic or elimination pathway.",(See Summary)
+121,Blinatumomab,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eprosartan is largely excreted in bile and urine as unchanged drug. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+122,Blinatumomab,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor role. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+123,Blinatumomab,Erythromycin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Erythromycin is a substrate of CYP3A4 and P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, erythromycin is an inhibitor of CYP3A4 (moderate) and P-gp. Blinatumomab is not a substrate of CYPs or P-gp.",(See Summary)
+124,Blinatumomab,Escitalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+125,Blinatumomab,Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, esomeprazole is an inhibitor of CYP2C19. Blinatumomab is not metabolised by CYPs.",(See Summary)
+126,Blinatumomab,Estazolam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+127,Blinatumomab,Estradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+128,Blinatumomab,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolised by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and urine (50%). Blinatumomab does not interact with this metabolic or elimination pathway.,(See Summary)
+129,Blinatumomab,Ethinylestradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+130,Blinatumomab,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolised in the liver; animal studies suggest involvement of flavin-containing monooxygenases. Blinatumomab does not interfere with this pathway.,(See Summary)
+131,Blinatumomab,Etonogestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+132,Blinatumomab,Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Note: Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+133,Blinatumomab,Exenatide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Exenatide is cleared mainly by glomerular filtration. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+134,Blinatumomab,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Blinatumomab does not inhibit or induce UGTs.,(See Summary)
+135,Blinatumomab,Famotidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Famotidine is excreted via OAT1/OAT3. Blinatumomab does not inhibit or induce OATs.,(See Summary)
+136,Blinatumomab,Felodipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Felodipine is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+137,Blinatumomab,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolysed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Blinatumomab does not interact with this pathway.",(See Summary)
+138,Blinatumomab,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+139,Blinatumomab,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine is a substrate of P-gp. Blinatumomab does not inhibit or induce P-gp.,(See Summary)
+140,Blinatumomab,Finasteride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+141,Blinatumomab,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+142,Blinatumomab,Flecainide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flecainide is metabolised mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also eliminated unchanged renally. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+143,Blinatumomab,Flucloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Flucloxacillin has been described as a CYP3A4 inducer. However, the mechanism and clinical relevance of this interaction is unknown. Blinatumomab does not interact with this pathway.",(See Summary)
+144,Blinatumomab,Fluconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluconazole is cleared primarily by renal excretion and is also an inhibitor of CYPs 3A4 (moderate), 2C9 (moderate) and 2C19 (strong). Blinatumomab does not interact with this pathway.",(See Summary)
+145,Blinatumomab,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase (DPD) to an inactive metabolite. Blinatumomab does not interfere with this elimination pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Blinatumomab also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+146,Blinatumomab,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+147,Blinatumomab,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+148,Blinatumomab,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is metabolised by CYP2D6 and CYP2C9, and to a lesser extent by CYP2C19 and CYP3A4 to form norfluoxetine. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Fluoxetine is a strong inhibitor of CYP2D6 and CYP2C19. Blinatumomab is not metabolised by CYPs.",(See Summary)
+149,Blinatumomab,Fluphenazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluphenazine is metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+150,Blinatumomab,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+151,Blinatumomab,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Note: A clinically significant interaction is unlikely with the topical use of fluticasone.",(See Summary)
+152,Blinatumomab,Fluvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvastatin is mainly metabolised by CYP2C9 (75%) and to a lesser extent by CYP3A4 (20%) and CYP2C8 (5%). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, fluvastatin is a potential inhibitor of CYP2C9. Blinatumomab is not metabolised by CYPs.",(See Summary)
+153,Blinatumomab,Fluvoxamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, fluvoxamine is an inhibitor of CYPs 1A2 (strong), 2C19 (strong), 3A4 (moderate), 2C9 (weak-moderate) and 2D6 (weak). Blinatumomab is not metabolised by CYPs.",(See Summary)
+154,Blinatumomab,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is eliminated predominantly renally. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+155,Blinatumomab,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation. As multiple CYP450 and UGT enzymes catalyse the transformation the potential for a pharmacokinetic interaction is low. Furthermore, an indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+156,Blinatumomab,Fosaprepitant,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Blinatumomab does not interact with this metabolic pathway. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. During treatment, aprepitant is a moderate inhibitor of CYP3A4 but after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGTs. Blinatumomab is not a substrate of CYPs or UGTs.",(See Summary)
+157,Blinatumomab,Fosphenytoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, phenytoin is a strong inducer of CYP3A4, UGT and P-gp. Blinatumomab is not a substrate of CYPs, UGTs or P-gp.",(See Summary)
+158,Blinatumomab,Furosemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also renally eliminated unchanged (via OATs). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. In vitro data indicate that furosemide is an inhibitor of the renal transporters OAT1/OAT3. Blinatumomab does not interfere with this pathway.,(See Summary)
+159,Blinatumomab,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+160,Blinatumomab,Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Furthermore, gemfibrozil is an inhibitor of CYP2C8 (strong), OATP1B1 and OAT3. In vitro data indicate gemfibrozil to be a strong inhibitor of CYP2C9 but in vivo data showed no clinically relevant effect on CYP2C9. Blinatumomab does not interact with this metabolic pathway.",(See Summary)
+161,Blinatumomab,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+162,Blinatumomab,Gestodene,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+163,Blinatumomab,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+164,Blinatumomab,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+165,Blinatumomab,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolised by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+166,Blinatumomab,Glipizide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolised by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+167,Blinatumomab,Granisetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Granisetron is metabolised by CYP3A4 and is also a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+168,Blinatumomab,Grapefruit juice,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Grapefruit juice is a known inhibitor of CYP3A4. Blinatumomab is not metabolised by CYPs.,(See Summary)
+169,Blinatumomab,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+170,Blinatumomab,Griseofulvin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Griseofulvin is a liver microsomal enzyme inducer. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Blinatumomab does not interact with this pathway.,(See Summary)
+171,Blinatumomab,Haloperidol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGTs 2B7>1A4, 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4 and CYP2D6). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+172,Blinatumomab,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+173,Blinatumomab,Hydralazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. In vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6. It is not expected that this will lead to a clinical relevant interaction with blinatumomab.",(See Summary)
+174,Blinatumomab,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrochlorothiazide is not metabolised but is cleared by the kidneys via OAT1. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Blinatumomab does not inhibit or induce OATs.,(See Summary)
+175,Blinatumomab,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+176,Blinatumomab,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+177,Blinatumomab,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone.,(See Summary)
+178,Blinatumomab,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Blinatumomab does not inhibit or induce UGTs.",(See Summary)
+179,Blinatumomab,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is metabolised in the liver and cleared via the lung and kidney. Blinatumomab does not interact with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+180,Blinatumomab,Hydroxyzine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+181,Blinatumomab,Ibandronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibandronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Blinatumomab does not interact with this pathway.,(See Summary)
+182,Blinatumomab,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+183,Blinatumomab,Iloperidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Iloperidone is metabolised by CYP3A4 and CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+184,Blinatumomab,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent by active tubular secretion. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+185,Blinatumomab,Imipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+186,Blinatumomab,Indapamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Indapamide is extensively metabolised by CYP450. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Blinatumomab does not inhibit or induce OATs.",(See Summary)
+187,Blinatumomab,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+188,Blinatumomab,Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Coadministration may increase risk of neutropenia, fatigue, and thrombocytopenia. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+189,Blinatumomab,Interleukin 2 (Aldesleukin),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Blinatumomab does not interact with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+190,Blinatumomab,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+191,Blinatumomab,Irbesartan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolised by glucuronidation and oxidation (mainly CYP2C9). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+192,Blinatumomab,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+193,Blinatumomab,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+194,Blinatumomab,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+195,Blinatumomab,Itraconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Itraconazole is primarily metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, itraconazole is also an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Blinatumomab is not a substrate of CYPs, P-gp or BCRP.",(See Summary)
+196,Blinatumomab,Ivabradine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ivabradine is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+197,Blinatumomab,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+198,Blinatumomab,Ketoconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ketoconazole is a substrate of CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, ketoconazole is an inhibitor of CYP3A4 (strong) and P-gp. Blinatumomab is not a substrate of CYPs or P-gp.",(See Summary)
+199,Blinatumomab,Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Blinatumomab does not inhibit or induce UGTs.,(See Summary)
+200,Blinatumomab,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+201,Blinatumomab,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. Blinatumomab does not interfere with this metabolic pathway.,(See Summary)
+202,Blinatumomab,Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to lesser extent by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+203,Blinatumomab,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is metabolised mainly by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+204,Blinatumomab,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion. Blinatumomab does not interact with this metabolic or elimination pathway.,(See Summary)
+205,Blinatumomab,Levofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levofloxacin is eliminated renally mainly by glomerular filtration and active secretion (possibly OCT2). Blinatumomab does not interact with this elimination pathway.,(See Summary)
+206,Blinatumomab,Levomepromazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levomepromazine is metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+207,Blinatumomab,Levonorgestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+208,Blinatumomab,Levonorgestrel (Emergency Contraception),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+209,Blinatumomab,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolised by deiodination (by enzymes of deiodinase family) and glucuronidation. Blinatumomab does not interfere with this metabolic pathway.,(See Summary)
+210,Blinatumomab,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+211,Blinatumomab,Linagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Linagliptin is also a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, linagliptin is a weak inhibitor of CYP3A4. Blinatumomab is not metabolised by CYPs.",(See Summary)
+212,Blinatumomab,Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. Blinatumomab is unlikely to interfere with this pathway.,(See Summary)
+213,Blinatumomab,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Liraglutide is degraded by endogenous endopeptidases. Blinatumomab does not interact with this pathway.,(See Summary)
+214,Blinatumomab,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is eliminated unchanged renally via glomerular filtration. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+215,Blinatumomab,Lithium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate therefore no pharmacokinetic interaction is expected.,(See Summary)
+216,Blinatumomab,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalized infections can occur.",(See Summary)
+217,Blinatumomab,Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8, and is also a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+218,Blinatumomab,Loratadine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+219,Blinatumomab,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam is elimination via non-CYP mediated pathway. Blinatumomab is unlikely to interfere with this elimination pathway.,(See Summary)
+220,Blinatumomab,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Blinatumomab does not inhibit or induce UGTs.,(See Summary)
+221,Blinatumomab,Losartan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+222,Blinatumomab,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+223,Blinatumomab,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+224,Blinatumomab,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in kidney, mainly by glomerular filtration. Blinatumomab does not interfere with this elimination pathway.",(See Summary)
+225,Blinatumomab,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+226,Blinatumomab,Medroxyprogesterone (depot),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+227,Blinatumomab,Medroxyprogesterone (non-depot),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+228,Blinatumomab,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolised by CYP2C9, and glucuronidated by UGT2B7 and UGT1A9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+229,Blinatumomab,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+230,Blinatumomab,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney with in vitro data suggesting it is a substrate of OAT3>OAT1. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+231,Blinatumomab,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolised to N-acetyl-mesalazine by N-acetyltransferase. Blinatumomab does not interfere with this metabolic pathway.,(See Summary)
+232,Blinatumomab,Metamizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Metamizole is also metabolised in serum and excreted via urine (90%) and faeces (10%). Furthermore, metamizole is an inducer of CYP3A4. Blinatumomab does not interact with this metabolic pathway.",(See Summary)
+233,Blinatumomab,Metformin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine and is a substrate of OCT1/2/3, MATE1 and MATE2K. Blinatumomab does not interact with this elimination pathway.",(See Summary)
+234,Blinatumomab,Methadone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methadone is demethylated by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+235,Blinatumomab,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. Blinatumomab does not interact with this pathway.",(See Summary)
+236,Blinatumomab,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolised by CYPs to a clinically relevant extent and does not inhibit or induce CYPs. Blinatumomab does not interact with this pathway.,(See Summary)
+237,Blinatumomab,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+238,Blinatumomab,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolised by the CYP450 system (mainly CYP2D6). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+239,Blinatumomab,Metolazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metolazone is largely excreted unchanged in the urine. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Blinatumomab does not inhibit or induce OATs.,(See Summary)
+240,Blinatumomab,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+241,Blinatumomab,Metronidazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metronidazole is eliminated via glomerular filtration. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Blinatumomab does not interfere with this pathway.",(See Summary)
+242,Blinatumomab,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+243,Blinatumomab,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolised by CYPs 2D6 and 1A2, and to a lesser extent by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+244,Blinatumomab,Miconazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Miconazole is extensively metabolised by the liver. Miconazole is also an inhibitor of CYP2C9 (moderate) and CYP3A4 (strong). Blinatumomab does not interact with this pathway.,(See Summary)
+245,Blinatumomab,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+246,Blinatumomab,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+247,Blinatumomab,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Blinatumomab is unlikely to interfere with this pathway.",(See Summary)
+248,Blinatumomab,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+249,Blinatumomab,Mometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Note: A clinically significant interaction is not expected with the topical use of mometasone.",(See Summary)
+250,Blinatumomab,Montelukast,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+251,Blinatumomab,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Blinatumomab does not inhibit or induce UGTs or P-gp.",(See Summary)
+252,Blinatumomab,Moxifloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Blinatumomab does not inhibit or induce UGTs.,(See Summary)
+253,Blinatumomab,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and UGT2B7. The active metabolite of mycophenolate, mycophenolic acid, is an inhibitor of OAT1/OAT3. Blinatumomab does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+254,Blinatumomab,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+255,Blinatumomab,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolised in the liver by alpha-reductase. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+256,Blinatumomab,Naproxen,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+257,Blinatumomab,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent by CYP3A4 (30%). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+258,Blinatumomab,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+259,Blinatumomab,Nefazodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nefazodone is metabolised mainly by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, nefazodone is a strong inhibitor of CYP3A4. Blinatumomab is not metabolised by CYPs.",(See Summary)
+260,Blinatumomab,Nicardipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, nicardipine is a weak inhibitor of CYP3A4. Blinatumomab is not metabolised by CYPs.",(See Summary)
+261,Blinatumomab,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolised by xanthine oxidase and aldehyde oxidase. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+262,Blinatumomab,Nifedipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+263,Blinatumomab,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolised in the liver following multiple pathways including CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+264,Blinatumomab,Nisoldipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+265,Blinatumomab,Nitrendipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+266,Blinatumomab,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolised in the liver via glucuronidation and N-acetylation, and partly eliminated in the urine as unchanged drug (30-40%). Blinatumomab does not interact with this metabolic or elimination pathway.",(See Summary)
+267,Blinatumomab,Norelgestromin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+268,Blinatumomab,Norethisterone (Norethindrone),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Blinatumomab does not interact with this metabolic pathway.",(See Summary)
+269,Blinatumomab,Norgestimate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+270,Blinatumomab,Norgestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+271,Blinatumomab,Nortriptyline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nortriptyline is metabolised mainly by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+272,Blinatumomab,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant, therefore no drug interactions are expected.",(See Summary)
+273,Blinatumomab,Ofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ofloxacin is eliminated unchanged renally by glomerular filtration and active tubular secretion via both cationic and anionic transport systems. Blinatumomab is unlikely to interfere with this pathway.,(See Summary)
+274,Blinatumomab,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolised mainly by CYP1A2 (major) and CYP2D6, but also by glucuronidation (UGT1A4). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+275,Blinatumomab,Olmesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. Blinatumomab does not interact with this metabolic or elimination pathway.,(See Summary)
+276,Blinatumomab,Omeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, omeprazole is an inducer of CYP1A2 and inhibits CYP2C19. Blinatumomab is not metabolised by CYPs.",(See Summary)
+277,Blinatumomab,Ondansetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ondansetron is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2D6. Ondansetron is also a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+278,Blinatumomab,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Blinatumomab does not inhibit or induce UGTs.,(See Summary)
+279,Blinatumomab,Oxcarbazepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxcarbazepine is extensively metabolised to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5, and are inhibitors of CYP2C19. Blinatumomab does not interact with this pathway.",(See Summary)
+280,Blinatumomab,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolised via glucuronidation. Blinatumomab does not inhibit or induce UGTs.,(See Summary)
+281,Blinatumomab,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+282,Blinatumomab,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily renally eliminated (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. Blinatumomab is unlikely to interact with this pathway. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+283,Blinatumomab,Palonosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Palonosetron is also a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+284,Blinatumomab,Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pamidronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Blinatumomab does not interact with this pathway.,(See Summary)
+285,Blinatumomab,Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+286,Blinatumomab,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+287,Blinatumomab,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1 and 2B15), sulfation, to a lesser extent by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+288,Blinatumomab,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, paroxetine is an inhibitor of CYP2D6 (strong) and CYP2C9. Blinatumomab is not metabolised by CYPs.",(See Summary)
+289,Blinatumomab,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, coadministration may increase risk of neutropenia, fatigue and thrombocytopenia. Haematological parameters should be monitored if coadministered.",(See Summary)
+290,Blinatumomab,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Blinatumomab does not interfere with the elimination of penicillins.,(See Summary)
+291,Blinatumomab,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is mainly metabolised by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+292,Blinatumomab,Periciazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+293,Blinatumomab,Perindopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolised to other inactive metabolites. Elimination occurs predominantly via the urine. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+294,Blinatumomab,Perphenazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perphenazine is metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+295,Blinatumomab,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+296,Blinatumomab,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolised by oxidation via monoamine oxidase and to a lesser extent by acetylation. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+297,Blinatumomab,Phenobarbital (Phenobarbitone),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenobarbital is metabolised by CYP2C19 and CYP2C9 (major), and to a lesser extent by CYP2E1. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, phenobarbital is a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Blinatumomab is not a substrate of CYPs or UGTs.",(See Summary)
+298,Blinatumomab,Phenprocoumon,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenprocoumon is mainly metabolised by CYP2C9 and CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+299,Blinatumomab,Phenytoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, phenytoin is a strong inducer of CYP3A4, UGT and P-gp. Blinatumomab is not a substrate of CYPs, UGTs or P-gp.",(See Summary)
+300,Blinatumomab,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+301,Blinatumomab,Pimozide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pimozide is mainly metabolised by CYP3A4 and CYP2D6, and to a lesser extent by CYP1A2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+302,Blinatumomab,Pindolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolised to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+303,Blinatumomab,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+304,Blinatumomab,Pipotiazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+305,Blinatumomab,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolised by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+306,Blinatumomab,Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolised by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Furthermore, pitavastatin is a substrate of OATP1B1. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+307,Blinatumomab,Posaconazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Posaconazole is primarily metabolised by UGTs and is a substrate of P-gp. Posaconazole is also a strong inhibitor of CYP3A4. Blinatumomab does not interact with this pathway.,(See Summary)
+308,Blinatumomab,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is renally eliminated. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+309,Blinatumomab,Prasugrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6, and to a lesser extent by CYP2C9 and CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+310,Blinatumomab,Pravastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+311,Blinatumomab,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolised, primarily by demethylation and conjugation. Blinatumomab does not interfere with this metabolic pathway.",(See Summary)
+312,Blinatumomab,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+313,Blinatumomab,Prednisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+314,Blinatumomab,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration (90% as unchanged drug). Blinatumomab is unlikely to interfere with this elimination pathway.,(See Summary)
+315,Blinatumomab,Prochlorperazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+316,Blinatumomab,Promethazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Promethazine is metabolised by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+317,Blinatumomab,Propafenone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+318,Blinatumomab,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolised by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+319,Blinatumomab,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly renally eliminated, partly by active secretion by renal transporters. Prucalopride is also a substrate of P-gp. Blinatumomab does not interact with this metabolic pathway.",(See Summary)
+320,Blinatumomab,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolised by xanthine oxidase. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+321,Blinatumomab,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+322,Blinatumomab,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+323,Blinatumomab,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Blinatumomab does not inhibit or induce OATs.,(See Summary)
+324,Blinatumomab,Quinidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is also a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, quinidine is an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate). Blinatumomab is not a substrate of CYPs or P-gp.",(See Summary)
+325,Blinatumomab,Rabeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+326,Blinatumomab,Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolised to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Blinatumomab is not expected to interfere with this metabolic pathway.",(See Summary)
+327,Blinatumomab,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranitidine is excreted via OAT1/OAT3. Blinatumomab does not inhibit or induce OATs.,(See Summary)
+328,Blinatumomab,Ranolazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranolazine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Furthermore, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+329,Blinatumomab,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, in vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. Blinatumomab is not metabolised by CYPs.",(See Summary)
+330,Blinatumomab,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolised by CYP2C8 and CYP3A4, with clinical data indicating it is a substrate of OATP1B1. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+331,Blinatumomab,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver, but retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Blinatumomab does not interact with this metabolic pathway.",(See Summary)
+332,Blinatumomab,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+333,Blinatumomab,Rifabutin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifabutin is metabolised by CYP3A and via deacetylation. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, rifabutin is also a strong CYP3A4 and P-gp inducer. Blinatumomab is not a substrate of CYPs or P-gp.",(See Summary)
+334,Blinatumomab,Rifampicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifampicin is metabolised via deacetylation and is also a strong CYP3A4 and P-gp inducer. Blinatumomab does not interact with this pathway.,(See Summary)
+335,Blinatumomab,Rifapentine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifapentine is metabolised via deacetylation and is also a strong CYP3A4, CYP2C8 and P-gp inducer. Blinatumomab does not interact with this pathway.",(See Summary)
+336,Blinatumomab,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Blinatumomab does not interact with this elimination pathway.",(See Summary)
+337,Blinatumomab,Risperidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Risperidone is also a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant.",(See Summary)
+338,Blinatumomab,Rivaroxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine. Rivaroxaban is also a substrate of P-gp and BCRP. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+339,Blinatumomab,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+340,Blinatumomab,Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosuvastatin is largely excreted unchanged via the faeces via OATP1B1 and is a substrate for BCRP. Blinatumomab does not inhibit or induce OATPs or BCRP.,(See Summary)
+341,Blinatumomab,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolised to the inactive salbutamol-4’-O-sulphate. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+342,Blinatumomab,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+343,Blinatumomab,Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+344,Blinatumomab,Senna,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces, and also in other secretions. Blinatumomab does not interfere with this pathway.",(See Summary)
+345,Blinatumomab,Sertindole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertindole is metabolised by CYP2D6 and CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+346,Blinatumomab,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+347,Blinatumomab,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+348,Blinatumomab,Simvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolised by CYP3A4 and the active metabolite is a substrate of OATP1B1. Simvastatin is also a substrate of BCRP. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+349,Blinatumomab,Sirolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sirolimus is metabolised by CYP3A4 and is substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism, but a clinically relevant interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+350,Blinatumomab,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1 and P-gp) and metabolism by CYP3A4 represents a minor metabolic pathway. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+351,Blinatumomab,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. Blinatumomab does not interact with this pathway.",(See Summary)
+352,Blinatumomab,Sotalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sotalol is excreted unchanged via renal elimination. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+353,Blinatumomab,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+354,Blinatumomab,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolised by the flavin containing monooxygenases. Blinatumomab does not interfere with this metabolic pathway.,(See Summary)
+355,Blinatumomab,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+356,Blinatumomab,St John's Wort,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. St John’s wort is a P-gp and CYP3A4 inducer. Blinatumomab is not a substrate of CYPs or P-gp.,(See Summary)
+357,Blinatumomab,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Blinatumomab is unlikely to interfere with this metabolic or elimination pathway.",(See Summary)
+358,Blinatumomab,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Streptomycin is eliminated by glomerular filtration. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+359,Blinatumomab,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+360,Blinatumomab,Sulpiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. Blinatumomab is unlikely to interfere with this elimination pathway.,(See Summary)
+361,Blinatumomab,Tacrolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tacrolimus is metabolised mainly by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, tacrolimus is also an inhibitor of CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Note: Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+362,Blinatumomab,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+363,Blinatumomab,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+364,Blinatumomab,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+365,Blinatumomab,Telithromycin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Telithromycin is also an inhibitor of CYP3A4 (strong) and P-gp. Blinatumomab is not metabolised by CYPs or transported by P-gp.",(See Summary)
+366,Blinatumomab,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Blinatumomab not inhibit or induce UGTs.,(See Summary)
+367,Blinatumomab,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Blinatumomab does not inhibit or induce UGTs.,(See Summary)
+368,Blinatumomab,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYP2C8 and CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+369,Blinatumomab,Testosterone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+370,Blinatumomab,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+371,Blinatumomab,Theophylline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolised by CYP1A2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+372,Blinatumomab,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+373,Blinatumomab,Thioridazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+374,Blinatumomab,Tiapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tiapride is excreted largely unchanged in urine. Blinatumomab is unlikely to interfere with this elimination pathway.,(See Summary)
+375,Blinatumomab,Ticagrelor,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ticagrelor undergoes extensive CYP3A4 metabolism and is a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, ticagrelor is a weak inhibitor of CYP3A4. Blinatumomab is not metabolised by CYPs.",(See Summary)
+376,Blinatumomab,Timolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+377,Blinatumomab,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+378,Blinatumomab,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolised by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+379,Blinatumomab,Tolterodine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 and CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+380,Blinatumomab,Torasemide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolised mainly by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Blinatumomab does not inhibit or induce OATs.",(See Summary)
+381,Blinatumomab,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+382,Blinatumomab,Trandolapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+383,Blinatumomab,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranexamic acid is mainly cleared by glomerular filtration. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+384,Blinatumomab,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+385,Blinatumomab,Trazodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+386,Blinatumomab,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+387,Blinatumomab,Triazolam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+388,Blinatumomab,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. To a lesser extent (approximately 30%) trimethoprim is metabolised by CYPs (in vitro data suggest CYPs 3A4, 1A2 and 2C9). Sulfamethoxazole is metabolised by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Furthermore, trimethoprim is a weak CYP2C8 inhibitor with in vitro data suggesting that trimethoprim is also an inhibitor of OCT2 and MATE1. Sulfamethoxazole is a weak inhibitor of CYP2C9. Blinatumomab is not a substrate of CYPs, OCTs or MATEs.",(See Summary)
+389,Blinatumomab,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolised mainly by CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+390,Blinatumomab,Tropisetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tropisetron is metabolised mainly by CYP2D6. Tropisetron is also a substrate of P-gp. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+391,Blinatumomab,Ulipristal,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+392,Blinatumomab,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolised by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolised by CYP2C9 and CYP2C19. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, this is unlikely to be clinically relevant. Valproic acid is also an inhibitor of CYP2C9. Blinatumomab is not metabolised by CYPs.",(See Summary)
+393,Blinatumomab,Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Blinatumomab does not interact with this elimination pathway.,(See Summary)
+394,Blinatumomab,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vancomycin is excreted unchanged via glomerular filtration. Blinatumomab does not interfere with this elimination pathway.,(See Summary)
+395,Blinatumomab,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+396,Blinatumomab,Verapamil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, verapamil is a moderate inhibitor of CYP3A4. Blinatumomab is not metabolised by CYPs.",(See Summary)
+397,Blinatumomab,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is also a substrate of P-gp. Blinatumomab does not interact with this metabolic pathway.,(See Summary)
+398,Blinatumomab,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+399,Blinatumomab,Voriconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Voriconazole is metabolised by CYP2C19 (major) and to a lesser extent by CYP3A4 and CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely. Furthermore, voriconazole is also a strong inhibitor of CYP3A4 and a weak inhibitor of CYPs 2C9, 2C19 and 2B6. Blinatumomab is not metabolised by CYPs.",(See Summary)
+400,Blinatumomab,Warfarin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and CYP3A4. S-warfarin (more potent) is metabolised by CYP2C9. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+401,Blinatumomab,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). Furthermore, OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Blinatumomab does not interfere with this pathway.",(See Summary)
+402,Blinatumomab,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent by CYP3A4. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+403,Blinatumomab,Ziprasidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+404,Blinatumomab,Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zoledronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Blinatumomab does not interact with this pathway.,(See Summary)
+405,Blinatumomab,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+406,Blinatumomab,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+407,Blinatumomab,Zotepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)
+408,Blinatumomab,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. An indirect effect of blinatumomab on CYPs may occur due to transient release of cytokines during the first days of therapy which can inhibit CYP450 metabolism. However, a clinically relevant interaction is unlikely.",(See Summary)

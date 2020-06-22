@@ -1,0 +1,25 @@
+---
+title: "NDF-RT guidelines"
+author: "Jorge H."
+date: "16/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document reflects the content of NDF-RT database:
+
++ **Drugs** -> To determine.
++ **DDIs** -> To determine.
++ **Severity** of the DDI.
++ **Mechanism of action** of each single drug.
++ **Physiological effect** of each single drug.
++ **Structural class** of each single drug.
+
+### To examine
+Adding more entries of bioportal for individual drugs.
+Wait for answer from UMLS licence.
+
+

@@ -1,0 +1,10 @@
+"0","Danish_dataset_cli <- unique(Danish_dataset_cli)
+Danish_dataset_cli <- unique(Danish_dataset_cli)
+# Subsetting to clinical data
+Danish_dataset_cli <- merge(Danish_dataset_dup,
+                            clinicaldrugpairs_counts,
+                            by = c(""drug"",""codrug""))
+"
+"2","Error in merge(Danish_dataset_dup, clinicaldrugpairs_counts, by = c(""drug"",  : 
+  object 'Danish_dataset_dup' not found
+"

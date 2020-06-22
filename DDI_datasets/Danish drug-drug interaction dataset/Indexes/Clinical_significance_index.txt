@@ -1,0 +1,7 @@
+ID_KliniskBetydning,Forkortelse,Clinical_significance,Tekst,Sorteringsnr
+481e8088-5b09-40d6-811b-1f4d7997a547,uafkl,uafklaret,uafklaret,60
+1376daa2-f6fe-4e7a-8014-3d20d20f1598,ingen,ingen,Ingen hverken kinetiske eller fysiologiske/kliniske ændringer.,50
+93982a2f-f01c-4e7c-8c17-4cd9a899edc6,mulig,mulig,"Farmakokinetiske ændringer som ikke er ledsaget af kendte bivirkninger, eller i ændringer i det biologiske respons, eller udelukkende resultater fra in-vitro undersøgelser, der ikke kan associeres til kliniske/fysiologiske end-points.",40
+590ec310-501f-4954-bd7b-7a4ae556afa9,ringe,ringe,"Uændret eller ikke betydende biologisk respons med få og lettere bivirkninger - eller serumkoncentrationsændringer, der i andre forsøg ikke har udvist betydende ændringer i det biologiske respons.",30
+a4cd5cc6-1e1b-4a0d-8387-8b545b6b8f0a,moder,moderat,"Moderat klinisk/fysiologisk effekt med enten lettere ændret terapeutisk respons eller sjælden optræden af alvorlige bivirkninger eller hyppig optræden af lettere bivirkninger. Serum-koncentrationsændringer, der i andre forsøg har været tæt associeret til ovennævnte fænomener.",20
+3d464ee6-31c4-4054-a9f6-c65e56ae4cfd,udtal,udtalt,Udtalt klinisk/fysiologisk effekt med enten betydende ændret terapeutisk respons (kvantitativt og/eller kvalitativt) eller hyppig optræden af alvorlige bivirkninger.,10

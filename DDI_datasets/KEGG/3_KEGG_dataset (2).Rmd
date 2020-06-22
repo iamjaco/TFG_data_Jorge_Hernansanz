@@ -1,0 +1,106 @@
+---
+title: "Adding features"
+author: "Jorge H."
+date: "2/6/2020"
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, '3_KEGG_dataset (2).html')) }) 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+library(data.table)
+```
+
+
+Importing files
+```{r}
+KEEG_DDI <- read_csv("DDIs/KEEG_DDI.txt")
+
+kegg_to_atc <- read_table2("Mappings/kegg_to_atc.txt", 
+    col_names = FALSE)
+
+```
+
+
+ATC
+```{r}
+# Tidying kegg identifiers.
+colnames(kegg_to_atc) <- c('kegg_identifier','atc_identifier')
+kegg_to_atc$atc_identifier <- gsub('atc:','',kegg_to_atc$atc_identifier)
+
+# Mapping 
+DDI_mapped <- merge(KEEG_DDI,
+                    kegg_to_atc,
+                    by.x = 'V1', 
+                    by.y = 'kegg_identifier')
+
+DDI_mapped <- merge(DDI_mapped,
+                    kegg_to_atc, 
+                    by.x='V2',
+                    by.y = 'kegg_identifier')
+
+DDI_mapped <- unique(DDI_mapped)
+
+```
+
+
+Tidying KEGG dataframe
+```{r}
+# Adding proper names
+setnames(DDI_mapped,
+         old = c("V2","V1","V3","V4","V5","atc_identifier.x","atc_identifier.y"),
+         new = c("KEGG1","KEGG2","Management","Mechanism_of_action",
+                 "Mechanism_of_action (General)","codrug","drug"))
+
+
+# Adding level 1 ATC
+DDI_mapped$level_1_atc_drug <- substr(DDI_mapped$drug,1,1)
+DDI_mapped$level_1_atc_codrug <- substr(DDI_mapped$codrug,1,1)
+
+# Adding the pair of ATC joined (For the vector of the compendia)
+DDI_mapped$ATC_vector <- paste(apply(DDI_mapped[,c("drug","codrug")],
+                                       1,
+                                       min),
+                                 apply(DDI_mapped[,c("drug","codrug")],
+                                       1,
+                                       max),
+                                 sep = "_")
+
+# Sorting columns
+DDI_mapped <- DDI_mapped[,c(7,6,1:5,8:10)]
+```
+
+
+Subsetting to clinical data set
+```{r}
+#Duplicating values of danish compendia
+DDI_mapped_cli <- DDI_mapped[,c(2,1,3:10)]
+
+setnames(DDI_mapped_cli,
+         old = c("codrug","drug"),
+         new = c("drug", "codrug"))
+DDI_mapped_cli <- rbind(DDI_mapped, DDI_mapped_cli)
+
+DDI_mapped_cli <- unique(DDI_mapped_cli)
+
+# Subsetting to clinical data
+DDI_mapped_cli <- merge(DDI_mapped_cli,
+                          clinicaldrugpairs_counts[,c(1,2)],
+                            by = c("drug","codrug"))
+```
+
+Exporting DDI file
+```{r}
+write_csv(DDI_mapped,"DDIs/KEEG_DDI.txt")
+
+write_csv(DDI_mapped_cli,"DDIs/KEEG_cli_DDI.txt")
+
+```
+

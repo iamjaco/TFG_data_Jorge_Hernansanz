@@ -1,0 +1,9 @@
+"0","#Creating a variable to record in memory package 'pandas' with its functions."
+"0","pandas_imp <- import(""pandas"")"
+"0","#Need to use py_install(""pandas"")"
+"0",""
+"0","#Reading pickle file."
+"0","pickle_ONC_HP_DDIs <- pandas_imp$read_pickle(""Data/onchighpriority-ddis.pickle"")"
+"2","Fejl i py_call_impl(callable, dots$args, dots$keywords) : 
+  FileNotFoundError: [Errno 2] No such file or directory: 'Data/onchighpriority-ddis.pickle'
+"

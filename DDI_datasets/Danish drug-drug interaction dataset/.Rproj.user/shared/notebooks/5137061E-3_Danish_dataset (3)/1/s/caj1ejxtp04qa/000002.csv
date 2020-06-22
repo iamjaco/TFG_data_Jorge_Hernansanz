@@ -1,0 +1,14 @@
+"0","Danish_cli_DDI <- read_csv(""Data/Danish_cli_DDI.txt"")
+"
+"2","Parsed with column specification:
+cols(
+  drug = [31mcol_character()[39m,
+  codrug = [31mcol_character()[39m,
+  Evidence_level = [31mcol_character()[39m,
+  Clinical_significance = [31mcol_character()[39m,
+  Management_option = [32mcol_double()[39m,
+  level_1_atc_drug = [31mcol_character()[39m,
+  level_1_atc_codrug = [31mcol_character()[39m,
+  ATC_vector = [31mcol_character()[39m
+)
+"

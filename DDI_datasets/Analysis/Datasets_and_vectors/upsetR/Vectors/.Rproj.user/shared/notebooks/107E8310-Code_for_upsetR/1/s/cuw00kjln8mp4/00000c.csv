@@ -1,0 +1,8 @@
+"0","upsetR <- list(Drugbank = Drugbank, KEGG = KEGG, Twosides = Twosides, ONC_NI=ONC_NI, Interaktion_databasen = Interaktion_databasen, DDI_Corpus_2013 =DDI_Corpus_2013)"
+"0",""
+"0","pdf(file = ""upsetR_DAN.pdf"", width = 12, height = 8)"
+"0",""
+"0","upset(fromList(upsetR), nsets = 15, nintersects = NA,"
+"0","            mainbar.y.label=""Intersection of DDI"","
+"0","            sets.x.label=""Number of DDIs"","
+"0","            text.scale = c(1,1,1,1,1,0.7))"

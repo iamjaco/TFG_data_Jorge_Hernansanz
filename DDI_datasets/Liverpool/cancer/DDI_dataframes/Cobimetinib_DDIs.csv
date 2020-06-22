@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Cobimetinib,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. Cobimetinib is unlikely to interfere with this pathway.",(See Summary)
+1,Cobimetinib,Acenocoumarol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Acenocoumarol is mainly metabolised by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of acenocoumarol. The clinical relevance of this interaction is unknown. Coadministration of acenocoumarol and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+2,Cobimetinib,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolised by glucuronidation (by several UGTs, major UGT1A6). Cobimetinib does not inhibit or induce UGTs.",(See Summary)
+3,Cobimetinib,Agomelatine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of agomelatine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with agomelatine.",(See Summary)
+4,Cobimetinib,Alendronic acid,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Alendronate is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, alendronate should be separated from food or other medicinal products and patients must wait at least 30 minutes after taking alendronate before taking any other oral medicinal product. ",(See Summary)
+5,Cobimetinib,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+6,Cobimetinib,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolised by CYP3A. Cobimetinib does not inhibit or induce CYP3A. ,(See Summary)
+7,Cobimetinib,Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolised and is mainly excreted unchanged in faeces. P-gp is a major determinant of aliskiren bioavailability but cobimetinib does not inhibit or induce P-gp.,(See Summary)
+8,Cobimetinib,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Cobimetinib does not interfere with this metabolic pathway. ,(See Summary)
+9,Cobimetinib,Alosetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of alosetron. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with alosetron.",(See Summary)
+10,Cobimetinib,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+11,Cobimetinib,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aluminium hydroxide is not metabolised by CYPs. Cobimetinib is unlike to interfere with metabolic pathway. Cobimetinib displays pH-dependent aqueous solubility in vitro. However, coadministration of cobimetinib (single dose of 20 mg) and the proton-pump inhibitor, rabeprazole (20 mg once daily for 5 days), increased cobimetinib AUC by 11%. No effect on Cmax was observed. Therefore, no clinically significant effect of gastric pH increasing drugs on cobimetinib exposure is expected.",(See Summary)
+12,Cobimetinib,Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolised by glucuronidation via UGTs 1A3, 1A9 and 2B7, and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Cobimetinib does not inhibit or induce UGTs, CYPs or P-gp.",(See Summary)
+13,Cobimetinib,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amikacin is eliminated by glomerular filtration. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+14,Cobimetinib,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Cobimetinib is unlikely to interfere with this elimination pathway.,(See Summary)
+15,Cobimetinib,Amiodarone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiodarone is metabolised by CYP2C8 and CYP3A4. Cobimetinib does not inhibit or induce CYP2C8 and CYP3A4.,(See Summary)
+16,Cobimetinib,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolised and is primarily renally eliminated (possibly via OCT). Cobimetinib is a weak inhibitor of OCT1 in vitro but no clinically significant effect on amisulpride is expected in vivo. ,(See Summary)
+17,Cobimetinib,Amitriptyline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. Cobimetinib is an inducer of CYP1A2 in vitro but this is unlikely to be clinically relevant.",(See Summary)
+18,Cobimetinib,Amlodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+19,Cobimetinib,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Cobimetinib is unlikely to interfere with this elimination pathway.,(See Summary)
+20,Cobimetinib,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amphotericin B is not appreciably metabolised and is eliminated to a large extent in the bile. Cobimetinib does not interfere with this elimination pathway. However, the European SPC for amphotericin B states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension and so monitoring may be required.",(See Summary)
+21,Cobimetinib,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20-40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60-80% is excreted in the urine within 6 hours. In vitro data indicate that ampicillin is a substrate of OAT1. Cobimetinib is unlikely to interfere with ampicillin renal elimination.,(See Summary)
+22,Cobimetinib,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. ,(See Summary)
+23,Cobimetinib,Antacids,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Antacids are not metabolised by CYPs. Cobimetinib is unlikely to interfere with this metabolic pathway. Cobimetinib displays pH-dependent aqueous solubility in vitro. However, coadministration of cobimetinib (single dose of 20 mg) and the proton-pump inhibitor, rabeprazole (20 mg once daily for 5 days), increased cobimetinib AUC by 11%. No effect on Cmax was observed. Therefore, no clinically significant effect of gastric pH increasing drugs on cobimetinib exposure is expected.",(See Summary)
+24,Cobimetinib,Apixaban,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Apixaban is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of apixaban. The clinical relevance of this interaction is unknown. Coadministration of apixaban and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated.",(See Summary)
+25,Cobimetinib,Aprepitant,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of aprepitant. The clinical relevance of this interaction is unknown since no clinical interaction studies have been conducted. Monitoring of aprepitant efficacy may be required. During treatment, aprepitant is a moderate inhibitor of CYP3A4 and may increase concentrations of cobimetinib during the three days of coadministration. Therefore, coadministration is not recommended. If coadministration is unavoidable, reduce the cobimetinib dose during the few days of coadministration by approximately 50%. For patients who are taking a reduced dose of cobimetinib (40 or 20 mg daily) selection of an alternative concomitant medication with no or minimal enzyme inhibition potential is recommended. Furthermore, after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of cobimetinib may decrease due to weak induction of CYP3A4 and UGT2B7, but this is unlikely to be clinically relevant.",(See Summary)
+26,Cobimetinib,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolised by CYP3A4 and CYP2D6. Cobimetinib does not inhibit or induce CYP3A4 and CYP2D6.,(See Summary)
+27,Cobimetinib,Asenapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 and 2D6 (minor)). Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of asenapine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with asenapine.",(See Summary)
+28,Cobimetinib,Astemizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. Cobimetinib does not inhibit or induce these CYPs.",(See Summary)
+29,Cobimetinib,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. Cobimetinib does not interfere with this elimination pathway.",(See Summary)
+30,Cobimetinib,Atorvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Atorvastatin is metabolised by CYP3A4 and is a substrate of P-gp. Cobimetinib does not inhibit or induce CYP3A4 or P-gp. However, coadministration of atorvastatin and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness, and dark urine) may be required.",(See Summary)
+31,Cobimetinib,Azathioprine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolised analogously to natural purines. Cobimetinib does not interfere with this metabolic pathway. ,(See Summary)
+32,Cobimetinib,Azithromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Azithromycin is mainly eliminated via biliary excretion; animal data suggest this may occur via P-gp and MRP2. Cobimetinib does not interact with this metabolic or elimination pathway.,(See Summary)
+33,Cobimetinib,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone -17-monopropionate. Cobimetinib does not interact with this metabolic pathway.",(See Summary)
+34,Cobimetinib,Bedaquiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bedaquiline is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+35,Cobimetinib,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. OAT1/3 are the major transporters of loop and thiazide diuretics. Cobimetinib does not interfere with this elimination pathway. ,(See Summary)
+36,Cobimetinib,Bepridil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. Cobimetinib does not inhibit or induce CYP2D6 and CYP3A4. ,(See Summary)
+37,Cobimetinib,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+38,Cobimetinib,Bezafibrate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Half of a bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Cobimetinib does not interact with these pathways. However, coadministration of bezafibrate and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness, and dark urine) may be required.",(See Summary)
+39,Cobimetinib,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. Cobimetinib is unlikely to interfere with this pathway.,(See Summary)
+40,Cobimetinib,Bisoprolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6, and partly eliminated unchanged in the urine. Cobimetinib does not interfere with this metabolic or elimination pathway.",(See Summary)
+41,Cobimetinib,Bosentan,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided. Bosentan is a substrate and inducer of CYP3A4 (moderate) and CYP2C9 (weak/moderate). Cobimetinib does not inhibit or induce CYP3A4 or CYP2C9. However, concentrations of cobimetinib may decrease due to induction of CYP3A4 by bosentan. Coadministration of cobimetinib with a moderate/strong CYP3A inducer was not assessed in a clinical study, however, a reduction in cobimetinib exposure is likely. A decrease in exposure can lead to decreased efficacy. Therefore, concomitant use of moderate and strong CYP3A inducers should be avoided.",(See Summary)
+42,Cobimetinib,Bromazepam,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may also play a role. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of bromazepam. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with bromazepam.",(See Summary)
+43,Cobimetinib,Budesonide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+44,Cobimetinib,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Cobimetinib does not inhibit or induce CYP3A4 or UGTs.,(See Summary)
+45,Cobimetinib,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolised by CYP2B6. Cobimetinib does not inhibit or induce CYP2B6.,(See Summary)
+46,Cobimetinib,Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+47,Cobimetinib,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. Cobimetinib does not interfere with these elimination pathways.",(See Summary)
+48,Cobimetinib,Candesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. Cobimetinib does not interact with this elimination pathway.,(See Summary)
+49,Cobimetinib,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Renal toxicity has been reported during capreomycin treatment. Cobimetinib does not interfere with capreomycin renal elimination.,(See Summary)
+50,Cobimetinib,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+51,Cobimetinib,Carbamazepine,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but should be avoided. Carbamazepine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2C8. Cobimetinib does not inhibit or induce CYP3A4 or CYP2C8. However, carbamazepine is an inducer of CYPs 3A4 (strong), 2C9 (strong), 2C8 (strong), 1A2 (weak), 2B6 and UGT1A1. Carbamazepine may significantly decrease concentrations of cobimetinib due to CYP3A4 induction. Coadministration of cobimetinib with a moderate/strong CYP3A inducer was not assessed in a clinical study; however, a reduction in cobimetinib exposure is likely. A decrease in exposure can lead to decreased efficacy. Therefore, concomitant use of moderate and strong CYP3A inducers should be avoided.",(See Summary)
+52,Cobimetinib,Carvedilol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additional metabolism via CYP2D6 and to a lesser extent by CYPs 2C9 and 1A2. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of carvedilol. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with carvedilol.",(See Summary)
+53,Cobimetinib,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non CYP-mediated pathway. Cobimetinib does not interact with this metabolic pathway. ,(See Summary)
+54,Cobimetinib,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly renally eliminated unchanged by glomerular filtration and tubular secretion via OAT1 and MATE1. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+55,Cobimetinib,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Cobimetinib does not interfere with cefazolin renal elimination.",(See Summary)
+56,Cobimetinib,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefixime is renally excreted predominantly by glomerular filtration. Cobimetinib does not interfere with cefixime renal elimination.,(See Summary)
+57,Cobimetinib,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolised by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Cobimetinib does not interfere with this elimination pathway.",(See Summary)
+58,Cobimetinib,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftazidime is excreted predominantly by renal glomerular filtration. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+59,Cobimetinib,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Cobimetinib does not interfere with this elimination pathway.",(See Summary)
+60,Cobimetinib,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolised by CYP2C9. Cobimetinib does not inhibit or induce CYP2C9. ,(See Summary)
+61,Cobimetinib,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion (possibly via OCT2). In vitro data indicate that cetirizine inhibits OCT2. Cobimetinib is not transported by OCT2 and is unlikely to interfere with the elimination of cetirizine.,(See Summary)
+62,Cobimetinib,Chloramphenicol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. In vitro studies have shown that chloramphenicol is an inhibitor of CYP3A4 and may increase concentrations of cobimetinib thus increasing the risk of adverse events. The clinical relevance of this interaction is unknown. Consider monitoring cobimetinib plasma concentrations, if available. Ocular use: Although chloramphenicol is systemically absorbed when used topically in the eye, the concentrations used are unlikely to cause a clinically significant interaction. ",(See Summary)
+63,Cobimetinib,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce cytochromes. Cobimetinib does not inhibit or induce CYP3A4.",(See Summary)
+64,Cobimetinib,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolised in the liver via CYP2D6. Cobimetinib does not inhibit or induce CYP2D6. ,(See Summary)
+65,Cobimetinib,Chlorpromazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Chlorpromazine is metabolised mainly by CYP2D6, but also by CYP1A2 and CYP3A4. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of chlorpromazine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with chlorpromazine.",(See Summary)
+66,Cobimetinib,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+67,Cobimetinib,Ciclosporin (Cyclosporine),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ciclosporin is metabolised by CYP3A4 and is transported by P-gp. Cobimetinib does not inhibit or induce CYP3A4 or P-gp. However, ciclosporin is an inhibitor of CYP3A4 and OATP1B1, and may increase concentrations of cobimetinib. No a priori dose adjustment for cobimetinib is required. ",(See Summary)
+68,Cobimetinib,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys (possibly via OATs). Cobimetinib is unlikely to interact with the renal elimination of cilazapril.,(See Summary)
+69,Cobimetinib,Cimetidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cobimetinib displays pH-dependent aqueous solubility in vitro. However, coadministration of cobimetinib (single dose of 20 mg) and the proton-pump inhibitor, rabeprazole (20 mg once daily for 5 days), increased cobimetinib AUC by 11%. No effect on Cmax was observed. Therefore, no clinically significant effect of gastric pH increasing drugs on cobimetinib exposure is expected.",(See Summary)
+70,Cobimetinib,Ciprofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. Ciprofloxacin is also metabolised and partially cleared through the bile and intestine. Cobimetinib does not interfere with the elimination of ciprofloxacin. However, ciprofloxacin is a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Concentrations of cobimetinib may increase due to CYP3A4 inhibition. If concurrent short term (14 days or less) use of moderate CYP3A inhibitors is unavoidable for patients who are taking cobimetinib 60 mg, the US product label recommends a dose reduction from 60 mg to 20 mg. After discontinuation of ciprofloxacin, resume cobimetinib at the previous dose. Selection of an alternative concomitant medication with no or minimal enzyme inhibition potential is recommended in patients who are taking a reduced dose of cobimetinib (40 or 20 mg daily) (Note: The EU product label for cobimetinib does not state a dose reduction for coadministration with moderate CYP3A inhibitors). If coadministration is unavoidable, monitor closely for cobimetinib toxicity. Monitor cobimetinib plasma concentrations, if available.",(See Summary)
+71,Cobimetinib,Cisapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cisapride is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+72,Cobimetinib,Citalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). Cobimetinib does not inhibit or induce these CYPs. ",(See Summary)
+73,Cobimetinib,Clarithromycin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Clarithromycin is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. Clarithromycin is an inhibitor of CYP3A4 and may increase concentrations of cobimetinib. If concomitant use of clarithromycin is unavoidable, patients should be closely monitored for toxicity. Monitor cobimetinib plasma concentrations, if available. An alternative to a strong to moderate CYP3A inhibitor in patients who are taking a reduced dose of cobimetinib is recommended (40 or 20 mg daily) (US product label). For clarithromycin used short-term (7 days or less), consider interrupting cobimetinib therapy during the duration of clarithromycin use (EU product label). ",(See Summary)
+74,Cobimetinib,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolised (likely non-CYP mediated pathway) and excreted in the urine by glomerular filtration. Cobimetinib does not interact with this metabolic or elimination pathway. ,(See Summary)
+75,Cobimetinib,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolised in the liver via CYP2D6. Cobimetinib does not inhibit or induce CYP2D6.,(See Summary)
+76,Cobimetinib,Clindamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clindamycin is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+77,Cobimetinib,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,(See Summary)
+78,Cobimetinib,Clofazimine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces, both as unabsorbed drug and via biliary excretion. Cobimetinib does not interact with this elimination pathway. ",(See Summary)
+79,Cobimetinib,Clofibrate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clofibrate is hydrolysed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Cobimetinib does not interact with this metabolic or elimination pathway. However, coadministration of clofibrate and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness, and dark urine) may be required.",(See Summary)
+80,Cobimetinib,Clomipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. In addition, clomipramine and desmethylclomipramine are metabolised by CYP2D6. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of clomipramine thus increasing concentrations of desmethylclomipramine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with clomipramine.",(See Summary)
+81,Cobimetinib,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in the form of the unchanged parent drug (40-60% of the dose). Cobimetinib does not interfere with clonidine elimination. Clonidine is a weak inhibitor of OCT2 and is unlikely to interact with cobimetinib elimination. ",(See Summary)
+82,Cobimetinib,Clopidogrel,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Clopidogrel is a prodrug and is converted to its active metabolite via CYPs 3A4, 2B6, 2C19 and 1A2. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of clopidogrel thus increasing concentrations of the active metabolite. The clinical relevance of this interaction is unknown. Coadministration of clopidogrel and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+83,Cobimetinib,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+84,Cobimetinib,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion, potentially via OAT1/3. Cobimetinib does not interfere with this metabolic or elimination pathway. ",(See Summary)
+85,Cobimetinib,Clozapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of clozapine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with clozapine.",(See Summary)
+86,Cobimetinib,Codeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolised by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Morphine is also a substrate of P-gp. Furthermore, codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. Cobimetinib does not inhibit or induce CYP2D6, CYP3A4, UGTs or P-gp.",(See Summary)
+87,Cobimetinib,Colchicine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Colchicine is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. However, coadministration of colchicine and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness and dark urine) may be required.",(See Summary)
+88,Cobimetinib,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly renally excreted via glomerular filtration. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+89,Cobimetinib,Dabigatran,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dabigatran is transported via P-gp and is renally excreted. Cobimetinib does not inhibit or induce P-gp. However, coadministration of dabigatran and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated.",(See Summary)
+90,Cobimetinib,Dalteparin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys via glomerular filtration. Cobimetinib is unlikely to interfere with this elimination pathway. However, coadministration of dalteparin and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+91,Cobimetinib,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP450 enzymes. Cobimetinib does not interfere with this metabolic pathway. ",(See Summary)
+92,Cobimetinib,Desipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desipramine is metabolised by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6. ,(See Summary)
+93,Cobimetinib,Desogestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Cobimetinib does not inhibit or induce these CYPs.,(See Summary)
+94,Cobimetinib,Dexamethasone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Dexamethasone has been described as a weak inducer of CYP3A4 and could possibly decrease cobimetinib plasma concentrations. As the clinical relevance of CYP3A4 induction by dexamethasone has not been established yet, monitoring of cobimetinib efficacy may be required.",(See Summary)
+95,Cobimetinib,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+96,Cobimetinib,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolised by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Cobimetinib does not inhibit or induce UGT2B7 and UGT1A1. ",(See Summary)
+97,Cobimetinib,Diazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Cobimetinib does not inhibit or induce CYP3A4 and CYP2C19.,(See Summary)
+98,Cobimetinib,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidised by CYP2C9. Cobimetinib does not inhibit or induce CYP2C9 or UGTs.,(See Summary)
+99,Cobimetinib,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is renally eliminated via the renal transporters OATP4C1 and P-gp. Cobimetinib does not interact with this elimination pathway. ,(See Summary)
+100,Cobimetinib,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Cobimetinib does not inhibit or induce CYP3A4 or UGTs. ",(See Summary)
+101,Cobimetinib,Diltiazem,"
+Potential Interaction
+","
+Very Low
+","Coadministration has been studied and should be approached with caution. Diltiazem is metabolised by CYP3A4 and CYP2D6. Cobimetinib does not inhibit or induce CYP3A4 and CYP2D6. However, diltiazem is a moderate inhibitor of CYP3A4. PBPK modelling suggested that coadministration of diltiazem and cobimetinib increased cobimetinib AUC and Cmax by 3.3-fold and 1.9-fold, respectively. If concurrent short term (14 days or less) use of moderate CYP3A inhibitors is unavoidable for patients who are taking cobimetinib 60 mg, the US product label recommends a dose reduction from 60 mg to 20 mg. After discontinuation of diltiazem, resume cobimetinib at the previous dose. Selection of an alternative concomitant medication with no or minimal enzyme inhibition potential is recommended in patients who are taking a reduced dose of cobimetinib (40 or 20 mg daily) (Note: The EU product label for cobimetinib does not state a dose reduction for coadministration with moderate CYP3A inhibitors). If coadministration is unavoidable, monitor closely for cobimetinib toxicity. Monitor cobimetinib plasma concentrations, if available.",(See Summary)
+102,Cobimetinib,Diphenhydramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. Cobimetinib is an inducer of CYP1A2 in vitro but since CYP1A2 mediated metabolism is only a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+103,Cobimetinib,Dipyridamole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dipyridamole is glucuronidated by several UGTs, specifically those of the UGT1A subfamily. Cobimetinib does not inhibit or induce UGTs. However, coadministration of dipyridamole and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+104,Cobimetinib,Disopyramide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. In vitro data suggest that disopyramide weakly inhibits the renal transporter OCT2 in rats. Cobimetinib does not inhibit or induce CYP3A4, and is not transported by OCT2.",(See Summary)
+105,Cobimetinib,Dolasetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). Cobimetinib does not interact with these metabolic pathways.",(See Summary)
+106,Cobimetinib,Domperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. Cobimetinib does not inhibit of induce CYP3A4. ,(See Summary)
+107,Cobimetinib,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. There is little potential for dopamine to affect disposition of cobimetinib, or to be affected by cobimetinib.",(See Summary)
+108,Cobimetinib,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+109,Cobimetinib,Doxepin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolised to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. In addition, doxepin and nordoxepin are metabolised by CYP2D6. Cobimetinib does not inhibit or induce CYP2C19 or CYP2D6. ",(See Summary)
+110,Cobimetinib,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. Cobimetinib does not interact with this elimination pathway.,(See Summary)
+111,Cobimetinib,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. Cobimetinib does not inhibit of induce CYP2C9 and CYP3A4. ,(See Summary)
+112,Cobimetinib,Drospirenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+113,Cobimetinib,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dulaglutide is degraded by endogenous endopeptidases. Cobimetinib does not interfere with this pathway. Dulaglutide delays gastric emptying and could possibly decrease the absorption rate of concomitantly administered oral drugs. The clinical relevance of delayed absorption is considered to be limited.,(See Summary)
+114,Cobimetinib,Duloxetine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Duloxetine is metabolised by CYP2D6 and CYP1A2. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of duloxetine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with duloxetine.",(See Summary)
+115,Cobimetinib,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+116,Cobimetinib,Dydrogesterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+117,Cobimetinib,Edoxaban,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Edoxaban is metabolised via CYP3A4 and excreted via kidneys and biliary tract. Edoxaban is also a substrate of P-gp and OATP1B1. Cobimetinib is a weak inhibitor of OATP1B1 in vitro but no clinically significant effect on edoxaban is expected in vivo. Coadministration of edoxaban and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+118,Cobimetinib,Eltrombopag,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1 and UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of eltrombopag. The clinical relevance of this interaction is unknown and care should be taken when cobimetinib is coadministered with eltrombopag.,(See Summary)
+119,Cobimetinib,Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is renally eliminated (possibly via OATs). Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+120,Cobimetinib,Enoxaparin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is predominantly renally excreted. Cobimetinib is unlikely to interfere with this metabolic or elimination pathway. However, coadministration of enoxaparin and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+121,Cobimetinib,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eprosartan is largely excreted in bile and urine as unchanged drug. Cobimetinib does not interact with this elimination pathway.,(See Summary)
+122,Cobimetinib,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated via the kidneys by glomerular filtration with tubular secretion playing a minor role. Cobimetinib does not interfere with the elimination of ertapenem.,(See Summary)
+123,Cobimetinib,Erythromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and should be approached with caution. PBPK modelling suggested that erythromycin can increase cobimetinib exposure (AUC) by 3- to 4-fold due to inhibition of CYP3A4. If concurrent short term (14 days or less) use of moderate CYP3A inhibitors is unavoidable for patients who are taking cobimetinib 60 mg, the US product label recommends a dose reduction from 60 mg to 20 mg. After discontinuation of erythromycin, resume cobimetinib at the previous dose. Selection of an alternative concomitant medication with no or minimal enzyme inhibition potential is recommended in patients who are taking a reduced dose of cobimetinib (40 or 20 mg daily) (Note: The EU product label for cobimetinib does not state a dose reduction for coadministration with moderate CYP3A inhibitors). If coadministration is unavoidable, monitor closely for cobimetinib toxicity. Monitor cobimetinib plasma concentrations, if available.",(See Summary)
+124,Cobimetinib,Escitalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Cobimetinib does not inhibit or induce these CYPs. ",(See Summary)
+125,Cobimetinib,Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4. Cobimetinib does not inhibit or induce CYP2C19 or CYP3A4. Cobimetinib displays pH-dependent aqueous solubility in vitro. However, coadministration of cobimetinib (single dose of 20 mg) and the proton-pump inhibitor, rabeprazole (20 mg once daily for 5 days), increased cobimetinib AUC by 11%. No effect on Cmax was observed. Therefore, no clinically significant effect of gastric pH increasing drugs on cobimetinib exposure is expected.",(See Summary)
+126,Cobimetinib,Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+127,Cobimetinib,Estradiol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of estradiol. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with estradiol.",(See Summary)
+128,Cobimetinib,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolised by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and in the urine (50%), possibly via OCT2. Cobimetinib does not interfere with this metabolic or elimination pathway.",(See Summary)
+129,Cobimetinib,Ethinylestradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Cobimetinib does not interact with these metabolic pathways.",(See Summary)
+130,Cobimetinib,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolised in the liver; animal studies suggest involvement of flavin-containing monooxygenases. Cobimetinib does not interfere with this metabolic pathway. ,(See Summary)
+131,Cobimetinib,Etonogestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+132,Cobimetinib,Everolimus (Immunosuppressant),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. Cobimetinib does not inhibit or induce CYP3A4 or P-gp.,(See Summary)
+133,Cobimetinib,Exenatide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Exenatide is cleared mainly by glomerular filtration. Cobimetinib does not interfere with this elimination pathway. Exenatide delays gastric emptying and could possibly decrease the absorption rate of concomitantly administered oral drugs. The clinical relevance of delayed absorption is considered to be limited.,(See Summary)
+134,Cobimetinib,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Cobimetinib does not inhibit or induce UGTs. ,(See Summary)
+135,Cobimetinib,Famotidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Famotidine is excreted via OAT1/OAT3. Cobimetinib does not inhibit or induce OAT/OAT3. Cobimetinib displays pH-dependent aqueous solubility in vitro. However, coadministration of cobimetinib (single dose of 20 mg) and the proton-pump inhibitor, rabeprazole (20 mg once daily for 5 days), increased cobimetinib AUC by 11%. No effect on Cmax was observed. Therefore, no clinically significant effect of gastric pH increasing drugs on cobimetinib exposure is expected.",(See Summary)
+136,Cobimetinib,Felodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Felodipine is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+137,Cobimetinib,Fenofibrate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fenofibrate is hydrolysed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Cobimetinib does not interact with these pathways. However, coadministration of fenofibrate and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness and dark urine) may be required.",(See Summary)
+138,Cobimetinib,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+139,Cobimetinib,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine undergoes negligible metabolism and is mainly eliminated unchanged in the faeces. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+140,Cobimetinib,Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+141,Cobimetinib,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+142,Cobimetinib,Flecainide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flecainide is metabolised mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also renally eliminated unchanged. Cobimetinib does not inhibit or induce CYP2D6.",(See Summary)
+143,Cobimetinib,Flucloxacillin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Cobimetinib does not interfere with this elimination pathway. However, flucloxacillin has shown to induce CYP3A4 and P-gp and therefore may decrease concentrations of cobimetinib. The clinical relevance of this interaction is unknown. ",(See Summary)
+144,Cobimetinib,Fluconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluconazole is eliminated primarily by renal excretion. Cobimetinib does not interfere with this elimination pathway. However, fluconazole is a moderate inhibitor of CYP3A4 and may increase concentrations of cobimetinib. Coadministration should be approached with caution. If concurrent short term (14 days or less) use of moderate CYP3A inhibitors is unavoidable for patients who are taking cobimetinib 60 mg, the US product label recommends a dose reduction from 60 mg to 20 mg. After discontinuation of fluconazole, resume cobimetinib at the previous dose. Selection of an alternative concomitant medication with no or minimal enzyme inhibition potential is recommended in patients who are taking a reduced dose of cobimetinib (40 or 20 mg daily) (Note: The EU product label for cobimetinib does not state a dose reduction for coadministration with moderate CYP3A inhibitors). If coadministration is unavoidable, monitor closely for cobimetinib toxicity. Monitor cobimetinib plasma concentrations, if available.",(See Summary)
+145,Cobimetinib,Flucytosine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flucytosine is metabolised to 5-flurouracil which is further metabolised by dihydropyrimidine dehydrogenase. Cobimetinib does not interfere with this elimination pathway. ,(See Summary)
+146,Cobimetinib,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. Cobimetinib does not inhibit or induce CYP3A. ",(See Summary)
+147,Cobimetinib,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. Cobimetinib does not inhibit or induce CYP3A4 and CYP2C19.,(See Summary)
+148,Cobimetinib,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is metabolised by CYPs 2D6 and 2C9 and to a lesser extent by CYPs 2C19 and 3A4 to form norfluoxetine. Cobimetinib does not inhibit or induce these CYPs. ,(See Summary)
+149,Cobimetinib,Fluphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6. ,(See Summary)
+150,Cobimetinib,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Cobimetinib is a weak inducer of CYP1A2 in vitro but a clinically relevant interaction is unlikely.,(See Summary)
+151,Cobimetinib,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+152,Cobimetinib,Fluvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fluvastatin is mainly metabolised by CYP2C9. Cobimetinib does not inhibit or induce CYP2C9. However, coadministration of fluvastatin and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness and dark urine) may be required.",(See Summary)
+153,Cobimetinib,Fluvoxamine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluvoxamine is an inhibitor of CYPs 1A2, 2C19, 3A4 and 2C9. PBPK modelling has predicted no change to cobimetinib exposure when coadministered with fluvoxamine. However, fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of fluvoxamine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with fluvoxamine.",(See Summary)
+154,Cobimetinib,Fondaparinux,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is predominantly renally eliminated. Cobimetinib is unlikely to interact with this elimination pathway. However, coadministration of fondaparinux and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+155,Cobimetinib,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation. As multiple CYP450 and UGT enzymes catalyse the transformation the potential for a pharmacokinetic interaction is low. ",(See Summary)
+156,Cobimetinib,Fosaprepitant,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Cobimetinib does not interact with this metabolic pathway. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of aprepitant. The clinical relevance of this interaction is unknown since no clinical interaction studies have been conducted. Monitoring of aprepitant efficacy may be required. During treatment aprepitant is a moderate inhibitor of CYP3A4 and may increase concentrations of cobimetinib during the three days of coadministration. Therefore, coadministration is not recommended. If coadministration is unavoidable, reduce the cobimetinib dose during the few days of coadministration by approximately 50%. For patients who are taking a reduced dose of cobimetinib (40 or 20 mg daily) selection of an alternative concomitant medication with no or minimal enzyme inhibition potential is recommended. Furthermore, after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of cobimetinib may decrease due to weak induction of CYP3A4 and UGT2B7, but this is unlikely to be clinically relevant.",(See Summary)
+157,Cobimetinib,Fosphenytoin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Cobimetinib does not inhibit or induce CYP2C9 or CYP2C19. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of cobimetinib may decrease due to induction of CYP3A4 and UGT2B7. Coadministration of cobimetinib with a moderate/strong CYP3A inducer was not assessed in a clinical study, however, a reduction in cobimetinib exposure is likely. A decrease in exposure can lead to decreased efficacy. Therefore, concomitant use of moderate and strong CYP3A inducers should be avoided.",(See Summary)
+158,Cobimetinib,Furosemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also eliminated unchanged renally (via OATs). In vitro data indicate that furosemide is an inhibitor of the renal transporters OAT1/OAT3. Cobimetinib does not inhibit or induce UGTs or OATs and is not transported by OAT1/3.,(See Summary)
+159,Cobimetinib,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+160,Cobimetinib,Gemfibrozil,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Cobimetinib does not inhibit or induce UGTs. However, coadministration of gemfibrozil and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness and dark urine) may be required.",(See Summary)
+161,Cobimetinib,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Cobimetinib does not interfere with this elimination pathway,(See Summary)
+162,Cobimetinib,Gestodene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Cobimetinib does not inhibit or induce these CYPs.,(See Summary)
+163,Cobimetinib,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. Cobimetinib does not inhibit or induce CYP3A4 and CYP2C9.,(See Summary)
+164,Cobimetinib,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C19. Cobimetinib does not inhibit or induce CYP2C9 and CYP2C19.,(See Summary)
+165,Cobimetinib,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolised by CYP2C9. Cobimetinib does not inhibit or induce CYP2C9.,(See Summary)
+166,Cobimetinib,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolised by CYP2C9. Cobimetinib does not inhibit or induce CYP2C9.,(See Summary)
+167,Cobimetinib,Granisetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Granisetron is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+168,Cobimetinib,Grapefruit juice,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided. Grapefruit juice is a known inhibitor of CYP3A4 and may increase cobimetinib concentrations. If concomitant use of grapefruit juice is unavoidable, patients should be closely monitored for safety. Monitor cobimetinib plasma concentrations, if available. ",(See Summary)
+169,Cobimetinib,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+170,Cobimetinib,Griseofulvin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Cobimetinib does not interfere with this elimination pathway. However, griseofulvin is a liver microsomal enzyme inducer and may lower plasma levels, and therefore reduce the efficacy of concomitantly administered medicinal products that are metabolised by CYP3A4, such as cobimetinib. ",(See Summary)
+171,Cobimetinib,Haloperidol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGTs 2B7>1A4, 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4 and CYP2D6). Cobimetinib does not interact with these metabolic pathways. ",(See Summary)
+172,Cobimetinib,Heparin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Cobimetinib does not interfere with this metabolic pathway. However, coadministration of heparin and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+173,Cobimetinib,Hydralazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. Although in vitro studies suggest that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6, it is not expected that this will lead to a clinical relevant interaction with cobimetinib. ",(See Summary)
+174,Cobimetinib,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrochlorothiazide is not metabolised and is cleared by the kidneys via OAT1. In vitro data indicate that hydrochlorothiazide is unlikely to inhibit OAT1 in the range of clinically significant drug concentrations. Cobimetinib does not interfere with this elimination pathway. ,(See Summary)
+175,Cobimetinib,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Cobimetinib does not inhibit or induce CYP2D6 and CYP3A4. ",(See Summary)
+176,Cobimetinib,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+177,Cobimetinib,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone. ,(See Summary)
+178,Cobimetinib,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Cobimetinib does not inhibit or induce UGTs. ",(See Summary)
+179,Cobimetinib,Hydroxyurea (Hydroxycarbamide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydroxyurea is not a substrate of CYP enzymes or P-gp.,(See Summary)
+180,Cobimetinib,Hydroxyzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+181,Cobimetinib,Ibandronic acid,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ibandronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, ibandronic acid should be taken after an overnight fast (at least 6 hours) and before the first food or drink of the day. Medicinal products and supplements should be similarly avoided prior to taking ibandronic acid. Fasting should be continued for at least 30 minutes after taking ibandronic acid. ",(See Summary)
+182,Cobimetinib,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Cobimetinib does not inhibit or induce CYP2C9, CYP2C8 or UGTs. ",(See Summary)
+183,Cobimetinib,Iloperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Iloperidone is metabolised by CYP3A4 and CYP2D6. Cobimetinib does not inhibit or induce CYP3A4 and CYP2D6. ,(See Summary)
+184,Cobimetinib,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent by active tubular secretion via OAT3. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+185,Cobimetinib,Imipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of imipramine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with imipramine.",(See Summary)
+186,Cobimetinib,Indapamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Indapamide is extensively metabolised by CYP450. Cobimetinib is a weak inducer of CYP1A2 in vitro but a clinically relevant interaction is unlikely.,(See Summary)
+187,Cobimetinib,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+188,Cobimetinib,Interferon alpha,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+189,Cobimetinib,Interleukin 2 (Aldesleukin),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+190,Cobimetinib,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Cobimetinib does not interact with this metabolic pathway.,(See Summary)
+191,Cobimetinib,Irbesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolised by glucuronidation and oxidation (mainly CYP2C9). Metabolites are excreted via bile (~80%) and urine (~20%). Cobimetinib does not interact with this metabolic or elimination pathway. ,(See Summary)
+192,Cobimetinib,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+193,Cobimetinib,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Cobimetinib does not interact with this metabolic pathway.,(See Summary)
+194,Cobimetinib,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Cobimetinib does not inhibit or induce CYP3A4. As renal elimination of unchanged drug is a minor pathway, there is little potential for an interaction.",(See Summary)
+195,Cobimetinib,Itraconazole,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration should be avoided. Itraconazole is primarily metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. However, itraconazole is an inhibitor of CYP3A4 and may significantly increase concentrations of cobimetinib. In healthy volunteers (n=15), coadministration of itraconazole (200 mg once daily for 14 days) and cobimetinib (single dose of 10 mg) increased cobimetinib AUC by 6.7-fold and Cmax by 3.2-fold. Avoid coadministration of cobimetinib and itraconazole. If concomitant use of itraconazole is unavoidable, patients should be closely monitored for toxicity. Monitor cobimetinib plasma concentrations, if available. An alternative to a strong to moderate CYP3A inhibitor in patients who are taking a reduced dose of cobimetinib is recommended (40 or 20 mg daily) (US product label). For itraconazole used short-term (7 days or less), consider interrupting cobimetinib therapy during the duration of itraconazole use (EU product label).",(See Summary)
+196,Cobimetinib,Ivabradine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ivabradine is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+197,Cobimetinib,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+198,Cobimetinib,Ketoconazole,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided. Ketoconazole is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. Ketoconazole is a strong inhibitor of CYP3A4 and may increase concentrations of cobimetinib. If concomitant use of ketoconazole is unavoidable, patients should be closely monitored for toxicity. Monitor cobimetinib plasma concentrations, if available. An alternative to a strong to moderate CYP3A inhibitor in patients who are taking a reduced dose of cobimetinib is recommended (40 or 20 mg daily) (US product label). For ketoconazole used short-term (7 days or less), consider interrupting cobimetinib therapy during the duration of ketoconazole use (EU product label).",(See Summary)
+199,Cobimetinib,Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Cobimetinib does not inhibit or induce UGTs.,(See Summary)
+200,Cobimetinib,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+201,Cobimetinib,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. Cobimetinib is unlikely to interfere with this pathway.,(See Summary)
+202,Cobimetinib,Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Cobimetinib does not inhibit or induce CYP2C19 or CYP3A4. Cobimetinib displays pH-dependent aqueous solubility in vitro. However, coadministration of cobimetinib (single dose of 20 mg) and the proton-pump inhibitor, rabeprazole (20 mg once daily for 5 days), increased cobimetinib AUC by 11%. No effect on Cmax was observed. Therefore, no clinically significant effect of gastric pH increasing drugs on cobimetinib exposure is expected.",(See Summary)
+203,Cobimetinib,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is mainly metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+204,Cobimetinib,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion (possibly via OCT2). Cobimetinib is unlikely to interfere with this metabolic or elimination pathway.,(See Summary)
+205,Cobimetinib,Levofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levofloxacin is renally eliminated mainly by glomerular filtration and active secretion (possibly OCT2). Cobimetinib does not interact with this elimination pathway. ,(See Summary)
+206,Cobimetinib,Levomepromazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levomepromazine is metabolised by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6. ,(See Summary)
+207,Cobimetinib,Levonorgestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Cobimetinib does not inhibit or induce CYP3A4 or UGTs.,(See Summary)
+208,Cobimetinib,Levonorgestrel (Emergency Contraception),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Cobimetinib does not inhibit or induce CYP3A4 or UGTs.,(See Summary)
+209,Cobimetinib,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolised by deiodination (by enzymes of deiodinase family) and glucuronidation. Cobimetinib does not interact with this metabolic pathway. ,(See Summary)
+210,Cobimetinib,Lidocaine (Lignocaine),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of lidocaine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with lidocaine.",(See Summary)
+211,Cobimetinib,Linagliptin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Linagliptin is a substrate of P-gp and is a weak to moderate inhibitor of CYP3A4. Concentrations of cobimetinib may increase due to inhibition of CYP3A4 by linagliptin. Coadministration should be approached with caution. If concurrent short term (14 days or less) use of moderate CYP3A inhibitors is unavoidable for patients who are taking cobimetinib 60 mg, the US product label recommends a dose reduction from 60 mg to 20 mg. After discontinuation of linagliptin, resume cobimetinib at the previous dose. Selection of an alternative concomitant medication with no or minimal enzyme inhibition potential is recommended in patients who are taking a reduced dose of cobimetinib (40 or 20 mg daily) (Note: The EU product label for cobimetinib does not state a dose reduction for coadministration with moderate CYP3A inhibitors). If coadministration is unavoidable, monitor closely for cobimetinib toxicity. Monitor cobimetinib plasma concentrations, if available.",(See Summary)
+212,Cobimetinib,Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. Cobimetinib is unlikely to interfere with this metabolic pathway.,(See Summary)
+213,Cobimetinib,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Liraglutide is degraded by endogenous endopeptidases. Cobimetinib is unlikely to interfere with this pathway. ,(See Summary)
+214,Cobimetinib,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is renally eliminated unchanged via glomerular filtration. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+215,Cobimetinib,Lithium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lithium is mainly eliminated unchanged by the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate therefore no pharmacokinetic interaction is expected. ,(See Summary)
+216,Cobimetinib,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalised infections can occur.",(See Summary)
+217,Cobimetinib,Loperamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8. Cobimetinib does not inhibit or induce CYP3A4 or CYP2C8.,(See Summary)
+218,Cobimetinib,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Cobimetinib does not inhibit or induce CYP3A4 and CYP2D6.,(See Summary)
+219,Cobimetinib,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam is eliminated by non-CYP mediated pathways and no effect on plasma concentrations is expected upon coadministration with cobimetinib.,(See Summary)
+220,Cobimetinib,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Cobimetinib does not inhibit or induce UGTs.,(See Summary)
+221,Cobimetinib,Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Cobimetinib does not inhibit or induce CYP2C9. ,(See Summary)
+222,Cobimetinib,Lovastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Lovastatin is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. However, coadministration of lovastatin and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness and dark urine) may be required.",(See Summary)
+223,Cobimetinib,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Cobimetinib does not inhibit or induce these CYPs. ",(See Summary)
+224,Cobimetinib,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in the kidney, mainly by glomerular filtration. Cobimetinib does not interfere with this elimination pathway.",(See Summary)
+225,Cobimetinib,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolised by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6. ,(See Summary)
+226,Cobimetinib,Medroxyprogesterone (depot),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+227,Cobimetinib,Medroxyprogesterone (non-depot),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+228,Cobimetinib,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolised by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Cobimetinib does not inhibit or induce CYP2C9 or UGTs. ,(See Summary)
+229,Cobimetinib,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine (probably via OCT2). Cobimetinib does not interact with this elimination pathway. ,(See Summary)
+230,Cobimetinib,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney with in vitro data suggesting it is a substrate of the renal transporters OAT3>OAT1. Cobimetinib does not interfere with this elimination pathway. ,(See Summary)
+231,Cobimetinib,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolised to N-acetyl-mesalazine by N-acetyltransferase. Cobimetinib does not interfere with this metabolic pathway. ,(See Summary)
+232,Cobimetinib,Metamizole,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Metamizole is metabolised in serum and intestine and excreted via urine (90%) and faeces (10%). Cobimetinib does not interact with this metabolic or elimination pathway. Metamizole is also an inducer of CYP3A4 and may decrease cobimetinib concentrations. The clinical relevance of this interaction is unknown.,(See Summary)
+233,Cobimetinib,Metformin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine (via OCT2, MATE1 and MATE2). Cobimetinib does not interact with this elimination pathway. ",(See Summary)
+234,Cobimetinib,Methadone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methadone is demethylated by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+235,Cobimetinib,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. It is unlikely to affect the disposition of cobimetinib or to be altered by cobimetinib.",(See Summary)
+236,Cobimetinib,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolised by CYP450s to a clinically relevant extent and does not inhibit or induce CYP450s. ,(See Summary)
+237,Cobimetinib,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+238,Cobimetinib,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolised by CYP450 system (mainly CYP2D6). Cobimetinib does not inhibit or induce CYP2D6. ,(See Summary)
+239,Cobimetinib,Metolazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metolazone is largely excreted unchanged in the urine. Cobimetinib does not interfere with metolazone elimination.,(See Summary)
+240,Cobimetinib,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolised by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6.,(See Summary)
+241,Cobimetinib,Metronidazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Since the mechanism of the interaction with CYP3A has not yet been identified, an interaction with cobimetinib cannot be excluded.",(See Summary)
+242,Cobimetinib,Mexiletine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Mexiletine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of mexiletine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with mexiletine.",(See Summary)
+243,Cobimetinib,Mianserin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Mianserin is metabolised by CYPs 2D6 and 1A2, and to a lesser extent by CYP3A4. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of mianserin. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with mianserin.",(See Summary)
+244,Cobimetinib,Miconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Miconazole is metabolised via O-dealkylation and oxidative N-dealkylation, potentially CYP-mediated. Cobimetinib is unlikely to interfere with this metabolic pathway. Miconazole in an inhibitor of CYP3A4 and may increase concentrations of cobimetinib. Coadministration should be approached with caution. If concurrent short term (14 days or less) use of moderate CYP3A inhibitors is unavoidable for patients who are taking cobimetinib 60 mg, the US product label recommends a dose reduction from 60 mg to 20 mg. After discontinuation of miconazole, resume cobimetinib at the previous dose. Selection of an alternative concomitant medication with no or minimal enzyme inhibition potential is recommended in patients who are taking a reduced dose of cobimetinib (40 or 20 mg daily) (Note: The EU product label for cobimetinib does not state a dose reduction for coadministration with moderate CYP3A inhibitors). If coadministration is unavoidable, monitor closely for cobimetinib toxicity. Monitor cobimetinib plasma concentrations, if available. Dermal application: No a priori dosage adjustment is recommended for cobimetinib, since miconazole is used topically and systemic exposure is limited. ",(See Summary)
+245,Cobimetinib,Midazolam (oral),"
+No Interaction Expected
+","
+Moderate
+","Midazolam is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. In patients with solid tumours (n =20), coadministration of cobimetinib (60 mg once daily for 15 days) and oral midazolam (single dose of 2 mg) increased midazolam AUC and Cmax by 1% and 3%, respectively. Therefore, a clinically significant interaction is unlikely. ",(See Summary)
+246,Cobimetinib,Midazolam (parenteral),"
+No Interaction Expected
+","
+Moderate
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. In patients with solid tumours (n =20), coadministration of cobimetinib (60 mg once daily for 15 days) and oral midazolam (single dose of 2 mg) increased midazolam AUC and Cmax by 1% and 3% respectively. Therefore, a clinically significant interaction is unlikely.",(See Summary)
+247,Cobimetinib,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Cobimetinib is unlikely to interfere with these pathways.",(See Summary)
+248,Cobimetinib,Mirtazapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of mirtazapine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with mirtazapine.",(See Summary)
+249,Cobimetinib,Mometasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+250,Cobimetinib,Montelukast,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. Cobimetinib does not inhibit or induce CYP3A4 or CYP2C9.,(See Summary)
+251,Cobimetinib,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Cobimetinib does not inhibit or induce UGTs.",(See Summary)
+252,Cobimetinib,Moxifloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Cobimetinib does not inhibit or induce UGT1A1. ,(See Summary)
+253,Cobimetinib,Mycophenolate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and UGT2B7. Mycophenolate glucuronide is excreted via OAT1/3 renal transporters. Cobimetinib does not interact with this metabolic and elimination pathway. In addition, inhibition of OAT1/OAT3 renal transporters by mycophenolic acid (active metabolite) is unlikely to interfere with cobimetinib elimination. ",(See Summary)
+254,Cobimetinib,Nadroparin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Cobimetinib does not interact with this elimination pathway. However, coadministration may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage.  If haemorrhage occurs, treat as clinically indicated.",(See Summary)
+255,Cobimetinib,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolised in the liver by alpha-reductase. Cobimetinib does not interact with this metabolic pathway.,(See Summary)
+256,Cobimetinib,Naproxen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of naproxen. The clinical relevance of this interaction is unknown but a clinically relevant interaction is unlikely as CYP1A2 mediated metabolism is only a minor pathway.,(See Summary)
+257,Cobimetinib,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent by CYP3A4 (30%). Cobimetinib does not inhibit or induce CYP2C9 and CYP3A4.,(See Summary)
+258,Cobimetinib,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Cobimetinib does not inhibit or induce CYP2D6.,(See Summary)
+259,Cobimetinib,Nefazodone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Nefazodone is metabolised mainly by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. However, nefazodone is a strong inhibitor of CYP3A4 and may increase concentrations of cobimetinib. Avoid coadministration of cobimetinib and nefazodone. If concomitant use of nefazodone is unavoidable, patients should be closely monitored for toxicity. Monitor cobimetinib plasma concentrations, if available. An alternative to a strong to moderate CYP3A inhibitor in patients who are taking a reduced dose of cobimetinib is recommended (40 or 20 mg daily) (US product label). For nefazodone used short-term (7 days or less), consider interrupting cobimetinib therapy during the duration of nefazodone use (EU product label).",(See Summary)
+260,Cobimetinib,Nicardipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. Cobimetinib does not inhibit or induce CYP2C8 or CYP2D6. Nicardipine is a weak inhibitor of CYP3A4 and may increase concentrations of cobimetinib. However, cobimetinib can be coadministered without dose adjustment.",(See Summary)
+261,Cobimetinib,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolised by xanthine oxidase and aldehyde oxidase. Cobimetinib does not interact with this metabolic pathway. In addition, nicotinic acid and its metabolites do not inhibit CYP-mediated reactions in vitro and therefore are unlikely to impact cobimetinib exposure.",(See Summary)
+262,Cobimetinib,Nifedipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+263,Cobimetinib,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolised in the liver following multiple pathways including CYP2C9. Cobimetinib does not inhibit or induce CYP2C9.,(See Summary)
+264,Cobimetinib,Nisoldipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+265,Cobimetinib,Nitrendipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+266,Cobimetinib,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolised in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). Cobimetinib does not interact with these metabolic or elimination pathways.,(See Summary)
+267,Cobimetinib,Norelgestromin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+268,Cobimetinib,Norethisterone (Norethindrone),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Cobimetinib does not interact with this metabolic pathway.",(See Summary)
+269,Cobimetinib,Norgestimate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. Cobimetinib does not interact with this metabolic pathway.,(See Summary)
+270,Cobimetinib,Norgestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolised by CYP3A4. Cobimetinib does not interact with this metabolic pathway.,(See Summary)
+271,Cobimetinib,Nortriptyline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nortriptyline is metabolised mainly by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6. ,(See Summary)
+272,Cobimetinib,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant, therefore no drug interactions are expected. ",(See Summary)
+273,Cobimetinib,Ofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ofloxacin is renally eliminated unchanged by glomerular filtration and active tubular secretion via both cationic and anionic transport systems (OAT/OCT). Cobimetinib does not interfere with this elimination pathway. ,(See Summary)
+274,Cobimetinib,Olanzapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Olanzapine is metabolised mainly by CYP1A2 and CYP2D6, but also by glucuronidation (UGT1A4). Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of olanzapine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with olanzapine.",(See Summary)
+275,Cobimetinib,Olmesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. Cobimetinib does not interact with this elimination pathway. ,(See Summary)
+276,Cobimetinib,Omeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Omeprazole is mainly metabolised by CYP2C19 and to lesser extent by CYP3A4. Cobimetinib does not inhibit or induce CYP2C19 or CYP3A4. Cobimetinib displays pH-dependent aqueous solubility in vitro. However, coadministration of cobimetinib (single dose of 20 mg) and the proton-pump inhibitor, rabeprazole (20 mg once daily for 5 days), increased cobimetinib AUC by 11%. No effect on Cmax was observed. Therefore, no clinically significant effect of gastric pH increasing drugs on cobimetinib exposure is expected.",(See Summary)
+277,Cobimetinib,Ondansetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ondansetron is metabolised mainly by CYP1A2, CYP3A4 and to a lesser extent by CYP2D6. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of ondansetron. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with ondansetron.",(See Summary)
+278,Cobimetinib,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Cobimetinib does not inhibit or induce UGTs.,(See Summary)
+279,Cobimetinib,Oxcarbazepine,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but should be avoided. Oxcarbazepine is extensively metabolised to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Cobimetinib does not interact with this metabolic pathway. However, both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5, and inhibitors of CYP2C19. Oxcarbazepine may significantly decrease concentrations of cobimetinib due to CYP3A4 induction. Coadministration of cobimetinib with a moderate/strong CYP3A inducer has not been assessed in a clinical study, however, a reduction in cobimetinib exposure is likely. A decrease in exposure can lead to decreased efficacy. Therefore, concomitant use of moderate and strong CYP3A inducers should be avoided.",(See Summary)
+280,Cobimetinib,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolised via glucuronidation. Cobimetinib does not inhibit or induce UGTs.,(See Summary)
+281,Cobimetinib,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Cobimetinib does not inhibit or induce CYP3A4 and CYP2D6. ,(See Summary)
+282,Cobimetinib,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily eliminated renally (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. Cobimetinib is a weak inhibitor of OCT1 in vitro but no clinically significant effect on paliperidone is expected in vivo.,(See Summary)
+283,Cobimetinib,Palonosetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Palonosetron is metabolised mainly by CYP2D6 and to a lesser extent by CYP3A4 and CYP1A2. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of palonosetron. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with palonosetron.",(See Summary)
+284,Cobimetinib,Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Pamidronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+285,Cobimetinib,Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. Cobimetinib does not inhibit or induce these CYPs. Cobimetinib displays pH-dependent aqueous solubility in vitro. However, coadministration of cobimetinib (single dose of 20 mg) and the proton-pump inhibitor, rabeprazole (20 mg once daily for 5 days), increased cobimetinib AUC by 11%. No effect on Cmax was observed. Therefore, no clinically significant effect of gastric pH increasing drugs on cobimetinib exposure is expected.",(See Summary)
+286,Cobimetinib,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+287,Cobimetinib,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1 and 2B15), sulfation, and to a lesser extent, by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). Although, cobimetinib is an inducer of CYP1A2 in vitro, a clinically relevant interaction is unlikely as CYP1A2 mediated metabolism is only a minor pathway.",(See Summary)
+288,Cobimetinib,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolised by CYP2D6 and CYP3A4. Cobimetinib does not inhibit or induce CYP2D6 and CYP3A4. ,(See Summary)
+289,Cobimetinib,Peginterferon alfa-2a,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+290,Cobimetinib,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Cobimetinib does not interfere with the elimination of penicillins.,(See Summary)
+291,Cobimetinib,Perazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Perazine is metabolised mainly by CYPs1A2, 3A4 and 2C19 and to  a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidationised via FMO3. Cobimetinib is in vitro an inducer of CYP1A2. The clinical relevance of this interaction is unknown since no clinical interaction studies have been conducted. Monitoring may be required.",(See Summary)
+292,Cobimetinib,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Cobimetinib does not inhibit or induce CYP2D6.,(See Summary)
+293,Cobimetinib,Perindopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolised to other inactive metabolites. Elimination occurs predominantly via the urine (possibly via OAT). Cobimetinib does not interact with this metabolic or elimination pathway.,(See Summary)
+294,Cobimetinib,Perphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perphenazine is metabolised by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6. ,(See Summary)
+295,Cobimetinib,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. Cobimetinib does not inhibit or induce CYP2B6 and CYP3A4. ,(See Summary)
+296,Cobimetinib,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolised by oxidation via monoamine oxidase and to a lesser extent by acetylation. Cobimetinib is unlikely to interfere with these metabolic pathways.,(See Summary)
+297,Cobimetinib,Phenobarbital (Phenobarbitone),"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but should be avoided. Phenobarbital is metabolised by CYP2C19 and CYP2C9 (major pathway) and to a lesser extent by CYP2E1. Cobimetinib does not inhibit or induce CYPs 2C19, 2C9 and 2E1. However, phenobarbital is a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Phenobarbital may significantly decrease concentrations of cobimetinib due to induction of CYP3A4 and UGTs. Coadministration of cobimetinib with a moderate/strong CYP3A inducer has not been assessed in a clinical study, however, a reduction in cobimetinib exposure is likely. A decrease in exposure can lead to decreased efficacy. Therefore, concomitant use of moderate and strong CYP3A inducers should be avoided.",(See Summary)
+298,Cobimetinib,Phenprocoumon,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Phenprocoumon is mainly metabolised by CYP2C9 and CYP3A4. Cobimetinib does not inhibit or induce CYP3A4 or CYP2C9. However, coadministration of phenprocoumon and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated.",(See Summary)
+299,Cobimetinib,Phenytoin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Cobimetinib does not inhibit or induce CYP2C9 or CYP2C19. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of cobimetinib may decrease due to induction of CYP3A4 and UGT2B7. Coadministration of cobimetinib with a moderate/strong CYP3A inducer was not assessed in a clinical study, however, a reduction in cobimetinib exposure is likely. A decrease in exposure can lead to decreased efficacy. Therefore, concomitant use of moderate and strong CYP3A inducers should be avoided.",(See Summary)
+300,Cobimetinib,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Cobimetinib does not inhibit or induce CYP4F2. ,(See Summary)
+301,Cobimetinib,Pimozide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pimozide is mainly metabolised by CYP3A4 and CYP2D6 and to a lesser extent by CYP1A2. Cobimetinib is an inducer of CYP1A2 in vitro. The clinical relevance of this interaction is unknown since no clinical interaction studies have been conducted. However, a clinically relevant interaction is unlikely since CYP1A2 is a minor pathway.",(See Summary)
+302,Cobimetinib,Pindolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolised to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine (possibly via OCT2). Cobimetinib is unlikely to interfere with this metabolic or elimination pathway.,(See Summary)
+303,Cobimetinib,Pioglitazone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of pioglitazone. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with pioglitazone.",(See Summary)
+304,Cobimetinib,Pipotiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Cobimetinib does not inhibit or induce CYP2D6.,(See Summary)
+305,Cobimetinib,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolised by CYP2C9. Cobimetinib does not inhibit or induce CYP2C9. ,(See Summary)
+306,Cobimetinib,Pitavastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Pitavastatin is metabolised by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Cobimetinib does not inhibit or induce these CYPs or UGTs. However, coadministration of pitavastatin and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness and dark urine) may be required.",(See Summary)
+307,Cobimetinib,Posaconazole,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided. Posaconazole is primarily metabolised by UGTs. Cobimetinib does not inhibit or induce UGTs. However, posaconazole is a strong inhibitor of CYP3A4 and may increase concentrations of cobimetinib. Coadministration should be approached with caution. If concomitant use of posaconazole is unavoidable, patients should be closely monitored for toxicity. Monitor cobimetinib plasma concentrations, if available. An alternative to a strong to moderate CYP3A inhibitor in patients who are taking a reduced dose of cobimetinib is recommended (40 or 20 mg daily) (US product label). For posaconazole used short-term (7 days or less), consider interrupting cobimetinib therapy during the duration of posaconazole use (EU product label).",(See Summary)
+308,Cobimetinib,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is renally eliminated. Cobimetinib does not interfere with this elimination pathway. ,(See Summary)
+309,Cobimetinib,Prasugrel,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. Cobimetinib does not inhibit or induce these CYPs. However, coadministration of prasugrel and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+310,Cobimetinib,Pravastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Cobimetinib is a weak inhibitor of OATP1B1 in vitro but no clinically significant effect on pravastatin is expected in vivo. However, coadministration of pravastatin and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness and dark urine) may be required.",(See Summary)
+311,Cobimetinib,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolised, primarily by demethylation and conjugation. Cobimetinib is unlikely to interfere with this metabolic pathway. ",(See Summary)
+312,Cobimetinib,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+313,Cobimetinib,Prednisone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+314,Cobimetinib,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration. Cobimetinib is unlikely to interfere with this elimination pathway.,(See Summary)
+315,Cobimetinib,Prochlorperazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Cobimetinib does not inhibit of induce CYP2D6 and CYP2C19.,(See Summary)
+316,Cobimetinib,Promethazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Promethazine is metabolised by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6.,(See Summary)
+317,Cobimetinib,Propafenone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of propafenone. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with propafenone.",(See Summary)
+318,Cobimetinib,Propranolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Propranolol is metabolised by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of propranolol. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with propranolol.",(See Summary)
+319,Cobimetinib,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly renally eliminated, partly by active secretion by renal transporters. No clinically relevant interactions were observed when prucalopride was coadministered with inhibitors of renal P-gp, OAT and OCT transporters. ",(See Summary)
+320,Cobimetinib,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolised by xanthine oxidase. Cobimetinib does not interact with this metabolic pathway. ,(See Summary)
+321,Cobimetinib,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+322,Cobimetinib,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+323,Cobimetinib,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Cobimetinib does not interact with this metabolic or elimination pathway.,(See Summary)
+324,Cobimetinib,Quinidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinidine is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+325,Cobimetinib,Rabeprazole,"
+No Interaction Expected
+","
+Low
+","Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. Cobimetinib does not inhibit or induce CYP2C19 or CYP3A4. Cobimetinib displays pH-dependent aqueous solubility in vitro. However, coadministration of cobimetinib (single dose of 20 mg) and rabeprazole (20 mg once daily for 5 days) increased cobimetinib AUC by 11%. No effect on Cmax was observed. Under fed conditions, coadministration led to increased cobimetinib AUC (6%) and decreased Cmax (14%). Therefore, no clinically significant effect of gastric pH increasing drugs on cobimetinib exposure is expected.",(See Summary)
+326,Cobimetinib,Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolised to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Cobimetinib is unlikely to interfere with these metabolic pathways. ",(See Summary)
+327,Cobimetinib,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranitidine is excreted via OAT1/OAT3. Cobimetinib does not inhibit or induce OAT/OAT3. Cobimetinib displays pH-dependent aqueous solubility in vitro. However, coadministration of cobimetinib (single dose of 20 mg) and the proton-pump inhibitor, rabeprazole (20 mg once daily for 5 days), increased cobimetinib AUC by 11%. No effect on Cmax was observed. Therefore, no clinically significant effect of gastric pH increasing drugs on cobimetinib exposure is expected.",(See Summary)
+328,Cobimetinib,Ranolazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ranolazine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Furthermore, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Concentrations of cobimetinib may increase due to P-gp inhibition. As the clinical relevance of this interaction is unknown, monitoring may be required.",(See Summary)
+329,Cobimetinib,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. Therefore, a clinically relevant interaction is unlikely.",(See Summary)
+330,Cobimetinib,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolised by CYP2C8 and CYP3A4 with clinical data indicating it is a substrate of the hepatic transporter OATP1B1. Cobimetinib is a weak inhibitor of OATP1B1 in vitro but no clinically significant effect on repaglinide is expected in vivo.,(See Summary)
+331,Cobimetinib,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver but retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Cobimetinib does not interfere with this metabolic pathway. ",(See Summary)
+332,Cobimetinib,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+333,Cobimetinib,Rifabutin,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but should be avoided. Rifabutin is metabolised by CYP3A and via deacetylation. Cobimetinib does not interfere with these metabolic pathways. However, rifabutin is an inducer of CYP3A4 and may significantly decrease concentrations of cobimetinib. Coadministration of cobimetinib with a moderate/strong CYP3A inducer has not been assessed in a clinical study, however, a reduction in cobimetinib exposure is likely. A decrease in exposure can lead to decreased efficacy. Therefore, concomitant use of rifabutin should be avoided. ",(See Summary)
+334,Cobimetinib,Rifampicin,"
+Do Not Coadminister
+","
+Moderate
+","Coadministration should be avoided. Rifampicin is metabolised via deacetylation. Cobimetinib does not interfere with this metabolic pathway. However, rifampicin is an inducer of CYP3A4 and may significantly decrease concentrations of cobimetinib. Coadministration of cobimetinib with a moderate/strong CYP3A4 inducer was not assessed in a clinical study. However, PBPK modelling predicts an 83% decrease in cobimetinib exposure with coadministration of rifampicin. A decrease in exposure can lead to decreased efficacy. Therefore, concomitant use of moderate and strong CYP3A inducers should be avoided. ",(See Summary)
+335,Cobimetinib,Rifapentine,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and should be avoided. Rifapentine is metabolised via deacetylation. Cobimetinib does not interfere with this metabolic pathway. Rifapentine is an inducer of CYP3A4 and may significantly decrease concentrations of cobimetinib. Coadministration of cobimetinib with a moderate/strong CYP3A inducer has not been assessed in a clinical study, however, a reduction in cobimetinib exposure is likely. A decrease in exposure can lead to decreased efficacy. Therefore, concomitant use of rifapentine should be avoided. ",(See Summary)
+336,Cobimetinib,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Cobimetinib does not interfere with this elimination pathway. ",(See Summary)
+337,Cobimetinib,Risperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Cobimetinib does not inhibit or induce CYP2D6 and CYP3A4.,(See Summary)
+338,Cobimetinib,Rivaroxaban,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine (by P-gp and BCRP). Cobimetinib is an inhibitor of BCRP in vitro but no clinically significant effect on rivaroxaban is expected in vivo. However, coadministration of rivaroxaban and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+339,Cobimetinib,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolised mainly by CYP2C8 and to a lesser extent CYP2C9. Cobimetinib does not inhibit or induce CYP2C8 or CYP2C9.,(See Summary)
+340,Cobimetinib,Rosuvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Rosuvastatin is largely excreted unchanged via the faeces. Rosuvastatin is also a substrate of CYP2C9, OATP1B1 and BCRP. Cobimetinib is an inhibitor of BCRP and OATP1B1 in vitro but a clinically significant effect on rosuvastatin is not expected in vivo. However, coadministration of rosuvastatin and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness and dark urine) may be required. ",(See Summary)
+341,Cobimetinib,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolised to the inactive salbutamol-4’-O-sulphate. Cobimetinib does not interact with this metabolic pathway.,(See Summary)
+342,Cobimetinib,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+343,Cobimetinib,Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. Cobimetinib does not inhibit or induce CYP3A4 or P-gp.,(See Summary)
+344,Cobimetinib,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces and also in other secretions. No clinically significant drug interactions are known. ,(See Summary)
+345,Cobimetinib,Sertindole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertindole is metabolised by CYP2D6 and CYP3A4. Cobimetinib does not inhibit or induce CYP2D6 and CYP3A4. ,(See Summary)
+346,Cobimetinib,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Cobimetinib does not inhibit or induce these CYPs.",(See Summary)
+347,Cobimetinib,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. Cobimetinib does not inhibit or induce CYP3A4 and CYP2C9. ,(See Summary)
+348,Cobimetinib,Simvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Simvastatin is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. However, coadministration of simvastatin and cobimetinib may increase the risk of rhabdomyolysis. Monitoring for signs of rhabdomyolysis (e.g. muscle pain, stiffness and dark urine) may be required.",(See Summary)
+349,Cobimetinib,Sirolimus,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sirolimus is metabolised by CYP3A4 and is a substrate of P-gp. Cobimetinib does not inhibit or induce CYP3A4 or P-gp. ,(See Summary)
+350,Cobimetinib,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1 and P-gp) and metabolism by CYP3A4 represents a minor elimination pathway. Cobimetinib does not interact with these metabolic and elimination pathways.",(See Summary)
+351,Cobimetinib,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. There is little potential for sodium nitroprusside to affect the disposition of cobimetinib, or to be affected if co-administered with cobimetinib. ",(See Summary)
+352,Cobimetinib,Sotalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sotalol is excreted unchanged via renal elimination (possibly via OCT). Cobimetinib is a weak inhibitor of OCT1 in vitro but no clinically significant interaction is expected in vivo.,(See Summary)
+353,Cobimetinib,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Cobimetinib does not interfere with this elimination pathway. ,(See Summary)
+354,Cobimetinib,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolised by the flavin containing monooxygenases. Cobimetinib does not interfere with this metabolic pathway. ,(See Summary)
+355,Cobimetinib,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Cobimetinib is a weak inducer of CYP1A2 in vitro but a clinically relevant interaction is unlikely.,(See Summary)
+356,Cobimetinib,St John's Wort,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided. St John’s Wort is an inducer of CYP3A4. Coadministration of cobimetinib with a moderate/strong CYP3A inducer was not assessed in a clinical study, however, a reduction in cobimetinib exposure is likely. A decrease in exposure can lead to decreased efficacy. Therefore, concomitant use of moderate and strong CYP3A inducers should be avoided. ",(See Summary)
+357,Cobimetinib,Streptokinase,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Streptokinase is unlikely to affect the disposition of tyrosine kinase inhibitors, or to be affected if co-administered with tyrosine kinase inhibitors. However, coadministration of streptokinase and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+358,Cobimetinib,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Streptomycin is eliminated by glomerular filtration. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+359,Cobimetinib,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Cobimetinib does not inhibit or induce CYP2C9.,(See Summary)
+360,Cobimetinib,Sulpiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+361,Cobimetinib,Tacrolimus,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tacrolimus is metabolised mainly by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. Tacrolimus is an inhibitor of CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Tacrolimus may increase cobimetinib concentrations although only to a modest extent. Cobimetinib can be coadministered with tacrolimus without dose adjustment.,(See Summary)
+362,Cobimetinib,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+363,Cobimetinib,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Cobimetinib does not inhibit or induce CYP3A4 or CYP2D6. ,(See Summary)
+364,Cobimetinib,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Cobimetinib does not interact with this elimination pathway.,(See Summary)
+365,Cobimetinib,Telithromycin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. Cobimetinib does not interfere with these metabolic pathways. However, telithromycin is a strong inhibitor of CYP3A4 and may increase concentrations of cobimetinib. Avoid coadministration of cobimetinib and telithromycin. If concomitant use of telithromycin is unavoidable, patients should be closely monitored for toxicity. Monitor cobimetinib plasma concentrations, if available. An alternative to a strong to moderate CYP3A inhibitor in patients who are taking a reduced dose of cobimetinib is recommended (40 or 20 mg daily) (US product label). For telithromycin used short-term (7 days or less), consider interrupting cobimetinib therapy during the duration of telithromycin use (EU product label).",(See Summary)
+366,Cobimetinib,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Cobimetinib does not inhibit or induce UGT1A3. ,(See Summary)
+367,Cobimetinib,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Cobimetinib does not inhibit or induce UGTs.,(See Summary)
+368,Cobimetinib,Terbinafine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYPs 2C8 and 2C19. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of terbinafine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with terbinafine.",(See Summary)
+369,Cobimetinib,Testosterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+370,Cobimetinib,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+371,Cobimetinib,Theophylline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Theophylline is mainly metabolised by CYP1A2. Cobimetinib is a weak inducer of CYP1A2 in vitro and may decrease concentrations of theophylline. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with theophylline.",(See Summary)
+372,Cobimetinib,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+373,Cobimetinib,Thioridazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Cobimetinib does not inhibit or induce CYP2D6 and CYP3A4.,(See Summary)
+374,Cobimetinib,Tiapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tiapride is excreted largely unchanged in urine. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+375,Cobimetinib,Ticagrelor,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Ticagrelor undergoes extensive CYP3A4 metabolism. Cobimetinib does not inhibit or induce CYP3A4. Ticagrelor is also a mild inhibitor of CYP3A4 and may increase concentrations of cobimetinib. However, cobimetinib can be coadministered with ticagrelor without dose adjustment. Coadministration of ticagrelor and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+376,Cobimetinib,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6.,(See Summary)
+377,Cobimetinib,Tinzaparin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Cobimetinib does not interact with this elimination pathway. However, coadministration may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated.",(See Summary)
+378,Cobimetinib,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolised by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Cobimetinib does not inhibit or induce these CYPs. ,(See Summary)
+379,Cobimetinib,Tolterodine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 with CYP3A4. Cobimetinib does not inhibit or induce CYP2D6 or CYP3A4.,(See Summary)
+380,Cobimetinib,Torasemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolised mainly by CYP2C9. Cobimetinib does not interfere with torasemide elimination.,(See Summary)
+381,Cobimetinib,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. Cobimetinib does not inhibit or induce these CYPs. ",(See Summary)
+382,Cobimetinib,Trandolapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Cobimetinib does not interact with this metabolic pathway. ,(See Summary)
+383,Cobimetinib,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranexamic acid is mainly cleared by glomerular filtration. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+384,Cobimetinib,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Cobimetinib does not interact with this metabolic pathway. ,(See Summary)
+385,Cobimetinib,Trazodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+386,Cobimetinib,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4. ,(See Summary)
+387,Cobimetinib,Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+388,Cobimetinib,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. In vitro data suggest that trimethoprim inhibits the renal transporters OCT2 and MATE1. Sulfamethoxazole is metabolised via CYP2C9. Cobimetinib is not transported by OCT2 or MATE1 and does not interfere with the elimination or metabolism of trimethoprim or sulfamethoxazole.,(See Summary)
+389,Cobimetinib,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolised mainly by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6. ,(See Summary)
+390,Cobimetinib,Tropisetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tropisetron is metabolised mainly by CYP2D6. Cobimetinib does not inhibit or induce CYP2D6. ,(See Summary)
+391,Cobimetinib,Ulipristal,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent CYP1A2 and CYP2D6. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of ulipristal. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with ulipristal.",(See Summary)
+392,Cobimetinib,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolised by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolised by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Cobimetinib does not interact with this pathway.,(See Summary)
+393,Cobimetinib,Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Cobimetinib does not interact with this elimination pathway.,(See Summary)
+394,Cobimetinib,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vancomycin is excreted unchanged via glomerular filtration. Cobimetinib does not interact with this elimination pathway.,(See Summary)
+395,Cobimetinib,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Cobimetinib does not inhibit or induce these CYPs. ",(See Summary)
+396,Cobimetinib,Verapamil,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of verapamil. The clinical relevance of this interaction is unknown. Verapamil is a moderate inhibitor of CYP3A4 and may increase concentrations of cobimetinib. Coadministration should be approached with caution. If concurrent short term (14 days or less) use of moderate CYP3A inhibitors is unavoidable for patients who are taking cobimetinib 60 mg, the US product label recommends a dose reduction from 60 mg to 20 mg. After discontinuation of verapamil, resume cobimetinib at the previous dose. Selection of an alternative concomitant medication with no or minimal enzyme inhibition potential is recommended in patients who are taking a reduced dose of cobimetinib (40 or 20 mg daily) (Note: The EU product label for cobimetinib does not state a dose reduction for coadministration with moderate CYP3A inhibitors). If coadministration is unavoidable, monitor closely for cobimetinib toxicity. Monitor cobimetinib plasma concentrations, if available.",(See Summary)
+397,Cobimetinib,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate of P-gp. Cobimetinib does not interact with this metabolic and elimination pathways.,(See Summary)
+398,Cobimetinib,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+399,Cobimetinib,Voriconazole,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided. Voriconazole is metabolised by CYPs 2C19 (major), 2C9 and 3A4. Cobimetinib does not inhibit or induce these CYPs. However, voriconazole is a strong inhibitor of CYP3A4 and may increase concentrations of cobimetinib. If concomitant use of voriconazole is unavoidable, patients should be closely monitored for toxicity. Monitor cobimetinib plasma concentrations, if available. An alternative to a strong to moderate CYP3A inhibitor in patients who are taking a reduced dose of cobimetinib is recommended (40 or 20 mg daily) (US product label). For voriconazole used short-term (7 days or less), consider interrupting cobimetinib therapy during the duration of voriconazole use (EU product label).",(See Summary)
+400,Cobimetinib,Warfarin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and CYP3A4. S-warfarin (more potent) is metabolised by CYP2C9. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of warfarin. As the clinical relevance of this interaction is unknown, consider monitoring of INR. Furthermore, coadministration of warfarin and cobimetinib may increase the risk of haemorrhage. Bleeding events have been reported more frequently in the cobimetinib plus vemurafenib arm than in the placebo plus vemurafenib arm (all types and Grades: 13% vs. 7%). The median time to first onset was 6.1 months in the cobimetinib plus vemurafenib arm. Monitor closely for haemorrhage. If haemorrhage occurs, treat as clinically indicated. ",(See Summary)
+401,Cobimetinib,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). Cobimetinib does not interfere with this elimination pathway.",(See Summary)
+402,Cobimetinib,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent by CYP3A4. Cobimetinib does not inhibit or induce CYP3A4.,(See Summary)
+403,Cobimetinib,Ziprasidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). Cobimetinib does not inhibit or induce CYP3A4.",(See Summary)
+404,Cobimetinib,Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Zoledronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Cobimetinib does not interfere with this elimination pathway.,(See Summary)
+405,Cobimetinib,Zolpidem,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 1A2, 2D6 and 2C19. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of zolpidem. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with zolpidem.",(See Summary)
+406,Cobimetinib,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. Cobimetinib does not inhibit or induce CYP3A4 and CYP2C8.,(See Summary)
+407,Cobimetinib,Zotepine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Cobimetinib is an inducer of CYP1A2 in vitro and may decrease concentrations of zotepine. As the clinical relevance of this interaction is unknown, care should be taken when cobimetinib is coadministered with zotepine.",(See Summary)
+408,Cobimetinib,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Cobimetinib does not inhibit or induce CYP2D6, CYP3A4 or UGTs.",(See Summary)

@@ -1,0 +1,6 @@
+"0","colnames(kegg_to_atc) <- c('kegg_identifier','atc_identifier')"
+"0","kegg_to_atc$atc_identifier <- gsub('atc:','',kegg_to_atc$atc_identifier)"
+"0",""
+"0",""
+"0","DDI_mapped <- merge(KEEG_DDI,kegg_to_atc,by.x = 'V1', by.y = 'kegg_identifier')"
+"0","DDI_mapped <- merge(DDI_mapped,kegg_to_atc, by.x='V2',by.y = 'kegg_identifier')"

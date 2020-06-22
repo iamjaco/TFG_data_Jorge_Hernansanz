@@ -1,0 +1,21 @@
+---
+title: "KEGG_Guidelines"
+author: "Jorge H."
+date: "16/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document reflects the content of KEGG database:
+
++ **Drugs** -> 5411
++ **DDIs** -> 685565
++ **Targets** where DDIs are involved in.
++ **List of diseases** single drugs are involved in.
++ **List of pathways** single drugs are involved in.
++ **List of chemical group** each drug belongs to.
++ **KEGG_NO_DDI** list of interactions involving drugs and other components.
+

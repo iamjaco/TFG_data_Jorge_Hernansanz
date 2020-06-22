@@ -1,0 +1,6 @@
+ID_Dokumentationsgrad,Forkortelse,Evidence_level,Tekst,Sorteringsnr
+d140beab-7347-497f-bffb-72a01293e761,vel,veldokumenteret,Mindst 2 (fra forskellige centre) humane kontrollerede undersøgelser og/eller (før og efter) undersøgelser på relevante personer med enkelt- eller flerdosisforsøg (steady state) i form af enten signifikante kinetiske eller dynamiske ændringer.,10
+eb736cfc-dabc-4c1d-ac47-adad8e2925ea,ringe,ringe dokumenteret,1-2 kasuistikker. Ikke konklusive in vitro-undersøgelser.,40
+dd95e393-e0b4-451f-a3f0-cb16d78efe8a,begr.,begrænset dokumenteret,"<P>Enten mere end 2 kasuistiske meddelelser med relevant under og efter kinetik eller dynamik. </P>
+<P>Eller humane in vitro-undersøgelser med relevante CYP-fraktioner og koncentrationer.</P>",30
+b48e6db7-5677-466a-8cd9-d6e22e14ad62,dok.,dokumenteret,En human kontrolleret undersøgelse og/eller (før og efter) undersøgelse med enkelt- eller flerdosisforsøg (steady state) i form af enten signifikante kinetiske eller dynamiske ændringer.,20

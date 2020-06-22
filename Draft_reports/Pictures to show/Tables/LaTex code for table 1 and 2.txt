@@ -1,0 +1,97 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[capposition=top]{floatrow}
+\usepackage[labelfont=bf]{caption}
+\usepackage{makecell}
+\usepackage{changepage}
+
+\begin{document}
+
+\begin{table}[h!]
+ \begin{tabular}{||c c c c c c c ||} 
+ \hline
+ \textbf{Source} & \textbf{Description}  &  \textbf{\thead{Clinical \\ significance}} &  \textbf{\thead{Management \\ options}} & \textbf{\thead{Evidence \\ level}} & \textbf{\thead{Mechanism \\ of \\ action}} & \textbf{\thead{Side \\ effect}} \\ [0.5ex] 
+ \hline\hline
+ Drugbank & x & & & & & \\ 
+ \hline
+ KEGG & & & x & & x &\\
+ \hline
+ \thead{Interaktion \\ Databasen} & & x & x & x & &\\
+ \hline
+ Twosides & & & & & & x\\
+ \hline
+ NDF-RT & & x & & & &\\
+ \hline
+ Crediblemeds & x & & x & & x &\\
+ \hline
+ HIV & x & x & & x &  &\\
+ \hline
+ HEP & x & x & & x &  &\\
+ \hline
+ CANCER & x & x & & x &  &\\
+ \hline
+ \thead{DDI Corpus \\ 2011} & x & & & & &\\
+ \hline
+ \thead{DDI Corpus \\ 2013} & x & & & & &\\
+ \hline
+ NLM CV Corpus & x & & & & &\\
+ \hline
+ PK Corpus & x & & & & &\\
+ \hline
+ ONC HIGH & & x & x & x & &\\
+ \hline
+ ONC NI & & & & x & &\\ [1ex] 
+ \hline
+ \end{tabular}
+ \begin{flushleft}
+ \caption{DDI information provided by the different data sources. Most of sources also have DDI description that was not parsed, which describes how the interaction affects the rugs involved.}
+ \end{flushleft}
+\end{table}
+
+\begin{table}[h!]
+\centering
+ \begin{tabular}{||c  c  c  c  c ||} 
+ \hline
+ \textbf{Source} & \textbf{Nº of drugs}  & \textbf{Nº of DDIs} &  \textbf{Owner} & \textbf{Version} \\ [0.5ex] 
+ \hline\hline
+ Drugbank & 3.779 & 2.255.390 & Drugbank.ca & 5.1.0\\ 
+  \hline
+ KEGG & 2.963 & 206.875 & Kanehisa laboratories & 93.0\\
+ 
+ Interaktion Databasen & 932 & 18.691 & Danish Medicine Agency & 2.7\\
+ \hline
+ Twosides & 1.951 & 351.647 & Nicholas Tatonetti & 11/2019\\
+ \hline
+ NDF-RT & 1.144 & 12.199 & Veteran health administration & 07/2014\\
+ \hline
+ Crediblemeds & 163 & 403 & Crediblemeds.org* & 05/2010**\\
+ \hline
+ HIV & 1.339 & 50.138 & Liverpool University & 04/2020\\
+ \hline
+ HEP & 1.339 & 41.011 & Liverpool University & 03/2020\\
+ \hline
+ CANCER & 1.021 & 66.707 & Liverpool University & 09/2019\\
+ \hline
+ DDI Corpus 2011 & 846 & 4.664 & Isabel Segura - Bedmar* & 01/2011**\\
+ \hline
+ DDI Corpus 2013 & 1.307 & 10.857 & Isabel Segura - Bedmar* & 
+ 10/2013**\\
+ \hline
+ NLM CV Corpus & 458 & 2.861 & National Library of Medicine* & 01/2011**\\
+ \hline
+ PK Corpus & 451 & 3.211 & Richard D.Boyce* & 02/2013**\\
+ \hline
+ ONC HIGH & 195 & 2.865 & ONC* & 04/2012**\\
+ \hline
+ ONC NI & 509 & 21.705 & ONC* & 09/2012**\\ [1ex] 
+ \hline
+ \end{tabular}
+ \begin{flushleft}
+ \floatfoot[{* Data was obtained from the Github of of the Department of Biomedical Informatics of the University of Pittsburgh [31]} \\
+ \floatfoot[{** As one-time updated source, version comes from the month it was published.}
+ \caption{List of DDI sources. For each one it contains the number of drugs and DDIs that were mapped to the ATC code. It also contains the owner of each source and the version used in our project.}
+ \end{flushleft}
+\end{table}
+
+
+\end{document}

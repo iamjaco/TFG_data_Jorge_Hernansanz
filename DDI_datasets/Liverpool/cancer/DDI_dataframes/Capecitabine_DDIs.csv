@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Capecitabine,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. Capecitabine is unlikely to interfere with this pathway.",(See Summary)
+1,Capecitabine,Acenocoumarol,"
+Potential Interaction
+","
+Very Low
+","Coadministration should be approached with caution. Acenocoumarol is mainly metabolised by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of acenocoumarol. In a single case report, coadministration of capecitabine with acenocoumarol resulted in an increased INR (>15) and rectal blood loss. It is recommended to closely monitor patients for anticoagulant response (INR or prothrombin time) and bleeding, and adjust dose of acenocoumarol accordingly.",(See Summary)
+2,Capecitabine,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolised by glucuronidation (by several UGTs, major UGT1A6). Capecitabine does not inhibit or induce UGTs.",(See Summary)
+3,Capecitabine,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of agomelatine. However, since CYP2C9 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+4,Capecitabine,Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Alendronate is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Capecitabine does not interact with this elimination pathway. Although no pharmacokinetic interaction is expected, alendronate should be separated from food or other medicinal products and patients must wait at least 30 minutes after taking alendronate before taking any other oral medicinal product.",(See Summary)
+5,Capecitabine,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+6,Capecitabine,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolised by CYP3A. Capecitabine does not inhibit or induce CYP3A. ,(See Summary)
+7,Capecitabine,Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolised and is mainly excreted unchanged in faeces. Aliskiren is also a substrate of P-gp. Capecitabine does not interact with this pathway.,(See Summary)
+8,Capecitabine,Allopurinol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration should be avoided. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Capecitabine does not interact with this pathway. However, the EU product label states that coadministration should be avoided as allopurinol may decrease the efficacy of the capecitabine metabolite, 5-FU.",(See Summary)
+9,Capecitabine,Alosetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of alosetron. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for alosetron toxicity may be required.",(See Summary)
+10,Capecitabine,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+11,Capecitabine,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aluminium hydroxide is not metabolised. Capecitabine is unlikely to interfere with this pathway.,(See Summary)
+12,Capecitabine,Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolised by glucuronidation via UGTs 1A3, 1A9 and 2B7, and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Capecitabine does not inhibit or induce UGTs, CYPs or P-gp.",(See Summary)
+13,Capecitabine,Amikacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Amikacin is eliminated by glomerular filtration. Capecitabine does not interfere with this elimination pathway. However, amikacin can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+14,Capecitabine,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Capecitabine is unlikely to significantly affect the elimination of amiloride.,(See Summary)
+15,Capecitabine,Amiodarone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiodarone is metabolised by CYP3A4 and CYP2C8. The major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Capecitabine does not interact with this pathway.",(See Summary)
+16,Capecitabine,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolised and is primarily eliminated renally (possibly via OCT). Capecitabine is unlikely to significantly impair the elimination of amisulpride. ,(See Summary)
+17,Capecitabine,Amitriptyline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of amitriptyline. However, since CYP2C9 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+18,Capecitabine,Amlodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+19,Capecitabine,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Capecitabine is unlikely to interfere with this elimination pathway.,(See Summary)
+20,Capecitabine,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Amphotericin B is not appreciably metabolised and is eliminated to a large extent in the bile. Capecitabine does not interfere with the elimination of amphotericin B. However, the European SPC for amphotericin states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Monitoring may be required. Amphotericin B can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+21,Capecitabine,Ampicillin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20-40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60-80% is excreted in the urine within 6 hours. Capecitabine is unlikely to interfere with this elimination pathway. However, ampicillin may cause nephrotoxicity if the dose is not reduced in renal impairment. Therefore, ampicillin may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+22,Capecitabine,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. Capecitabine is unlikely to interfere with this pathway.,(See Summary)
+23,Capecitabine,Antacids,"
+No Interaction Expected
+","
+Very Low
+","Antacids are not metabolised by CYPs. Capecitabine does not interfere with this metabolic pathway. In solid tumour cancer patients (n=12), coadministration of capecitabine (1250 mg/m2 single oral dose) and the antacid, Maalox (20 mL single dose), increased capecitabine AUC and Cmax by 7-10% and 17-18%, respectively. However, these changes were not statistically and clinically significant. Therefore, adjustment of dose or timing of capecitabine administration in patients taking antacids is not necessary.",(See Summary)
+24,Capecitabine,Apixaban,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Apixaban is a substrate of P-gp and BCRP, and is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of apixaban. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for apixaban toxicity may be required.",(See Summary)
+25,Capecitabine,Aprepitant,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. During treatment, aprepitant is a moderate inhibitor of CYP3A4, but after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Capecitabine does not interact with this pathway.",(See Summary)
+26,Capecitabine,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolised by CYP3A4 and CYP2D6. Capecitabine does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+27,Capecitabine,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 and 2D6 (minor)). Capecitabine does not inhibit or induce these UGTs or CYPs.",(See Summary)
+28,Capecitabine,Astemizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. Capecitabine does not inhibit or induce CYPs 2D6, 2J2 or 3A4. ",(See Summary)
+29,Capecitabine,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. Capecitabine does not interact with the renal elimination of atenolol.",(See Summary)
+30,Capecitabine,Atorvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolised by CYP3A4 and is a substrate of P-gp and OATP1B1. Capecitabine does not inhibit or induce CYP3A4, P-gp or OATP1B1.  ",(See Summary)
+31,Capecitabine,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolised analogously to natural purines. Capecitabine does not interfere with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+32,Capecitabine,Azithromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Azithromycin is mainly eliminated via biliary excretion with animal data suggesting this may occur via P-gp and MRP2. Capecitabine is unlike to interfere with this pathway.,(See Summary)
+33,Capecitabine,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Capecitabine does not interact with this metabolic pathway. ",(See Summary)
+34,Capecitabine,Bedaquiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bedaquiline is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+35,Capecitabine,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. In vitro data indicate that bendroflumethiazide inhibits these renal transporters but a clinically significant interaction is unlikely in the range of observed clinical concentrations. Capecitabine does not interact with this pathway.,(See Summary)
+36,Capecitabine,Bepridil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. Capecitabine does not inhibit or induce CYP2D6 or CYP3A4. ,(See Summary)
+37,Capecitabine,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4. ,(See Summary)
+38,Capecitabine,Bezafibrate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Half of a bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Capecitabine does not interact with this pathway. However, bezafibrate can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+39,Capecitabine,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. Capecitabine is unlikely to interfere with this pathway.,(See Summary)
+40,Capecitabine,Bisoprolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6, and partly eliminated unchanged in the urine. Capecitabine does not inhibit or induce CYP3A4 or CYP2D6.",(See Summary)
+41,Capecitabine,Bosentan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bosentan is a substrate and inducer of CYP3A4 and CYP2C9. Capecitabine does not interact with this pathway.,(See Summary)
+42,Capecitabine,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may also play a role. Capecitabine does not inhibit or induce CYPs 3A4, 2D6 or 1A2.",(See Summary)
+43,Capecitabine,Budesonide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+44,Capecitabine,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Capecitabine does not inhibit or induce CYP3A4 or UGTs.,(See Summary)
+45,Capecitabine,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolised by CYP2B6. Capecitabine does not inhibit or induce CYP2B6.,(See Summary)
+46,Capecitabine,Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+47,Capecitabine,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. Capecitabine does not interfere with these elimination pathways. ",(See Summary)
+48,Capecitabine,Candesartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Candesartan is mainly eliminated unchanged via urine and bile. Capecitabine does not interact with this pathway. However, candesartan can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+49,Capecitabine,Capreomycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Capecitabine does not interfere with this elimination pathway. Capreomycin can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+50,Capecitabine,Captopril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Captopril is largely excreted in the urine by OAT1. Capecitabine does not interact with this pathway. However, captopril can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+51,Capecitabine,Carbamazepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carbamazepine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2C8. Furthermore, carbamazepine is an inducer of CYPs 3A4 (strong), 2C8 (strong), 2C9 (strong), 1A2 (weak), 2B6 and UGT1A1. Capecitabine does not interact with this pathway. ",(See Summary)
+52,Capecitabine,Carvedilol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additional metabolism via CYP2D6 and to a lesser extent by CYPs 2C9 and 1A2. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of carvedilol. However, since CYP2C9-mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely. Note: Carvedilol can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+53,Capecitabine,Caspofungin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non CYP-mediated pathway. Capecitabine does not interact with this metabolic pathway. However, caspofungin can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+54,Capecitabine,Cefalexin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Cefalexin is predominantly eliminated unchanged renally by glomerular filtration and tubular secretion via OAT1 and MATE1. Capecitabine does not interfere with this elimination pathway. However, cefalexin can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+55,Capecitabine,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Capecitabine does not interfere with this elimination pathway.",(See Summary)
+56,Capecitabine,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefixime is renally excreted predominantly by glomerular filtration. Capecitabine does not interfere with this elimination pathway.,(See Summary)
+57,Capecitabine,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolised by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Capecitabine does not interfere with this elimination pathway.",(See Summary)
+58,Capecitabine,Ceftazidime,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ceftazidime is excreted predominantly by renal glomerular filtration. Capecitabine does not interfere with this elimination pathway. However, ceftazidime can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+59,Capecitabine,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Capecitabine does not interfere this elimination pathway.",(See Summary)
+60,Capecitabine,Celecoxib,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Celecoxib is primarily metabolised by CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of celecoxib. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for celecoxib toxicity may be required.",(See Summary)
+61,Capecitabine,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion. In vitro data indicate that cetirizine inhibits OCT2. Capecitabine is unlikely to interact with this pathway.,(See Summary)
+62,Capecitabine,Chloramphenicol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chloramphenicol is predominantly glucuronidated. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Capecitabine does not interact with this pathway.",(See Summary)
+63,Capecitabine,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce cytochromes. Capecitabine does not interact with this pathway. ",(See Summary)
+64,Capecitabine,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolised in the liver via CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+65,Capecitabine,Chlorpromazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorpromazine is metabolised mainly by CYP2D6, but also by CYP1A2. Capecitabine does not inhibit or induce CYP2D6 or CYP1A2.",(See Summary)
+66,Capecitabine,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. Capecitabine does not interfere with this elimination pathway.,(See Summary)
+67,Capecitabine,Ciclosporin (Cyclosporine),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ciclosporin is a substrate of CYP3A4 and P-gp, and inhibits CYP3A4 and OATP1B1. Capecitabine does not interact with this pathway. However, ciclosporin can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+68,Capecitabine,Cilazapril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Cilazapril is mainly eliminated unchanged by the kidneys. Capecitabine does not interact with this elimination pathway. However, cilazapril can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+69,Capecitabine,Cimetidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cimetidine is a weak inhibitor of CYPs 3A4, 1A2, 2D6 and 2C19. In vitro data indicate that cimetidine also inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations. Capecitabine does not interact with this pathway.",(See Summary)
+70,Capecitabine,Ciprofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. It is also metabolised and partially cleared through the bile and intestine. Ciprofloxacin is a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Capecitabine does not interfere with this pathway.,(See Summary)
+71,Capecitabine,Cisapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cisapride is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+72,Capecitabine,Citalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). Capecitabine does not inhibit or induce CYPs 2C19, 2D6 or 3A4.",(See Summary)
+73,Capecitabine,Clarithromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clarithromycin is metabolised by CYP3A4 and is also an inhibitor of CYP3A4 (strong) and P-gp. Capecitabine does not interact with this metabolic pathway.,(See Summary)
+74,Capecitabine,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolised (likely non-CYP mediated pathway) and excreted in the urine by glomerular filtration. Capecitabine does not interact with this elimination pathway. ,(See Summary)
+75,Capecitabine,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolised in the liver via CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+76,Capecitabine,Clindamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clindamycin is metabolised by CYP3A4 and in vitro data suggest that it is a CYP3A4 inhibitor. Capecitabine does not interact with this pathway. ,(See Summary)
+77,Capecitabine,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,(See Summary)
+78,Capecitabine,Clofazimine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces. In vitro data suggest that clofazimine is a CYP3A4 inhibitor. Capecitabine does not interact with this pathway. ,(See Summary)
+79,Capecitabine,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolysed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Capecitabine does not interfere with clofibrate elimination.",(See Summary)
+80,Capecitabine,Clomipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. Clomipramine and desmethylclomipramine are also metabolised by CYP2D6. Capecitabine does not inhibit or induce these CYPs. ",(See Summary)
+81,Capecitabine,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in the form of the unchanged parent drug (40-60% of the dose). Clonidine is a weak inhibitor of OCT2. Capecitabine does not interact with this pathway.",(See Summary)
+82,Capecitabine,Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. Clopidogrel is also an inhibitor of CYP2C8 (strong), CYP2B6 (weak) and of CYP2C9 (in vitro) at high concentrations. The clinical relevance of CYP2C9 inhibition is unknown. Capecitabine does not interact with this pathway.",(See Summary)
+83,Capecitabine,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+84,Capecitabine,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion. Capecitabine does not interact with this metabolic or elimination pathway.",(See Summary)
+85,Capecitabine,Clozapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Capecitabine does not inhibit or induce these CYPs.",(See Summary)
+86,Capecitabine,Codeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolised by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Morphine is also a substrate of P-gp. Furthermore, codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. Capecitabine does not inhibit or induce CYPs, UGTs or P-gp.",(See Summary)
+87,Capecitabine,Colchicine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Colchicine is metabolised by CYP3A4 and is a substrate of P-gp. Capecitabine does not inhibit or induce CYP3A4 or P-gp.,(See Summary)
+88,Capecitabine,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly renally excreted via glomerular filtration. Capecitabine does not interact with this elimination pathway.,(See Summary)
+89,Capecitabine,Dabigatran,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dabigatran is a substrate of P-gp and is excreted renally. Capecitabine does not interact with this pathway. ,(See Summary)
+90,Capecitabine,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys. Capecitabine does not interfere with the renal excretion of dalteparin. ,(See Summary)
+91,Capecitabine,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP450 enzymes. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of dapsone. However, as multiple CYPs are involved in the metabolism of dapsone, a clinically relevant interaction unlikely. ",(See Summary)
+92,Capecitabine,Desipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desipramine is metabolised by CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+93,Capecitabine,Desogestrel,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of desogestrel. However, no formal interaction studies have been conducted. The clinical relevance of this interaction is unknown and coadministration should be approached with caution. It is recommended to use an alternative contraception which is not influenced by capecitabine for example etonogestrel or levonorgestrel.",(See Summary)
+94,Capecitabine,Dexamethasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dexamethasone is a known substrate of CYP3A4 and has also been described as an inducer of CYP3A4. However, the induction effect of CYP3A4 by dexamethasone has not yet been established. Capecitabine does not interact with this pathway.",(See Summary)
+95,Capecitabine,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+96,Capecitabine,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolised by sequential deacetylation to morphine, which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Capecitabine does not inhibit or induce UGTs.",(See Summary)
+97,Capecitabine,Diazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Capecitabine does not inhibit or induce CYP3A4 or CYP2C19.,(See Summary)
+98,Capecitabine,Diclofenac,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidised by CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of diclofenac. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for diclofenac toxicity may be required.",(See Summary)
+99,Capecitabine,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is renally eliminated via OATP4C1 and P-gp. Capecitabine does not inhibit or induce OATPs or P-gp.,(See Summary)
+100,Capecitabine,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Capecitabine does not inhibit or induce CYP3A4 or UGTs. ",(See Summary)
+101,Capecitabine,Diltiazem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diltiazem is metabolised by CYP3A4 and CYP2D6. Diltiazem is also a moderate inhibitor of CYP3A4. Capecitabine does not interact with this pathway.,(See Summary)
+102,Capecitabine,Diphenhydramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. Diphenhydramine is also a weak inhibitor of CYP2D6. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of diphenhydramine. However, since CYP2C9 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+103,Capecitabine,Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Capecitabine does not inhibit or induce UGTs. ",(See Summary)
+104,Capecitabine,Disopyramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. Capecitabine does not interact with this metabolic pathway.,(See Summary)
+105,Capecitabine,Dolasetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). Capecitabine does not interact with this metabolic pathway.",(See Summary)
+106,Capecitabine,Domperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4. ,(See Summary)
+107,Capecitabine,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. Capecitabine does not interact with this metabolic pathway.",(See Summary)
+108,Capecitabine,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+109,Capecitabine,Doxepin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolised to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. Doxepin and nordoxepin are also metabolised by CYP2D6. Capecitabine does not inhibit or induce CYP2C19 or CYP2D6.,(See Summary)
+110,Capecitabine,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. Capecitabine does not interact with this elimination pathway. ,(See Summary)
+111,Capecitabine,Dronabinol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of dronabinol. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for dronabinol toxicity may be required.",(See Summary)
+112,Capecitabine,Drospirenone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+113,Capecitabine,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dulaglutide is degraded by endogenous endopeptidases. Capecitabine does not interact with this pathway. ,(See Summary)
+114,Capecitabine,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolised by CYP2D6 and CYP1A2. Capecitabine does not inhibit or induce CYP2D6 or CYP1A2.,(See Summary)
+115,Capecitabine,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4. ,(See Summary)
+116,Capecitabine,Dydrogesterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+117,Capecitabine,Edoxaban,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is partially metabolised by CYP3A4 (<10%) and is transported via P-gp. Capecitabine does not inhibit or induce CYP3A4 or P-gp.,(See Summary)
+118,Capecitabine,Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1 and UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Capecitabine does not inhibit or induce these CYPs or UGTs.,(See Summary)
+119,Capecitabine,Enalapril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Enalapril is hydrolysed to enalaprilat which is renally eliminated (possibly via OATs). Capecitabine does not interact with this pathway. However, enalapril can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+120,Capecitabine,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is excreted predominantly renally. Capecitabine does not interact with this metabolic or elimination pathway.",(See Summary)
+121,Capecitabine,Eprosartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Eprosartan is largely excreted in bile and urine as unchanged drug. Capecitabine does not interfere with this elimination pathway. However, eprosartan can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+122,Capecitabine,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor role. Capecitabine does not interact with this elimination pathway.,(See Summary)
+123,Capecitabine,Erythromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Erythromycin is a CYP3A4 substrate and inhibitor. Erythromycin is also an inhibitor of CYP3A4 (moderate) and P-gp. Capecitabine does not interact with this metabolic pathway.,(See Summary)
+124,Capecitabine,Escitalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Capecitabine does not inhibit or induce CYPs 2C19, 2D6 or 3A4.",(See Summary)
+125,Capecitabine,Esomeprazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Esomeprazole is metabolised by CYP2C19 and CYP3A4. Esomeprazole is also an inhibitor of CYP2C19. Capecitabine does not interact with this pathway. However, esomeprazole may decrease the efficacy of capecitabine. In patients with metastatic gastroesophageal cancer (n=545), coadministration of capecitabine and proton pump inhibitors negatively affected capecitabine efficacy. This was possibly due to raising gastric pH levels, leading to altered dissolution and absorption. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, monitoring for capecitabine efficacy is recommended.",(See Summary)
+126,Capecitabine,Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+127,Capecitabine,Estradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. Capecitabine does not inhibit or induce these CYPs or UGTs.",(See Summary)
+128,Capecitabine,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolised by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and urine (50%). Capecitabine does not interact with this elimination pathway.,(See Summary)
+129,Capecitabine,Ethinylestradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of ethinylestradiol. However, since CYP2C9 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+130,Capecitabine,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolised in the liver; animal studies suggest involvement of flavin-containing monooxygenases. Capecitabine does not interfere with this pathway. ,(See Summary)
+131,Capecitabine,Etonogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+132,Capecitabine,Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Based on metabolism and clearance a pharmacokinetic interaction is unlikely. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. In patients with advanced solid malignancies, coadministration of capecitabine (escalating doses from 500-1000 mg/m2 twice daily) and everolimus (5mg twice daily) resulted in no pharmacokinetic interaction. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+133,Capecitabine,Exenatide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Exenatide is cleared mainly by glomerular filtration. Capecitabine does not interfere with this elimination pathway. ,(See Summary)
+134,Capecitabine,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Capecitabine does not inhibit or induce UGTs. ,(See Summary)
+135,Capecitabine,Famotidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Famotidine is excreted via OAT1/OAT3. Capecitabine does not inhibit or induce OATs.,(See Summary)
+136,Capecitabine,Felodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Felodipine is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4. ,(See Summary)
+137,Capecitabine,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolysed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Capecitabine does not interact with this pathway.",(See Summary)
+138,Capecitabine,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Capecitabine does not inhibit or induce CYP3A4. ,(See Summary)
+139,Capecitabine,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine is a substrate of P-gp. Capecitabine does not inhibit or induce P-gp.,(See Summary)
+140,Capecitabine,Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+141,Capecitabine,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+142,Capecitabine,Flecainide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flecainide is metabolised mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also eliminated unchanged renally. Capecitabine does not interact with this metabolic pathway.",(See Summary)
+143,Capecitabine,Flucloxacillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Flucloxacillin has also been described as a CYP3A4 inducer. Capecitabine does not interact with this pathway. ,(See Summary)
+144,Capecitabine,Fluconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluconazole is cleared primarily by renal elimination and is an inhibitor of CYPs 3A4 (moderate), 2C9 and 2C19. Capecitabine does not interact with this pathway.",(See Summary)
+145,Capecitabine,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Since flucytosine and capecitabine are both metabolised to 5-fluorouracil, coadministration is unlikely and would give additional toxicity. Flucytosine is metabolised to 5-fluorouracil which is further metabolised by dihydropyrimidine dehydrogenase. This enzyme is also involved in the catabolic pathway of capecitabine and competition could potentially increase haematological toxicity. Monitoring of haematological parameters is recommended if used concurrently with capecitabine.",(See Summary)
+146,Capecitabine,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. Capecitabine does not inhibit or induce CYP3A.",(See Summary)
+147,Capecitabine,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. Capecitabine does not inhibit or induce CYP3A4 or CYP2C19.,(See Summary)
+148,Capecitabine,Fluoxetine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluoxetine is metabolised by CYP2D6 and CYP2C9, and to a lesser extent by CYP2C19 and CYP3A4 to form norfluoxetine. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of fluoxetine. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for fluoxetine toxicity may be required.",(See Summary)
+149,Capecitabine,Fluphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+150,Capecitabine,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Capecitabine is unlikely to interact with flurazepam metabolism.,(See Summary)
+151,Capecitabine,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+152,Capecitabine,Fluvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluvastatin is mainly metabolised by CYP2C9 (75%) and to a lesser extent by CYP3A4 (20%) and CYP2C8 (5%). Fluvastatin is also a potential inhibitor of CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of fluvastatin. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for fluvastatin toxicity may be required.",(See Summary)
+153,Capecitabine,Fluvoxamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Fluvoxamine is also an inhibitor of CYPs 1A2, 2C19, 3A4, 2C9. Capecitabine does not interact with this pathway.",(See Summary)
+154,Capecitabine,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is eliminated predominantly renally. Capecitabine does not interact with this elimination pathway.,(See Summary)
+155,Capecitabine,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation. As multiple CYP450 and UGT enzymes catalyse the transformation the potential for a pharmacokinetic interaction with capecitabine is low.",(See Summary)
+156,Capecitabine,Fosaprepitant,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Capecitabine does not interact with this metabolic pathway. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. During treatment, aprepitant is a moderate inhibitor of CYP3A4, but after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Capecitabine does not interact with this pathway.",(See Summary)
+157,Capecitabine,Fosphenytoin,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but should be approached with caution. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of phenytoin. In five case reports, coadministration of capecitabine and phenytoin resulted in increased serum levels of phenytoin in addition to light-headedness, limb ataxia, dysarthria and severe gait ataxia, amongst other presentations. Coadministration should be approached with caution. It is recommended to closely monitor patients for phenytoin toxicity. Close monitoring of phenytoin plasma concentrations before and after chemotherapy with capecitabine should also be considered, if available. The dose of phenytoin should be adjusted accordingly. Furthermore, phenytoin is potent inducer of CYP3A4, UGT and P-gp. Capecitabine is not a substrate of CYPs, UGTs or P-gp.",(See Summary)
+158,Capecitabine,Furosemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also eliminated unchanged renally (via OATs). In vitro data indicate that furosemide is an inhibitor of the renal transporters OAT1/OAT3. Capecitabine does not interact with this pathway.,(See Summary)
+159,Capecitabine,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Capecitabine does not interact with this elimination pathway.,(See Summary)
+160,Capecitabine,Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Gemfibrozil is also an inhibitor of CYP2C8 (strong), OATP1B1 and OAT3. In vitro data indicate gemfibrozil to be a strong inhibitor of CYP2C9 but in vivo data showed no clinically relevant effect on CYP2C9. Capecitabine does not interact with this pathway.",(See Summary)
+161,Capecitabine,Gentamicin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Capecitabine does not interact with this elimination pathway. However, gentamicin can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+162,Capecitabine,Gestodene,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of gestodene. However, since CYP2C9 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+163,Capecitabine,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of glibenclamide. However, since CYP2C9-mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely. ",(See Summary)
+164,Capecitabine,Gliclazide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Gliclazide is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C19. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of gliclazide. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for gliclazide toxicity may be required.",(See Summary)
+165,Capecitabine,Glimepiride,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Glimepiride is mainly metabolised by CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of glimepiride. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for glimepiride toxicity may be required.",(See Summary)
+166,Capecitabine,Glipizide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Glipizide is mainly metabolised by CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of glipizide. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for glipizide toxicity may be required.",(See Summary)
+167,Capecitabine,Granisetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Granisetron is metabolised by CYP3A4 and is a substrate of P-gp. Capecitabine does not inhibit or induce CYP3A4 or P-gp.,(See Summary)
+168,Capecitabine,Grapefruit juice,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Grapefruit juice is a known inhibitor of CYP3A4. Capecitabine does not interact with this pathway.,(See Summary)
+169,Capecitabine,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+170,Capecitabine,Griseofulvin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Griseofulvin is a liver microsomal enzyme inducer. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Capecitabine does not interact with this pathway.,(See Summary)
+171,Capecitabine,Haloperidol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGTs 2B7>1A4 and 1A9), carbonyl reduction, as well as oxidative metabolism (CYP3A4 and CYP2D6). Capecitabine does not interact with this metabolic pathway. ",(See Summary)
+172,Capecitabine,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Capecitabine does not interact with this metabolic pathway.,(See Summary)
+173,Capecitabine,Hydralazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. In vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6. It is not expected that this will lead to a clinical relevant interaction with capecitabine. ",(See Summary)
+174,Capecitabine,Hydrochlorothiazide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Hydrochlorothiazide is not metabolised but is cleared by the kidneys via OAT1. In vitro data indicate that hydrochlorothiazide is unlikely to inhibit OAT1 in the range of clinically relevant drug concentrations. Significant interactions are not expected with capecitabine. However, hydrochlorothiazide can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+175,Capecitabine,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Capecitabine does not inhibit or induce CYP2D6 or CYP3A4. ",(See Summary)
+176,Capecitabine,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+177,Capecitabine,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone. ,(See Summary)
+178,Capecitabine,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Capecitabine does not inhibit or induce UGTs. ",(See Summary)
+179,Capecitabine,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is metabolised in the liver and cleared via the lungs and kidneys. Capecitabine does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+180,Capecitabine,Hydroxyzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. Capecitabine does not interfere with this metabolic pathway.,(See Summary)
+181,Capecitabine,Ibandronic acid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ibandronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Capecitabine does not interact with this pathway. Although no pharmacokinetic interaction is expected, ibandronic acid should be separated from food or other medicinal products and patients must wait at least 30 minutes after taking ibandronic acid before taking any other oral medicinal product.",(See Summary)
+182,Capecitabine,Ibuprofen,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ibuprofen is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of ibuprofen. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for ibuprofen toxicity may be required.",(See Summary)
+183,Capecitabine,Iloperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Iloperidone is metabolised by CYP3A4 and CYP2D6. Capecitabine does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+184,Capecitabine,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent by active tubular secretion. Capecitabine does not interact with this elimination pathway. ,(See Summary)
+185,Capecitabine,Imipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. Capecitabine does not inhibit or induce these CYPs.",(See Summary)
+186,Capecitabine,Indapamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Indapamide is extensively metabolised by CYP450. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of indapamide. However, a clinically relevant interaction is unlikely. ",(See Summary)
+187,Capecitabine,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+188,Capecitabine,Interferon alpha,"
+Potential Interaction
+","
+Very Low
+","Coadministration of interferon alpha-2a (3 MIU/m2 per day) reduced the maximum tolerated dose of capecitabine from 3000 mg/m2 to 2000 mg/m2. If coadministration is unavoidable, monitor closely for capecitabine toxicity. Furthermore, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+189,Capecitabine,Interleukin 2 (Aldesleukin),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Capecitabine does not interact with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+190,Capecitabine,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Capecitabine does not interact with this metabolic pathway.,(See Summary)
+191,Capecitabine,Irbesartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Irbesartan is metabolised by glucuronidation and oxidation (mainly CYP2C9). Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of irbesartan. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for irbesartan toxicity may be required. Furthermore, irbesartan can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+192,Capecitabine,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+193,Capecitabine,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Capecitabine does not interact with this metabolic pathway. ,(See Summary)
+194,Capecitabine,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Capecitabine does not inhibit or induce CYP3A4. ,(See Summary)
+195,Capecitabine,Itraconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Itraconazole is primarily metabolised by CYP3A4 and is also an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Capecitabine does not interact with this pathway.",(See Summary)
+196,Capecitabine,Ivabradine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ivabradine is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+197,Capecitabine,Kanamycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Kanamycin is eliminated unchanged predominantly via glomerular filtration. Capecitabine does not interact with this elimination pathway. However, kanamycin can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+198,Capecitabine,Ketoconazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ketoconazole is a substrate of CYP3A4. Ketoconazole is also an inhibitor of CYP3A4 (strong) and P-gp. Capecitabine does not interact with this pathway.,(See Summary)
+199,Capecitabine,Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Capecitabine does not inhibit or induce UGTs.,(See Summary)
+200,Capecitabine,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+201,Capecitabine,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. Capecitabine is unlikely to interfere with this pathway.,(See Summary)
+202,Capecitabine,Lansoprazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Capecitabine does not inhibit or induce CYP2C19 or CYP3A4. However, lansoprazole may decrease the efficacy of capecitabine. In patients with metastatic gastroesophageal cancer (n=545), coadministration of capecitabine and proton pump inhibitors negatively affected capecitabine efficacy. This was possibly due to raising gastric pH levels, leading to altered dissolution and absorption. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, monitoring for capecitabine efficacy is recommended.",(See Summary)
+203,Capecitabine,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is metabolised mainly by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+204,Capecitabine,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion. Capecitabine does not interact with this elimination pathway.,(See Summary)
+205,Capecitabine,Levofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levofloxacin is eliminated renally mainly by glomerular filtration and active secretion (possibly OCT2). Capecitabine does not interact with this elimination pathway. ,(See Summary)
+206,Capecitabine,Levomepromazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levomepromazine is metabolised by CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+207,Capecitabine,Levonorgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Capecitabine does not inhibit or induce CYPs or UGTs.,(See Summary)
+208,Capecitabine,Levonorgestrel (Emergency Contraception),"
+Potential Interaction
+","
+Very Low
+","Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. However, the use of levonorgestrel as emergency contraception is a relative contraindication due to the risk of a pregnancy while having a hormone-sensitive tumour. Therefore, the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Capecitabine does not inhibit or induce CYPs or UGTs.",(See Summary)
+209,Capecitabine,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolised by deiodination (by enzymes of deiodinase family) and glucuronidation. Capecitabine does not interact with this metabolic pathway. ,(See Summary)
+210,Capecitabine,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Capecitabine does not inhibit or induce CYP1A2 or CYP3A4. ,(See Summary)
+211,Capecitabine,Linagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Linagliptin is also a substrate of P-gp and a weak inhibitor of CYP3A4. Capecitabine does not interact with this pathway. ,(See Summary)
+212,Capecitabine,Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. Capecitabine is unlikely to interfere with this metabolic pathway. ,(See Summary)
+213,Capecitabine,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Liraglutide is degraded by endogenous endopeptidases. Capecitabine does not interact with this pathway. ,(See Summary)
+214,Capecitabine,Lisinopril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Lisinopril is eliminated unchanged renally via glomerular filtration. Capecitabine does not interact with this elimination pathway. However, lisinopril can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+215,Capecitabine,Lithium,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate. Lithium can also cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+216,Capecitabine,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalized infections can occur.",(See Summary)
+217,Capecitabine,Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8, and is a substrate of P-gp. Capecitabine does not inhibit or induce CYP3A4, CYP2C8 or P-gp.",(See Summary)
+218,Capecitabine,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Capecitabine does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+219,Capecitabine,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam is metabolised via non-CYP mediated pathways. Capecitabine is unlikely to interfere with this pathway.,(See Summary)
+220,Capecitabine,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Capecitabine does not inhibit or induce UGTs.,(See Summary)
+221,Capecitabine,Losartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of losartan, thus decreasing concentrations of the active metabolite. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for losartan toxicity may be required. Furthermore, losartan can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+222,Capecitabine,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+223,Capecitabine,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of macitentan. However, since CYP2C9-mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely. No a priori dose adjustment is necessary. ",(See Summary)
+224,Capecitabine,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in the kidneys, mainly by glomerular filtration. Capecitabine does not interact with the elimination of magnesium.",(See Summary)
+225,Capecitabine,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolised by CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+226,Capecitabine,Medroxyprogesterone (depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+227,Capecitabine,Medroxyprogesterone (non-depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+228,Capecitabine,Mefenamic acid,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Mefenamic acid is metabolised by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of mefenamic acid. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for mefenamic acid toxicity may be required.",(See Summary)
+229,Capecitabine,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine. Capecitabine does not interact with this elimination pathway.,(See Summary)
+230,Capecitabine,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney with in vitro data suggesting it is a substrate of OAT3>OAT1. Capecitabine does not interfere with this elimination pathway. ,(See Summary)
+231,Capecitabine,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolised to N-acetyl-mesalazine by N-acetyltransferase. Capecitabine does not interfere with this pathway. ,(See Summary)
+232,Capecitabine,Metamizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Subsequently, MMA is metabolised by CYPs. Metamizole is then excreted via urine (90%) and faeces (10%) as metabolites. Metamizole is also an inducer of CYP3A4. Capecitabine does not interact with this metabolic pathway.",(See Summary)
+233,Capecitabine,Metformin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine (via OCT2). Capecitabine does not interact with this elimination pathway.,(See Summary)
+234,Capecitabine,Methadone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methadone is demethylated by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+235,Capecitabine,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. Capecitabine does not interact with this pathway.",(See Summary)
+236,Capecitabine,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolised by CYPs to a clinically relevant extent and does not inhibit or induce CYPs. Capecitabine does not interfere with this pathway.,(See Summary)
+237,Capecitabine,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4. ,(See Summary)
+238,Capecitabine,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolised by the CYP450 system (mainly CYP2D6). Capecitabine does not inhibit or induce CYP2D6. ,(See Summary)
+239,Capecitabine,Metolazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metolazone is largely excreted unchanged in the urine. Capecitabine does not interfere with this elimination pathway. ,(See Summary)
+240,Capecitabine,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolised by CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+241,Capecitabine,Metronidazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Metronidazole is eliminated via glomerular filtration. Capecitabine or the active compound, 5-fluorouracil, are unlikely to interfere with this elimination pathway. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). 5-fluorouracil exposure may increase after coadministration with metronidazole due to decreased clearance of 5-fluorouracil. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for 5-fluorouracil toxicity and, if available, 5-fluorouracil plasma concentrations.",(See Summary)
+242,Capecitabine,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Capecitabine does not inhibit or induce CYP2D6 or CYP1A2.,(See Summary)
+243,Capecitabine,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolised by CYPs 2D6 and 1A2, and to a lesser extent by CYP3A4. Capecitabine does not inhibit or induce CYPs 2D6, 1A2 or 3A4.",(See Summary)
+244,Capecitabine,Miconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Miconazole is extensively metabolised by the liver, potentially CYP-mediated. Miconazole is also an inhibitor of CYP2C9 and CYP3A4. Capecitabine does not interact with this pathway.",(See Summary)
+245,Capecitabine,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+246,Capecitabine,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+247,Capecitabine,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Capecitabine is unlikely to interfere with this pathway.",(See Summary)
+248,Capecitabine,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Capecitabine does not inhibit or induce CYPs 2D6, 1A2 or 3A4.",(See Summary)
+249,Capecitabine,Mometasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4. Note: A clinically relevant interaction with the topical use of mometasone is unlikely.,(See Summary)
+250,Capecitabine,Montelukast,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of montelukast. However, since CYP2C9 is a minor pathway, a clinically relevant interaction is unlikely. No a priori dose adjustment is needed.",(See Summary)
+251,Capecitabine,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Capecitabine does not inhibit or induce UGTs or P-gp.",(See Summary)
+252,Capecitabine,Moxifloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Capecitabine does not inhibit or induce UGTs.,(See Summary)
+253,Capecitabine,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Mycophenolate is mainly glucuronidated by UGT1A9 and UGT2B7. Capecitabine does not inhibit or induce UGTs. Additionally, inhibition of OAT1/OAT3 renal transporters by mycophenolic acid (active metabolite) is unlikely to interfere with capecitabine elimination. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. Furthermore, mycophenolate can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should also be monitored if coadministered.",(See Summary)
+254,Capecitabine,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Capecitabine does not interact with this elimination pathway.,(See Summary)
+255,Capecitabine,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolised in the liver by alpha-reductase. Capecitabine does not interact with this metabolic pathway.,(See Summary)
+256,Capecitabine,Naproxen,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of naproxen. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for naproxen toxicity may be required.",(See Summary)
+257,Capecitabine,Nateglinide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent by CYP3A4 (30%). Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of nateglinide. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for nateglinide toxicity may be required.",(See Summary)
+258,Capecitabine,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+259,Capecitabine,Nefazodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nefazodone is metabolised mainly by CYP3A4 and is also a strong inhibitor of CYP3A4. Capecitabine does not interact with this pathway. ,(See Summary)
+260,Capecitabine,Nicardipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. Nicardipine is also a weak inhibitor of CYP3A4. Capecitabine does not interact with this pathway.,(See Summary)
+261,Capecitabine,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolised by xanthine oxidase and aldehyde oxidase. Capecitabine does not interact with this metabolic pathway. ,(See Summary)
+262,Capecitabine,Nifedipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+263,Capecitabine,Nimesulide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Nimesulide is extensively metabolised in the liver following multiple pathways including CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of nimesulide. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for nimesulide toxicity may be required.",(See Summary)
+264,Capecitabine,Nisoldipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+265,Capecitabine,Nitrendipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+266,Capecitabine,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolised in the liver via glucuronidation and N-acetylation, and partly eliminated in the urine as unchanged drug (30-40%). Capecitabine does not interact with this metabolic or elimination pathway. ",(See Summary)
+267,Capecitabine,Norelgestromin,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+268,Capecitabine,Norethisterone (Norethindrone),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Capecitabine does not interact with this metabolic pathway.",(See Summary)
+269,Capecitabine,Norgestimate,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. Capecitabine is unlikely to interact with this metabolic pathway.,(See Summary)
+270,Capecitabine,Norgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Capecitabine does not inhibit or induce CYP3A4 or UGTs.,(See Summary)
+271,Capecitabine,Nortriptyline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nortriptyline is metabolised mainly by CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+272,Capecitabine,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant, therefore no drug interactions are expected.",(See Summary)
+273,Capecitabine,Ofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ofloxacin is eliminated unchanged renally by glomerular filtration and active tubular secretion via both cationic and anionic transport systems. Capecitabine is unlikely to interfere with this elimination pathway. ,(See Summary)
+274,Capecitabine,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolised mainly by CYP1A2 (major) and CYP2D6, but also by glucuronidation (UGT1A4). Capecitabine does not inhibit or induce CYP1A2, CYP2D6 or UGTs.",(See Summary)
+275,Capecitabine,Olmesartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. Capecitabine is unlikely to interfere with this pathway. However, olmesartan can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+276,Capecitabine,Omeprazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Omeprazole is also an inducer of CYP1A2 and an inhibitor of CYP2C19. Capecitabine does not interact with this pathway. However, omeprazole may possibly decrease the efficacy of capecitabine. In patients with metastatic gastroesophageal cancer (n=545), coadministration of capecitabine and proton pump inhibitors negatively affected capecitabine efficacy. This was possibly due to raising gastric pH levels, leading to altered dissolution and absorption. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, monitoring for capecitabine efficacy is recommended.",(See Summary)
+277,Capecitabine,Ondansetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ondansetron is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2D6. Ondansetron is also a substrate of P-gp. Capecitabine does not inhibit or induce these CYPs or P-gp.",(See Summary)
+278,Capecitabine,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Capecitabine does not inhibit or induce UGTs.,(See Summary)
+279,Capecitabine,Oxcarbazepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxcarbazepine is extensively metabolised to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5 and are inhibitors of CYP2C19. Capecitabine does not interact with this pathway.,(See Summary)
+280,Capecitabine,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolised via glucuronidation. Capecitabine does not inhibit or induce UGTs.,(See Summary)
+281,Capecitabine,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Capecitabine does not inhibit or induce CYP3A or CYP2D6.,(See Summary)
+282,Capecitabine,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily eliminated renally (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. Capecitabine does not interact with this elimination pathway. ,(See Summary)
+283,Capecitabine,Palonosetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Palonosetron is also a substrate of P-gp. Capecitabine does not inhibit or induce these CYPs or P-gp.,(See Summary)
+284,Capecitabine,Pamidronic acid,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Pamidronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Capecitabine does not interact with this pathway. However, pamidronic acid can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+285,Capecitabine,Pantoprazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Pantoprazole is mainly metabolised by CYP2C19 to a lesser extent by CYPs 3A4, 2D6 and 2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of pantoprazole. However, since CYP2C9 mediated metabolism is a minor pathway and pantoprazole has a broad therapeutic index, a clinically relevant interaction is unlikely. Furthermore, pantoprazole may decrease the efficacy of capecitabine. In patients with metastatic gastroesophageal cancer (n=545), coadministration of capecitabine and proton pump inhibitors negatively affected capecitabine efficacy. This was possibly due to raising gastric pH levels, leading to altered dissolution and absorption. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, monitoring for capecitabine efficacy is recommended.",(See Summary)
+286,Capecitabine,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Capecitabine does not interact with this elimination pathway. ,(See Summary)
+287,Capecitabine,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs (major), 1A6, 1A1 and 2B15), sulfation, and to a lesser extent, by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). Capecitabine does not interact with this metabolic pathway.",(See Summary)
+288,Capecitabine,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolised by CYP2D6 and CYP3A4. Capecitabine does not inhibit or induce CYP2D6 or CYP3A4.,(See Summary)
+289,Capecitabine,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+290,Capecitabine,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Capecitabine does not interfere with the elimination of penicillins.,(See Summary)
+291,Capecitabine,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is metabolised mainly by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of perazine. However, since CYP2C9-mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+292,Capecitabine,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+293,Capecitabine,Perindopril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolised to other inactive metabolites. Elimination occurs predominantly via the urine. Capecitabine does not interact with this elimination pathway. However, perindopril can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+294,Capecitabine,Perphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perphenazine is metabolised by CYP2D6. Capecitabine does not inhibit or induce CYP2D6. ,(See Summary)
+295,Capecitabine,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. Capecitabine does not inhibit or induce CYP2B6 or CYP3A4.,(See Summary)
+296,Capecitabine,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolised by oxidation via monoamine oxidase and to a lesser extent by acetylation. Capecitabine does not interact with this metabolic pathway.,(See Summary)
+297,Capecitabine,Phenobarbital (Phenobarbitone),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Phenobarbital is metabolised by CYP2C19 and CYP2C9 (major), and to a lesser extent by CYP2E1. Phenobarbital is also a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of phenobarbital. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for phenobarbital toxicity may be required.",(See Summary)
+298,Capecitabine,Phenprocoumon,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Phenprocoumon is metabolised by CYP2C9 and CYP3A4. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of phenprocoumon. It is recommended to closely monitor patients for anticoagulant response (INR or prothrombin time) and bleeding, and adjust dose of phenprocoumon accordingly.",(See Summary)
+299,Capecitabine,Phenytoin,"
+Potential Interaction
+","
+Low
+","Coadministration should be approached with caution. Phenytoin is primarily metabolised by CYP2C9 and to a lesser extent by CYP2C19. Phenytoin is also a strong inducer of CYP3A4, UGTs and P-gp. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of phenytoin. In five case reports, coadministration of capecitabine and phenytoin resulted in increased serum levels of phenytoin in addition to light-headedness, limb ataxia, dysarthria and severe gait ataxia, amongst other presentations. Coadministration should be approached with caution. It is recommended to closely monitor patients for phenytoin toxicity. Close monitoring of phenytoin plasma concentrations before and after chemotherapy with capecitabine should be considered, if available. The dose of phenytoin should be adjusted accordingly.",(See Summary)
+300,Capecitabine,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Capecitabine does not inhibit or induce CYP4F2. ,(See Summary)
+301,Capecitabine,Pimozide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pimozide is mainly metabolised by CYP3A4 and CYP2D6 and to a lesser extent by CYP1A2. Capecitabine does not inhibit or induce these CYPs.,(See Summary)
+302,Capecitabine,Pindolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolised to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine. Capecitabine is not expected to interfere with the elimination of pindolol.,(See Summary)
+303,Capecitabine,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of pioglitazone. However, since CYP2C9-mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+304,Capecitabine,Pipotiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+305,Capecitabine,Piroxicam,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Piroxicam is primarily metabolised by CYP2C9. Capectabine is an inhibitor of CYP2C9 and may increase concentrations of piroxicam. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for piroxicam toxicity may be required.",(See Summary)
+306,Capecitabine,Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolised by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Furthermore, pitavastatin is a substrate of OATP1B1. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of pitavastatin. However, since CYP2C9 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely. ",(See Summary)
+307,Capecitabine,Posaconazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Posaconazole is primarily metabolised by UGTs and is a substrate of P-gp. Posaconazole is also a strong inhibitor of CYP3A4. Capecitabine does not interact with this pathway.,(See Summary)
+308,Capecitabine,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is renally eliminated. Capecitabine does not interfere with this elimination pathway.,(See Summary)
+309,Capecitabine,Prasugrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6, and to a lesser extent by CYP2C9 and CYP2C19. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of prasugrel. However, since CYP2C9-mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+310,Capecitabine,Pravastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYPs and is a substrate of OATP1B1. Capecitabine does not inhibit or induce CYP3A4 or OATP1B1. ,(See Summary)
+311,Capecitabine,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolised, primarily by demethylation and conjugation. Capecitabine is unlikely to interfere with this metabolic pathway. ",(See Summary)
+312,Capecitabine,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+313,Capecitabine,Prednisone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. Capecitabine does not interfere with this metabolic pathway.,(See Summary)
+314,Capecitabine,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration. Capecitabine does not interfere with this elimination pathway.,(See Summary)
+315,Capecitabine,Prochlorperazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Capecitabine does not inhibit or induce CYP2D6 or CYP2C19. ,(See Summary)
+316,Capecitabine,Promethazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Promethazine is metabolised by CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+317,Capecitabine,Propafenone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. Capecitabine does not inhibit or induce CYPs 2D6, 1A2 or 3A4.",(See Summary)
+318,Capecitabine,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolised by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Capecitabine does not inhibit or induce these CYPs or UGTs.",(See Summary)
+319,Capecitabine,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly renally eliminated, partly by active secretion by renal transporters. Prucalopride is also a substrate of P-gp. Capecitabine does not interact with this metabolic pathway.",(See Summary)
+320,Capecitabine,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolised by xanthine oxidase. Capecitabine does not interact with this metabolic pathway. ,(See Summary)
+321,Capecitabine,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+322,Capecitabine,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+323,Capecitabine,Quinapril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Capecitabine does not interfere with this elimination pathway. However, quinapril can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+324,Capecitabine,Quinidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is also a substrate of P-gp. Furthermore, quinidine is an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate). Capecitabine does not interact with this pathway.",(See Summary)
+325,Capecitabine,Rabeprazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has been studied but should be approached with caution. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. Capecitabine does not inhibit or induce CYP2C19 or CYP3A4. However, rabeprazole may decrease the efficacy of capecitabine. In patients with metastatic gastroesophageal cancer (n=545), coadministration of capecitabine and proton pump inhibitors negatively affected capecitabine efficacy. This was possibly due to raising gastric pH levels, leading to altered dissolution and absorption. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, monitoring for capecitabine efficacy is recommended.",(See Summary)
+326,Capecitabine,Ramipril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolised to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Capecitabine is not expected to interfere with these metabolic pathways. However, ramipril can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+327,Capecitabine,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranitidine is excreted via OAT1/OAT3. Capecitabine does not inhibit or induce OATs.,(See Summary)
+328,Capecitabine,Ranolazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranolazine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Furthermore, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Capecitabine does not interact with this pathway.",(See Summary)
+329,Capecitabine,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. Capecitabine does not interact with this metabolic pathway. ,(See Summary)
+330,Capecitabine,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolised by CYP2C8 and CYP3A4 with clinical data indicating it is a substrate of OATP1B1. Capecitabine does not inhibit or induce CYP2C8, CYP3A4 or OATP1B1. ",(See Summary)
+331,Capecitabine,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver but retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Capecitabine does not interact with this metabolic pathway. ",(See Summary)
+332,Capecitabine,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+333,Capecitabine,Rifabutin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifabutin is metabolised by CYP3A and via deacetylation. Rifabutin is also a strong CYP3A4 and P-gp inducer. Capecitabine does not interact with this pathway. ,(See Summary)
+334,Capecitabine,Rifampicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifampicin is metabolised via deacetylation and is also a strong CYP3A4 and P-gp inducer. Capecitabine does not interact with this pathway. ,(See Summary)
+335,Capecitabine,Rifapentine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifapentine is metabolised via deacetylation and is also a strong CYP3A4, CYP2C8 and P-gp inducer. Capecitabine does not interact with this pathway. ",(See Summary)
+336,Capecitabine,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Capecitabine does not interact with this metabolic pathway. ",(See Summary)
+337,Capecitabine,Risperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Capecitabine does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+338,Capecitabine,Rivaroxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine (by P-gp and BCRP). Capecitabine does not interact with this metabolic or elimination pathway. ",(See Summary)
+339,Capecitabine,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of rosiglitazone. However, since CYP2C9-mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+340,Capecitabine,Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosuvastatin is largely excreted unchanged via the faeces via OATP1B1. Rosuvastatin is also a substrate of BCRP. Capecitabine does not inhibit or induce OATP1B1 or BCRP.,(See Summary)
+341,Capecitabine,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolised to the inactive salbutamol-4’-O-sulphate. Capecitabine is unlikely to interfere with this metabolic pathway.,(See Summary)
+342,Capecitabine,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+343,Capecitabine,Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. Capecitabine does not inhibit or induce CYP3A4 or P-gp. ,(See Summary)
+344,Capecitabine,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces but also in other secretions. Capecitabine is unlikely to interfere with this pathway.,(See Summary)
+345,Capecitabine,Sertindole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertindole is metabolised by CYP2D6 and CYP3A4. Capecitabine does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+346,Capecitabine,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of sertraline. However, since CYP2C9-mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+347,Capecitabine,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of sildenafil. However, since CYP2C9 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely. No a priori dose adjustment is needed. ",(See Summary)
+348,Capecitabine,Simvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolised by CYP3A4 to its active metabolite. Simvastatin is also a substrate of BCRP and the active metabolite is a substrate of OATP1B1. Capecitabine does not inhibit or induce CYP3A4, BCRP or OATP1B1. ",(See Summary)
+349,Capecitabine,Sirolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sirolimus is metabolised by CYP3A4 and is a substrate of P-gp. Capecitabine does not inhibit or induce CYP3A4 or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+350,Capecitabine,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1 and P-gp) and metabolism by CYP3A4 represents a minor metabolic pathway. Capecitabine does not interact with this metabolic or elimination pathway. ",(See Summary)
+351,Capecitabine,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. Capecitabine does not interact with this pathway.",(See Summary)
+352,Capecitabine,Sotalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sotalol is excreted unchanged via renal elimination. Capecitabine does not interact with this elimination pathway.,(See Summary)
+353,Capecitabine,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Capecitabine does not interact with this elimination pathway.,(See Summary)
+354,Capecitabine,Spironolactone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Spironolactone is partly metabolised by the flavin containing monooxygenases. Capecitabine does not interfere with this metabolic pathway. However, spironolactone can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+355,Capecitabine,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Capecitabine does not interact with this metabolic pathway.,(See Summary)
+356,Capecitabine,St John's Wort,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. St John’s wort is a P-gp and CYP3A4 inducer. Capecitabine does not interact with this pathway.,(See Summary)
+357,Capecitabine,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Capecitabine is unlikely to interfere with this pathway.",(See Summary)
+358,Capecitabine,Streptomycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Streptomycin is eliminated by glomerular filtration. Capecitabine does not interfere with this elimination pathway. However, streptomycin can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+359,Capecitabine,Sulfadiazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of sulfadiazine. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for sulfadiazine toxicity may be required.",(See Summary)
+360,Capecitabine,Sulpiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. Capecitabine is unlikely to significantly impair the elimination of sulpiride.,(See Summary)
+361,Capecitabine,Tacrolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Tacrolimus is metabolised mainly by CYP3A4. Tacrolimus inhibits CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Capecitabine does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. Furthermore, tacrolimus can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should also be monitored if coadministered.",(See Summary)
+362,Capecitabine,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+363,Capecitabine,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Capecitabine does not inhibit or induce CYP3A4 or CYP2D6. ,(See Summary)
+364,Capecitabine,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Capecitabine does not interact with this elimination pathway.,(See Summary)
+365,Capecitabine,Telithromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. Telithromycin is also a strong inhibitor of CYP3A4. Capecitabine does not interact with this pathway. ,(See Summary)
+366,Capecitabine,Telmisartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Telmisartan is mainly glucuronidated by UGT1A3. Capecitabine does not inhibit or induce UGTs. However, telmisartan can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+367,Capecitabine,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Capecitabine does not inhibit or induce UGTs.,(See Summary)
+368,Capecitabine,Terbinafine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYP2C8 and CYP2C19. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of terbinafine. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for terbinafine toxicity may be required.",(See Summary)
+369,Capecitabine,Testosterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+370,Capecitabine,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Capecitabine does not interact with this elimination pathway.,(See Summary)
+371,Capecitabine,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolised by CYP1A2. Capecitabine does not inhibit or induce CYP1A2.,(See Summary)
+372,Capecitabine,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+373,Capecitabine,Thioridazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Capecitabine does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+374,Capecitabine,Tiapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tiapride is excreted largely unchanged in urine. Capecitabine is unlikely to significantly impair the elimination of tiapride.,(See Summary)
+375,Capecitabine,Ticagrelor,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ticagrelor undergoes extensive CYP3A4 metabolism and is a weak inhibitor of CYP3A4. Additionally, ticagrelor is a substrate of P-gp. Capecitabine does not interact with this pathway. ",(See Summary)
+376,Capecitabine,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is metabolised by CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+377,Capecitabine,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Capecitabine does not interact with this elimination pathway.,(See Summary)
+378,Capecitabine,Tolbutamide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Tolbutamide is mainly metabolised by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of tolbutamide. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for tolbutamide toxicity may be required.",(See Summary)
+379,Capecitabine,Tolterodine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 and CYP3A4. Capecitabine does not inhibit or induce CYP2D6 or CYP3A4. ,(See Summary)
+380,Capecitabine,Torasemide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Torasemide is metabolised mainly by CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of torasemide. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for torasemide toxicity may be required.",(See Summary)
+381,Capecitabine,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. Capecitabine does not inhibit or induce CYPs 3A4, 2B6 or 2D6.",(See Summary)
+382,Capecitabine,Trandolapril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Trandolapril is hydrolysed to trandolaprilat. Capecitabine does not interact with this metabolic pathway. However, trandolapril can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+383,Capecitabine,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranexamic acid is mainly cleared by glomerular filtration. Capecitabine does not interfere with this elimination pathway.,(See Summary)
+384,Capecitabine,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Capecitabine does not interact with this metabolic pathway. ,(See Summary)
+385,Capecitabine,Trazodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4. ,(See Summary)
+386,Capecitabine,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+387,Capecitabine,Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. Capecitabine does not inhibit or induce CYP3A4.,(See Summary)
+388,Capecitabine,Trimethoprim/Sulfamethoxazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. To a lesser extent (approximately 30%) trimethoprim is metabolised by CYP-enzymes (in vitro data suggest CYPs 3A4, 1A2 and 2C9). Trimethoprim is also a weak CYP2C8 inhibitor and in vitro data also suggest that trimethoprim is an inhibitor of OCT2 and MATE1. Sulfamethoxazole is metabolised via and is a weak inhibitor of CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of sulfamethoxazole. However, no formal interaction studies have been conducted. Therefore, the clinical relevance of this interaction is unknown. No a priori dose adjustment is needed, but monitoring for sulfamethoxazole toxicity may be required.",(See Summary)
+389,Capecitabine,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolised mainly by CYP2D6. Capecitabine does not inhibit or induce CYP2D6.,(See Summary)
+390,Capecitabine,Tropisetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tropisetron is metabolised mainly by CYP2D6 and is a substrate of P-gp. Capecitabine does not inhibit or induce CYP2D6 or P-gp.,(See Summary)
+391,Capecitabine,Ulipristal,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if capecitabine is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Capecitabine does not inhibit or induce CYPs 3A4, 1A2 or 2D6.",(See Summary)
+392,Capecitabine,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolised by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolised by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of valproic acid. However, since CYP2C9 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+393,Capecitabine,Valsartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Valsartan is eliminated unchanged mostly through biliary excretion. Capecitabine does not interact with this elimination pathway. However, valsartan can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+394,Capecitabine,Vancomycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Vancomycin is excreted unchanged via glomerular filtration. Capecitabine does not interfere with this elimination pathway. However, vancomycin can cause renal toxicity and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+395,Capecitabine,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of venlafaxine. However, since CYP2C9-mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+396,Capecitabine,Verapamil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Verapamil is also a moderate inhibitor of CYP3A4. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of verapamil. However, since CYP2C9 is a minor pathway, a clinically relevant interaction is unlikely. No a priori dose adjustment is necessary.",(See Summary)
+397,Capecitabine,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate of P-gp. Capecitabine does not interact with this metabolic pathway. ,(See Summary)
+398,Capecitabine,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+399,Capecitabine,Voriconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Voriconazole is metabolised by CYP2C19 (major pathway) and to a lesser extent by CYP2C9 and CYP3A4. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of voriconazole. However, since CYP2C9 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely. Voriconazole is also an inhibitor of CYPs 3A4 (strong), 2C9 and 2C19. Capecitabine does not interact with this pathway.",(See Summary)
+400,Capecitabine,Warfarin,"
+Potential Interaction
+","
+Low
+","Coadministration should be approached with caution. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and CYP3A4. S-warfarin (more potent) is metabolised by CYP2C9. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of warfarin and, thereby, cause an enhanced anticoagulant activity. In patients with advanced/metastatic breast or colorectal cancer (n=4), coadministration of capecitabine (1250 mg/m2 orally twice daily for 14 days) and warfarin (20 mg single dose) increased S-warfarin AUC by 57%. Cmax of S-warfarin was unaffected. Only minor differences were observed in the PK parameters of R-warfarin. In three individual case reports, coadministration of capecitabine and warfarin resulted in increased INR (>8-10) in addition to rectal bleeding, haemorrhagic blisters, and subconjunctival bleeding amongst other presentations. It is recommended to closely monitor patients for anticoagulant response (INR or prothrombin time) and signs of bleeding, and adjust dose of warfarin accordingly.",(See Summary)
+401,Capecitabine,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). Capecitabine does not interfere with this elimination pathway.",(See Summary)
+402,Capecitabine,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent by CYP3A4. Capecitabine does not interact with this metabolic pathway.,(See Summary)
+403,Capecitabine,Ziprasidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). Capecitabine does not interact with this metabolic pathway.",(See Summary)
+404,Capecitabine,Zoledronic acid,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Zoledronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Capecitabine does not interact with this elimination pathway. However, zoledronic acid can cause renal insufficiency and may impair capecitabine elimination. Due to the risk of capecitabine toxicity, renal function should be monitored if coadministered.",(See Summary)
+405,Capecitabine,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. Capecitabine is an inhibitor of CYP2C9 and may increase concentrations of zolpidem. However, since CYP2C9-mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+406,Capecitabine,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. Capecitabine does not inhibit or induce CYP3A4 or CYP2C8.,(See Summary)
+407,Capecitabine,Zotepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Capecitabine does not inhibit or induce CYPs 3A4, 1A2 or 2D6.",(See Summary)
+408,Capecitabine,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Capecitabine does not interact with this metabolic pathway. ",(See Summary)

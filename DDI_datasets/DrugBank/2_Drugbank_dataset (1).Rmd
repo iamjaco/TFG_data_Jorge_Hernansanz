@@ -1,0 +1,195 @@
+---
+title: "Description of Drugbank"
+author: "Jorge H."
+date: "10/2/2020"
+output: html_document
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, '2_Drugbank_dataset (1).html')) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+```{r}
+#Libraries used
+library(ggplot2)
+library(dplyr)
+library(readr)
+library(dbparser)
+```
+
+Drugbank database covers lots of information that has been separated into diverse datasets. The aim of this document is to give a general but deep idea of the information we can extract from DrugBank.
+
+The main dataset **drugs_DB** contains general information for each drug that is stored in the database. From here, we can obtain the type (*Pharma molecule*; small molecule, or *Biotech molecule*;biotech) and the total number of interactions each drug has with the rest of drugs. Adittinal, we can know the physical state (Gas, solid, liquid) of the drug.
+
+For it, we just plot a simple barplot to check how many are from each kind, and we will plot a histogram to show the frequencies of interactions.
+
+```{r}
+Drugs_DB <- read_csv("Data/Drugs_DB.csv")
+Drug_ATC_codes_DB <- read_csv("Identifiers/Drug_ATC_codes_DB.csv")
+```
+
+
+```{r, Drug_drugbank_table}
+type_of_drug <- ggplot(Drugs_DB, aes(type)) +
+  geom_bar() +
+  geom_text(aes(label = ..count..),
+            stat = "count",
+            nudge_y = 1.3)
+
+type_of_drug
+
+
+Drugs_with_ATC <- Drugs_DB[Drugs_DB$primary_key 
+                           %in% 
+                             Drug_ATC_codes_DB$parent_key,]
+
+
+interaction_count_barplot <- ggplot(Drugs_with_ATC, aes(drug_interactions_count)) +
+  geom_histogram(binwidth = 10)
+
+interaction_count_barplot
+
+#Looking at a small subset
+Interaction_subset <- ggplot(Drugs_with_ATC[Drugs_with_ATC$drug_interactions_count > 1800,], 
+                             data = aes(drug_interactions_count)) +
+  geom_histogram(binwidth = 10)
+
+Interaction_subset
+```
+
+Then, we have another dataset **Drug_group_drugbank_table** that provides another type of distinction depending its phase. In this case, we have perform a barplot to check quantities
+
+```{r}
+Drug_group <- read_csv("Data/Drug_group.csv")
+Drug_interactions_DB <- read_csv("Data/Drug_interactions_DB.zip")
+```
+
+DDIs with ATC codes
+```{r}
+DDI <- Drug_interactions_DB[Drug_interactions_DB$parent_key 
+                            %in% 
+                              Drug_ATC_codes_DB$parent_key,]
+```
+
+
+```{r}
+# For the drugs that have ATC code, check the group they belong to.
+group_type <- Drugs_with_ATC %>%
+  inner_join(Drug_group, by = c("primary_key" = "drugbank_id"))
+
+
+# Plot to differentiate them by group.
+ggplot(group_type, aes(group, fill = type)) +
+  geom_bar(position = "stack") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1.1, vjust = 1.0))
+
+
+# For the table Drug_group, make a simple table with the frequencies.
+Drug_group <- Drug_group_DB[Drug_group_DB$drugbank_id 
+                            %in% 
+                              Drug_ATC_codes_DB$parent_key,]
+
+table(Drug_group$group)
+```
+
+
+Next, we have the **drug_pathway_drugbank_database** which states the pathways in which a drug is involved. To give a representation, we sort the different actions the drug may perform in third pathway, according to the grop the drug belongs to.
+We can also obtain the 10 most cited pathways, as a text visualization of where drugs are more commonly to act.
+
+```{r}
+Drug_pathways_DB <- read_csv("Data/Drug_pathways_DB.csv")
+```
+
+
+```{r}
+#Checking drugs that have ATC codes
+pathways <- Drug_pathways_DB[Drug_pathways_DB$parent_key 
+                             %in% 
+                               Drug_ATC_codes_DB$parent_key,]
+
+pathway_type <- pathways %>%
+  inner_join(Drug_group_DB, by = c("parent_key" = "drugbank_id"))
+
+
+#Numer of drugs per category of pathway
+ggplot(pathway_type, aes(category, fill = group))+
+  facet_wrap(category~., scales = "free") +
+  geom_bar(position = "dodge") +
+  theme(axis.text.x = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank()) + 
+  labs(title = "Number of drugs per category of pathway")
+
+
+#Check top ten pathways drugs are involved.
+sort(table(Drug_pathways_DB$name),decreasing = TRUE)[1:10]
+```
+
+
+We also have the **drug_target_drugbank_table** where we obtain the different mechanism of action indicating how the drug works or what it binds at molecular level. Aditionally, we have information of the pharmakological action that this target performs (Binder, antagonist, agonist..) thanks to another secondary dataset called **drug_target_action_drugbank_table** that enumerates the different actions a protein/enzyme may perform. With this, we can make a plot showing the frequencies of the different actions the drugs perform on targets.
+We have als other mechanism of action such as carriers (*Drug_carriers_DB* and *Drug_carrier_actions_DB*) and transporters (*Drug_transporters_DB* and *Drug_transporters_actions_DB*) that can apport more information relating the environments the drug is involved in.
+
+```{r}
+Drug_targets_DB <- read_csv("Data/Mechanism_of_action/Drug_targets_DB.csv")
+Drug_targets_actions_DB <- read_csv("Data/Mechanism_of_action/Drug_targets_actions_DB.csv")
+
+Drug_carriers_DB <- read_csv("Data/Mechanism_of_action/Drug_carriers_DB.csv")
+Drug_carriers_actions_DB <- read_csv("Data/Mechanism_of_action/Drug_carriers_actions_DB.csv")
+
+Drug_transporters_DB <- read_csv("Data/Mechanism_of_action/Drug_transporters_DB.csv")
+Drug_transporters_actions_DB <- read_csv("Data/Mechanism_of_action/Drug_transporters_actions_DB.csv")
+```
+
+
+
+We will merge the three types of mechanism of actions.
+```{r}
+#Here we prepare data to be binded
+Drug_carriers_DB$type <- "Carrier"
+Drug_carriers_actions_DB$Type_mechanism <- "Carrier"
+
+names(Drug_carriers_actions_DB)[names(Drug_carriers_actions_DB) == 'carrier_id'] <- 'M.A_id'
+
+
+Drug_transporters_DB$type <- "Transporter"
+Drug_transporters_actions_DB$Type_mechanism <- "Transporter"
+
+names(Drug_transporters_actions_DB)[names(Drug_transporters_actions_DB) == 'transporter_id'] <- 'M.A_id'
+
+
+Drug_targets_DB$type <- "Target"
+Drug_targets_actions$Type_mechanism <- "Target"
+
+names(Drug_targets_actions)[names(Drug_targets_actions) == 'target_id'] <- 'M.A_id'
+
+
+
+#Now we merge them
+M.A_DB <- rbind(Drug_targets_DB, Drug_carriers_DB, Drug_transporters_DB)
+
+M.A_actions_DB <- rbind(Drug_targets_actions, Drug_carriers_actions_DB, Drug_transporters_actions_DB)
+```
+
+
+#Mapping Drugbank identifiers to ATC codes
+```{r}
+colnames(Drug_interactions_DB)[1] <- "Drugbank_id"
+DDI_mapped <- merge(Drug_interactions_DB,Drug_ATC_codes_DB,by.x="Drugbank_id",by.y = "parent_key")
+
+DDI_mapped <- merge(DDI_mapped,Drug_ATC_codes_DB, by = "parent_key")
+```
+
+```{r}
+DDI_mapped <- DDI_mapped[,c("parent_key","Drugbank_id","atc_code.x","atc_code.y")]
+DDI_mapped <- DDI_mapped[,c(3,4)]
+write.table(DDI_mapped,"C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Filtered_datasets/Drugbank_to_ATC_codes.txt",sep = "\t",row.names = FALSE, col.names = FALSE)
+```
+
+

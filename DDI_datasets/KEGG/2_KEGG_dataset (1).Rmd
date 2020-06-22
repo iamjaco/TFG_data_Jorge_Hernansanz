@@ -1,0 +1,197 @@
+---
+title: "Exploring_KEGG_dataset"
+author: "Jorge H."
+date: "17/2/2020"
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, '2_KEGG_dataset (1).html')) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+```{r}
+library(readr)
+```
+
+```{r}
+KEEG_DDI <- read_csv("DDIs/KEEG_DDI.txt")
+```
+
+If using this document before running *Code_to_obtain_DDIs.R*, just run the part of ATC. The two following chuncks of code are designed to add a fifth column when downloading the raw data. 
+
+The file *KEGG_DDI* is already processed and only needs mapping with ATCs. In future updates this files will be separated.
+
+
+
+#Proceed to diferentiation of the mechanism of action
+```{r}
+#Used to pick the different targets (and plot number, plot to be inserted. It is the one of the first power point)
+KEEG_DDI_target <- KEEG_DDI[grep("Target", KEEG_DDI$V4),]
+KEEG_DDI_enzymes <- KEEG_DDI[grep("Enzyme", KEEG_DDI$V4),]
+KEEG_DDI_CYP_inhibition <- KEEG_DDI[grep("CYP inhibition", KEEG_DDI$V4),]
+KEEG_DDI_CYP_induction <- KEEG_DDI[grep("CYP induction", KEEG_DDI$V4),]
+KEEG_DDI_transporter_inhibition <- KEEG_DDI[grep("Transporter inhibition", KEEG_DDI$V4),]
+KEEG_DDI_transporter_induction <- KEEG_DDI[grep("Transporter induction", KEEG_DDI$V4),]
+KEEG_DDI_same_components <- KEEG_DDI[grep("same components", KEEG_DDI$V4),]
+KEEG_DDI_enzyme_target <- KEEG_DDI[grep("Enzyme-Target", KEEG_DDI$V4),]
+```
+
+
+#Creating new column for mechanism of action
+```{r}
+#Extra column to give a better characterization of the different targets each DDIs is involved in.
+vector_number_of_targets <-c()
+KEEG_DDI$V5 <- ""
+j <- 1
+for (i in KEEG_DDI[,4]){
+  
+  if (grepl("same components",i)){
+    KEEG_DDI[j,5] <- sapply(KEEG_DDI[j,5],function(x) paste("Same components",x))
+  }
+  
+  if (grepl("(^|[^-])Target",i, perl = TRUE)){
+    KEEG_DDI[j,5] <- sapply(KEEG_DDI[j,5],function(x) paste("Target(Gene)",x))
+  }
+  
+  if (grepl("Enzyme:",i)){
+    KEEG_DDI[j,5] <- sapply(KEEG_DDI[j,5],function(x) paste("Enzyme",x))
+  }
+  
+  if (grepl("CYP inhibition",i)){
+    KEEG_DDI[j,5] <- sapply(KEEG_DDI[j,5],function(x) paste("CYP_inhibition",x))
+  }
+  
+  if (grepl("CYP induction",i)){
+    KEEG_DDI[j,5] <- sapply(KEEG_DDI[j,5],function(x) paste("CYP_induction",x))
+  }
+  
+  if (grepl("Transporter inhibition",i,fixed = TRUE)){
+    KEEG_DDI[j,5] <- sapply(KEEG_DDI[j,5],function(x) paste("Transporter_inhibition",x))
+  }
+  
+  if (grepl("Transporter induction",i)){
+    KEEG_DDI[j,5] <- sapply(KEEG_DDI[j,5],function(x) paste("Transporter_induction",x))
+  }
+  
+  if (grepl("Enzyme-Target",i)){
+    KEEG_DDI[j,5] <- sapply(KEEG_DDI[j,5],function(x) paste("Target(Enzyme)",x))
+  }
+  
+  j <- j + 1
+  #print(j)
+} 
+KEEG_DDI$V5 <- sub("^$", "Unknown",KEEG_DDI$V5) #The ones that do not match any targets.
+```
+
+# Selecting the elements of management options ("CI","P","CI,P")
+```{r}
+KEEG_DDI <- KEEG_DDI[KEEG_DDI$V3 == "CI" | KEEG_DDI$V3 == "P" | KEEG_DDI$V3 == "CI,P",]
+```
+
+Wrtting file
+```{r}
+write_csv(KEEG_DDI, "DDIs/KEEG_DDI.txt")
+```
+
+
+Importing the clinical data
+```{r}
+clinicaldrugpairs_counts <-
+  read_delim("Dataset_folder/clinicaldrugpairs_counts.tsv", 
+  "\t", 
+  escape_double = FALSE, 
+  trim_ws = TRUE)
+```
+
+ATC
+```{r}
+KEEG_DDI <- read_csv("DDIs/KEEG_DDI")
+
+kegg_to_atc <- read_table2("Mappings/kegg_to_atc.txt", 
+    col_names = FALSE)
+
+colnames(kegg_to_atc) <- c('kegg_identifier','atc_identifier')
+kegg_to_atc$atc_identifier <- gsub('atc:','',kegg_to_atc$atc_identifier)
+
+
+DDI_mapped <- merge(KEEG_DDI,kegg_to_atc,by.x = 'V1', by.y = 'kegg_identifier')
+DDI_mapped <- merge(DDI_mapped,kegg_to_atc, by.x='V2',by.y = 'kegg_identifier')
+DDI_mapped <- unique(DDI_mapped)
+
+
+# Doing ATC duplicates
+
+Table1 <- DDI_mapped[,c(7,6,2,1,3,4,5)]
+Table2 <- DDI_mapped[,c(6,7,2,1,3,4,5)]
+colnames(Table1) <- c("drug", "codrug", "drug1", "drug2", "Management", "M.A", "M.A (factorized)")
+colnames(Table2) <- c("drug", "codrug", "drug1", "drug2", "Management", "M.A", "M.A (factorized)")
+
+DDI_mapped <- rbind(Table1,Table2)
+
+# Adding level 1 ATC
+DDI_mapped$level_1_atc_drug <- substr(DDI_mapped$drug,1,1)
+DDI_mapped$level_1_atc_codrug <- substr(DDI_mapped$codrug,1,1)
+
+# Adding the pair of ATC joined
+DDI_mapped$ATC_vector <-paste(
+  DDI_mapped$drug,
+  DDI_mapped$codrug, 
+  sep = "_")
+
+# Filtering to clinical data
+DDI_mapped <- merge(
+  DDI_mapped,
+  clinicaldrugpairs_counts[,1:2],
+  by = c("drug", "codrug")
+  )
+DDI_mapped <- unique(DDI_mapped)
+```
+
+Saving table with all information for compendia and clinical data
+```{r}
+# Clinical data
+write_csv(DDI_mapped,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_dataset/KEGG_DDI.txt"
+          )
+```
+
+Saving ATC vector for clinical data
+```{r}
+# Clinical data
+filese <- file("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_atc_vector/KEGG_vector.txt")
+writeLines(c(unique(DDI_mapped$ATC_vector)), filese)
+close(filese)
+```
+
+
+
+Adding *management* feature.
+```{r}
+DDI_management <- DDI_mapped[,c(1,2,5,8,9)]
+
+DDI_management <- unique(DDI_management)
+DDI_management$Management <- gsub(',',' ',DDI_management$Management)
+
+DDI_management <- DDI_management[!grepl("CI1",DDI_management$Management) & !grepl("P1",DDI_management$Management),]
+
+write_csv(DDI_management,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Management/KEGG_management_DDI.txt",col_names = FALSE)
+
+```
+
+Adding *mechanism of action* feature
+```{r}
+DDI_action <- DDI_mapped[,c(1,2,7,8,9)]
+
+DDI_action <- unique(DDI_action)
+DDI_action$`M.A (factorized)` <- gsub(',',' ',DDI_action$`M.A (factorized)`)
+ 
+write_csv(DDI_management,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Mechanism_of_action/KEGG_M.A_DDI.txt",col_names = FALSE)
+
+```

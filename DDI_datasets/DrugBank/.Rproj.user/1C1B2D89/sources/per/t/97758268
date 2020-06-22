@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591092457975.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "97758268",
+    "lastKnownWriteTime" : 8315166997791899648,
+    "last_content_update" : 1591092457975,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A0CED0C8",
+        "caption" : "clinicaldrugpairs_counts",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=clinicaldrugpairs_counts&cache_key=A0CED0C8",
+        "displayedObservations" : 124785,
+        "environment" : "",
+        "expression" : "clinicaldrugpairs_counts",
+        "object" : "clinicaldrugpairs_counts",
+        "preview" : 0,
+        "totalObservations" : 124785,
+        "variables" : 8
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

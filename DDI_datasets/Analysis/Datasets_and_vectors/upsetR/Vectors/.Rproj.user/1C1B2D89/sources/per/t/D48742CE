@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586892250336.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "619717509",
+    "id" : "D48742CE",
+    "lastKnownWriteTime" : 1586962568,
+    "last_content_update" : 1586962568709,
+    "path" : "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Vectors/Code_for_upsetR.Rmd",
+    "project_path" : "Code_for_upsetR.Rmd",
+    "properties" : {
+        "cursorPosition" : "142,7",
+        "last_setup_crc32" : "43256844bb338d19",
+        "scrollLine" : "139",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

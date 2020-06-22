@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589803739782.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2625906052",
+    "id" : "4E31F53D",
+    "lastKnownWriteTime" : 1589964623,
+    "last_content_update" : 1589964623785,
+    "path" : "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ONC/ONC; High priority/ONC_DDI_visualization.Rmd",
+    "project_path" : "ONC_DDI_visualization.Rmd",
+    "properties" : {
+        "cursorPosition" : "77,0",
+        "last_setup_crc32" : "1DBA4145bb338d19",
+        "scrollLine" : "67"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

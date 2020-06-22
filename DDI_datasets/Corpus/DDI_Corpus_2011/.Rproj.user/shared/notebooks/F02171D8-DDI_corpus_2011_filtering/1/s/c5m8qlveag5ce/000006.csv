@@ -1,0 +1,20 @@
+"0","#Including ATC table from Drugbank"
+"0","Drug_ATC_codes_DB <- read_csv(""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/DrugBank/Downloaded_XML_database/Datasets_folder/Drug_ATC_codes_DB.csv"")"
+"2","Parsed with column specification:
+cols(
+  atc_code = [31mcol_character()[39m,
+  level_1 = [31mcol_character()[39m,
+  code_1 = [31mcol_character()[39m,
+  level_2 = [31mcol_character()[39m,
+  code_2 = [31mcol_character()[39m,
+  level_3 = [31mcol_character()[39m,
+  code_3 = [31mcol_character()[39m,
+  level_4 = [31mcol_character()[39m,
+  code_4 = [31mcol_character()[39m,
+  parent_key = [31mcol_character()[39m
+)
+"
+"0","#Mapping"
+"0","DDI_mapped <- merge(pickle_Corpus_2011_DDIs,Drug_ATC_codes_DB,by.x=""Drug1"",by.y = ""parent_key"")"
+"0",""
+"0","DDI_mapped <- merge(DDI_mapped,Drug_ATC_codes_DB, by.x=""Drug2"",by.y = ""parent_key"")"

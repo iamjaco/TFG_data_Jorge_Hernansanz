@@ -1,0 +1,106 @@
+"0","library(tidyr)"
+"0",""
+"0","#Fetching the files to read"
+"0","data_files <- list.files(""Vectors/"", full.names = T)"
+"0","data_files <- data_files[grepl(""*.txt"", data_files)]"
+"0",""
+"0","#Creating the matrix where they will be stored"
+"0","DDI_index <- matrix(nrow = 0, ncol = 3)"
+"0","colnames(DDI_index) = c(""ATC1"",""ATC2"",""Dataset_source"")"
+"0","vector_of_length <- c()"
+"0",""
+"0",""
+"0","for (file_name in data_files){"
+"0","  file = read_table2(file_name, "
+"0","    col_names = FALSE)"
+"0","  "
+"0","  #Taking unique DDIs from each file"
+"0","  file <- unique(file)"
+"0","  "
+"0","  #Separating '_' to obtain two columns."
+"0","  file <- file %>%"
+"0","    separate(X1, into = c(""ATC1"",""ATC2""), sep = '_')"
+"0","  "
+"0","  # Used to assign data_Source to the DDIs"
+"0","  file_name <- gsub(""Vectors/Vector_of_"","""",file_name)"
+"0","  file_name <- gsub(""_DDI.txt"","""",file_name)"
+"0","  file$Dataset_source <- sprintf(""%s"",file_name)"
+"0","  "
+"0","  DDI_index <- rbind(DDI_index,file)"
+"0","}"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"0","write_csv(DDI_index,""Indexes/3_DDI_index.txt"")"

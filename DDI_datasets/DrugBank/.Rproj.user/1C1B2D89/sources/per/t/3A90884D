@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591084501881.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2252854411",
+    "id" : "3A90884D",
+    "lastKnownWriteTime" : 1591362097,
+    "last_content_update" : 1591461645260,
+    "path" : "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/DrugBank/4_Drugbank_dataset (3).Rmd",
+    "project_path" : "4_Drugbank_dataset (3).Rmd",
+    "properties" : {
+        "cursorPosition" : "30,0",
+        "last_setup_crc32" : "6740BA4f7fb2e2",
+        "scrollLine" : "20",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

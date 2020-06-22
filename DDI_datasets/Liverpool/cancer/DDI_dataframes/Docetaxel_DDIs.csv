@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Docetaxel,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. Docetaxel does not interact with this metabolic pathway.",See Summary
+1,Docetaxel,Acenocoumarol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Acenocoumarol is mainly metabolised by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Docetaxel does not inhibit or induce CYPs.,See Summary
+2,Docetaxel,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolised by glucuronidation (by several UGTs, major UGT1A6). Docetaxel does not inhibit or induce UGTs.",See Summary
+3,Docetaxel,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). Docetaxel does not inhibit or induce CYPs.",See Summary
+4,Docetaxel,Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alendronate is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+5,Docetaxel,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. Docetaxel does not inhibit or induce CYPs.,See Summary
+6,Docetaxel,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolised by CYP3A. Docetaxel does not inhibit or induce CYPs.,See Summary
+7,Docetaxel,Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolised and is mainly excreted unchanged in faeces. Aliskiren is also a substrate of P-gp. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+8,Docetaxel,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Docetaxel does not interact with this metabolic pathway.,See Summary
+9,Docetaxel,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. Docetaxel does not inhibit or induce CYPs.",See Summary
+10,Docetaxel,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+11,Docetaxel,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aluminium hydroxide is not metabolised. Docetaxel does not interfere with this metabolic pathway.,See Summary
+12,Docetaxel,Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolized by glucuronidation via UGTs 1A3, 1A9 and 2B7 and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Docetaxel does not inhibit or induce CYPs, UGTs or P-gp.",See Summary
+13,Docetaxel,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amikacin is eliminated by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+14,Docetaxel,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+15,Docetaxel,Amiodarone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Amiodarone is metabolised by CYP3A4 and CYP2C8. Docetaxel does not inhibit or induce CYPs. Moreover, the major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Docetaxel concentrations may increase due to weak CYP3A4 inhibition. A case report described severe skin and mucosal toxicity in a patient after coadministration of docetaxel and trastuzumab with amiodarone. It was estimated that the AUC increased by a factor of 5 when coadministered with amiodarone. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for docetaxel toxicities. Note: due to the long half-life of amiodarone, interactions can be observed for several months after discontinuation of amiodarone.",See Summary
+16,Docetaxel,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolised and is primarily renally eliminated (possibly via OCT). Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+17,Docetaxel,Amitriptyline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. Docetaxel does not inhibit or induce CYPs.",See Summary
+18,Docetaxel,Amlodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+19,Docetaxel,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+20,Docetaxel,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amphotericin B is not appreciably metabolised but is eliminated to a large extent in the bile. Docetaxel does not interfere with this elimination pathway. However, the European SPC for amphotericin states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Monitoring may be required.",See Summary
+21,Docetaxel,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20-40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60-80% is excreted in the urine within 6 hours. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+22,Docetaxel,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. Docetaxel does not interact with this metabolic pathway.,See Summary
+23,Docetaxel,Antacids,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Antacids are not metabolised by CYPs. Docetaxel does not interfere with this metabolic pathway.,See Summary
+24,Docetaxel,Apixaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Apixaban is a substrate of P-gp and BCRP, and is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Docetaxel does not inhibit or induce CYPs, P-gp or BCRP.",See Summary
+25,Docetaxel,Aprepitant,"
+No Interaction Expected
+","
+Low
+","Aprepitant is mainly metabolized by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Docetaxel does not inhibit or induce CYPs. During treatment, aprepitant is a moderate inhibitor of CYP3A4 and may increase docetaxel concentrations. However, after coadministration of docetaxel and aprepitant, no clinically relevant differences in docetaxel exposure were observed. Furthermore, after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Docetaxel concentrations may decrease due to CYP3A4 induction, but this is not considered to be clinically relevant.",See Summary
+26,Docetaxel,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolised by CYP3A4 and CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+27,Docetaxel,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 (minor) and 2D6 (minor)). Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+28,Docetaxel,Astemizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. Docetaxel does not inhibit or induce CYPs.",See Summary
+29,Docetaxel,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.",See Summary
+30,Docetaxel,Atorvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolised by CYP3A4 and is a substrate of P-gp and OATP1B1. Docetaxel does not inhibit or induce CYPs, P-gp or OATP1B1.",See Summary
+31,Docetaxel,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolised analogously to natural purines. Docetaxel does not interact with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+32,Docetaxel,Azithromycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Azithromycin is mainly eliminated via biliary excretion; animal data suggest this may occur via P-gp and MRP2. Docetaxel is unlikely to interfere with this elimination pathway. Azithromycin is also an inhibitor of P-gp and may increase docetaxel concentrations. However, the clinical relevance of P-gp inhibition by azithromycin is unknown. If coadministration is unavoidable, monitoring for docetaxel toxicity should be considered.",See Summary
+33,Docetaxel,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Docetaxel does not interact with this metabolic pathway.",See Summary
+34,Docetaxel,Bedaquiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bedaquiline is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+35,Docetaxel,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. In vitro data indicate that bendroflumethiazide inhibits these renal transporters but a clinically significant interaction is unlikely in the range of observed clinical concentrations. Docetaxel is unlikely to interfere with this pathway.,See Summary
+36,Docetaxel,Bepridil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+37,Docetaxel,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+38,Docetaxel,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Half of a bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Docetaxel is unlikely to interact with this pathway.,See Summary
+39,Docetaxel,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. Docetaxel does not interact with this metabolic pathway.,See Summary
+40,Docetaxel,Bisoprolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6, and partly eliminated unchanged in the urine. Docetaxel is unlikely to interfere with this metabolic or elimination pathway.",See Summary
+41,Docetaxel,Bosentan,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Bosentan is a substrate of CYP3A4 and CYP2C9. Docetaxel does not inhibit or induce CYPs. Bosentan is also a weak inducer of CYP3A4 and CYP2C9. Concentrations of docetaxel may decrease due to CYP3A4 induction. Imatinib concentrations, on average, decreased by 33% in the presence of bosentan in a phase III clinical study and a similar effect may be expected with docetaxel as both imatinib and docetaxel are primarily metabolized by CYP3A4. If coadministration of docetaxel and bosentan appears necessary, close monitoring of docetaxel efficacy is needed.",See Summary
+42,Docetaxel,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may also play a role. Docetaxel does not inhibit or induce CYPs.",See Summary
+43,Docetaxel,Budesonide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+44,Docetaxel,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+45,Docetaxel,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolised by CYP2B6 and is a strong inhibitor of CYP2D6. Docetaxel does not interact with this pathway.,See Summary
+46,Docetaxel,Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+47,Docetaxel,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. Docetaxel is unlikely to interfere with these elimination pathways.",See Summary
+48,Docetaxel,Candesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+49,Docetaxel,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+50,Docetaxel,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Docetaxel does not inhibit or induce OATs.,See Summary
+51,Docetaxel,Carbamazepine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Carbamazepine is primarily metabolized by CYP3A4 and to a lesser extent by CYP2C8. Docetaxel does not inhibit or induce CYPs. However, carbamazepine is an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong), 1A2 (weak), 2B6 and UGT1A1. Concentrations of docetaxel may decrease due to CYP3A4 induction. In patients, coadministration of docetaxel and St John’s Wort, a strong CYP3A4 and P-gp inducer, decreased docetaxel AUC by 12%. A similar effect may occur with carbamazepine. Therefore, care should be taken. No a priori dose adjustment is necessary, but monitoring of docetaxel efficacy may be required.",See Summary
+52,Docetaxel,Carvedilol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additional metabolism via CYP2D6 and to a lesser extent by CYPs 2C9 and 1A2. Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+53,Docetaxel,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non-CYP mediated pathway. Docetaxel does not interact with this metabolic pathway.,See Summary
+54,Docetaxel,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly renally eliminated unchanged by glomerular filtration and tubular secretion via OAT1 and MATE1. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+55,Docetaxel,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Docetaxel is unlikely to interfere with this elimination pathway.",See Summary
+56,Docetaxel,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefixime is renally excreted predominantly by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+57,Docetaxel,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolised by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Docetaxel is unlikely to interfere with this elimination pathway.",See Summary
+58,Docetaxel,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftazidime is excreted predominantly by renal glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+59,Docetaxel,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Docetaxel is unlikely to interfere with this elimination pathway.",See Summary
+60,Docetaxel,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has been studied and based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolised by CYP2C9. Docetaxel does not inhibit or induce CYPs. After coadministration of docetaxel and irinotecan with celecoxib, no clinically significant differences in pharmacokinetic parameters were observed for docetaxel.",See Summary
+61,Docetaxel,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion. In vitro data indicate that cetirizine is also an inhibitor of OCT2. Docetaxel does not interact with this metabolic or elimination pathway.,See Summary
+62,Docetaxel,Chloramphenicol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Chloramphenicol is predominantly glucuronidated. Docetaxel does not inhibit or induce UGTs. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Docetaxel concentrations may increase due to CYP3A4 inhibition. As the clinical relevance of this interaction is unknown, monitoring for docetaxel toxicity may be required. Ocular use: Although chloramphenicol is systemically absorbed when used topically in the eye, the absorbed concentrations are unlikely to cause a clinically significant interaction.",See Summary
+63,Docetaxel,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce cytochromes. Docetaxel does not interact with this pathway.",See Summary
+64,Docetaxel,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolised in the liver via CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+65,Docetaxel,Chlorpromazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorpromazine is metabolised mainly by CYP2D6, but also by CYP1A2. Docetaxel does not inhibit or induce CYPs.",See Summary
+66,Docetaxel,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+67,Docetaxel,Ciclosporin (Cyclosporine),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has been studied and care should be taken. Ciclosporin is a substrate of CYP3A4 and P-gp. Docetaxel does not inhibit or induce CYPs or P-gp. Ciclosporin is also an inhibitor of CYP3A4 and OATP1B1 and may increase docetaxel concentrations. After coadministration of ciclosporin and docetaxel, the absolute bioavailability of orally administered docetaxel increased from 8% to 90% and ciclosporin AUC increased. Therefore, monitoring for docetaxel and ciclosporin toxicity and, if available, ciclosporin plasma concentrations, may be required. No a priori dose adjustment for docetaxel IV administration is necessary.",See Summary
+68,Docetaxel,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+69,Docetaxel,Cimetidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cimetidine is metabolised by CYP450 enzymes. In vitro data indicate that cimetidine inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations. Cimetidine is also a weak inhibitor of CYPs 3A4, 1A2, 2D6 and 2C19. Docetaxel concentrations may increase due to weak CYP3A4 inhibition, but this is unlikely to be clinically relevant.",See Summary
+70,Docetaxel,Ciprofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. It is also metabolised and partially cleared through the bile and intestine. Docetaxel is unlikely to interfere with this elimination pathway. Ciprofloxacin is also a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Docetaxel concentrations may increase due to CYP3A4 inhibition. As the clinical relevance of this interaction is unknown, monitoring for docetaxel toxicity may be required. No a priori dose adjustment for docetaxel is necessary.",See Summary
+71,Docetaxel,Cisapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cisapride is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+72,Docetaxel,Citalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). Docetaxel does not inhibit or induce CYPs.",See Summary
+73,Docetaxel,Clarithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Clarithromycin is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs. Clarithromycin is also an inhibitor of CYP3A4 (strong) and P-gp and may increase docetaxel concentrations. Coadministration with ketoconazole, a strong CYP3A4 inhibitor, increased docetaxel AUC by 2.2-fold. A similar effect may occur with clarithromycin. If coadministration is unavoidable, reduce the docetaxel dose by up to 50% and monitor closely for docetaxel toxicity.",See Summary
+74,Docetaxel,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolised (likely non-CYP mediated pathway) and excreted in the urine by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+75,Docetaxel,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolised in the liver via CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+76,Docetaxel,Clindamycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Clindamycin is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs. In vitro data suggest that it is a CYP3A4 inhibitor and may increase docetaxel concentrations. As the clinical relevance of this interaction is unknown, monitoring for docetaxel toxicity may be required.",See Summary
+77,Docetaxel,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,See Summary
+78,Docetaxel,Clofazimine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Clofazimine is largely excreted unchanged in the faeces. Docetaxel is unlikely to interfere with this elimination pathway. In vitro data suggest that clofazimine is a CYP3A4 inhibitor and may increase docetaxel concentrations. As the clinical relevance of this interaction is unknown, monitoring for docetaxel toxicity may be required.",See Summary
+79,Docetaxel,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolysed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Docetaxel does not inhibit or induce OATs.",See Summary
+80,Docetaxel,Clomipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. Clomipramine and desmethylclomipramine are both metabolised by CYP2D6. Docetaxel does not inhibit or induce CYPs.",See Summary
+81,Docetaxel,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in the form of the unchanged parent drug (40-60% of the dose). Clonidine is also a weak inhibitor of OCT2. Docetaxel does not interact with this pathway.",See Summary
+82,Docetaxel,Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. Clopidogrel is also an inhibitor of CYP2C8 (strong), CYP2B6 (weak) and of CYP2C9 (in vitro) at high concentrations. The clinical relevance of CYP2C9 inhibition is unknown. Docetaxel does not interact with this pathway.",See Summary
+83,Docetaxel,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Oxazepam is mainly glucuronidated. Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+84,Docetaxel,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion. Docetaxel is unlikely to interfere with elimination pathway.",See Summary
+85,Docetaxel,Clozapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Docetaxel does not inhibit or induce CYPs. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+86,Docetaxel,Codeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolized by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. Additionally, the metabolite morphine is a substrate of P-gp. Docetaxel does not inhibit or induce CYPs, UGTs or P-gp.",See Summary
+87,Docetaxel,Colchicine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Colchicine is metabolised by CYP3A4 and is a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp.,See Summary
+88,Docetaxel,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly renally excreted via glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+89,Docetaxel,Dabigatran,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dabigatran is transported via P-gp and is renally excreted. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+90,Docetaxel,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+91,Docetaxel,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP450 enzymes. Docetaxel does not inhibit or induce CYPs.",See Summary
+92,Docetaxel,Desipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desipramine is metabolised by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+93,Docetaxel,Desogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+94,Docetaxel,Dexamethasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has been studied and a clinically significant interaction is unlikely. Dexamethasone is a substrate of CYP3A4. Docetaxel does not inhibit or induce CYPs. Dexamethasone has also been described as a weak inducer of CYP3A4 and could possibly decrease docetaxel plasma concentrations. The clinical relevance of this interaction is not known as the induction of CYP3A4 by dexamethasone has not yet been established. However, docetaxel total body clearance was not modified by pre-treatment with dexamethasone and dexamethasone did not affect the protein binding of docetaxel.",See Summary
+95,Docetaxel,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+96,Docetaxel,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolised by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Additionally, morphine is a substrate of P-gp. Docetaxel does not inhibit or induce UGTs or P-gp.",See Summary
+97,Docetaxel,Diazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Temazepam is mainly glucuronidated. Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+98,Docetaxel,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidised by CYP2C9. Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+99,Docetaxel,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is renally eliminated via OATP4C1 and P-gp. Docetaxel does not inhibit or induce P-gp or OATP4C1.,See Summary
+100,Docetaxel,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+101,Docetaxel,Diltiazem,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Diltiazem is metabolised by CYP3A4 and CYP2D6. Docetaxel does not inhibit or induce CYPs. Diltiazem is also a moderate inhibitor of CYP3A4 and may increase docetaxel concentrations. As the clinical relevance of this interaction is unknown, monitoring for docetaxel toxicity may be required. No a priori dose adjustment for docetaxel is necessary.",See Summary
+102,Docetaxel,Diphenhydramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. Diphenhydramine is also a weak inhibitor of CYP2D6. Docetaxel does not interact with this pathway.",See Summary
+103,Docetaxel,Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Docetaxel does not inhibit or induce UGTs.",See Summary
+104,Docetaxel,Disopyramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. Docetaxel is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+105,Docetaxel,Dolasetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+106,Docetaxel,Domperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+107,Docetaxel,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. There is little potential for dopamine to affect disposition of docetaxel, or to be affected if coadministered with docetaxel.",See Summary
+108,Docetaxel,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+109,Docetaxel,Doxepin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolised to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. Doxepin and nordoxepin are both metabolised by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+110,Docetaxel,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+111,Docetaxel,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+112,Docetaxel,Drospirenone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+113,Docetaxel,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dulaglutide is degraded by endogenous endopeptidases. Docetaxel does not interact with this metabolic pathway.,See Summary
+114,Docetaxel,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolised by CYP2D6 and CYP1A2. Docetaxel does not inhibit or induce CYPs.,See Summary
+115,Docetaxel,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+116,Docetaxel,Dydrogesterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). Docetaxel does not inhibit or induce CYPs.,See Summary
+117,Docetaxel,Edoxaban,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is partially metabolised by CYP3A4 (<10%) and is transported via P-gp. Docetaxel does not inhibit or induce CYPs or P-gp.,See Summary
+118,Docetaxel,Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1 and UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+119,Docetaxel,Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is renally eliminated (possibly via OATs). Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+120,Docetaxel,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is predominantly renally excreted. Docetaxel is unlikely to interfere with this metabolic or elimination pathway.",See Summary
+121,Docetaxel,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eprosartan is largely excreted in bile and urine as unchanged drug. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+122,Docetaxel,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor role. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+123,Docetaxel,Erythromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Erythromycin is a substrate of CYP3A4 and P-gp. Docetaxel does not inhibit or induce CYPs or P-gp. However, erythromycin is an inhibitor of CYP3A4 (moderate) and P-gp and may increase docetaxel concentrations. If coadministration is unavoidable, monitor closely for docetaxel toxicity. ",See Summary
+124,Docetaxel,Escitalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Docetaxel does not inhibit or induce CYPs.",See Summary
+125,Docetaxel,Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4. Esomeprazole is also an inhibitor of CYP2C19. Docetaxel does not interact with this pathway.,See Summary
+126,Docetaxel,Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+127,Docetaxel,Estradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+128,Docetaxel,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolised by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and urine (50%). Docetaxel is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+129,Docetaxel,Ethinylestradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+130,Docetaxel,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolised in the liver; animal studies suggest involvement of flavin-containing monooxygenases. Docetaxel does not interact with this metabolic pathway.,See Summary
+131,Docetaxel,Etonogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+132,Docetaxel,Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+133,Docetaxel,Exenatide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Exenatide is cleared mainly by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+134,Docetaxel,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Docetaxel does not inhibit or induce UGTs.,See Summary
+135,Docetaxel,Famotidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Famotidine is excreted via OAT1/OAT3. Docetaxel does not inhibit or induce OATs.,See Summary
+136,Docetaxel,Felodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Felodipine is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+137,Docetaxel,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolysed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Docetaxel does not interact with this pathway.",See Summary
+138,Docetaxel,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Docetaxel does not inhibit or induce CYPs.,See Summary
+139,Docetaxel,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine is a substrate of P-gp. Docetaxel does not inhibit or induce P-gp.,See Summary
+140,Docetaxel,Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+141,Docetaxel,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+142,Docetaxel,Flecainide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flecainide is metabolised mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also renally eliminated unchanged. Docetaxel is unlikely to interfere with this metabolic or elimination pathway.",See Summary
+143,Docetaxel,Flucloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Docetaxel is unlikely to interfere with this elimination pathway. Flucloxacillin has been described as a CYP3A4 inducer and may decrease docetaxel concentrations. Although the mechanism and clinical relevance of this interaction is unknown, a clinically significant interaction is unlikely.",See Summary
+144,Docetaxel,Fluconazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Fluconazole is cleared primarily by renal excretion. Docetaxel is unlikely to interfere with this elimination pathway. Fluconazole is also an inhibitor of CYPs 3A4 (moderate), 2C9 (moderate) and 2C19 (strong). Docetaxel concentrations may increase due to CYP3A4 inhibition. As the clinical relevance of this interaction is unknown, monitoring for docetaxel toxicity may be required. No a priori dose adjustment for docetaxel is necessary.",See Summary
+145,Docetaxel,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase to an inactive metabolite. Docetaxel does not interfere with this metabolic pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Docetaxel also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+146,Docetaxel,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. Docetaxel does not inhibit or induce CYPs.",See Summary
+147,Docetaxel,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. Docetaxel does not inhibit or induce CYPs.,See Summary
+148,Docetaxel,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is mainly metabolised by CYP2D6 and CYP2C9 and to a lesser extent by CYP2C19 and CYP3A4 to form norfluoxetine. Fluoxetine is also a strong inhibitor of CYP2D6 and CYP2C19. Docetaxel does not interact with this pathway.,See Summary
+149,Docetaxel,Fluphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+150,Docetaxel,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Docetaxel does not inhibit or induce CYPs.,See Summary
+151,Docetaxel,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+152,Docetaxel,Fluvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvastatin is mainly metabolised by CYP2C9 (75%) and to a lesser extent by CYP3A4 (20%) and CYP2C8 (5%). Fluvastatin potentially inhibits CYP2C9, but the clinical relevance of CYP2C9 inhibition is unknown. Docetaxel does not interact with this pathway.",See Summary
+153,Docetaxel,Fluvoxamine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Docetaxel does not inhibit or induce CYPs. Fluvoxamine is also an inhibitor of CYPs 1A2 (strong), 2C19 (strong), 3A4 (moderate), 2C9 (weak-moderate) and 2D6 (weak). Docetaxel concentrations may increase due to CYP3A4 inhibition. As the clinical relevance of this interaction is unknown, monitoring for docetaxel toxicity may be required. No a priori dose adjustment for docetaxel is necessary.",See Summary
+154,Docetaxel,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is predominantly renally eliminated. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+155,Docetaxel,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation. As multiple CYP450 and UGT enzymes catalyse the transformation the potential for a pharmacokinetic interaction is low. Furthermore, docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+156,Docetaxel,Fosaprepitant,"
+No Interaction Expected
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Docetaxel does not interact with this metabolic pathway. Aprepitant is mainly metabolized by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Docetaxel does not inhibit or induce CYPs. During treatment, aprepitant is a moderate inhibitor of CYP3A4 and may increase docetaxel concentrations. However, after coadministration of docetaxel and aprepitant, no clinically relevant differences in docetaxel exposure were observed. Furthermore, after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Docetaxel concentrations may decrease due to CYP3A4 induction, but this is not considered to be clinically relevant.",See Summary
+157,Docetaxel,Fosphenytoin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Docetaxel does not interact with this metabolic pathway. Phenytoin is mainly metabolized by CYP2C9 and to a lesser extent by CYP2C19. Docetaxel does not inhibit or induce CYPs. Phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of docetaxel may decrease due to CYP3A4 and P-gp induction. In patients, coadministration of docetaxel and St John’s Wort, a strong CYP3A4 and P-gp inducer, decreased docetaxel AUC by 12%. A similar effect may occur with fosphenytoin. Therefore, coadministration is not recommended. If coadministration is unavoidable, closely monitor docetaxel efficacy.",See Summary
+158,Docetaxel,Furosemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also renally eliminated unchanged (via OATs). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. In vitro data indicate that furosemide is also an inhibitor of the renal transporters OAT1/OAT3. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+159,Docetaxel,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+160,Docetaxel,Gemfibrozil,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Gemfibrozil is metabolised by UGT2B7. Docetaxel does not inhibit or induce UGTs. However, gemfibrozil is an inhibitor of CYP2C8 (strong), OATP1B1 and OAT3. In vitro data indicate gemfibrozil to be a strong inhibitor of CYP2C9 but in vivo data showed no clinically relevant effect on CYP2C9. Docetaxel is a substrate of OATP1B1 in vitro and concentrations may increase. As the clinical relevance of this interaction is unknown, monitoring for docetaxel toxicity may be required.",See Summary
+161,Docetaxel,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+162,Docetaxel,Gestodene,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Docetaxel does not inhibit or induce CYPs.,See Summary
+163,Docetaxel,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. Docetaxel does not inhibit or induce CYPs.,See Summary
+164,Docetaxel,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C19. Docetaxel does not inhibit or induce CYPs.,See Summary
+165,Docetaxel,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolised by CYP2C9. Docetaxel does not inhibit or induce CYPs.,See Summary
+166,Docetaxel,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolised by CYP2C9. Docetaxel does not inhibit or induce CYPs.,See Summary
+167,Docetaxel,Granisetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has been studied and based on metabolism and clearance a clinically significant interaction is unlikely. Granisetron is metabolised by CYP3A4 and is a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp. After coadministration with granisetron, docetaxel exposure was increased by 1.15-fold. Furthermore, in vitro granisetron had no effect on the metabolism of docetaxel.",See Summary
+168,Docetaxel,Grapefruit juice,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Grapefruit juice is known to inhibit CYP3A4 enzymes and may increase concentrations of docetaxel. The clinical relevance of this interaction is unknown. Moreover, in a case report it was described that a patient experienced a longer docetaxel plasma clearance than expected. During coadministration the AUC of docetaxel was increased by 60%. After discontinuation of grapefruit juice, the AUC of docetaxel was reduced by 60%. Therefore, coadministration should be avoided.",See Summary
+169,Docetaxel,Green tea,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but is contraindicated. An in vitro study described a significant effect on the CYP3A4 mediated metabolism of docetaxel, resulting in an increased docetaxel exposure. The clinical relevance of this interaction is unknown. Therefore, coadministration is contraindicated.",See Summary
+170,Docetaxel,Griseofulvin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Docetaxel is unlikely to interfere with this elimination pathway. Griseofulvin is also a liver microsomal enzyme inducer and may lower plasma levels, and therefore reduce the efficacy of concomitantly administered medicinal products that are metabolised by CYP3A4, such as docetaxel. The clinical relevance of this interaction is unknown. Care should be taken. Monitoring of docetaxel efficacy may be required.",See Summary
+171,Docetaxel,Haloperidol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGTs 2B7>1A4, 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4 and CYP2D6). Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+172,Docetaxel,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Docetaxel does not interact with this metabolic pathway.,See Summary
+173,Docetaxel,Hydralazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Hydralazine is metabolised via primary oxidative metabolism and acetylation. Docetaxel does not interact with this metabolic pathway. In vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6. Docetaxel concentrations may increase due to CYP3A4 inhibition. As the clinical relevance of this interaction is unknown, monitoring for docetaxel toxicity may be required.",See Summary
+174,Docetaxel,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrochlorothiazide is not metabolised but is cleared by the kidneys via OAT1. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Docetaxel does not inhibit or induce OATs.,See Summary
+175,Docetaxel,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Docetaxel does not inhibit or induce CYPs.",See Summary
+176,Docetaxel,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+177,Docetaxel,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone. ,See Summary
+178,Docetaxel,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Docetaxel does not inhibit or induce UGTs.",See Summary
+179,Docetaxel,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is metabolised in the liver and cleared via the lungs and kidneys. Docetaxel is unlikely to interfere with this metabolic or elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+180,Docetaxel,Hydroxyzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. Docetaxel does not interact with this metabolic pathway.,See Summary
+181,Docetaxel,Ibandronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibandronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+182,Docetaxel,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+183,Docetaxel,Iloperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Iloperidone is metabolised by CYP3A4 and CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+184,Docetaxel,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent by active tubular secretion. Docetaxel is unlikely to interfere with these elimination pathways.,See Summary
+185,Docetaxel,Imipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. Docetaxel does not inhibit or induce CYPs.",See Summary
+186,Docetaxel,Indapamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Indapamide is extensively metabolised by CYP450s. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Docetaxel does not inhibit or induce CYPs or OATs.,See Summary
+187,Docetaxel,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+188,Docetaxel,Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+189,Docetaxel,Interleukin 2 (Aldesleukin),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+190,Docetaxel,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Docetaxel does not interact with this metabolic pathway.,See Summary
+191,Docetaxel,Irbesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolised by glucuronidation and oxidation (mainly CYP2C9). Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+192,Docetaxel,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+193,Docetaxel,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Docetaxel does not interact with this metabolic pathway.,See Summary
+194,Docetaxel,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Docetaxel does not inhibit or induce CYPs.,See Summary
+195,Docetaxel,Itraconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Itraconazole is primarily metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs. Itraconazole is also an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Docetaxel concentrations may increase due to CYP3A4 and P-gp inhibition. Coadministration with ketoconazole, a strong CYP3A4 inhibitor, increased the docetaxel AUC by 2.2-fold. A similar effect may occur with itraconazole. If coadministration is unavoidable, reduce the docetaxel dose by up to 50% and monitor closely for docetaxel toxicity.",See Summary
+196,Docetaxel,Ivabradine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ivabradine is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+197,Docetaxel,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+198,Docetaxel,Ketoconazole,"
+Potential Interaction
+","
+Low
+","Coadministration should be approached with caution. Ketoconazole is a substrate of CYP3A4. Docetaxel does not inhibit or induce CYPs. Ketoconazole is also an inhibitor of CYP3A4 (strong) and P-gp. Coadministration with ketoconazole increased docetaxel AUC by 1.3 to 2.2-fold for different dosing regimens. Docetaxel clearance was decreased by approximately 50%. If coadministration is unavoidable, reduce the docetaxel dose by up to 50% and monitor closely for docetaxel toxicity.",See Summary
+199,Docetaxel,Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Docetaxel does not inhibit or induce UGTs.,See Summary
+200,Docetaxel,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+201,Docetaxel,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. Docetaxel does not interact with this metabolic pathway.,See Summary
+202,Docetaxel,Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+203,Docetaxel,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is mainly metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+204,Docetaxel,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+205,Docetaxel,Levofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levofloxacin is renally eliminated mainly by glomerular filtration and active secretion (possibly OCT2). Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+206,Docetaxel,Levomepromazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levomepromazine is metabolised by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+207,Docetaxel,Levonorgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+208,Docetaxel,Levonorgestrel (Emergency Contraception),"
+Potential Interaction
+","
+Very Low
+","Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. However, the use of levonorgestrel as emergency contraception is a relative contraindication due to the risk of a pregnancy while having a hormone sensitive tumour. Therefore, the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+209,Docetaxel,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolised by deiodination (by enzymes of deiodinase family) and glucuronidation. Docetaxel does not interact with this metabolic pathway.,See Summary
+210,Docetaxel,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+211,Docetaxel,Linagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor metabolic pathway. Linagliptin is also a substrate of P-gp. Docetaxel is unlikely to interfere with this elimination pathway. Linagliptin is a weak inhibitor of CYP3A4 and may increase docetaxel concentrations. However, this is unlikely to be clinically relevant.",See Summary
+212,Docetaxel,Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. Docetaxel is unlikely to interfere with this unspecified metabolic pathway.,See Summary
+213,Docetaxel,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Liraglutide is degraded by endogenous endopeptidases. Docetaxel does not interact with this metabolic pathway.,See Summary
+214,Docetaxel,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is renally eliminated unchanged via glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+215,Docetaxel,Lithium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate. Therefore, no pharmacokinetic interaction is expected. ",See Summary
+216,Docetaxel,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalised infections can occur.",See Summary
+217,Docetaxel,Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8, and is a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp.",See Summary
+218,Docetaxel,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+219,Docetaxel,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam undergoes non-CYP mediated elimination. Docetaxel is unlikely to interfere with this unspecified pathway.,See Summary
+220,Docetaxel,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Docetaxel does not inhibit or induce UGTs.,See Summary
+221,Docetaxel,Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Docetaxel does not inhibit or induce CYPs.,See Summary
+222,Docetaxel,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs. ,See Summary
+223,Docetaxel,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Docetaxel does not inhibit or induce CYPs.",See Summary
+224,Docetaxel,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in the kidney, mainly by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.",See Summary
+225,Docetaxel,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolised by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+226,Docetaxel,Medroxyprogesterone (depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+227,Docetaxel,Medroxyprogesterone (non-depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+228,Docetaxel,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolised by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+229,Docetaxel,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+230,Docetaxel,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney with in vitro data suggesting it is a substrate of OAT3>OAT1. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+231,Docetaxel,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolised to N-acetyl-mesalazine by N-acetyltransferase. Docetaxel does not interact with this metabolic pathway.,See Summary
+232,Docetaxel,Metamizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Metamizole is metabolised in serum and excreted via urine (90%) and faeces (10%). Metamizole is an inducer of CYP3A4 and may decrease docetaxel concentrations. However, this is unlikely to be clinically relevant. ",See Summary
+233,Docetaxel,Metformin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine and is a substrate of OCT1/2/3, MATE1 and MATE2K. Docetaxel does not inhibit or induce OCTs or MATEs.",See Summary
+234,Docetaxel,Methadone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methadone is demethylated by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+235,Docetaxel,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. Docetaxel is unlikely to interfere with this elimination pathway.",See Summary
+236,Docetaxel,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolised by CYP450s to a clinically relevant extent and does not inhibit or induce CYP450s. Therefore, there is little potential for methylphenidate to affect disposition of docetaxel, or to be affected if coadministered with docetaxel.",See Summary
+237,Docetaxel,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+238,Docetaxel,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolised by the CYP450 system (mainly CYP2D6). Docetaxel does not inhibit or induce CYPs.,See Summary
+239,Docetaxel,Metolazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metolazone is largely excreted unchanged in the urine. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+240,Docetaxel,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolised by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+241,Docetaxel,Metronidazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metronidazole is eliminated via glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Concentrations of docetaxel may increase, but no clinically relevant effect on docetaxel exposure is expected.",See Summary
+242,Docetaxel,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Docetaxel does not inhibit or induce CYPs.,See Summary
+243,Docetaxel,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolised by CYP2D6 and CYP1A2, and to a lesser extent by CYP3A4. Docetaxel does not inhibit or induce CYPs.",See Summary
+244,Docetaxel,Miconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Miconazole is extensively metabolized by the liver. Docetaxel is unlikely to interfere with this unspecified metabolic pathway. Miconazole is also an inhibitor of CYP2C9 (moderate) and CYP3A4 (strong). Docetaxel concentrations may increase due to CYP3A4 inhibition. Coadministration with ketoconazole, a strong CYP3A4 inhibitor, increased docetaxel AUC by 2.2-fold. A similar effect may occur with miconazole. If coadministration is unavoidable, reduce the docetaxel dose by up to 50% and monitor closely for docetaxel toxicity. Note: after dermal application miconazole is only minimally absorbed. Therefore, no clinical relevant interaction is expected.",See Summary
+245,Docetaxel,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+246,Docetaxel,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+247,Docetaxel,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Docetaxel is unlikely to interfere with this metabolic or elimination pathway.",See Summary
+248,Docetaxel,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Docetaxel does not inhibit or induce CYPs.",See Summary
+249,Docetaxel,Mometasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+250,Docetaxel,Montelukast,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. Docetaxel does not inhibit or induce CYPs.,See Summary
+251,Docetaxel,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Additionally, morphine is a substrate of P-gp. Docetaxel does not inhibit or induce UGTs or P-gp.",See Summary
+252,Docetaxel,Moxifloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Docetaxel does not inhibit or induce UGTs.,See Summary
+253,Docetaxel,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and UGT2B7. The active metabolite of mycophenolate, mycophenolic acid, is an inhibitor of OAT1/OAT3. Docetaxel does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+254,Docetaxel,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Docetaxel does not interfere with this elimination pathway.,See Summary
+255,Docetaxel,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolised in the liver by alpha-reductase. Docetaxel does not interact with this metabolic pathway.,See Summary
+256,Docetaxel,Naproxen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+257,Docetaxel,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent by CYP3A4 (30%). Docetaxel does not inhibit or induce CYPs.,See Summary
+258,Docetaxel,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+259,Docetaxel,Nefazodone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Nefazodone is metabolised mainly by CYP3A4. Docetaxel does not inhibit or induce CYPs. Nefazodone is also a strong inhibitor of CYP3A4 and may increase docetaxel concentrations. Coadministration with ketoconazole, a strong CYP3A4 inhibitor, increased docetaxel AUC by 2.2-fold. A similar effect may occur with nefazodone. If coadministration is unavoidable, reduce the docetaxel dose by up to 50% and monitor closely for docetaxel toxicity.",See Summary
+260,Docetaxel,Nicardipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. Docetaxel does not inhibit or induce CYPs. Nicardipine is also a weak inhibitor of CYP3A4 and may increase docetaxel concentrations. However, this is unlikely to be clinically relevant.",See Summary
+261,Docetaxel,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolised by xanthine oxidase and aldehyde oxidase. Docetaxel does not interact with this metabolic pathway.,See Summary
+262,Docetaxel,Nifedipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+263,Docetaxel,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolised in the liver following multiple pathways including CYP2C9. Docetaxel does not inhibit or induce CYPs.,See Summary
+264,Docetaxel,Nisoldipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+265,Docetaxel,Nitrendipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+266,Docetaxel,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolised in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). Docetaxel is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+267,Docetaxel,Norelgestromin,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). Docetaxel does not inhibit or induce CYPs.,See Summary
+268,Docetaxel,Norethisterone (Norethindrone),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Docetaxel does not interact with this metabolic pathway.",See Summary
+269,Docetaxel,Norgestimate,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. Docetaxel does not inhibit or induce CYPs.,See Summary
+270,Docetaxel,Norgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolized by CYP3A4 and is glucuronidated to a minor extent. Docetaxel does not inhibit or induce CYPs or UGTs.,See Summary
+271,Docetaxel,Nortriptyline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nortriptyline is metabolised mainly by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+272,Docetaxel,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant. Therefore, no drug interactions are expected.",See Summary
+273,Docetaxel,Ofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ofloxacin is renally eliminated unchanged by glomerular filtration and active tubular secretion via both cationic and anionic transport systems. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+274,Docetaxel,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolised mainly by CYP1A2 (major) and CYP2D6, but also by glucuronidation (UGT1A4). Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+275,Docetaxel,Olmesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+276,Docetaxel,Omeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Omeprazole is also an inducer of CYP1A2 and an inhibitor of CYP2C19. Docetaxel does not interact with this pathway.,See Summary
+277,Docetaxel,Ondansetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ondansetron is metabolised mainly by CYP1A2 and CYP3A4 and to a lesser extent by CYP2D6. Ondansetron is also a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp.,See Summary
+278,Docetaxel,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Docetaxel does not inhibit or induce UGTs.,See Summary
+279,Docetaxel,Oxcarbazepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxcarbazepine is extensively metabolized to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Docetaxel does not interact with this metabolic pathway. Both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5 and are inhibitors of CYP2C19. Docetaxel concentrations may decrease due to CYP3A4 and CYP3A5 induction. However, no clinically relevant effect on docetaxel exposure is expected.",See Summary
+280,Docetaxel,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolised via glucuronidation. Docetaxel does not inhibit or induce UGTs.,See Summary
+281,Docetaxel,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+282,Docetaxel,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily renally eliminated (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. Docetaxel is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+283,Docetaxel,Palonosetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Palonosetron is also a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp.,See Summary
+284,Docetaxel,Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pamidronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+285,Docetaxel,Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. Docetaxel does not inhibit or induce CYPs.",See Summary
+286,Docetaxel,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+287,Docetaxel,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1, and 2B15), sulfation and to a lesser extent, by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+288,Docetaxel,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolised by CYP2D6. Paroxetine is also an inhibitor of CYP2D6 (strong) and CYP2C9. Docetaxel does not interact with this pathway.,See Summary
+289,Docetaxel,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored of coadministered.",See Summary
+290,Docetaxel,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+291,Docetaxel,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is mainly metabolised by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. Docetaxel does not inhibit or induce CYPs or FMO3.",See Summary
+292,Docetaxel,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+293,Docetaxel,Perindopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolised to other inactive metabolites. Elimination occurs predominantly via the urine. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+294,Docetaxel,Perphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perphenazine is metabolised by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+295,Docetaxel,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+296,Docetaxel,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolised by oxidation via monoamine oxidase and to a lesser extent by acetylation. Docetaxel does not interact with this metabolic pathway.,See Summary
+297,Docetaxel,Phenobarbital (Phenobarbitone),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Phenobarbital is metabolized by CYP2C19 and CYP2C9 (major) and to a lesser extent by CYP2E1. Docetaxel does not inhibit or induce CYPs. Phenobarbital is a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Concentrations of docetaxel may decrease due to CYP3A4 induction. In patients, coadministration of docetaxel and St John’s Wort, a strong CYP3A4 and P-gp inducer, decreased docetaxel AUC by 12%. A similar effect may occur with phenobarbital. Therefore, care should be taken. No a priori dose adjustment for docetaxel is necessary, but monitoring of docetaxel efficacy may be required.",See Summary
+298,Docetaxel,Phenprocoumon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenprocoumon is mainly metabolised by CYP2C9 and CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+299,Docetaxel,Phenytoin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Phenytoin is mainly metabolized by CYP2C9 and to a lesser extent by CYP2C19. Docetaxel does not inhibit or induce CYPs. Phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of docetaxel may decrease due to CYP3A4 and P-gp induction. In patients, coadministration of docetaxel and St John’s Wort, a strong CYP3A4 and P-gp inducer, decreased docetaxel AUC by 12%. A similar effect may occur with phenytoin. Therefore, coadministration is not recommended. If coadministration is unavoidable, closely monitor docetaxel efficacy. ",See Summary
+300,Docetaxel,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Docetaxel does not inhibit or induce CYPs.,See Summary
+301,Docetaxel,Pimozide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pimozide is mainly metabolised by CYP3A4 and CYP2D6 and to a lesser extent by CYP1A2. Docetaxel does not inhibit or induce CYPs.,See Summary
+302,Docetaxel,Pindolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolised to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine. Docetaxel is unlikely to interact with this metabolic or elimination pathway.,See Summary
+303,Docetaxel,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Docetaxel does not inhibit or induce CYPs.",See Summary
+304,Docetaxel,Pipotiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+305,Docetaxel,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolised by CYP2C9. Docetaxel does not inhibit or induce CYPs.,See Summary
+306,Docetaxel,Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolised by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Pitavastatin is also a substrate of OATP1B1. Docetaxel does not inhibit or induce CYPs, UGTs or OATP1B1.",See Summary
+307,Docetaxel,Posaconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Posaconazole is primarily metabolised by UGTs and is a substrate of P-gp. Docetaxel does not inhibit or induce UGTs or P-gp. Posaconazole is also a strong inhibitor of CYP3A4 and may increase docetaxel concentrations. Coadministration with ketoconazole, a strong CYP3A4 inhibitor, increased docetaxel AUC by 2.2-fold. A similar effect may occur with posaconazole. If coadministration is unavoidable, reduce the docetaxel dose by up to 50% and monitor closely for docetaxel toxicity.",See Summary
+308,Docetaxel,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is renally eliminated. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+309,Docetaxel,Prasugrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. Docetaxel does not inhibit or induce CYPs.,See Summary
+310,Docetaxel,Pravastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Docetaxel does not inhibit or induce CYPs or OATP1B1.,See Summary
+311,Docetaxel,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolised, primarily by demethylation and conjugation. Docetaxel does not interact with this metabolic pathway.",See Summary
+312,Docetaxel,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+313,Docetaxel,Prednisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs. Furthermore, no statistically significant effect on the pharmacokinetics of docetaxel was observed when coadministered with prednisone.",See Summary
+314,Docetaxel,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration (90% as unchanged drug). Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+315,Docetaxel,Prochlorperazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Docetaxel does not inhibit or induce CYPs.,See Summary
+316,Docetaxel,Promethazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Promethazine is metabolised by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+317,Docetaxel,Propafenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+318,Docetaxel,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolised by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary
+319,Docetaxel,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly renally eliminated, partly by active secretion by renal transporters. Prucalopride is also a substrate of P-gp. Docetaxel is unlikely to interfere with this elimination pathway.",See Summary
+320,Docetaxel,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolised by xanthine oxidase. Docetaxel does not interact with this metabolic pathway.,See Summary
+321,Docetaxel,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+322,Docetaxel,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+323,Docetaxel,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+324,Docetaxel,Quinidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp. Quinidine is also an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate). Docetaxel concentrations may increase due to inhibition of CYP3A4 and P-gp. Therefore, coadministration is not recommended. If coadministration is unavoidable, monitor closely for docetaxel toxicity.",See Summary
+325,Docetaxel,Rabeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. Docetaxel does not interact with this metabolic pathway.,See Summary
+326,Docetaxel,Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolised to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Docetaxel does not interact with this metabolic pathway.",See Summary
+327,Docetaxel,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranitidine is excreted via OAT1/OAT3. Docetaxel does not inhibit or induce OATs.,See Summary
+328,Docetaxel,Ranolazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Ranolazine is primarily metabolized by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp. However, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Docetaxel concentrations may increase due to CYP3A4 and P-gp inhibition. If coadministration is unavoidable, monitor closely for docetaxel toxicity.",See Summary
+329,Docetaxel,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. Therefore, no clinically relevant effect on docetaxel exposure is expected.",See Summary
+330,Docetaxel,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolised by CYP2C8 and CYP3A4, with clinical data indicating it is a substrate of the hepatic transporter OATP1B1. Docetaxel does not inhibit or induce CYPs or OATP1B1.",See Summary
+331,Docetaxel,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver but retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Docetaxel does not interact with this metabolic pathway.",See Summary
+332,Docetaxel,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+333,Docetaxel,Rifabutin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Rifabutin is metabolised by CYP3A4 and via deacetylation. Docetaxel does not interact with this metabolic pathway. Rifabutin is also a strong CYP3A4 and P-gp inducer and may decrease docetaxel concentrations. In patients, coadministration of docetaxel and St John’s Wort, a strong CYP3A4 and P-gp inducer, decreased docetaxel AUC by 12%. A similar effect may occur with rifabutin. If coadministration is unavoidable, closely monitor docetaxel efficacy.",See Summary
+334,Docetaxel,Rifampicin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Rifampicin is metabolised via deacetylation. Docetaxel does not interact with this metabolic pathway. Rifampicin is also a strong CYP3A4 and P-gp inducer and may decrease docetaxel concentrations. In patients, coadministration of docetaxel and St John’s Wort, a strong CYP3A4 and P-gp inducer, decreased docetaxel AUC by 12%. A similar effect may occur with rifampicin. If coadministration is unavoidable, closely monitor docetaxel efficacy.",See Summary
+335,Docetaxel,Rifapentine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Rifapentine is metabolised via deacetylation. Docetaxel does not interact with this metabolic pathway. Rifampicin is also a strong CYP3A4, CYP2C8 and P-gp inducer. Docetaxel concentrations may decrease due to CYP3A4 and P-gp induction. In patients, coadministration of docetaxel and St John’s Wort, a strong CYP3A4 and P-gp inducer, decreased docetaxel AUC by 12%. A similar effect may occur with rifapentine. If coadministration is unavoidable, closely monitor docetaxel efficacy.",See Summary
+336,Docetaxel,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Docetaxel is unlikely to interfere with this elimination pathway.",See Summary
+337,Docetaxel,Risperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Risperidone is also a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp.,See Summary
+338,Docetaxel,Rivaroxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant is unlikely. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine. Rivaroxaban is also a substrate of P-gp and BCRP. Docetaxel is unlikely to interfere with this metabolic or elimination pathway.",See Summary
+339,Docetaxel,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYP2C9. Docetaxel does not inhibit or induce CYPs.,See Summary
+340,Docetaxel,Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosuvastatin is largely excreted unchanged in the faeces via OATP1B1 and is a substrate of BCRP. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+341,Docetaxel,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolised to the inactive salbutamol-4’-O-sulphate. Docetaxel is unlikely to interfere with this metabolic pathway.,See Summary
+342,Docetaxel,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. The systemic exposure of salmeterol is low and docetaxel does not inhibit or induce CYPs.,See Summary
+343,Docetaxel,Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp.,See Summary
+344,Docetaxel,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces and also in other secretions. No clinically significant interactions are known.,See Summary
+345,Docetaxel,Sertindole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertindole is metabolised by CYP2D6 and CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+346,Docetaxel,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Docetaxel does not inhibit or induce CYPs.",See Summary
+347,Docetaxel,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. Docetaxel does not inhibit or induce CYPs.,See Summary
+348,Docetaxel,Simvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolised by CYP3A4. Simvastatin is also a substrate of BCRP and the active metabolite is a substrate of OATP1B1. Docetaxel does not inhibit or induce CYPs, BCRP or OATP1B1.",See Summary
+349,Docetaxel,Sirolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sirolimus is metabolised by CYP3A4 and is a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+350,Docetaxel,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1 and P-gp) and metabolism by CYP3A4 represents a minor metabolic pathway. Docetaxel is unlikely to interfere with this metabolic or elimination pathway.",See Summary
+351,Docetaxel,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. Docetaxel does not interact with this metabolic pathway.",See Summary
+352,Docetaxel,Sotalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sotalol is excreted unchanged via renal elimination. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+353,Docetaxel,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+354,Docetaxel,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolised by the flavin containing monooxygenases. Docetaxel does not interact with this metabolic pathway.,See Summary
+355,Docetaxel,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Docetaxel is unlikely to interfere with this unspecified metabolic pathway.,See Summary
+356,Docetaxel,St John's Wort,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has been studied and care should be taken. St John’s wort is a P-gp and CYP3A4 inducer. In patients, coadministration of docetaxel and St John’s Wort decreased docetaxel AUC by 12%. No a priori dose adjustment for docetaxel is necessary, but monitoring of docetaxel efficacy may be required.",See Summary
+357,Docetaxel,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Docetaxel does not interact with this metabolic or elimination pathway.",See Summary
+358,Docetaxel,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Streptomycin is eliminated by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+359,Docetaxel,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Docetaxel does not inhibit or induce CYPs.,See Summary
+360,Docetaxel,Sulpiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+361,Docetaxel,Tacrolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tacrolimus is metabolised mainly by CYP3A4. Docetaxel does not inhibit or induce CYPs. Tacrolimus is also an inhibitor of CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Therefore, no clinically relevant effect on docetaxel exposure is expected. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+362,Docetaxel,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+363,Docetaxel,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+364,Docetaxel,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+365,Docetaxel,Telithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. Docetaxel does not interact with this metabolic pathway. Telithromycin is also an inhibitor of CYP3A4 (strong) and P-gp and may increase docetaxel concentrations. However, the clinical relevance of P-gp inhibition is unknown. Coadministration with ketoconazole, a strong CYP3A4 inhibitor, increased docetaxel AUC by 2.2-fold. A similar effect may occur with telithromycin. If coadministration is unavoidable, reduce the docetaxel dose by up to 50% and monitor closely for docetaxel toxicity.",See Summary
+366,Docetaxel,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Docetaxel does not inhibit or induce UGTs.,See Summary
+367,Docetaxel,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Docetaxel does not inhibit or induce UGTs.,See Summary
+368,Docetaxel,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYP2C8 and CYP2C19. Terbinafine is also a moderate-strong inhibitor of CYP2D6. Docetaxel does not interact with this pathway.",See Summary
+369,Docetaxel,Testosterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+370,Docetaxel,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+371,Docetaxel,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolised by CYP1A2. Docetaxel does not inhibit or induce CYPs.,See Summary
+372,Docetaxel,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+373,Docetaxel,Thioridazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+374,Docetaxel,Tiapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tiapride is excreted largely unchanged in urine. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+375,Docetaxel,Ticagrelor,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ticagrelor is a substrate of CYP3A4 and P-gp. Docetaxel does not inhibit or induce CYPs or P-gp. Ticagrelor is also a mild inhibitor of CYP3A4 and may increase concentrations of docetaxel. However, this is unlikely to be clinically relevant.",See Summary
+376,Docetaxel,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+377,Docetaxel,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+378,Docetaxel,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolised by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Docetaxel does not inhibit or induce CYPs.,See Summary
+379,Docetaxel,Tolterodine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 with CYP3A4 playing a minor role. Docetaxel does not inhibit or induce CYPs.,See Summary
+380,Docetaxel,Torasemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolised mainly by CYP2C9. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Docetaxel does not inhibit or induce CYPs or OATs.,See Summary
+381,Docetaxel,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. Docetaxel does not inhibit or induce CYPs.",See Summary
+382,Docetaxel,Trandolapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Docetaxel does not interact with this metabolic pathway.,See Summary
+383,Docetaxel,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranexamic acid is mainly cleared by glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+384,Docetaxel,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Docetaxel does not interact with this metabolic pathway.,See Summary
+385,Docetaxel,Trazodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+386,Docetaxel,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+387,Docetaxel,Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. Docetaxel does not inhibit or induce CYPs.,See Summary
+388,Docetaxel,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. To a lesser extent (approximately 30%) trimethoprim is metabolised by CYP enzymes (in vitro data suggest CYPs 3A4, 1A2 and 2C9). Sulfamethoxazole is metabolised by CYP2C9. Furthermore, trimethoprim is a weak CYP2C8 inhibitor and in vitro data also suggest that trimethoprim is an inhibitor of OCT2 and MATE1. Sulfamethoxazole is a weak inhibitor of CYP2C9. Docetaxel does not interact with these metabolic or elimination pathways.",See Summary
+389,Docetaxel,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolised mainly by CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+390,Docetaxel,Tropisetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tropisetron is metabolised mainly by CYP2D6. Tropisetron is also a substrate of P-gp. Docetaxel does not inhibit or induce CYPs or P-gp.,See Summary
+391,Docetaxel,Ulipristal,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if docetaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+392,Docetaxel,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolized by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolized by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Docetaxel does not interact with this pathway.,See Summary
+393,Docetaxel,Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+394,Docetaxel,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vancomycin is excreted unchanged via glomerular filtration. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+395,Docetaxel,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Docetaxel does not inhibit or induce CYPs.",See Summary
+396,Docetaxel,Verapamil,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Docetaxel does not inhibit or induce CYPs. Verapamil is also a moderate inhibitor of CYP3A4 and may increase concentrations of docetaxel. As the clinical relevance of this interaction is unknown, monitoring for docetaxel toxicity may be required. No a priori dose adjustment for docetaxel is necessary.",See Summary
+397,Docetaxel,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate of P-gp. Docetaxel does not interact with this metabolic pathway.,See Summary
+398,Docetaxel,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+399,Docetaxel,Voriconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Voriconazole is metabolised by CYP2C19 (major) and to a lesser extent by CYP3A4 and CYP2C9. Docetaxel does not inhibit or induce CYPs. Voriconazole is also a strong inhibitor of CYP3A4 and a weak inhibitor of CYPs 2C9, 2C19 and 2B6. Docetaxel concentrations may increase due to CYP3A4 inhibition. Coadministration with ketoconazole, a strong CYP3A4 inhibitor, increased docetaxel AUC by 2.2-fold. A similar effect may occur with voriconazole. If coadministration is unavoidable, reduce the docetaxel dose by up to 50% and monitor closely for docetaxel toxicity.",See Summary
+400,Docetaxel,Warfarin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and CYP3A4. S-warfarin (more potent) is metabolised by CYP2C9. Docetaxel does not inhibit or induce CYPs.,See Summary
+401,Docetaxel,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Docetaxel is unlikely to interfere with this elimination pathway.",See Summary
+402,Docetaxel,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent by CYP3A4. Docetaxel does not interact with this metabolic pathway.,See Summary
+403,Docetaxel,Ziprasidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). Docetaxel does not interact with this metabolic pathway.",See Summary
+404,Docetaxel,Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zoledronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Docetaxel is unlikely to interfere with this elimination pathway.,See Summary
+405,Docetaxel,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. Docetaxel does not inhibit or induce CYPs.",See Summary
+406,Docetaxel,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. Docetaxel does not inhibit or induce CYPs.,See Summary
+407,Docetaxel,Zotepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Docetaxel does not inhibit or induce CYPs.,See Summary
+408,Docetaxel,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Docetaxel does not inhibit or induce CYPs or UGTs.",See Summary

@@ -1,0 +1,4 @@
+"0","#Clinical data"
+"0","filese <- file(""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/ATC_treatment/DDI_clinical_data/DDI_atc_vector/ONC-high_vector.txt"")"
+"0","writeLines(c(DDI_mapped_subset$ATC_vector), filese)"
+"0","close(filese)"

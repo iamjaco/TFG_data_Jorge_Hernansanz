@@ -1,0 +1,22 @@
+---
+title: "Drugbank_guidelines"
+author: "Jorge H."
+date: "16/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document reflects the contents of Drugbank database:
+
++ **Drugs** ->  4973
++ **DDIs** ->   2093179
++ **List of pathways** each drug is involved in.
++ **Mechanism of action** relates to targets, carriers and transporters, with its effect.
++ **Chemical group** refering to the different categories the drug fits in.
++ **ATC codes** linking to drugbank identifiers
++ **Origin group** coming form pharma or biotech industry
++ **Type of drug** refers to actual state; approval, withdrawn...
+

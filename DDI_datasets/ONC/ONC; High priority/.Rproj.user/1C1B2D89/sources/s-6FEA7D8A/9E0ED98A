@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589810257984.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9E0ED98A",
+    "lastKnownWriteTime" : 2492377362016,
+    "last_content_update" : 1589810257984,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "73EDC438",
+        "caption" : "DDI_clinical_significance",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=DDI_clinical_significance&cache_key=73EDC438",
+        "displayedObservations" : 13782,
+        "environment" : "",
+        "expression" : "DDI_clinical_significance",
+        "object" : "DDI_clinical_significance",
+        "preview" : 0,
+        "totalObservations" : 13782,
+        "variables" : 6
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

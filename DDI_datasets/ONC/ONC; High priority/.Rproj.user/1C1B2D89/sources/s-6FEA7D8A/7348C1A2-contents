@@ -1,0 +1,100 @@
+---
+title: "UpserR for clinical data"
+author: "Jorge H."
+date: "19/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+```
+
+
+Cedriblemeds
+```{r}
+Crediblemeds_vector <- readLines("DDI_atc_vector/Crediblemeds_vector.txt")
+```
+
+KEGG
+```{r}
+KEGG_vector <- readLines("DDI_atc_vector/KEGG_vector.txt")
+```
+
+NDFRT 
+```{r}
+NDFRT_vector <- readLines("DDI_atc_vector/NDFRT_vector.txt")
+```
+
+HIV
+```{r}
+HIV_vector <- readLines("DDI_atc_vector/HIV_vector.txt")
+```
+
+HEP
+```{r}
+HEP_vector <- readLines("DDI_atc_vector/HEP_vector.txt")
+```
+
+CANCER
+```{r}
+CANCER_vector <- readLines("DDI_atc_vector/CANCER_vector.txt")
+```
+
+danish
+```{r}
+danish_vector <- readLines("DDI_atc_vector/Danish_vector.txt")
+```
+
+ONC-High
+```{r}
+ONC_High_vector <- readLines("DDI_atc_vector/ONC-high_vector.txt")
+```
+
+ONC-NI
+```{r}
+ONC_NI_vector <- readLines("DDI_atc_vector/ONC-NI_vector.txt")
+```
+
+Clinical data
+```{r}
+clinicaldrugpairs_counts <- read_delim("DDI_clinical_data/clinicaldrugpairs_counts.tsv", 
+    "\t", escape_double = FALSE, trim_ws = TRUE)
+
+clinicaldrugpairs_counts$atc_vector <- paste(clinicaldrugpairs_counts$drug,clinicaldrugpairs_counts$codrug, sep = "_")
+
+
+Clinical_data_vector <- c(clinicaldrugpairs_counts$atc_vector)
+```
+
+
+```{r}
+library(UpSetR)
+
+
+upsetR <- list(KEGG = KEGG_vector,
+               ONC_HIGH =ONC_High_vector, 
+               ONC_NI=ONC_NI_vector, 
+               Crediblemeds = Crediblemeds_vector, 
+               NDFRT = NDFRT_vector, 
+               Danish_DDI = danish_vector, 
+               HIV = HIV_vector, 
+               HEP = HEP_vector, 
+               CANCER = CANCER_vector, 
+               clinical_data = Clinical_data_vector)
+
+
+
+pdf(file = "upsetR.pdf", width = 12, height = 8)
+
+upset(fromList(upsetR), nsets = 10, nintersects = NA,
+            mainbar.y.label="Intersection fo DDIs",
+            sets.x.label="Number of DDIs",
+            text.scale = c(1,1,1,1,1,0))
+
+dev.off()
+```
+

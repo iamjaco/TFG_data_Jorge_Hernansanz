@@ -1,0 +1,55 @@
+---
+title: "NML_corpus_filtering"
+author: "Jorge H."
+date: "3/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(reticulate)
+```
+
+```{r}
+#Creating a variable to record in memory package 'pandas' with its functions.
+pandas_imp <- import("pandas")
+  #Need to use py_install("pandas")
+
+#Reading pickle file.
+pickle_NML_corpus_DDIs <- pandas_imp$read_pickle("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Corpus/NML_Corpus/nlmcorpus-ddis.pickle.txt")
+
+#Converting pickle file in data frame (Needs to be called twice the as.data.frame).
+pickle_NML_corpus_DDIs <- t(as.data.frame(lapply(pickle_NML_corpus_DDIs, function(x){return(c(x$drug1, x$drug2, x$object, x$precipitant, x$evidenceStatement))})))
+
+pickle_NML_corpus_DDIs <- as.data.frame(pickle_NML_corpus_DDIs)
+
+
+#Modifying labels.
+rownames(pickle_NML_corpus_DDIs) <- NULL
+colnames(pickle_NML_corpus_DDIs) <- c("Drug1","Drug2","Object","Precipitant","evidenceStatement")
+
+pickle_NML_corpus_DDIs$Drug1 <- gsub("http://bio2rdf.org/drugbank:","",pickle_NML_corpus_DDIs$Drug1)
+pickle_NML_corpus_DDIs$Drug2 <- gsub("http://bio2rdf.org/drugbank:","",pickle_NML_corpus_DDIs$Drug2)
+
+pickle_NML_corpus_DDIs$Object <- gsub("ï»¿","",pickle_NML_corpus_DDIs$Object)
+
+#Unique identifiers
+Unique <- unique(c(pickle_NML_corpus_DDIs$Drug1,pickle_NML_corpus_DDIs$Drug2))
+```
+
+
+ATC
+```{r}
+DDI_mapped <- merge(pickle_NML_corpus_DDIs ,Drug_ATC_codes_DB,by.x="Drug1",by.y = "parent_key")
+
+DDI_mapped <- merge(DDI_mapped,Drug_ATC_codes_DB, by.x="Drug2",by.y = "parent_key")
+```
+
+```{r}
+DDI_mapped <- DDI_mapped[,c("atc_code.x","atc_code.y")]
+
+write.table(DDI_mapped,"C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Filtered_datasets/NLM_corpus_to_ATC_codes.txt",sep = "\t",row.names = FALSE, col.names = FALSE)
+```

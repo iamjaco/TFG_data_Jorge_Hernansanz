@@ -1,0 +1,87 @@
+---
+title: "Generating files"
+author: "Jorge H."
+date: "24/5/2020"
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, '2_Drugbank_dataset (3).html')) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+```{r}
+library(readr)
+```
+
+
+Importing the dataset
+```{r}
+Drugbank_DDI <- read_csv("Data/Drugbank_DDI.txt")
+
+clinicaldrugpairs_counts <- read_delim("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/DDI_clinical_data/clinicaldrugpairs_counts.tsv", 
+                                       "\t", 
+                                       escape_double = FALSE, 
+                                       trim_ws = TRUE)
+```
+
+
+
+Generating duplicates (Just to deal with the directional clinical data)
+```{r}
+DB_DDI_1 <- Drugbank_DDI[,c(1,2,5)]
+DB_DDI_1 <- unique(DB_DDI_1)
+
+atcos <- DB_DDI_1[,c("drug","codrug")]
+DB_DDI_1 <- DB_DDI_1[duplicated(atcos) | duplicated(atcos, fromLast = TRUE),]
+
+DB_DDI_2 <- Drugbank_DDI[,c(2,1,5)]
+DB_DDI_2 <- unique(DB_DDI_2)
+
+colnames(DB_DDI_2) <- c("drug", "codrug", "description")
+
+DB_DDI <- rbind(DB_DDI_1,DB_DDI_2)
+DB_DDI <- unique(DB_DDI)
+```
+
+We observe that Drugbank already provides that duplication, with identical descriptions. Therefore, we proceed without anymore transformation.
+
+Subsetting for clinical data
+```{r}
+clinical_DDIs <- merge(Drugbank_DDI, 
+                clinicaldrugpairs_counts[,c("drug","codrug")], 
+                by = c("drug", "codrug"))
+
+clinical_DDIs <- unique(DB_DDI)
+```
+
+
+# Files for Compendia
+```{r}
+# Whole dataset
+write_csv(Drugbank_DDI,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/DDI_compendia_data/Drugbank_DDI_compendia.txt")
+
+# ATC vector
+write_csv(unique(Drugbank_DDI[,"ATC_vector"]),
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/ATC_Drugbank.txt", col_names = FALSE)
+
+# Features
+```
+
+
+# Files for Clinical data
+```{r}
+# Whole dataset
+write_csv(clinical_DDIs,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_clinical_data/DDI_dataset/Drugbank_DDI_clinical.txt")
+
+# Features
+
+
+```
+

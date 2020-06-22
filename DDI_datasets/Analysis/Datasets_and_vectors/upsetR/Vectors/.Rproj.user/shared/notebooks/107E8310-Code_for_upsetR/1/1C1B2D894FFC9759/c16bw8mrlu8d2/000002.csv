@@ -1,0 +1,3 @@
+"0","NLM_corpus <- readLines(""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Vectors/Vector_of_NLM_corpus_DDI.txt"")"
+"2","ufuldstændig endelig linje fundet på 'C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Vectors/Vector_of_NLM_corpus_DDI.txt'"
+"0","NLM_corpus <- unique(NLM_corpus)"

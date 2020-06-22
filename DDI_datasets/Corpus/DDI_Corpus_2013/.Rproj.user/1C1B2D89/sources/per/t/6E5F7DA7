@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589292820827.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6E5F7DA7",
+    "lastKnownWriteTime" : 14918401402404956,
+    "last_content_update" : 1589292820827,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "5882723fa2804ca187508c6b61a4d738",
+        "name" : "pickle_Corpus_DDI",
+        "title" : "pickle_Corpus_DDI"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

@@ -1,0 +1,220 @@
+---
+title: "Danish_DDIs_to_ATC"
+author: "Jorge H."
+date: "3/3/2020"
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, '1_Danish_dataset (1).html')) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+Packages used
+```{r}
+library(XML)
+library(data.table)
+library(readr)
+library(dplyr)
+```
+
+Extracting lists from the database
+```{r}
+DDI_danish <- xmlParse("Data/XML_Dato_3.xml")
+DDI_danish <-xmlToList(DDI_danish)
+#DDI_danish
+```
+
+
+Extracting dataframes from the lists of the database
+  + Obtaining dataframe.
+  + Mutating columns to character type.
+```{r}
+#Obtaining Stof_ID (the drug_ID)
+Niveau3 <- rbindlist(
+  lapply(
+    DDI_danish$NIVEAU3ER, 
+    function(x) 
+      data.table(t(x))
+    ),
+  fill = TRUE)
+Niveau3 <- as.data.frame(Niveau3)
+
+Niveau3 <- Niveau3 %>%
+  mutate_all(as.character)
+
+
+#Obtaining ID_of_substance
+Substanser <- rbindlist(
+  lapply(
+    DDI_danish$SUBSTANSER, 
+    function(x)
+      data.table(t(x))
+    ),
+  fill = TRUE)
+Substanser <- as.data.frame(Substanser)
+
+Substanser <- Substanser %>%
+  mutate_all(as.character)
+
+
+#Obtaining praeparat_ID
+PraeparatGrupperinger <- rbindlist(
+  lapply(
+    DDI_danish$PRAEPARATGRUPPERINGER, 
+    function(x) 
+      data.table(t(x))
+    ),
+  fill = TRUE)
+PraeparatGrupperinger <- as.data.frame(PraeparatGrupperinger)
+
+PraeparatGrupperinger <- PraeparatGrupperinger %>%
+  mutate_all(as.character)
+
+
+#Obtaining praeparatIdentifier
+Praeparater <- rbindlist(
+  lapply(
+    DDI_danish$PRAEPARATER, 
+    function(x) 
+      data.table(t(x))
+    ),
+  fill = TRUE)
+Praeparater <- as.data.frame(Praeparater)
+
+Praeparater <- Praeparater %>%
+  mutate_all(as.character)
+
+
+
+#Obtaining ATC code
+ATC_codes <- readxl::read_xlsx("Data/list_of_medicines.xlsx")
+```
+
+
+This section will create the different index for the ATCs, and for the different features that are locally encoded in the xml.
+
++ ATC index
+```{r}
+###
+Index <- c(Niveau3$ID_Stof1,Niveau3$ID_Stof2)
+Index <- unique(Index)     #754 drugs
+Index <- as.data.frame(Index)
+colnames(Index)[1] = 'ID_Stof'
+###
+
+
+###
+#From niveau3 to substancer
+###
+Index<- merge(Index,Substanser[,c(1,2)], by = 'ID_Stof')
+Index <- unique(Index)
+###
+
+
+###
+#From substancer to praeparat grupperinger 
+###
+Index<- merge(Index,PraeparatGrupperinger[,c(2,3)], by = 'ID_Substans')
+Index <- unique(Index)
+###
+
+
+###
+#From praeparat gruperringer to praeparat
+###
+Index<- merge(Index,Praeparater[,c(1,2)], by = 'ID_Praeparat')
+Index <- unique(Index)
+###
+
+
+###
+#From praeparat to ATC code
+###
+Index<- merge(Index,ATC_codes[,c(1,7)], by.x = 'Praeparatidentifier', by.y = 'Drugid')
+Index <- unique(Index)
+###
+
+Index <- Index[,c('ID_Stof','ATC-kode')]
+colnames(Index)[2] <- 'ATC_code'
+Index <- unique(Index)
+```
+
+
++ Management option feature index
+```{r}
+Management <- rbindlist(
+  lapply(
+    DDI_danish$REKOMMANDATIONER, 
+    function(x) 
+      data.table(t(x))
+    ),
+  fill = TRUE)
+Management <- as.data.frame(Management)
+
+Management <- Management %>%
+  mutate_all(as.character)
+
+colnames(Management)[3] <- "Management_option"
+
+
+
+#same DDI may have two level of recommandation. From the 4710 DDIs  in niveau3. We have 4698 unique DDIs. There are 12 DDIs that have more than one class efect (Niveau 2)
+duplicated <- Niveau3[duplicated(Niveau3[,c("ID_Stof1","ID_Stof2")]),]
+#DDI_recommendation$Sorteringsnr
+
+```
+
+
++ Clinical significance feature index
+```{r}
+#Obtaining table of clinical significance types
+Clinical_significance <- rbindlist(
+  lapply(
+    DDI_danish$KLINISKEBETYDNINGER, 
+    function(x) 
+      data.table(t(x))
+    ),
+  fill = TRUE)
+Clinical_significance <- as.data.frame(Clinical_significance)
+
+Clinical_significance <- Clinical_significance %>%
+  mutate_all(as.character)
+
+colnames(Clinical_significance)[3] <- "Clinical_significance"
+
+```
+
+
++ Evidence level feature index
+```{r}
+# Obtaining table of evidence level types
+Evidence_level <- rbindlist(
+  lapply(
+    DDI_danish$DOKUMENTATIONSGRADER, 
+    function(x) 
+      data.table(t(x))
+    ),
+  fill = TRUE)
+Evidence_level <- as.data.frame(Evidence_level)
+
+Evidence_level <- Evidence_level %>%
+  mutate_all(as.character)
+
+colnames(Evidence_level)[3] <- "Evidence_level"
+```
+
+Exporting files
+```{r}
+write_csv(Niveau3, "Data/Niveau3.txt")
+
+write_csv(Index, "Indexes/ATC_index.txt")
+write_csv(Management, "Indexes/Management_index.txt")
+write_csv(Clinical_significance, "Indexes/Clinical_significance_index.txt")
+write_csv(Evidence_level, "Indexes/Evidence_level_index.txt")
+```
+

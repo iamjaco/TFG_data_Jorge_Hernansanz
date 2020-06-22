@@ -1,0 +1,68 @@
+---
+title: "DDI_Corpus_2013"
+author: "Jorge H."
+date: "19/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(reticulate)
+```
+
+
+```{r}
+#Creating a variable to record in memory package 'pandas' with its functions.
+pandas_imp <- import("pandas")
+  #Need to use py_install("pandas")
+
+#Reading pickle file.
+pickle_Corpus_DDI <- pandas_imp$read_pickle("ddicorpus2013-ddis.pickle")
+
+#Converting pickle file in data frame (Needs to be called twice the as.data.frame).
+pickle_Corpus_DDI <- t(as.data.frame(lapply(pickle_Corpus_DDI, function(x){return(c(x$drug1, x$drug2,x$ddiType, x$evidenceStatement))})))
+
+pickle_Corpus_DDI <- as.data.frame(pickle_Corpus_DDI)
+
+#Modifying labels.
+rownames(pickle_Corpus_DDI) <- NULL
+colnames(pickle_Corpus_DDI) <- c("Drug1","Drug2","diiType","evidenceStatement")
+
+```
+
+
+```{r}
+#Filtering first columns
+pickle_Corpus_DDI$Drug1 <- gsub("http://bio2rdf.org/drugbank:","",pickle_Corpus_DDI$Drug1)
+
+pickle_Corpus_DDI$Drug2 <- gsub("http://bio2rdf.org/drugbank:","",pickle_Corpus_DDI$Drug2)
+
+# Joining identifiers, find uniques, and map to drugbank
+corpus_id_ATC <- c(pickle_Corpus_DDI$Drug1,pickle_Corpus_DDI$Drug2)
+corpus_id_ATC <- unique(corpus_id_ATC)
+mis_id <- setdiff(corpus_id_ATC, Drug_ATC_codes_DB$parent_key)
+
+# Checking no missing identifiers in the Corpus
+setdiff(pickle_Corpus_DDI$Drug2,corpus_id_ATC)
+
+# Checking missing interaction due to the lack of 29 identifiers.
+corpus_id_ATC = corpus_id_ATC[!(corpus_id_ATC %in% mis_id)]
+pickle_corpus_filtered <- pickle_Corpus_DDI[pickle_Corpus_DDI$Drug1 %in% corpus_id_ATC & pickle_Corpus_DDI$Drug2 %in% corpus_id_ATC,]
+```
+
+
+ATC
+```{r}
+DDI_mapped <- merge(DDICorpus2013Mapped ,Drug_ATC_codes_DB,by.x="X3",by.y = "parent_key")
+
+DDI_mapped <- merge(DDI_mapped,Drug_ATC_codes_DB, by.x="X6",by.y = "parent_key")
+```
+
+```{r}
+DDI_mapped <- DDI_mapped[,c("atc_code.x","atc_code.y")]
+
+write.table(DDI_mapped,"C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Filtered_datasets/Corpus_2013_to_ATC_codes.txt",sep = "\t",row.names = FALSE, col.names = FALSE)
+```

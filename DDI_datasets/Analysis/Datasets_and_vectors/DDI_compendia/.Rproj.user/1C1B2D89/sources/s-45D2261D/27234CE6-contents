@@ -1,0 +1,171 @@
+---
+title: "ATC_library"
+author: "Jorge H."
+date: "8/4/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+library(data.table)
+library(stringr)
+library(tidyr)
+```
+
+Creating index of single drug ATC code (No duplicates)
+```{r}
+#Fetching files
+data_files <- list.files("Vectors/", full.names = T)
+data_files <- data_files[grepl("*.txt", data_files)]
+
+Vector_of_ATC_codes <- c()
+
+for (file in data_files){
+  file = read_table2(file, 
+    col_names = FALSE)
+  #Separating '_' to obtain two columns.
+  file <- file %>%
+    separate(X1, into = c("X1","X2"), sep = '_')  
+  
+  #Looking to all drugs in the dataset and selecting unique
+  Vector_of_file <- unique(c(file$X1,file$X2))
+  Vector_of_ATC_codes <- unique(c(Vector_of_ATC_codes,Vector_of_file))
+}
+
+Vector_of_ATC_codes <- as.data.frame(sort(Vector_of_ATC_codes))
+colnames(Vector_of_ATC_codes)[1] <- 'ATC_CODE'
+
+#Creating the different levels
+Vector_of_ATC_codes$ATC_Level_1 <- substring(Vector_of_ATC_codes$ATC_CODE,1,1)
+Vector_of_ATC_codes$ATC_Level_2 <- substring(Vector_of_ATC_codes$ATC_CODE,1,3)
+Vector_of_ATC_codes$ATC_Level_3 <- substring(Vector_of_ATC_codes$ATC_CODE,1,4)
+Vector_of_ATC_codes$ATC_Level_4 <- substring(Vector_of_ATC_codes$ATC_CODE,1,5)
+Vector_of_ATC_codes$ATC_Level_5 <- substring(Vector_of_ATC_codes$ATC_CODE,1,7)
+
+write_csv(Vector_of_ATC_codes, "Indexes/1_Index_ATC.txt")
+```
+
+
+
+Creating index of all single drugs(With duplicates) 
+```{r}
+#Fetching files
+data_files <- list.files("Vectors/", full.names = T)
+data_files <- data_files[grepl("*.txt", data_files)]
+
+Vector_of_ATC_codes_full <- data.frame(Drug = as.character(), Dataset_source = as.character() )
+
+for (file_name in data_files){
+  file = read_table2(file_name, 
+    col_names = FALSE)
+  #Separating '_' to obtain two columns.
+  file <- file %>%
+    separate(X1, into = c("X1","X2"), sep = '_')  
+  
+  #Looking to all drugs in the dataset and retrieving all (unique within each database but duplicated indicating to which database it belongs)
+  Vector_of_file <- unique(c(file$X1,file$X2))
+  dataset_of_file <- as.data.frame(Vector_of_file)
+  colnames(dataset_of_file) <- "Drug"
+  
+  # Used to assign data_Source to the DDIs
+  file_name <- gsub("Vectors/Vector_of_","",file_name)
+  file_name <- gsub("_DDI.txt","",file_name)
+  dataset_of_file$Dataset_source <- sprintf("%s",file_name)
+  
+  #Binding rows of the file with the general dataset
+  Vector_of_ATC_codes_full <- rbind(Vector_of_ATC_codes_full,dataset_of_file)
+  
+}
+
+Vector_of_ATC_codes_full <- Vector_of_ATC_codes_full[order(Vector_of_ATC_codes_full$Drug),]
+colnames(Vector_of_ATC_codes_full)[1] <- 'ATC_CODE'
+
+#Creating the different levels
+Vector_of_ATC_codes_full$ATC_Level_1 <- substring(Vector_of_ATC_codes_full$ATC_CODE,1,1)
+Vector_of_ATC_codes_full$ATC_Level_2 <- substring(Vector_of_ATC_codes_full$ATC_CODE,1,3)
+Vector_of_ATC_codes_full$ATC_Level_3 <- substring(Vector_of_ATC_codes_full$ATC_CODE,1,4)
+Vector_of_ATC_codes_full$ATC_Level_4 <- substring(Vector_of_ATC_codes_full$ATC_CODE,1,5)
+Vector_of_ATC_codes_full$ATC_Level_5 <- substring(Vector_of_ATC_codes_full$ATC_CODE,1,7)
+
+write_csv(Vector_of_ATC_codes_full, "Indexes/2_Index_all_drugs_ATC.txt")
+```
+
+
+All DDI obtained with their source (Allowing duplicates of DDI)
+```{r}
+library(tidyr)
+
+#Fetching the files to read
+data_files <- list.files("Vectors/", full.names = T)
+data_files <- data_files[grepl("*.txt", data_files)]
+
+#Creating the matrix where they will be stored
+DDI_index <- matrix(nrow = 0, ncol = 3)
+colnames(DDI_index) = c("ATC1","ATC2","Dataset_source")
+vector_of_length <- c()
+
+
+for (file_name in data_files){
+  file = read_table2(file_name, 
+    col_names = FALSE)
+  
+  #Taking unique DDIs from each file
+  file <- unique(file)
+  
+  #Separating '_' to obtain two columns.
+  file <- file %>%
+    separate(X1, into = c("ATC1","ATC2"), sep = '_')
+  
+  # Used to assign data_Source to the DDIs
+  file_name <- gsub("Vectors/Vector_of_","",file_name)
+  file_name <- gsub("_DDI.txt","",file_name)
+  file_name <- gsub("_"," ",file_name)
+  file$Dataset_source <- sprintf("%s",file_name)
+  
+  DDI_index <- rbind(DDI_index,file)
+}
+write_csv(DDI_index,"Indexes/3_DDI_index.txt")
+```
+
+
+
+Creating index for each of the DDI .txt
+```{r}
+#Fetching the files to read
+data_files <- list.files("Vectors/", full.names = T)
+data_files <- data_files[grepl("*.txt", data_files)]
+
+for (file_name in data_files){
+  index = read_table2(file_name, 
+    col_names = FALSE)
+  
+  #Separating '_' to obtain two columns.
+  index <- index %>%
+    separate(X1, into = c("X1","X2"), sep = '_')
+  
+  index <- unique(c(index$X1,index$X2))
+  index <- as.data.frame(sort(index))
+  
+  colnames(index)[1] <- 'ATC_CODE'
+  
+  
+  index$ATC_Level_1 <- substring(index$ATC_CODE,1,1)
+  index$ATC_Level_2 <- substring(index$ATC_CODE,1,3)
+  index$ATC_Level_3 <- substring(index$ATC_CODE,1,4)
+  index$ATC_Level_4 <- substring(index$ATC_CODE,1,5)
+  index$ATC_Level_5 <- substring(index$ATC_CODE,1,7)
+  
+  file_name <- gsub("Vectors/Vector_of_","",file_name)
+  file_name <- gsub("_DDI.txt","_ATC_index",file_name)
+  
+  url_file = sprintf("Indexes/%s.txt",file_name)
+  
+  write_csv(index, url_file)
+}
+```
+
+

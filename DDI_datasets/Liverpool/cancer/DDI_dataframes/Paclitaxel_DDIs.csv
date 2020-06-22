@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Paclitaxel,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. Paclitaxel does not interact with this metabolic pathway.",See Summary
+1,Paclitaxel,Acenocoumarol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Acenocoumarol is mainly metabolised by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Paclitaxel does not inhibit or induce CYPs.,See Summary
+2,Paclitaxel,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolised by glucuronidation (by several UGTs, major UGT1A6). Paclitaxel does not inhibit or induce UGTs.",See Summary
+3,Paclitaxel,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). Paclitaxel does not inhibit or induce CYPs.",See Summary
+4,Paclitaxel,Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alendronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+5,Paclitaxel,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. Paclitaxel does not inhibit or induce CYPs.,See Summary
+6,Paclitaxel,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolised by CYP3A. Paclitaxel does not inhibit or induce CYPs.,See Summary
+7,Paclitaxel,Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolised and is mainly excreted unchanged in faeces. Aliskiren is also a substrate of P-gp. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+8,Paclitaxel,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Paclitaxel does not interact with this metabolic pathway.,See Summary
+9,Paclitaxel,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. Paclitaxel does not inhibit or induce CYPs.",See Summary
+10,Paclitaxel,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+11,Paclitaxel,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aluminium hydroxide is not metabolised. Paclitaxel is unlikely to interfere with this metabolic pathway.,See Summary
+12,Paclitaxel,Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolized by glucuronidation via UGTs 1A3, 1A9 and 2B7 and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs, UGTs or P-gp.",See Summary
+13,Paclitaxel,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amikacin is eliminated by glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+14,Paclitaxel,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+15,Paclitaxel,Amiodarone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Amiodarone is metabolised by CYP3A4 and CYP2C8. Paclitaxel does not inhibit or induce CYPs. However, the major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Paclitaxel concentrations may increase due to CYP3A4 inhibition. A case report described severe skin and mucosal toxicity in a patient after coadministration of paclitaxel and trastuzumab with amiodarone. Paclitaxel was still present in blood samples 21 days after the last administration of paclitaxel. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as amiodarone. ECG monitoring should be considered. Note: due to the long half-life of amiodarone, interactions can be observed for several months after discontinuation of amiodarone.",See Summary
+16,Paclitaxel,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolised and is primarily renally eliminated (possibly via OCT). Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+17,Paclitaxel,Amitriptyline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as amitriptyline. ECG monitoring should be considered.",See Summary
+18,Paclitaxel,Amlodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+19,Paclitaxel,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+20,Paclitaxel,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amphotericin B is not appreciably metabolised and is eliminated to a large extent in the bile. Paclitaxel does not interfere with this elimination pathway. However, the European SPC for amphotericin B states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Monitoring may be required.",See Summary
+21,Paclitaxel,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20-40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60-80% is excreted in the urine within 6 hours. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+22,Paclitaxel,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. Paclitaxel does not interact with this metabolic pathway.,See Summary
+23,Paclitaxel,Antacids,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Antacids are not metabolised by CYPs. Paclitaxel is unlikely to interfere with this metabolic pathway.,See Summary
+24,Paclitaxel,Apixaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Apixaban is a substrate of P-gp and BCRP, and is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Paclitaxel does not inhibit or induce CYPs, P-gp or BCRP.",See Summary
+25,Paclitaxel,Aprepitant,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Aprepitant is mainly metabolized by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Paclitaxel does not inhibit or induce CYPs. During treatment, aprepitant is a moderate inhibitor of CYP3A4 and may increase paclitaxel concentrations. Coadministration of paclitaxel and verapamil, a moderate CYP3A4 inhibitor, increased paclitaxel AUC by 1.90-fold. A similar effect may occur after coadministration with aprepitant. Coadministration should be approached with caution during the few days of aprepitant treatment. Monitor closely for paclitaxel toxicity. Moreover, after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Paclitaxel concentrations may decrease due to CYP3A4 induction. However, this is not considered to be clinically relevant.",See Summary
+26,Paclitaxel,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolised by CYP3A4 and CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+27,Paclitaxel,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 (minor) and 2D6 (minor)). Paclitaxel does not inhibit or induce CYPs or UGTs.",See Summary
+28,Paclitaxel,Astemizole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as astemizole. ECG monitoring should be considered.",See Summary
+29,Paclitaxel,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.",See Summary
+30,Paclitaxel,Atorvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolised by CYP3A4 and is a substrate of P-gp and OATP1B1. Paclitaxel does not inhibit or induce CYPs, P-gp or OATP1B1.",See Summary
+31,Paclitaxel,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolised analogously to natural purines. Paclitaxel does not interact with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+32,Paclitaxel,Azithromycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Azithromycin is mainly eliminated via biliary excretion; animal data suggest this may occur via P-gp and MRP2. Paclitaxel is unlikely to interfere with this elimination pathway. However, azithromycin is an inhibitor of P-gp and may increase paclitaxel concentrations. The clinical relevance of P-gp inhibition by azithromycin is unknown. If coadministration is unavoidable, monitoring for paclitaxel toxicity should be considered. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as azithromycin. ECG monitoring should be considered.",See Summary
+33,Paclitaxel,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Paclitaxel does not interact with this metabolic pathway.",See Summary
+34,Paclitaxel,Bedaquiline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Bedaquiline is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as bedaquiline. ECG monitoring should be considered.",See Summary
+35,Paclitaxel,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. In vitro data indicate that bendroflumethiazide inhibits these renal transporters but a clinically significant interaction is unlikely in the range of observed clinical concentrations. Paclitaxel is unlikely to interfere with this pathway.,See Summary
+36,Paclitaxel,Bepridil,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as bepridil. ECG monitoring should be considered.",See Summary
+37,Paclitaxel,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+38,Paclitaxel,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Half of a bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Paclitaxel is unlikely to interfere with this pathway.,See Summary
+39,Paclitaxel,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. Paclitaxel does not interact with this metabolic pathway.,See Summary
+40,Paclitaxel,Bisoprolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6, and partly eliminated unchanged in the urine. Paclitaxel is unlikely to interact with this metabolic or elimination pathway.",See Summary
+41,Paclitaxel,Bosentan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Bosentan is a substrate of CYP3A4 and CYP2C9. Paclitaxel does not inhibit or induce CYPs. However, bosentan is also a weak inducer of CYP3A4 and CYP2C9. Concentrations of paclitaxel may decrease due to CYP3A4 induction. As the clinical relevance of this interaction is unknown, monitoring of paclitaxel efficacy may be required.",See Summary
+42,Paclitaxel,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may also play a role. Paclitaxel does not inhibit or induce CYPs.",See Summary
+43,Paclitaxel,Budesonide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+44,Paclitaxel,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+45,Paclitaxel,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolised by CYP2B6 and is a strong inhibitor of CYP2D6. Paclitaxel does not interact with this pathway.,See Summary
+46,Paclitaxel,Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+47,Paclitaxel,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. Paclitaxel is unlikely to interfere with these elimination pathways.",See Summary
+48,Paclitaxel,Candesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+49,Paclitaxel,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Paclitaxel is unlikely to interfere with this elimination pathway. ,See Summary
+50,Paclitaxel,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Paclitaxel does not inhibit or induce OATs.,See Summary
+51,Paclitaxel,Carbamazepine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Carbamazepine is primarily metabolized by CYP3A4 and to a lesser extent by CYP2C8. Paclitaxel does not inhibit or induce CYPs. However, carbamazepine is an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong), 1A2 (weak), 2B6 and UGT1A1. Paclitaxel concentrations may decrease due to CYP2C8 and CYP3A4 induction. The clinical relevance of this interaction is unknown. In a phase II study, patients received anticonvulsants known to induce CYP enzymes in combination with paclitaxel. These patients experienced less toxicity and a lower paclitaxel steady state concentration compared to patients without anticonvulsants. Therefore, coadministration should be avoided. If coadministration is unavoidable, closely monitor paclitaxel efficacy.",See Summary
+52,Paclitaxel,Carvedilol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additional metabolism via CYP2D6 and to a lesser extent by CYP2C9 and CYP1A2. Paclitaxel does not inhibit or induce CYPs or UGTs.",See Summary
+53,Paclitaxel,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non-CYP mediated pathway. Paclitaxel does not interact with this metabolic pathway.,See Summary
+54,Paclitaxel,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly renally eliminated unchanged by glomerular filtration and tubular secretion via OAT1 and MATE1. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+55,Paclitaxel,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Paclitaxel is unlikely to interfere with this elimination pathway.",See Summary
+56,Paclitaxel,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefixime is renally excreted predominantly by glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+57,Paclitaxel,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolised by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Paclitaxel is unlikely to interfere with this elimination pathway.",See Summary
+58,Paclitaxel,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftazidime is excreted predominantly by renal glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+59,Paclitaxel,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Paclitaxel is unlikely to interfere with this elimination pathway.",See Summary
+60,Paclitaxel,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolised by CYP2C9. Paclitaxel does not inhibit or induce CYPs.,See Summary
+61,Paclitaxel,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion. In vitro data indicate that cetirizine is also an inhibitor of OCT2. Paclitaxel is unlikely to interfere with this pathway.,See Summary
+62,Paclitaxel,Chloramphenicol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Chloramphenicol is predominantly glucuronidated. Paclitaxel does not inhibit or induce UGTs. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Paclitaxel concentrations may increase due to CYP3A4 inhibition. As the clinical relevance of this interaction is unknown, monitoring for paclitaxel toxicity may be required. Ocular use: Although chloramphenicol is systemically absorbed when used topically in the eye, the absorbed concentrations are unlikely to cause a clinically significant interaction.",See Summary
+63,Paclitaxel,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce cytochromes. Paclitaxel does not interact with this pathway.",See Summary
+64,Paclitaxel,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolised in the liver via CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+65,Paclitaxel,Chlorpromazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Chlorpromazine is metabolised mainly by CYP2D6, but also by CYP1A2. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as chlorpromazine. ECG monitoring should be considered.",See Summary
+66,Paclitaxel,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+67,Paclitaxel,Ciclosporin (Cyclosporine),"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ciclosporin is a substrate of CYP3A4 and P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, ciclosporin is also an inhibitor of CYP3A4 and OATP1B1 and may increase concentrations of paclitaxel. The clinical relevance of this interaction is unknown. Coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for paclitaxel toxicity.",See Summary
+68,Paclitaxel,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+69,Paclitaxel,Cimetidine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has been studied and care should be taken. Cimetidine is metabolised by CYP450 enzymes. Paclitaxel does not inhibit or induce CYPs. In vitro data indicate that cimetidine inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations. Cimetidine is also a weak inhibitor of CYPs 3A4, 1A2, 2D6 and 2C19. Paclitaxel concentrations my increase due to inhibition of CYP3A4. The clinical relevance of this interaction is unknown. After coadministration, no difference in paclitaxel clearance or neutropenia was observed when compared with paclitaxel alone. However, monitoring for paclitaxel toxicity may be required.",See Summary
+70,Paclitaxel,Ciprofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. It is also metabolised and partially cleared through the bile and intestine. Paclitaxel is unlikely to interfere with this metabolic or elimination pathway. However, ciprofloxacin is a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Paclitaxel concentrations may increase due to CYP3A4 inhibition. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as ciprofloxacin. ECG monitoring should be considered.",See Summary
+71,Paclitaxel,Cisapride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Cisapride is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, coadministration with other drugs that prolong the QTc interval should be avoided. A thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether the warning is in place. If coadministration is unavoidable, monitor ECG closely.",See Summary
+72,Paclitaxel,Citalopram,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as citalopram. ECG monitoring should be considered.",See Summary
+73,Paclitaxel,Clarithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Clarithromycin is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, clarithromycin is an inhibitor of CYP3A4 (strong) and P-gp and may increase concentrations of paclitaxel. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as clarithromycin. ECG monitoring should be considered if coadministration is unavoidable.",See Summary
+74,Paclitaxel,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolised (likely non-CYP mediated pathway) and excreted in the urine by glomerular filtration. Paclitaxel is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+75,Paclitaxel,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolised in the liver via CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+76,Paclitaxel,Clindamycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Clindamycin is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, in vitro data suggest that clindamycin is a CYP3A4 inhibitor and may increase paclitaxel concentrations. As the clinical relevance of this interaction is unknown, monitoring for paclitaxel toxicity may be required.",See Summary
+77,Paclitaxel,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,See Summary
+78,Paclitaxel,Clofazimine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Clofazimine is largely excreted unchanged in the faeces. Paclitaxel is unlikely to interfere with this elimination pathway. However, in vitro data suggest that clofazimine is a CYP3A4 inhibitor and may increase paclitaxel concentrations. As the clinical relevance of this interaction is unknown, monitoring for paclitaxel toxicity may be required. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as clofazimine. ECG monitoring should be considered.",See Summary
+79,Paclitaxel,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolysed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Paclitaxel does not inhibit or induce OATs.",See Summary
+80,Paclitaxel,Clomipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. Clomipramine and desmethylclomipramine are both metabolised by CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as clomipramine. ECG monitoring should be considered.",See Summary
+81,Paclitaxel,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in the form of the unchanged parent drug (40-60% of the dose). Clonidine is also a weak inhibitor of OCT2. Paclitaxel is unlikely to interfere with pathway.",See Summary
+82,Paclitaxel,Clopidogrel,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. Paclitaxel does not inhibit or induce CYPs. However, clopidogrel is an inhibitor of CYP2C8 (strong), CYP2B6 (weak) and of CYP2C9 (in vitro) at high concentrations. The clinical relevance of CYP2C9 inhibition is unknown. Paclitaxel concentrations may increase due to CYP2C8 inhibition. Coadministration of clopidogrel with high-dose paclitaxel is associated with an increased risk of neuropathy, due to CYP2C8 inhibition. If coadministration is unavoidable, monitor closely for paclitaxel toxicity.",See Summary
+83,Paclitaxel,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Oxazepam is mainly glucuronidated. Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+84,Paclitaxel,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion. Paclitaxel is unlikely to interfere with this elimination pathway.",See Summary
+85,Paclitaxel,Clozapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as clozapine. ECG monitoring should be considered. Furthermore, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+86,Paclitaxel,Codeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolized by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. The metabolite morphine is a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs, UGTs or P-gp.",See Summary
+87,Paclitaxel,Colchicine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Colchicine is metabolised by CYP3A4 and is a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp.,See Summary
+88,Paclitaxel,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly renally excreted via glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+89,Paclitaxel,Dabigatran,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dabigatran is transported via P-gp and is renally excreted. Paclitaxel does not interact with this elimination pathway.,See Summary
+90,Paclitaxel,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+91,Paclitaxel,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP450 enzymes. Paclitaxel does not inhibit or induce CYPs.",See Summary
+92,Paclitaxel,Desipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Desipramine is metabolised by CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as desipramine. ECG monitoring should be considered.",See Summary
+93,Paclitaxel,Desogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Paclitaxel does not inhibit or induce CYPs. ,See Summary
+94,Paclitaxel,Dexamethasone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has been studied and care should be taken. Dexamethasone is a substrate of CYP3A4. Paclitaxel does not inhibit or induce CYPs. Dexamethasone has also been described as a weak inducer of CYP3A4 and could possibly decrease paclitaxel plasma concentrations. However, the clinical relevance of this interaction is not known as the induction of CYP3A4 by dexamethasone has not yet been established. Although it is unlikely that dexamethasone will have an effect on paclitaxel metabolism, monitoring of paclitaxel efficacy should be considered. Note: If dexamethasone is coadministered with paclitaxel as an anti-emetic or anti-anaphylactic drug, no clinical relevant effect on paclitaxel exposure is expected.",See Summary
+95,Paclitaxel,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+96,Paclitaxel,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolised by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Paclitaxel does not inhibit or induce UGTs or P-gp.",See Summary
+97,Paclitaxel,Diazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Temazepam is mainly glucuronidated. Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+98,Paclitaxel,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidised by CYP2C9. Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+99,Paclitaxel,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is renally eliminated via OATP4C1 and P-gp. Paclitaxel does not inhibit or induce OATP4C1 or P-gp.,See Summary
+100,Paclitaxel,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Paclitaxel does not inhibit or induce CYPs or UGTs.",See Summary
+101,Paclitaxel,Diltiazem,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Diltiazem is metabolised by CYP3A4 and CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, diltiazem is a moderate inhibitor of CYP3A4 and may increase concentrations of paclitaxel. Coadministration of paclitaxel and verapamil, a moderate CYP3A4 inhibitor, increased paclitaxel AUC by 1.90-fold. A similar effect may occur after coadministration with diltiazem. Coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for paclitaxel toxicity.",See Summary
+102,Paclitaxel,Diphenhydramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. Diphenhydramine is also a weak inhibitor of CYP2D6. In vitro, diphenhydramine did not have an effect on the formation of the metabolites of paclitaxel and paclitaxel does not interact with this pathway. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as diphenhydramine. ECG monitoring should be considered.",See Summary
+103,Paclitaxel,Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Paclitaxel does not inhibit or induce UGTs.",See Summary
+104,Paclitaxel,Disopyramide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. Paclitaxel is unlikely to interfere with this metabolic or elimination pathway. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as disopyramide. ECG monitoring should be considered.",See Summary
+105,Paclitaxel,Dolasetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). Paclitaxel does not inhibit or induce CYPs or UGTs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as dolasetron. ECG monitoring should be considered.",See Summary
+106,Paclitaxel,Domperidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as domperidone. ECG monitoring should be considered.",See Summary
+107,Paclitaxel,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. There is little potential for dopamine to affect disposition of paclitaxel, or to be affected if coadministered with paclitaxel.",See Summary
+108,Paclitaxel,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+109,Paclitaxel,Doxepin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolised to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. Doxepin and nordoxepin are both metabolised by CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+110,Paclitaxel,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+111,Paclitaxel,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+112,Paclitaxel,Drospirenone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+113,Paclitaxel,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dulaglutide is degraded by endogenous endopeptidases. Paclitaxel does not interact with this metabolic pathway.,See Summary
+114,Paclitaxel,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolised by CYP2D6 and CYP1A2. Paclitaxel does not inhibit or induce CYPs.,See Summary
+115,Paclitaxel,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+116,Paclitaxel,Dydrogesterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). Paclitaxel does not inhibit or induce CYPs.,See Summary
+117,Paclitaxel,Edoxaban,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is partially metabolised by CYP3A4 (<10%) and is transported via P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp.,See Summary
+118,Paclitaxel,Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1 and UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+119,Paclitaxel,Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is renally eliminated (possibly via OATs). Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+120,Paclitaxel,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is predominantly renally excreted. Paclitaxel is unlikely to interfere with this metabolic or elimination pathway.",See Summary
+121,Paclitaxel,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eprosartan is largely excreted in bile and urine as unchanged drug. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+122,Paclitaxel,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor role. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+123,Paclitaxel,Erythromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Erythromycin is a substrate of CYP3A4 and P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, erythromycin is an inhibitor of CYP3A4 (moderate) and P-gp and may increase paclitaxel concentrations. Coadministration of paclitaxel and verapamil, a moderate CYP3A4-inhibitor, increased paclitaxel AUC by 1.90-fold. A similar effect may occur after coadministration with erythromycin. Coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as erythromycin. ECG monitoring should be considered.",See Summary
+124,Paclitaxel,Escitalopram,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as escitalopram. ECG monitoring should be considered.",See Summary
+125,Paclitaxel,Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4. Esomeprazole is also an inhibitor of CYP2C19. Paclitaxel does not interact with this metabolic pathway.,See Summary
+126,Paclitaxel,Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+127,Paclitaxel,Estradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. Paclitaxel does not inhibit or induce CYPs or UGTs.",See Summary
+128,Paclitaxel,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolised by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and urine (50%). Paclitaxel is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+129,Paclitaxel,Ethinylestradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Paclitaxel does not inhibit or induce CYPs or UGTs.",See Summary
+130,Paclitaxel,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolised in the liver; animal studies suggest involvement of flavin-containing monooxygenases. Paclitaxel does not interact with this metabolic pathway.,See Summary
+131,Paclitaxel,Etonogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+132,Paclitaxel,Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+133,Paclitaxel,Exenatide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Exenatide is cleared mainly by glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+134,Paclitaxel,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Paclitaxel does not inhibit or induce UGTs.,See Summary
+135,Paclitaxel,Famotidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has been studied and a clinically significant interaction is unlikely. Famotidine is excreted via OAT1/OAT3. Paclitaxel does not inhibit or induce OATs. After coadministration, no difference in paclitaxel clearance or neutropenia was observed when compared with paclitaxel alone.",See Summary
+136,Paclitaxel,Felodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Felodipine is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+137,Paclitaxel,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolysed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Paclitaxel does not interact with this pathway.",See Summary
+138,Paclitaxel,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Paclitaxel does not inhibit or induce CYPs.,See Summary
+139,Paclitaxel,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine is a substrate of P-gp. Paclitaxel does not inhibit or induce P-gp.,See Summary
+140,Paclitaxel,Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+141,Paclitaxel,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+142,Paclitaxel,Flecainide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flecainide is metabolised mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also renally eliminated unchanged. Paclitaxel is unlikely to interfere with this metabolic or elimination pathway. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as flecainide. ECG monitoring should be considered.",See Summary
+143,Paclitaxel,Flucloxacillin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Paclitaxel is unlikely to interfere with this elimination pathway. Flucloxacillin has been described as a CYP3A4 inducer and may decrease paclitaxel concentrations. However, the mechanism and clinical relevance of this interaction is unknown. Monitoring of paclitaxel efficacy may be required.",See Summary
+144,Paclitaxel,Fluconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Fluconazole is cleared primarily by renal excretion. Paclitaxel does not interfere with this elimination pathway. However, fluconazole is an inhibitor of CYPs 3A4 (moderate), 2C9 (moderate) and 2C19 (strong). Concentrations of paclitaxel may increase due to CYP3A4 inhibition. Coadministration of paclitaxel and verapamil, a moderate CYP3A4 inhibitor, increased paclitaxel AUC by 1.90-fold. A similar effect may occur after coadministration with fluconazole. Coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as fluconazole. ECG monitoring should be considered.",See Summary
+145,Paclitaxel,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase to an inactive metabolite. Paclitaxel does not interfere with this elimination pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Paclitaxel also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+146,Paclitaxel,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. Paclitaxel does not inhibit or induce CYPs.",See Summary
+147,Paclitaxel,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. Paclitaxel does not inhibit or induce CYPs.,See Summary
+148,Paclitaxel,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is mainly metabolised by CYP2D6 and CYP2C9 and to a lesser extent by CYP2C19 and CYP3A4 to form norfluoxetine. Fluoxetine is also a strong inhibitor of CYP2D6 and CYP2C19. Paclitaxel does not interact with this pathway.,See Summary
+149,Paclitaxel,Fluphenazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as fluphenazine. ECG monitoring should be considered.",See Summary
+150,Paclitaxel,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Paclitaxel does not inhibit or induce CYPs.,See Summary
+151,Paclitaxel,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+152,Paclitaxel,Fluvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvastatin is mainly metabolised by CYP2C9 (75%) and to a lesser extent by CYP3A4 (20%) and CYP2C8 (5%). Fluvastatin also potentially inhibits CYP2C9, but the clinical relevance of CYP2C9 inhibition is unknown. Paclitaxel does not interact with this pathway.",See Summary
+153,Paclitaxel,Fluvoxamine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Paclitaxel does not inhibit or induce CYPs. However, fluvoxamine is an inhibitor of CYPs 1A2 (strong), 2C19 (strong), 3A4 (moderate), 2C9 (weak-moderate) and 2D6 (weak). Paclitaxel concentrations may increase due to CYP3A4 inhibition. Coadministration of paclitaxel and verapamil, a moderate CYP3A4 inhibitor, increased paclitaxel AUC by 1.90-fold. A similar effect may occur after coadministration with fluvoxamine. Coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for paclitaxel toxicity.",See Summary
+154,Paclitaxel,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is predominantly renally eliminated. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+155,Paclitaxel,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation. As multiple CYP450 and UGT enzymes catalyse the transformation the potential for a pharmacokinetic interaction is low. Paclitaxel does not inhibit or induce CYPs or UGTs.",See Summary
+156,Paclitaxel,Fosaprepitant,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Paclitaxel does not interact with this pathway. Aprepitant is mainly metabolized by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Paclitaxel does not inhibit or induce CYPs. During treatment, aprepitant is a moderate inhibitor of CYP3A4 and may increase paclitaxel concentrations. Coadministration of paclitaxel and verapamil, a moderate CYP3A4 inhibitor, increased paclitaxel AUC by 1.90-fold. A similar effect may occur after coadministration with aprepitant. Coadministration should be approached with caution during the few days of aprepitant treatment. Monitor closely for paclitaxel toxicity. Moreover, after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Paclitaxel concentrations may decrease due to CYP3A4 induction. However, this is not considered to be clinically relevant.",See Summary
+157,Paclitaxel,Fosphenytoin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Paclitaxel does not interact with this pathway. Phenytoin is mainly metabolized by CYP2C9 and to a lesser extent by CYP2C19. Paclitaxel does not inhibit or induce CYPs. Phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Phenytoin may decrease paclitaxel concentrations due to CYP3A4 and P-gp induction. The clinical relevance of this interaction is unknown. In a phase II study, patients received anticonvulsants known to induce CYP enzymes in combination with paclitaxel. These patients experienced less toxicity and a lower paclitaxel steady state concentration compared to patients without anticonvulsants. Therefore, coadministration is not recommended. If coadministration is unavoidable, closely monitor paclitaxel efficacy.",See Summary
+158,Paclitaxel,Furosemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also renally eliminated unchanged (via OATs). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. In vitro data indicate that furosemide is also an inhibitor of the renal transporters OAT1/OAT3. Paclitaxel is unlikely to interfere with this pathway.,See Summary
+159,Paclitaxel,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+160,Paclitaxel,Gemfibrozil,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Gemfibrozil is metabolised by UGT2B7. Paclitaxel does not inhibit or induce CYPs. However, gemfibrozil is an inhibitor of CYP2C8 (strong), OATP1B1 and OAT3. In vitro data indicate gemfibrozil to be a strong inhibitor of CYP2C9 but in vivo data showed no clinically relevant effect on CYP2C9. Paclitaxel concentrations may increase due to CYP2C8 inhibition. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for paclitaxel toxicity.",See Summary
+161,Paclitaxel,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+162,Paclitaxel,Gestodene,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Paclitaxel does not inhibit or induce CYPs.,See Summary
+163,Paclitaxel,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. Paclitaxel does not inhibit or induce CYPs.,See Summary
+164,Paclitaxel,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C19. Paclitaxel does not inhibit or induce CYPs.,See Summary
+165,Paclitaxel,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolised by CYP2C9. Paclitaxel does not inhibit or induce CYPs.,See Summary
+166,Paclitaxel,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolised by CYP2C9. Paclitaxel does not inhibit or induce CYPs.,See Summary
+167,Paclitaxel,Granisetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Granisetron is metabolised by CYP3A4 and is a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as granisetron. ECG monitoring should be considered.",See Summary
+168,Paclitaxel,Grapefruit juice,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied. Grapefruit juice is known to inhibit CYP3A4 enzymes and may increase concentrations of paclitaxel. The clinical relevance of this interaction is unknown. Therefore, coadministration is contraindicated.",See Summary
+169,Paclitaxel,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+170,Paclitaxel,Griseofulvin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Paclitaxel is unlikely to interfere with this elimination pathway. Griseofulvin is also a liver microsomal enzyme inducer and may lower plasma levels, and therefore reduce the efficacy of concomitantly administered medicinal products that are metabolised by CYPs, such as paclitaxel. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor paclitaxel efficacy.",See Summary
+171,Paclitaxel,Haloperidol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGTs 2B7>1A4, 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4 and CYP2D6). Paclitaxel does not inhibit or induce CYPs or UGTs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as haloperidol. ECG monitoring should be considered.",See Summary
+172,Paclitaxel,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Paclitaxel does not interact with this metabolic pathway.,See Summary
+173,Paclitaxel,Hydralazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Hydralazine is metabolised via primary oxidative metabolism and acetylation. Paclitaxel does not interact with this metabolic pathway. However, in vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6. Paclitaxel concentrations may increase due to CYP3A4 inhibition. As the clinical relevance of this interaction is unknown, monitoring for paclitaxel toxicity may be required.",See Summary
+174,Paclitaxel,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrochlorothiazide is not metabolised but is cleared by the kidneys via OAT1. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+175,Paclitaxel,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Paclitaxel does not inhibit or induce CYPs.",See Summary
+176,Paclitaxel,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+177,Paclitaxel,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone. ,See Summary
+178,Paclitaxel,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Paclitaxel does not inhibit or induce UGTs.",See Summary
+179,Paclitaxel,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is metabolised in the liver and cleared via the lungs and kidneys. Paclitaxel is unlikely to interfere with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+180,Paclitaxel,Hydroxyzine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. Paclitaxel does not interact with this metabolic pathway. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as hydroxyzine. ECG monitoring should be considered.",See Summary
+181,Paclitaxel,Ibandronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibandronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+182,Paclitaxel,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+183,Paclitaxel,Iloperidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Iloperidone is metabolised by CYP3A4 and CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as iloperidone. ECG monitoring should be considered.",See Summary
+184,Paclitaxel,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent by active tubular secretion. Paclitaxel is unlikely to interfere with these elimination pathways.,See Summary
+185,Paclitaxel,Imipramine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as imipramine. ECG monitoring should be considered.",See Summary
+186,Paclitaxel,Indapamide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Indapamide is extensively metabolised by CYP450s. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Paclitaxel does not inhibit or induce CYPs or OATs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as indapamide. ECG monitoring should be considered.",See Summary
+187,Paclitaxel,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+188,Paclitaxel,Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+189,Paclitaxel,Interleukin 2 (Aldesleukin),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+190,Paclitaxel,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Paclitaxel does not interact with this metabolic pathway.,See Summary
+191,Paclitaxel,Irbesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolised by glucuronidation and oxidation (mainly CYP2C9). Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+192,Paclitaxel,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+193,Paclitaxel,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Paclitaxel does not interact with this metabolic pathway.,See Summary
+194,Paclitaxel,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Paclitaxel does not inhibit or induce CYPs.,See Summary
+195,Paclitaxel,Itraconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Itraconazole is primarily metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, itraconazole is an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Concentrations of paclitaxel may increase due to CYP3A4 and P-gp inhibition. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for paclitaxel toxicity.",See Summary
+196,Paclitaxel,Ivabradine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ivabradine is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as ivabradine. ECG monitoring should be considered.",See Summary
+197,Paclitaxel,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+198,Paclitaxel,Ketoconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ketoconazole is a substrate of CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, ketoconazole is an inhibitor of CYP3A4 (strong) and P-gp and may increase paclitaxel concentrations. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as ketoconazole. ECG monitoring should be considered.",See Summary
+199,Paclitaxel,Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Paclitaxel does not inhibit or induce UGTs.,See Summary
+200,Paclitaxel,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+201,Paclitaxel,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. Paclitaxel does not interact with this metabolic pathway.,See Summary
+202,Paclitaxel,Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+203,Paclitaxel,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is mainly metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+204,Paclitaxel,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+205,Paclitaxel,Levofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Levofloxacin is renally eliminated mainly by glomerular filtration and active secretion (possibly OCT2). Paclitaxel is unlikely to interfere with this elimination pathway. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as levofloxacin. ECG monitoring should be considered.",See Summary
+206,Paclitaxel,Levomepromazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Levomepromazine is metabolised by CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as levomepromazine. ECG monitoring should be considered.",See Summary
+207,Paclitaxel,Levonorgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+208,Paclitaxel,Levonorgestrel (Emergency Contraception),"
+Potential Interaction
+","
+Very Low
+","Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. However, the use of levonorgestrel as emergency contraception is a relative contraindication due to the risk of a pregnancy while having a hormone sensitive tumour. Therefore, the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Paclitaxel does not inhibit or induce CYPs or UGTs.",See Summary
+209,Paclitaxel,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolised by deiodination (by enzymes of deiodinase family) and glucuronidation. Paclitaxel does not interact with this metabolic pathway.,See Summary
+210,Paclitaxel,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+211,Paclitaxel,Linagliptin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Linagliptin is also a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, linagliptin is a weak inhibitor of CYP3A4 and may increase concentrations of paclitaxel. As the clinical relevance of this interaction is unknown, monitoring for paclitaxel toxicity may be required.",See Summary
+212,Paclitaxel,Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. Paclitaxel is unlikely to interfere with this unspecified metabolic pathway.,See Summary
+213,Paclitaxel,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Liraglutide is degraded by endogenous endopeptidases. Paclitaxel does not interact with this metabolic pathway.,See Summary
+214,Paclitaxel,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is renally eliminated unchanged via glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+215,Paclitaxel,Lithium,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate. No pharmacokinetic interaction is expected. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as lithium. ECG monitoring should be considered.",See Summary
+216,Paclitaxel,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalised infections can occur.",See Summary
+217,Paclitaxel,Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8, and is a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp.",See Summary
+218,Paclitaxel,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+219,Paclitaxel,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam undergoes non-CYP mediated elimination. Paclitaxel is unlikely to interfere with this unspecified metabolic pathway.,See Summary
+220,Paclitaxel,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Paclitaxel does not inhibit or induce UGTs.,See Summary
+221,Paclitaxel,Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Paclitaxel does not inhibit or induce CYPs.,See Summary
+222,Paclitaxel,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+223,Paclitaxel,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Paclitaxel does not inhibit or induce CYPs.",See Summary
+224,Paclitaxel,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in the kidney, mainly by glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.",See Summary
+225,Paclitaxel,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolised by CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+226,Paclitaxel,Medroxyprogesterone (depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+227,Paclitaxel,Medroxyprogesterone (non-depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+228,Paclitaxel,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolised by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+229,Paclitaxel,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+230,Paclitaxel,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney with in vitro data suggesting it is a substrate of OAT3>OAT1. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+231,Paclitaxel,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolised to N-acetyl-mesalazine by N-acetyltransferase. Paclitaxel does not interact with this metabolic pathway.,See Summary
+232,Paclitaxel,Metamizole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Metamizole is metabolised in serum and excreted via urine (90%) and faeces (10%). Paclitaxel is unlikely to interfere with this metabolic or elimination pathway. However, metamizole is an inducer of CYP3A4 and may decrease paclitaxel concentrations. The clinical relevance of this interaction is unknown. Coadministration should be approached with caution. If coadministration is unavoidable, closely monitor paclitaxel efficacy.",See Summary
+233,Paclitaxel,Metformin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine and is a substrate of OCT1/2/3, MATE1 and MATE2K. Paclitaxel is unlikely to interfere with this elimination pathway.",See Summary
+234,Paclitaxel,Methadone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Methadone is demethylated by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as methadone. ECG monitoring should be considered.",See Summary
+235,Paclitaxel,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. Paclitaxel is unlikely to interfere with this elimination pathway.",See Summary
+236,Paclitaxel,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolised by CYP450s to a clinically relevant extent and does not inhibit or induce CYP450s. Therefore, there is little potential for methylphenidate to affect disposition of paclitaxel, or to be affected if co-administered with paclitaxel.",See Summary
+237,Paclitaxel,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+238,Paclitaxel,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolised by the CYP450 system (mainly CYP2D6). Paclitaxel does not inhibit or induce CYPs.,See Summary
+239,Paclitaxel,Metolazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metolazone is largely excreted unchanged in the urine. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+240,Paclitaxel,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolised by CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+241,Paclitaxel,Metronidazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Metronidazole is eliminated via glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Since the mechanism of the interaction with CYP3A has not yet been identified, an interaction with paclitaxel cannot be excluded. Monitoring for paclitaxel toxicity should be considered.",See Summary
+242,Paclitaxel,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Paclitaxel does not inhibit or induce CYPs.,See Summary
+243,Paclitaxel,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolised by CYP2D6 and CYP1A2, and to a lesser extent by CYP3A4. Paclitaxel does not inhibit or induce CYPs.",See Summary
+244,Paclitaxel,Miconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Miconazole is extensively metabolized by the liver. Paclitaxel is unlikely to interfere with this unspecified metabolic pathway. However, miconazole is an inhibitor of CYP2C9 (moderate) and CYP3A4 (strong). Paclitaxel concentrations may increase due to CYP3A4 inhibition. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Note: after dermal application miconazole is only minimally absorbed. Therefore, no clinical relevant interaction is expected.",See Summary
+245,Paclitaxel,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+246,Paclitaxel,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+247,Paclitaxel,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Paclitaxel is unlikely to interfere with this metabolic or elimination pathway.",See Summary
+248,Paclitaxel,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Paclitaxel does not inhibit or induce CYPs.",See Summary
+249,Paclitaxel,Mometasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+250,Paclitaxel,Montelukast,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYP3A4 and CYP2C9. Paclitaxel does not inhibit or induce CYPs.,See Summary
+251,Paclitaxel,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Paclitaxel does not inhibit or induce UGTs or P-gp.",See Summary
+252,Paclitaxel,Moxifloxacin,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Paclitaxel does not inhibit or induce UGTs. However, the product labels for moxifloxacin contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place. If coadministration is unavoidable, use with extreme caution, including ECG monitoring.",See Summary
+253,Paclitaxel,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and UGT2B7. Paclitaxel does not inhibit or induce UGTs. The active metabolite of mycophenolate, mycophenolic acid, is an inhibitor of OAT1/OAT3. Paclitaxel is not transported by OATs. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+254,Paclitaxel,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is excreted renally by a nonsaturable mechanism. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+255,Paclitaxel,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolised in the liver by alpha-reductase. Paclitaxel does not interact with this metabolic pathway.,See Summary
+256,Paclitaxel,Naproxen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+257,Paclitaxel,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent by CYP3A4 (30%). Paclitaxel does not inhibit or induce CYPs.,See Summary
+258,Paclitaxel,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+259,Paclitaxel,Nefazodone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Nefazodone is metabolised mainly by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, nefazodone is a strong inhibitor of CYP3A4 and may increase paclitaxel concentrations. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. ",See Summary
+260,Paclitaxel,Nicardipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. Paclitaxel does not inhibit or induce CYPs. However, nicardipine is a weak inhibitor of CYP3A4 and may increase concentrations of paclitaxel. As the clinical relevance of this interaction is unknown, monitoring for paclitaxel toxicity may be required.",See Summary
+261,Paclitaxel,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolised by xanthine oxidase and aldehyde oxidase. Paclitaxel does not interact with this metabolic pathway.,See Summary
+262,Paclitaxel,Nifedipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+263,Paclitaxel,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolised in the liver following multiple pathways including CYP2C9. Paclitaxel does not inhibit or induce CYPs.,See Summary
+264,Paclitaxel,Nisoldipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+265,Paclitaxel,Nitrendipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+266,Paclitaxel,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolised in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). Paclitaxel is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+267,Paclitaxel,Norelgestromin,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). Paclitaxel does not inhibit or induce CYPs.,See Summary
+268,Paclitaxel,Norethisterone (Norethindrone),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Paclitaxel does not inhibit or induce UGTs.",See Summary
+269,Paclitaxel,Norgestimate,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. Paclitaxel does not interact with this metabolic pathway.,See Summary
+270,Paclitaxel,Norgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolized by CYP3A4 and is glucuronidated to a minor extent. Paclitaxel does not inhibit or induce CYPs or UGTs.,See Summary
+271,Paclitaxel,Nortriptyline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nortriptyline is metabolised mainly by CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as nortriptyline. ECG monitoring should be considered.",See Summary
+272,Paclitaxel,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant. Therefore, no drug interactions are expected.",See Summary
+273,Paclitaxel,Ofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ofloxacin is renally eliminated unchanged by glomerular filtration and active tubular secretion via both cationic and anionic transport systems. Paclitaxel is unlikely to interfere with this elimination pathway. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as ofloxacin. ECG monitoring should be considered.",See Summary
+274,Paclitaxel,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolised mainly by CYP1A2 (major) and CYP2D6, but also by glucuronidation (UGT1A4). Paclitaxel does not inhibit or induce CYPs or UGTs.",See Summary
+275,Paclitaxel,Olmesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+276,Paclitaxel,Omeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Omeprazole is also an inducer of CYP1A2 and an inhibitor of CYP2C19. Paclitaxel does not interact with this pathway.,See Summary
+277,Paclitaxel,Ondansetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ondansetron is metabolised mainly by CYP1A2 and CYP3A4 and to a lesser extent by CYP2D6. Ondansetron is also a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as ondansetron. ECG monitoring should be considered.",See Summary
+278,Paclitaxel,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Paclitaxel does not inhibit or induce UGTs.,See Summary
+279,Paclitaxel,Oxcarbazepine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Oxcarbazepine is extensively metabolized to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Paclitaxel does not interact with this metabolic pathway. Both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5 and are inhibitors of CYP2C19. Concentrations of paclitaxel may decrease due to CYP3A4 induction. The clinical relevance of this interaction is unknown. In a phase II study, patients received anticonvulsants known to induce CYP enzymes in combination with paclitaxel. These patients experienced less toxicity and a lower paclitaxel steady state concentration compared to patients without anticonvulsants. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, closely monitor paclitaxel efficacy.",See Summary
+280,Paclitaxel,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolised via glucuronidation. Paclitaxel does not inhibit or induce UGTs.,See Summary
+281,Paclitaxel,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+282,Paclitaxel,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily renally eliminated (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. Paclitaxel is unlikely to interact with this metabolic or elimination pathway.,See Summary
+283,Paclitaxel,Palonosetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Palonosetron is also a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp.,See Summary
+284,Paclitaxel,Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pamidronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+285,Paclitaxel,Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. Paclitaxel does not inhibit or induce CYPs.",See Summary
+286,Paclitaxel,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+287,Paclitaxel,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1, and 2B15), sulfation and to a lesser extent, by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). Paclitaxel does not inhibit or induce CYPs or UGTs.",See Summary
+288,Paclitaxel,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolised by CYP2D6. Paroxetine is also an inhibitor of CYP2D6 (strong) and CYP2C9. Paclitaxel does not interact with this pathway.,See Summary
+289,Paclitaxel,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+290,Paclitaxel,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+291,Paclitaxel,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is mainly metabolised by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. Paclitaxel does not inhibit or induce CYPs or FMO3.",See Summary
+292,Paclitaxel,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+293,Paclitaxel,Perindopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolised to other inactive metabolites. Elimination occurs predominantly via the urine. Paclitaxel is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+294,Paclitaxel,Perphenazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Perphenazine is metabolised by CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as perphenazine. ECG monitoring should be considered.",See Summary
+295,Paclitaxel,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+296,Paclitaxel,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolised by oxidation via monoamine oxidase and to a lesser extent by acetylation. Paclitaxel does not interact with this metabolic pathway.,See Summary
+297,Paclitaxel,Phenobarbital (Phenobarbitone),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Phenobarbital is metabolized by CYP2C19 and CYP2C9 (major) and to a lesser extent by CYP2E1. Paclitaxel does not inhibit or induce CYPs. Phenobarbital is a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Phenobarbital may decrease paclitaxel concentrations due to CYP3A4 and CYP2C8 induction. The clinical relevance of this interaction is unknown. In a phase II study, patients received anticonvulsants known to induce CYP enzymes in combination with paclitaxel. These patients experienced less toxicity and a lower paclitaxel steady state concentration compared to patients without anticonvulsants. Therefore, coadministration should be avoided. If coadministration is unavoidable, closely monitor paclitaxel efficacy.",See Summary
+298,Paclitaxel,Phenprocoumon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenprocoumon is mainly metabolised by CYP2C9 and CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+299,Paclitaxel,Phenytoin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Phenytoin is mainly metabolized by CYP2C9 and to a lesser extent by CYP2C19. Paclitaxel does not inhibit or induce CYPs. Phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Phenytoin may decrease paclitaxel concentrations due to CYP3A4 and P-gp induction. The clinical relevance of this interaction is unknown. In a phase II study, patients received anticonvulsants known to induce CYP enzymes in combination with paclitaxel. These patients experienced less toxicity and a lower paclitaxel steady state concentration compared to patients without anticonvulsants. Therefore, coadministration is not recommended. If coadministration is unavoidable, closely monitor paclitaxel efficacy.",See Summary
+300,Paclitaxel,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Paclitaxel does not inhibit or induce CYPs.,See Summary
+301,Paclitaxel,Pimozide,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Pimozide is mainly metabolised by CYP3A4 and CYP2D6 and to a lesser extent by CYP1A2. Paclitaxel does not inhibit or induce CYPs. However, the product labels for pimozide contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place. If coadministration is unavoidable, approach with caution and monitor ECG closely.",See Summary
+302,Paclitaxel,Pindolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolised to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine. Paclitaxel is unlikely to interact with this metabolic or elimination pathway.,See Summary
+303,Paclitaxel,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Paclitaxel does not inhibit or induce CYPs.",See Summary
+304,Paclitaxel,Pipotiazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as pipotiazine. ECG monitoring should be considered.",See Summary
+305,Paclitaxel,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolised by CYP2C9. Paclitaxel does not inhibit or induce CYPs.,See Summary
+306,Paclitaxel,Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolised by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Pitavastatin is also a substrate of OATP1B1. Paclitaxel does not inhibit or induce CYPs, UGTs or OATP1B1.",See Summary
+307,Paclitaxel,Posaconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Posaconazole is primarily metabolised by UGTs and is a substrate of P-gp. Paclitaxel does not inhibit or induce UGTs or P-gp. However, posaconazole is a strong inhibitor of CYP3A4 and may increase paclitaxel concentrations. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as posaconazole. ECG monitoring should be considered.",See Summary
+308,Paclitaxel,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is renally eliminated. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+309,Paclitaxel,Prasugrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. Paclitaxel does not inhibit or induce CYPs.,See Summary
+310,Paclitaxel,Pravastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Paclitaxel does not inhibit or induce CYPs or OATP1B1.,See Summary
+311,Paclitaxel,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolised, primarily by demethylation and conjugation. Paclitaxel does not interact with this metabolic pathway.",See Summary
+312,Paclitaxel,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+313,Paclitaxel,Prednisone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. Paclitaxel does not interact with this metabolic pathway.,See Summary
+314,Paclitaxel,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration (90% as unchanged drug). Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+315,Paclitaxel,Prochlorperazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as prochlorperazine. ECG monitoring should be considered.",See Summary
+316,Paclitaxel,Promethazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Promethazine is metabolised by CYP2D6. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as promethazine. ECG monitoring should be considered.",See Summary
+317,Paclitaxel,Propafenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+318,Paclitaxel,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolised by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Paclitaxel does not inhibit or induce CYPs or UGTS.",See Summary
+319,Paclitaxel,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly renally eliminated, partly by active secretion by renal transporters. Prucalopride is also a substrate of P-gp. Paclitaxel is unlikely to interact with this elimination pathway.",See Summary
+320,Paclitaxel,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolised by xanthine oxidase. Paclitaxel does not interact with this metabolic pathway.,See Summary
+321,Paclitaxel,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+322,Paclitaxel,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+323,Paclitaxel,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Paclitaxel is unlikely to interfere with this metabolic or elimination pathway.,See Summary
+324,Paclitaxel,Quinidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is also a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, quinidine is an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate). Concentrations of paclitaxel may increase due to CYP3A4 and P-gp inhibition. Coadministration is not recommended. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as quinidine. ECG monitoring should be considered.",See Summary
+325,Paclitaxel,Rabeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+326,Paclitaxel,Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolised to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Paclitaxel does not interact with this metabolic pathway.",See Summary
+327,Paclitaxel,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has been studied and a clinically significant interaction is unlikely. Ranitidine is excreted via OAT1/OAT3. Paclitaxel does not inhibit or induce OATs. In vitro, ranitidine had no effect on the formation of paclitaxel metabolites.",See Summary
+328,Paclitaxel,Ranolazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Ranolazine is primarily metabolized by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Paclitaxel concentrations may increase due to inhibition of CYP3A4 and P-gp. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as ranolazine. ECG monitoring should be considered.",See Summary
+329,Paclitaxel,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. Therefore, no clinically relevant effect on paclitaxel exposure is expected.",See Summary
+330,Paclitaxel,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolised by CYP2C8 and CYP3A4, with clinical data indicating it is a substrate of the hepatic transporter OATP1B1. Paclitaxel does not inhibit or induce CYPs or OATP1B1.",See Summary
+331,Paclitaxel,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver but retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Paclitaxel does not interact with this metabolic pathway.",See Summary
+332,Paclitaxel,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,See Summary
+333,Paclitaxel,Rifabutin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Rifabutin is metabolised by CYP3A and via deacetylation. Paclitaxel does not interact with this metabolic pathway. However, rifabutin is a strong CYP3A4 and P-gp inducer and may decrease paclitaxel concentrations. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor paclitaxel efficacy.",See Summary
+334,Paclitaxel,Rifampicin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Rifampicin is metabolised via deacetylation. Paclitaxel does not interact with this metabolic pathway. However, rifampicin is a strong CYP3A4 and P-gp inducer and may decrease paclitaxel concentrations. The clinical relevance of this interaction is unknown. Coadministration is not recommended. If coadministration is unavoidable, closely monitor paclitaxel efficacy.",See Summary
+335,Paclitaxel,Rifapentine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Rifapentine is metabolised via deacetylation. Paclitaxel does not interact with this metabolic pathway. However, rifapentine is a strong CYP3A4, CYP2C8 and P-gp inducer and may decrease paclitaxel concentrations. The clinical relevance of this interaction is unknown. Coadministration should be avoided. If coadministration is unavoidable, closely monitor paclitaxel efficacy.",See Summary
+336,Paclitaxel,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Paclitaxel is unlikely to interfere with this elimination pathway.",See Summary
+337,Paclitaxel,Risperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Risperidone is a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp.,See Summary
+338,Paclitaxel,Rivaroxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant is unlikely. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine. Rivaroxaban is also a substrate of P-gp and BCRP. Paclitaxel does not interact with this metabolic or elimination pathway.",See Summary
+339,Paclitaxel,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYP2C9. Paclitaxel does not inhibit or induce CYPs.,See Summary
+340,Paclitaxel,Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosuvastatin is largely excreted unchanged in the faeces via OATP1B1 and is a substrate of BCRP. Paclitaxel does not inhibit or induce BCRP or OATP1B1.,See Summary
+341,Paclitaxel,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolised to the inactive salbutamol-4’-O-sulphate. Paclitaxel does not interact with this metabolic pathway.,See Summary
+342,Paclitaxel,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. The systemic exposure of salmeterol is low. Paclitaxel does not inhibit or induce CYPs.,See Summary
+343,Paclitaxel,Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp.,See Summary
+344,Paclitaxel,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces and also in other secretions. No clinically significant interactions are known.,See Summary
+345,Paclitaxel,Sertindole,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sertindole is metabolised by CYP2D6 and CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, the product labels for sertindole contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place. If coadministration is unavoidable, approach with caution and monitor ECG closely.",See Summary
+346,Paclitaxel,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Paclitaxel does not inhibit or induce CYPs.",See Summary
+347,Paclitaxel,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. Paclitaxel does not inhibit or induce CYPs.,See Summary
+348,Paclitaxel,Simvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolised by CYP3A4. Simvastatin is also a substrate of BCRP and the active metabolite is a substrate of OATP1B1. Paclitaxel does not inhibit or induce CYPs, BCRP or OATP1B1.",See Summary
+349,Paclitaxel,Sirolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sirolimus is metabolised by CYP3A4 and is a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+350,Paclitaxel,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1, and P-gp) and metabolism by CYP3A4 represents a minor metabolic pathway. Paclitaxel is unlikely to interfere with this metabolic or elimination pathway.",See Summary
+351,Paclitaxel,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. Paclitaxel does not interact with this metabolic pathway.",See Summary
+352,Paclitaxel,Sotalol,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sotalol is excreted unchanged via renal elimination. Paclitaxel is unlikely to interfere with this elimination pathway. However, the product labels for sotalol advise extreme caution if given with other drugs that prolong the QT interval. A thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place. ECG monitoring is recommended.",See Summary
+353,Paclitaxel,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+354,Paclitaxel,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolised by the flavin containing monooxygenases. Paclitaxel does not interact with this metabolic pathway.,See Summary
+355,Paclitaxel,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Paclitaxel is unlikely to interfere with this unspecified metabolic pathway.,See Summary
+356,Paclitaxel,St John's Wort,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied. St John’s wort is a P-gp and CYP3A4 inducer and may significantly decrease paclitaxel concentrations. The clinical relevance of this interaction is unknown. Therefore, coadministration is contraindicated.",See Summary
+357,Paclitaxel,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Paclitaxel does not interact with this metabolic pathway.",See Summary
+358,Paclitaxel,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Streptomycin is eliminated by glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+359,Paclitaxel,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Paclitaxel does not inhibit or induce CYPs.,See Summary
+360,Paclitaxel,Sulpiride,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. Paclitaxel is unlikely to interfere with this elimination pathway. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as sulpiride. ECG monitoring should be considered.",See Summary
+361,Paclitaxel,Tacrolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tacrolimus is metabolised mainly by CYP3A4. Paclitaxel does not inhibit or induce CYPs. Tacrolimus is also an inhibitor of CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Although paclitaxel is a substrate of CYP3A4 and OATP1B1 (in vitro), no clinically relevant effect on paclitaxel exposure is expected. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",See Summary
+362,Paclitaxel,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+363,Paclitaxel,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+364,Paclitaxel,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+365,Paclitaxel,Telithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. Paclitaxel does not interact with this metabolic pathway. However, telithromycin is an inhibitor of CYP3A4 (strong) and P-gp and may increase concentrations of paclitaxel. The clinical relevance of this interaction is unknown. Coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for paclitaxel toxicity.",See Summary
+366,Paclitaxel,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Paclitaxel does not inhibit or induce UGTs.,See Summary
+367,Paclitaxel,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Paclitaxel does not inhibit or induce UGTs.,See Summary
+368,Paclitaxel,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYP2C8 and CYP2C19. Terbinafine is also a moderate-strong inhibitor of CYP2D6. Paclitaxel does not interact with this pathway.",See Summary
+369,Paclitaxel,Testosterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+370,Paclitaxel,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+371,Paclitaxel,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolised by CYP1A2. Paclitaxel does not inhibit or induce CYPs.,See Summary
+372,Paclitaxel,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+373,Paclitaxel,Thioridazine,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, the product labels for thioridazine contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place. If coadministration is unavoidable, approach with caution and monitor ECG closely.",See Summary
+374,Paclitaxel,Tiapride,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tiapride is excreted largely unchanged in urine. Paclitaxel is unlikely to interfere with this elimination pathway. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as tiapride. ECG monitoring should be considered.",See Summary
+375,Paclitaxel,Ticagrelor,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Ticagrelor is a substrate of CYP3A4 and P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, ticagrelor is also a mild inhibitor of CYP3A4 and may increase concentrations of paclitaxel. As the clinical relevance of this interaction is unknown, monitoring for paclitaxel toxicity may be required.",See Summary
+376,Paclitaxel,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+377,Paclitaxel,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+378,Paclitaxel,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C8 and CYP2C19. Paclitaxel does not inhibit or induce CYPs.,See Summary
+379,Paclitaxel,Tolterodine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 with CYP3A4 playing a minor role. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as tolterodine. ECG monitoring should be considered.",See Summary
+380,Paclitaxel,Torasemide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolised mainly by CYP2C9. Furthermore, OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Paclitaxel does not inhibit or induce CYPs or OATs.",See Summary
+381,Paclitaxel,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. Paclitaxel does not inhibit or induce CYPs.",See Summary
+382,Paclitaxel,Trandolapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Paclitaxel does not interact with this metabolic pathway.,See Summary
+383,Paclitaxel,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranexamic acid is mainly cleared by glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway. ,See Summary
+384,Paclitaxel,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Paclitaxel does not interact with this metabolic pathway.,See Summary
+385,Paclitaxel,Trazodone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as trazodone. ECG monitoring should be considered.",See Summary
+386,Paclitaxel,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+387,Paclitaxel,Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+388,Paclitaxel,Trimethoprim/Sulfamethoxazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. To a lesser extent (approximately 30%) trimethoprim is metabolised by CYP enzymes (in vitro data suggest CYPs 3A4, 1A2 and 2C9). Sulfamethoxazole is metabolised by CYP2C9. Paclitaxel does not interact with these metabolic pathways. However, trimethoprim is a weak CYP2C8 inhibitor and in vitro data also suggest that trimethoprim is an inhibitor of OCT2 and MATE1. Sulfamethoxazole is a weak inhibitor of CYP2C9. Paclitaxel concentrations may increase due to CYP2C8 inhibition by trimethoprim. As the clinical relevance of this interaction is unknown, monitoring for paclitaxel toxicity may be required.",See Summary
+389,Paclitaxel,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolised mainly by CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+390,Paclitaxel,Tropisetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tropisetron is metabolised mainly by CYP2D6. Tropisetron is also a substrate of P-gp. Paclitaxel does not inhibit or induce CYPs or P-gp. However, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as tropisetron. ECG monitoring should be considered.",See Summary
+391,Paclitaxel,Ulipristal,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if paclitaxel is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+392,Paclitaxel,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolized by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolized by CYP2C9 and CYP2C19. In addition, valproic acid is an inhibitor of CYP2C9. Paclitaxel does not interact with this pathway.",See Summary
+393,Paclitaxel,Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+394,Paclitaxel,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vancomycin is excreted unchanged via glomerular filtration. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+395,Paclitaxel,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Paclitaxel does not inhibit or induce CYPs.",See Summary
+396,Paclitaxel,Verapamil,"
+Potential Interaction
+","
+Very Low
+","Coadministration should be approached with caution. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Paclitaxel does not inhibit or induce CYPs. However, verapamil is a moderate inhibitor of CYP3A4. Coadministration of paclitaxel and verapamil increased paclitaxel AUC by 1.90-fold. If coadministration is unavoidable, monitor closely for paclitaxel toxicity.",See Summary
+397,Paclitaxel,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate of P-gp. Paclitaxel does not interact with this pathway.,See Summary
+398,Paclitaxel,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,See Summary
+399,Paclitaxel,Voriconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Voriconazole is metabolised by CYP2C19 (major) and to a lesser extent by CYP3A4 and CYP2C9. Paclitaxel does not inhibit or induce CYPs. However, voriconazole is a strong inhibitor of CYP3A4 and a weak inhibitor of CYPs 2C9, 2C19 and 2B6. Paclitaxel concentrations may increase due to CYP3A4 inhibition. The clinical relevance of this interaction is unknown. If coadministration is unavoidable, monitor closely for paclitaxel toxicity. Furthermore, a thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place when paclitaxel is coadministered with QT prolonging drugs, such as voriconazole. ECG monitoring should be considered.",See Summary
+400,Paclitaxel,Warfarin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and CYP3A4. S-warfarin (more potent) is metabolised by CYP2C9. Paclitaxel does not inhibit or induce CYPs.,See Summary
+401,Paclitaxel,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Paclitaxel is unlikely to interfere with this elimination pathway.",See Summary
+402,Paclitaxel,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent by CYP3A4. Paclitaxel does not inhibit or induce CYPs.,See Summary
+403,Paclitaxel,Ziprasidone,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). Paclitaxel does not inhibit or induce CYPs. However, the product labels for ziprasidone contraindicate its use in the presence of other drugs that prolong the QT interval. A thorough QT study with paclitaxel has not been performed. In a prospective study, the QTc interval was significantly prolonged (p < 0.001) after treatment with paclitaxel. The net effect on QT prolongation has not been reported. Therefore, it is unknown whether a warning is in place. If coadministration is unavoidable, approach with caution and monitor ECG closely.",See Summary
+404,Paclitaxel,Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zoledronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Paclitaxel is unlikely to interfere with this elimination pathway.,See Summary
+405,Paclitaxel,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. Paclitaxel does not inhibit or induce CYPs.",See Summary
+406,Paclitaxel,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. Paclitaxel does not inhibit or induce CYPs.,See Summary
+407,Paclitaxel,Zotepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Paclitaxel does not inhibit or induce CYPs.,See Summary
+408,Paclitaxel,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Paclitaxel does not inhibit or induce CYPs or UGTs.",See Summary

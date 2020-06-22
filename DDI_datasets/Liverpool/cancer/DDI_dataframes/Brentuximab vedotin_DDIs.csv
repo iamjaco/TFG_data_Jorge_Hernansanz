@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Brentuximab vedotin,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. ",(See Summary)
+1,Brentuximab vedotin,Acenocoumarol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Acenocoumarol is mainly metabolised by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Brentuximab vedotin does not inhibit or induce CYPs 2C9, 1A2 or 2C19. ",(See Summary)
+2,Brentuximab vedotin,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolised by glucuronidation (by several UGTs, major UGT1A6). Brentuximab vedotin does not inhibit or induce UGTs.",(See Summary)
+3,Brentuximab vedotin,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). Brentuximab vedotin does not inhibit or induce these CYPs.",(See Summary)
+4,Brentuximab vedotin,Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alendronate is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. ,(See Summary)
+5,Brentuximab vedotin,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of alfentanil, but a clinically relevant interaction is unlikely.",(See Summary)
+6,Brentuximab vedotin,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolised by CYP3A. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of alfuzosin, but a clinically relevant interaction is unlikely",(See Summary)
+7,Brentuximab vedotin,Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolised and is mainly excreted unchanged in faeces. P-gp is a major determinant of aliskiren bioavailability but brentuximab vedotin does not inhibit or induce P-gp.,(See Summary)
+8,Brentuximab vedotin,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. MMAE (an active component of brentuximab vedotin) not interfere with this metabolic pathway. ,(See Summary)
+9,Brentuximab vedotin,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of alosetron, but a clinically relevant interaction is unlikely.",(See Summary)
+10,Brentuximab vedotin,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of alprazolam, but a clinically relevant interaction is unlikely.",(See Summary)
+11,Brentuximab vedotin,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aluminium hydroxide is not metabolised by CYPs and since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+12,Brentuximab vedotin,Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolised by glucuronidation via UGTs 1A3, 1A9 and 2B7 and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is an inhibitor of CYP3A4 and may slightly increase concentrations of ambrisentan. However, since CYP3A4 mediated metabolism is a minor pathway, a clinically relevant interaction is unlikely.",(See Summary)
+13,Brentuximab vedotin,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as amikacin is eliminated by glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+14,Brentuximab vedotin,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. MMAE (an active component of brentuximab vedotin) is unlikely to interfere with this elimination pathway.,(See Summary)
+15,Brentuximab vedotin,Amiodarone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Amiodarone is metabolised by CYP2C8 and CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of amiodarone, but a clinically relevant effect on amiodarone exposure is not expected. The major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Concentrations of MMAE may increase due to CYP3A4 inhibition. However, the clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Note: due to the long half-life of amiodarone, interactions can be observed for several months after discontinuation of amiodarone.",(See Summary)
+16,Brentuximab vedotin,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolised and is primarily renally eliminated (possibly via OCT). MMAE (an active component of brentuximab vedotin) is unlikely to significantly interfere with this elimination pathway. ,(See Summary)
+17,Brentuximab vedotin,Amitriptyline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of amitriptyline. However, a clinically relevant interaction is unlikely as CYP3A4 mediated metabolism is only a minor pathway and is only weakly inhibited. ",(See Summary)
+18,Brentuximab vedotin,Amlodipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of amlodipine, but a clinically relevant interaction is unlikely.",(See Summary)
+19,Brentuximab vedotin,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Brentuximab vedotin is unlikely to interfere with this elimination pathway.,(See Summary)
+20,Brentuximab vedotin,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amphotericin B is not appreciably metabolised and is eliminated to a large extent in the bile. Brentuximab vedotin does not interfere with amphotericin B elimination pathway. However, the European SPC for amphotericin B states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension and so monitoring may be required.",(See Summary)
+21,Brentuximab vedotin,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20-40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60-80% is excreted in the urine within 6 hours. In vitro data indicate that ampicillin is a substrate of OAT1. Brentuximab vedotin is unlikely to interfere with this elimination pathway.,(See Summary)
+22,Brentuximab vedotin,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. ,(See Summary)
+23,Brentuximab vedotin,Antacids,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Antacids are not metabolised by CYPs and since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+24,Brentuximab vedotin,Apixaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Apixaban is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Apixaban is also a substrate of P-gp and BCRP. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of apixaban, but this is unlikely to be clinically relevant.",(See Summary)
+25,Brentuximab vedotin,Aprepitant,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of aprepitant, but this is unlikely to be clinically relevant. During treatment, aprepitant is a moderate inhibitor of CYP3A4 and may increase MMAE exposure, but again, this is unlikely to be clinically relevant. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal. However, patients who are receiving moderate CYP3A4 inhibitors concomitantly with brentuximab vedotin should be monitored for adverse reactions. After treatment, aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of free MMAE may decrease due to induction of CYP3A4. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+26,Brentuximab vedotin,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolised by CYP3A4 and CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of aripiprazole, but this is unlikely to be clinically relevant.",(See Summary)
+27,Brentuximab vedotin,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 (minor) and 2D6 (minor)). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of asenapine, but this is unlikely to be clinically relevant.",(See Summary)
+28,Brentuximab vedotin,Astemizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of astemizole, but this is unlikely to be clinically relevant.",(See Summary)
+29,Brentuximab vedotin,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.",(See Summary)
+30,Brentuximab vedotin,Atorvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolised by CYP3A4 and is a substrate of P-gp and OATP1B1. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of atorvastatin, but a clinically relevant interaction is unlikely.",(See Summary)
+31,Brentuximab vedotin,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolised analogously to natural purines. Brentuximab vedotin does not interfere with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+32,Brentuximab vedotin,Azithromycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Azithromycin is mainly eliminated via biliary excretion with animal data suggesting this may occur via P-gp and MRP2. Brentuximab vedotin does not interact with this elimination pathway. Azithromycin is also an inhibitor of P-gp and may increase concentrations of MMAE (an active component of brentuximab vedotin). However, the clinical relevance of P-gp inhibition by azithromycin is unknown. Monitoring for brentuximab vedotin toxicity may be required.",(See Summary)
+33,Brentuximab vedotin,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a prodrug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone -17-monopropionate. Brentuximab vedotin does not interfere with this metabolic pathway.",(See Summary)
+34,Brentuximab vedotin,Bedaquiline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bedaquiline is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of bedaquiline, but a clinically relevant interaction is unlikely.",(See Summary)
+35,Brentuximab vedotin,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. Brentuximab vedotin does not interfere with bendroflumethiazide elimination. In addition, there is no evidence that bendroflumethiazide inhibits or induces CYP450 enzymes and therefore is unlikely to impact brentuximab vedotin (MMAE).",(See Summary)
+36,Brentuximab vedotin,Bepridil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of bepridil, but a clinically relevant interaction is unlikely.",(See Summary)
+37,Brentuximab vedotin,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of betamethasone, but a clinically relevant interaction is unlikely.",(See Summary)
+38,Brentuximab vedotin,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as half of a bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Brentuximab vedotin does not interact with this pathway.,(See Summary)
+39,Brentuximab vedotin,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. Brentuximab vedotin does not interfere with this elimination pathway. ,(See Summary)
+40,Brentuximab vedotin,Bisoprolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6, and partly eliminated unchanged in the urine. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of bisoprolol, but a clinically relevant interaction is unlikely.",(See Summary)
+41,Brentuximab vedotin,Bosentan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Bosentan is metabolised by CYP3A4 and CYP2C9. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of bosentan, but this is unlikely to be clinically relevant. Bosentan is also a weak inducer of CYP3A4 and CYP2C9. MMAE concentrations may decrease due to CYP3A4 induction. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+42,Brentuximab vedotin,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may also play a role. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of bromazepam, but a clinically relevant interaction is unlikely.",(See Summary)
+43,Brentuximab vedotin,Budesonide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of budesonide, but a clinically relevant interaction is unlikely.",(See Summary)
+44,Brentuximab vedotin,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of buprenorphine, but a clinically relevant interaction is unlikely.",(See Summary)
+45,Brentuximab vedotin,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolised by CYP2B6. Brentuximab vedotin does not inhibit or induce CYP2B6.,(See Summary)
+46,Brentuximab vedotin,Buspirone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of buspirone, but a clinically relevant interaction is unlikely.",(See Summary)
+47,Brentuximab vedotin,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. ",(See Summary)
+48,Brentuximab vedotin,Candesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. Brentuximab vedotin does not interact with this pathway.,(See Summary)
+49,Brentuximab vedotin,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+50,Brentuximab vedotin,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+51,Brentuximab vedotin,Carbamazepine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Carbamazepine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2C8. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of carbamazepine, but this is unlikely to be clinically relevant. Furthermore, carbamazepine is an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong), 1A2 (weak), 2B6 and UGT1A1. Carbamazepine may decrease concentrations of free MMAE due to induction of CYP3A4. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+52,Brentuximab vedotin,Carvedilol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and metabolism via CYP2D6 and to a lesser extent CYPs 2C9 and 1A2. Brentuximab vedotin does not inhibit or induce these CYPs or UGTs. However, carvedilol is an inhibitor of P-gp and may increase concentrations of MMAE (an active component of brentuximab vedotin). Patients who are receiving P-gp inhibitors concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. This advice is derived from data collected in an interaction study with ketoconazole which is a CYP3A4 and P-gp inhibitor and discrimination between both effects cannot be made.",(See Summary)
+53,Brentuximab vedotin,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non-CYP mediated pathway. Brentuximab vedotin does not interact with this metabolic pathway. ,(See Summary)
+54,Brentuximab vedotin,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly renally eliminated unchanged by glomerular filtration and tubular secretion via OAT1 and MATE1. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+55,Brentuximab vedotin,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Brentuximab vedotin does not interfere with this elimination pathway.",(See Summary)
+56,Brentuximab vedotin,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as cefixime is renally excreted predominantly by glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+57,Brentuximab vedotin,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolised by non-specific esterases. Most of a cefotaxime dose is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Brentuximab vedotin does not interfere with this elimination pathway.",(See Summary)
+58,Brentuximab vedotin,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftazidime is excreted predominantly by renal glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+59,Brentuximab vedotin,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug; approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+60,Brentuximab vedotin,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolised by CYP2C9. Brentuximab vedotin does not inhibit or induce CYP2C9. ,(See Summary)
+61,Brentuximab vedotin,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion (possibly via OCT2). MMAE (an active component of brentuximab vedotin) is unlikely to interact with this elimination pathway.,(See Summary)
+62,Brentuximab vedotin,Chloramphenicol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Chloramphenicol is predominately glucuronidated. Brentuximab vedotin does not inhibit or induce UGTs. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Concentrations of MMAE (an active component of brentuximab vedotin) may increase due to CYP3A4 inhibition, increasing the risk of adverse events. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving moderate CYP3A4 inhibitors concomitantly with brentuximab vedotin should be monitored for adverse reactions. Ocular use: Although chloramphenicol is systemically absorbed when used topically in the eye, the absorbed concentrations are unlikely to cause a clinically significant interaction.",(See Summary)
+63,Brentuximab vedotin,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce CYPs. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of chlordiazepoxide, but this is unlikely to be clinically relevant.",(See Summary)
+64,Brentuximab vedotin,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolised in the liver via CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6. ,(See Summary)
+65,Brentuximab vedotin,Chlorpromazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorpromazine is metabolised mainly by CYP2D6, but also by CYP1A2. Brentuximab vedotin does not inhibit or induce CYP2D6 or CYP1A2.",(See Summary)
+66,Brentuximab vedotin,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+67,Brentuximab vedotin,Ciclosporin (Cyclosporine),"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Ciclosporin is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of ciclosporin, but a clinically relevant interaction is unlikely. However, ciclosporin is an inhibitor of CYP3A4 and P-gp and may increase concentrations of MMAE. Patients who are receiving CYP3A4 and P-gp inhibitors concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. This advice is derived from data collected in an interaction study with ketoconazole which is a CYP3A4 and P-gp inhibitor and discrimination between both effects cannot be made.",(See Summary)
+68,Brentuximab vedotin,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys (possibly via OATs). Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+69,Brentuximab vedotin,Cimetidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cimetidine is metabolised by CYP450 enzymes. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of cimetidine, but this is unlikely to be clinically relevant. In vitro data indicate that cimetidine inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations. Brentuximab vedotin is not transported by OAT1 or OCT2. Cimetidine is also a weak inhibitor of CYPs 3A4, 1A2, 2D6 and 2C19. Concentrations of MMAE may increase due to CYP3A4 inhibition. However, the clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Note: Since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+70,Brentuximab vedotin,Ciprofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. Ciprofloxacin is also metabolised and partially cleared through the bile and intestine. Brentuximab vedotin does not interfere with the elimination of ciprofloxacin. Ciprofloxacin is a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Coadministration of brentuximab vedotin with moderate CYP3A4 inhibitors may increase exposure to MMAE (an active component of brentuximab vedotin). However, the clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Monitoring for adverse reactions of brentuximab vedotin is recommended.",(See Summary)
+71,Brentuximab vedotin,Cisapride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cisapride is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of cisapride, but a clinically relevant interaction is unlikely. Since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+72,Brentuximab vedotin,Citalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may increase concentrations of citalopram, but a clinically relevant interaction is unlikely.",(See Summary)
+73,Brentuximab vedotin,Clarithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Clarithromycin is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may increase clarithromycin concentrations, but this is unlikely to be clinically relevant. However, clarithromycin is an inhibitor of CYP3A4 (strong) and P-gp, and may increase MMAE concentrations and the incidence of neutropenia. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving strong CYP3A4 inhibitors concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. If neutropenia develops, refer to dosing recommendations for neutropenia.",(See Summary)
+74,Brentuximab vedotin,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolised (likely non-CYP mediated pathway) and excreted in the urine by glomerular filtration. Brentuximab vedotin does not interact with these pathways. ,(See Summary)
+75,Brentuximab vedotin,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolised in the liver via CYP2D6. Brentuximab does not inhibit or induce CYP2D6.  ,(See Summary)
+76,Brentuximab vedotin,Clindamycin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clindamycin is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of clindamycin, but a clinically relevant interaction is unlikely.",(See Summary)
+77,Brentuximab vedotin,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,(See Summary)
+78,Brentuximab vedotin,Clofazimine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces. Brentuximab vedotin does not interact with this elimination pathway.,(See Summary)
+79,Brentuximab vedotin,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolysed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Brentuximab vedotin does not interact with these pathways.",(See Summary)
+80,Brentuximab vedotin,Clomipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. In addition, clomipramine and desmethylclomipramine are metabolised by CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of clomipramine, but a clinically relevant interaction is unlikely.",(See Summary)
+81,Brentuximab vedotin,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in form of the unchanged parent drug (40-60% of the dose). Brentuximab vedotin does not interfere with this elimination pathway. ",(See Summary)
+82,Brentuximab vedotin,Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of clopidogrel, but this is unlikely to be clinically relevant. Furthermore, clopidogrel is an inhibitor of CYP2C8 (strong), CYP2B6 (weak) and of CYP2C9 (in vitro) at high concentrations. Brentuximab vedotin is not metabolised by these CYPs.",(See Summary)
+83,Brentuximab vedotin,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Oxazepam is mainly glucuronidated. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of clorazepate, but a clinically relevant interaction is unlikely.",(See Summary)
+84,Brentuximab vedotin,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion, probably via OAT1/3. Brentuximab vedotin does not interact with this elimination pathway. ",(See Summary)
+85,Brentuximab vedotin,Clozapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of clozapine, but this is unlikely to be clinically relevant. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+86,Brentuximab vedotin,Codeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolised by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Morphine is also a substrate of P-gp. Furthermore, codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. Concentrations of codeine may slightly increase due to weak inhibition of CYP3A4 by MMAE (an active component of brentuximab vedotin), but this is unlikely to be clinically relevant.",(See Summary)
+87,Brentuximab vedotin,Colchicine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Colchicine is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of colchicine, but a clinically relevant interaction is unlikely.",(See Summary)
+88,Brentuximab vedotin,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly renally excreted via glomerular filtration. Brentuximab vedotin does not interact with this elimination pathway.,(See Summary)
+89,Brentuximab vedotin,Dabigatran,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dabigatran is transported via P-gp and is renally excreted. Brentuximab vedotin does not inhibit or induce P-gp.,(See Summary)
+90,Brentuximab vedotin,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged in the kidneys via glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway. ,(See Summary)
+91,Brentuximab vedotin,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP450 enzymes. Brentuximab vedotin does not interfere with these metabolic pathways. ",(See Summary)
+92,Brentuximab vedotin,Desipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as desipramine is metabolised by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6. ,(See Summary)
+93,Brentuximab vedotin,Desogestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of desogestrel, but a clinically relevant interaction is unlikely.",(See Summary)
+94,Brentuximab vedotin,Dexamethasone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Dexamethasone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of dexamethasone, but this is unlikely to be clinically relevant. However, dexamethasone has been described as an inducer of CYP3A4 and may possibly decrease MMAE concentrations. The clinical relevance of CYP3A4 induction by dexamethasone has not yet been established. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+95,Brentuximab vedotin,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of dextropropoxyphene, but a clinically relevant interaction is unlikely.",(See Summary)
+96,Brentuximab vedotin,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolised by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Brentuximab vedotin does not interact with this metabolic pathway.",(See Summary)
+97,Brentuximab vedotin,Diazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Temazepam is mainly glucuronidated. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of diazepam, but a clinically relevant interaction is unlikely.",(See Summary)
+98,Brentuximab vedotin,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidised by CYP2C9. Brentuximab vedotin does not inhibit or induce CYP2C9 or UGT2B7.,(See Summary)
+99,Brentuximab vedotin,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is eliminated renally via the renal transporters OATP4C1 and P-gp. Brentuximab vedotin does not interfere with digoxin elimination.,(See Summary)
+100,Brentuximab vedotin,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of dihydrocodeine, but a clinically relevant interaction is unlikely.",(See Summary)
+101,Brentuximab vedotin,Diltiazem,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Diltiazem is metabolised by CYP3A4 and CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of diltiazem, but a clinically relevant interaction is unlikely. However, diltiazem is a moderate inhibitor of CYP3A4 and may increase concentrations of MMAE (an active component of brentuximab vedotin) and the incidence of neutropenia, but this is unlikely to be clinically relevant. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving moderate CYP3A4 inhibitors concomitantly with brentuximab vedotin should be monitored for adverse reactions.",(See Summary)
+102,Brentuximab vedotin,Diphenhydramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. Diphenhydramine is also a weak inhibitor of CYP2D6. Brentuximab vedotin does not interact with this pathway.",(See Summary)
+103,Brentuximab vedotin,Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Brentuximab vedotin does not inhibit or induce UGTs.",(See Summary)
+104,Brentuximab vedotin,Disopyramide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of disopyramide, but a clinically relevant interaction is unlikely.",(See Summary)
+105,Brentuximab vedotin,Dolasetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4, but since CYP3A4 mediated metabolism is only a minor pathway and weakly inhibited, a clinically relevant interaction is unlikely.",(See Summary)
+106,Brentuximab vedotin,Domperidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of domperidone, but a clinically relevant interaction is unlikely.",(See Summary)
+107,Brentuximab vedotin,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO), and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. There is little potential for dopamine to affect disposition of brentuximab vedotin (MMAE), or to be affected by brentuximab vedotin (MMAE).",(See Summary)
+108,Brentuximab vedotin,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of doxazosin, but a clinically relevant interaction is unlikely.",(See Summary)
+109,Brentuximab vedotin,Doxepin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolised to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. In addition, doxepin and nordoxepin are metabolised by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2C19 or CYP2D6. ",(See Summary)
+110,Brentuximab vedotin,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. Since renal excretion is not the major excretion pathway a clinically significant pharmacokinetic interaction with brentuximab vedotin is unlikely.,(See Summary)
+111,Brentuximab vedotin,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of dronabinol, but a clinically relevant interaction is unlikely.",(See Summary)
+112,Brentuximab vedotin,Drospirenone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of drospirenone, but a clinically relevant interaction is unlikely.",(See Summary)
+113,Brentuximab vedotin,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as dulaglutide is degraded by endogenous endopeptidases. ,(See Summary)
+114,Brentuximab vedotin,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolised by CYP2D6 and CYP1A2. Brentuximab vedotin does not inhibit or induce CYP2D6 and CYP1A2. ,(See Summary)
+115,Brentuximab vedotin,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of dutasteride, but a clinically relevant interaction is unlikely.",(See Summary)
+116,Brentuximab vedotin,Dydrogesterone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of dydrogesterone, but a clinically relevant interaction is unlikely.",(See Summary)
+117,Brentuximab vedotin,Edoxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is partially metabolised by CYP3A4 (<10%) and is transported via P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of edoxaban, but this is unlikely to be clinically relevant.",(See Summary)
+118,Brentuximab vedotin,Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1 and UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Brentuximab vedotin does not inhibit or induce these UGTs and CYPs.,(See Summary)
+119,Brentuximab vedotin,Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is renally eliminated (possibly via OATs). Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+120,Brentuximab vedotin,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism; it is desulphated and depolymerised in the liver, and then predominantly renally excreted. MMAE (an active component of brentuximab vedotin) is unlikely to interfere with this metabolic pathway.",(See Summary)
+121,Brentuximab vedotin,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as eprosartan is largely excreted in bile and urine as unchanged drug. Brentuximab vedotin does not interact with this pathway.,(See Summary)
+122,Brentuximab vedotin,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor role. Brentuximab vedotin does not interact with this elimination pathway.,(See Summary)
+123,Brentuximab vedotin,Erythromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Erythromycin is metabolised by CYP3A4 and is a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of erythromycin, but this is unlikely to be clinically relevant. However, erythromycin is an inhibitor of CYP3A4 (moderate) and P-gp, and may increase concentrations of MMAE and the incidence of neutropenia. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving P-gp and CYP3A4 inhibitors concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. This advice is derived from data collected in an interaction study with ketoconazole which is a CYP3A4 and P-gp inhibitor and discrimination between both effects cannot be made.",(See Summary)
+124,Brentuximab vedotin,Escitalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of escitalopram, but a clinically relevant interaction is unlikely.",(See Summary)
+125,Brentuximab vedotin,Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of esomeprazole, but a clinically relevant interaction is unlikely. Since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+126,Brentuximab vedotin,Estazolam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of estazolam, but a clinically relevant interaction is unlikely.",(See Summary)
+127,Brentuximab vedotin,Estradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of estradiol, but a clinically relevant interaction is unlikely.",(See Summary)
+128,Brentuximab vedotin,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolised by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and urine (50%), possibly via OCT2. Brentuximab vedotin does not interact with this metabolic or elimination pathway.",(See Summary)
+129,Brentuximab vedotin,Ethinylestradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of ethinylestradiol, but a clinically relevant interaction is unlikely.",(See Summary)
+130,Brentuximab vedotin,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolised in the liver with animal studies suggesting involvement of flavin-containing monooxygenases. Brentuximab vedotin does not interfere with this pathway. ,(See Summary)
+131,Brentuximab vedotin,Etonogestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of etonogestrel, but a clinically relevant interaction is unlikely.",(See Summary)
+132,Brentuximab vedotin,Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of everolimus, but this is unlikely to be clinically relevant. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+133,Brentuximab vedotin,Exenatide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as exenatide is cleared mainly by glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+134,Brentuximab vedotin,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Brentuximab vedotin does not inhibit or induce these UGTs. ,(See Summary)
+135,Brentuximab vedotin,Famotidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Famotidine is excreted via OAT1/OAT3 and since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+136,Brentuximab vedotin,Felodipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Felodipine is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of felodipine, but a clinically relevant interaction is unlikely.",(See Summary)
+137,Brentuximab vedotin,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolysed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Brentuximab vedotin does not interact with this pathway.",(See Summary)
+138,Brentuximab vedotin,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of fentanyl, but a clinically relevant interaction is unlikely.",(See Summary)
+139,Brentuximab vedotin,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine undergoes negligible metabolism and is mainly eliminated unchanged in the faeces. ,(See Summary)
+140,Brentuximab vedotin,Finasteride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of finasteride, but a clinically relevant interaction is unlikely.",(See Summary)
+141,Brentuximab vedotin,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+142,Brentuximab vedotin,Flecainide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flecainide is metabolised mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also renally eliminated unchanged. Brentuximab vedotin does not interact with this metabolic or elimination pathway.",(See Summary)
+143,Brentuximab vedotin,Flucloxacillin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Brentuximab vedotin does not interfere with this pathway. However, flucloxacillin has been described as a CYP3A4 inducer and may decrease concentrations of MMAE (an active component of brentuximab vedotin). The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+144,Brentuximab vedotin,Fluconazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluconazole is renally excreted. Brentuximab vedotin is unlikely to interfere with this elimination pathway. Fluconazole is also an inhibitor of CYPs 3A4 (moderate), 2C9 (moderate) and 2C19 (strong). Concentrations of MMAE (an active component of brentuximab vedotin) may increase due to CYP3A4 inhibition. However, this is unlikely to be clinically relevant. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving fluconazole concomitantly with brentuximab vedotin should be monitored for adverse reactions.",(See Summary)
+145,Brentuximab vedotin,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase to an inactive metabolite. Brentuximab vedotin does not interfere with this elimination pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Brentuximab vedotin also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+146,Brentuximab vedotin,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of fludrocortisone, but a clinically relevant interaction is unlikely.",(See Summary)
+147,Brentuximab vedotin,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of flunitrazepam, but a clinically relevant interaction is unlikely.",(See Summary)
+148,Brentuximab vedotin,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is metabolised by CYP2D6 and CYP2C9 and to a lesser extent by CYP2C19 and CYP3A4 to form norfluoxetine. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of fluoxetine, but this is unlikely to be clinically relevant. Fluoxetine is also a strong inhibitor of CYP2D6 and CYP2C19. Brentuximab vedotin is not metabolised by these CYPs.",(See Summary)
+149,Brentuximab vedotin,Fluphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6. ,(See Summary)
+150,Brentuximab vedotin,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Although MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4, a clinically relevant interaction is unlikely.",(See Summary)
+151,Brentuximab vedotin,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of fluticasone, but a clinically relevant interaction is unlikely.",(See Summary)
+152,Brentuximab vedotin,Fluvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvastatin is mainly metabolised by CYP2C9 (75%) and to a lesser extent by CYP3A4 (20%) and CYP2C8 (5%). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of fluvastatin, but this is unlikely to be clinically relevant. Furthermore, fluvastatin potentially inhibits CYP2C9. Brentuximab vedotin is not metabolised by CYP2C9.",(See Summary)
+153,Brentuximab vedotin,Fluvoxamine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Brentuximab vedotin does not inhibit or induce CYP2D6 or CYP1A2. However, fluvoxamine is also an inhibitor of CYPs 1A2 (strong), 2C19 (strong), 3A4 (moderate), 2C9 (weak-moderate) and 2D6 (weak). Concentrations of MMAE (an active component of brentuximab vedotin) may increase due to CYP3A4 inhibition, but this is unlikely to be clinically relevant. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving CYP3A4 inhibitors concomitantly with brentuximab vedotin should be monitored for adverse reactions.",(See Summary)
+154,Brentuximab vedotin,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is predominantly renally eliminated. MMAE (an active component of brentuximab vedotin) is unlikely to interact with this elimination pathway.,(See Summary)
+155,Brentuximab vedotin,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation. Brentuximab vedotin does not interfere with these metabolic pathways.",(See Summary)
+156,Brentuximab vedotin,Fosaprepitant,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Brentuximab vedotin does not interact with this metabolic pathway. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of aprepitant, but this is unlikely to be clinically relevant. During treatment, aprepitant is a moderate inhibitor of CYP3A4 and may increase MMAE exposure, but again, this is unlikely to be clinically relevant. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal. However, patients who are receiving moderate CYP3A4 inhibitors concomitantly with brentuximab vedotin should be monitored for adverse reactions. After treatment, aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of free MMAE may decrease due to induction of CYP3A4. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+157,Brentuximab vedotin,Fosphenytoin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Brentuximab vedotin does not inhibit or induce these CYPs. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of free MMAE (an active component of brentuximab vedotin) may decrease due to induction of CYP3A4 and P-gp. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+158,Brentuximab vedotin,Furosemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also renally eliminated unchanged (via OATs). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. In vitro data indicate that furosemide is also an inhibitor of OAT1/OAT3. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+159,Brentuximab vedotin,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+160,Brentuximab vedotin,Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Gemfibrozil is also an inhibitor of CYP2C8 (strong), OATP1B1 and OAT3. In vitro data indicate gemfibrozil to be a strong inhibitor of CYP2C9 but in vivo data showed no clinically relevant effect on CYP2C9. Brentuximab vedotin does not interact with this pathway.",(See Summary)
+161,Brentuximab vedotin,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+162,Brentuximab vedotin,Gestodene,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of gestodene, but a clinically relevant interaction is unlikely.",(See Summary)
+163,Brentuximab vedotin,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of glibenclamide, but this is unlikely to be clinically relevant.",(See Summary)
+164,Brentuximab vedotin,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C19. Brentuximab vedotin does not inhibit or induce CYP2C9 and CYP2C19.,(See Summary)
+165,Brentuximab vedotin,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolised by CYP2C9. Brentuximab vedotin does not inhibit or induce CYP2C9.,(See Summary)
+166,Brentuximab vedotin,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolised by CYP2C9. Brentuximab vedotin does not inhibit or induce CYP2C9.,(See Summary)
+167,Brentuximab vedotin,Granisetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Granisetron is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of granisetron, but a clinically relevant interaction is unlikely.",(See Summary)
+168,Brentuximab vedotin,Grapefruit juice,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Grapefruit juice is known to inhibit CYP3A4 enzymes and may increase concentrations of MMAE (an active component of brentuximab vedotin) and the incidence of neutropenia. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving strong CYP3A4 inhibitors concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. If neutropenia develops, refer to dosing recommendations for neutropenia.",(See Summary)
+169,Brentuximab vedotin,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+170,Brentuximab vedotin,Griseofulvin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Brentuximab vedotin does not interfere with this elimination pathway. However, griseofulvin is a liver microsomal enzyme inducer and may lower plasma levels of MMAE due to induction of CYP3A4. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+171,Brentuximab vedotin,Haloperidol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGT2B7>UGT1A4 and UGT1A9), carbonyl reduction, as well as oxidative metabolism (CYP3A4 and CYP2D6). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of haloperidol, but a clinically relevant interaction is unlikely.",(See Summary)
+172,Brentuximab vedotin,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Brentuximab vedotin does not interact with this metabolic pathway.,(See Summary)
+173,Brentuximab vedotin,Hydralazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. Although in vitro studies suggest that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6, it is not expected that this will lead to a clinical relevant interaction with brentuximab vedotin. No a priori dose adjustment is recommended, since the contribution of free MMAE (an active component of brentuximab vedotin) to efficacy and safety is minimal.",(See Summary)
+174,Brentuximab vedotin,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrochlorothiazide is not metabolised but is cleared by the kidneys via OAT1. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+175,Brentuximab vedotin,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of hydrocodone, but a clinically relevant interaction is unlikely.",(See Summary)
+176,Brentuximab vedotin,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of hydrocortisone, but a clinically relevant interaction is unlikely.",(See Summary)
+177,Brentuximab vedotin,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone. ,(See Summary)
+178,Brentuximab vedotin,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. MMAE (an active component of brentuximab vedotin) does not inhibit or induce UGT2B7. ",(See Summary)
+179,Brentuximab vedotin,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is not a substrate of CYP enzymes or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+180,Brentuximab vedotin,Hydroxyzine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of hydroxyzine, but a clinically relevant interaction is unlikely.",(See Summary)
+181,Brentuximab vedotin,Ibandronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibandronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. ,(See Summary)
+182,Brentuximab vedotin,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Brentuximab vedotin does not inhibit or induce CYP2C9, CYP2C8 or UGTs. ",(See Summary)
+183,Brentuximab vedotin,Iloperidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Iloperidone is metabolised by CYP3A4 and CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of iloperidone, but a clinically relevant interaction is unlikely.",(See Summary)
+184,Brentuximab vedotin,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem and cilastatin are eliminated by glomerular filtration and to a lesser extent by active tubular secretion via OAT3. Brentuximab vedotin does not interfere with these elimination pathways.,(See Summary)
+185,Brentuximab vedotin,Imipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of imipramine, but this is unlikely to be clinically relevant.",(See Summary)
+186,Brentuximab vedotin,Indapamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Indapamide is extensively metabolised by CYP450. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of indapamide, but a clinically relevant interaction is unlikely.",(See Summary)
+187,Brentuximab vedotin,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+188,Brentuximab vedotin,Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+189,Brentuximab vedotin,Interleukin 2 (Aldesleukin),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+190,Brentuximab vedotin,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Brentuximab vedotin does not interact with this metabolic pathway.,(See Summary)
+191,Brentuximab vedotin,Irbesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolised by glucuronidation and oxidation (mainly CYP2C9). Metabolites are excreted via bile (~80%) and urine (~20%). Brentuximab vedotin does not interfere with these metabolic or elimination pathways. ,(See Summary)
+192,Brentuximab vedotin,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+193,Brentuximab vedotin,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Brentuximab vedotin does not interact with these metabolic pathways. ,(See Summary)
+194,Brentuximab vedotin,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of isosorbide dinitrate, but a clinically relevant interaction is unlikely.",(See Summary)
+195,Brentuximab vedotin,Itraconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Itraconazole is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of itraconazole, but this is unlikely to be clinically relevant. Itraconazole is also an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Concentrations of MMAE and the incidence of neutropenia may increase due to CYP3A4 and P-gp inhibition. Coadministration of brentuximab vedotin with ketoconazole (a strong CYP3A4 inhibitor), increased MMAE AUC by 1.34-fold. The AUC of the antibody-drug conjugates was increased by 1.07-fold. A similar effect may occur with itraconazole. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving itraconazole concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. If neutropenia develops, refer to dosing recommendations for neutropenia.",(See Summary)
+196,Brentuximab vedotin,Ivabradine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ivabradine is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of ivabradine, but a clinically relevant interaction is unlikely.",(See Summary)
+197,Brentuximab vedotin,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration. Brentuximab vedotin does not interact with this elimination pathway.,(See Summary)
+198,Brentuximab vedotin,Ketoconazole,"
+Potential Interaction
+","
+Moderate
+","Coadministration should be approached with caution. Ketoconazole is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of ketoconazole, but this is unlikely to be clinically relevant. However, ketoconazole is an inhibitor of CYP3A4 (strong) and P-gp, and may increase concentrations of MMAE and the incidence of neutropenia. Coadministration of brentuximab vedotin and ketoconazole increased MMAE AUC by 1.34-fold. The AUC of the antibody-drug conjugates was increased by 1.07-fold. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving ketoconazole concomitantly with brentuximab vedotin should be closely monitored for adverse reactions of brentuximab vedotin. If neutropenia develops, refer to dosing recommendations for neutropenia.",(See Summary)
+199,Brentuximab vedotin,Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Brentuximab vedotin does not inhibit or induce UGT1A1 or UGT2B7.,(See Summary)
+200,Brentuximab vedotin,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of lacidipine, but a clinically relevant interaction is unlikely.",(See Summary)
+201,Brentuximab vedotin,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. ,(See Summary)
+202,Brentuximab vedotin,Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of lansoprazole, but a clinically relevant interaction is unlikely. Since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+203,Brentuximab vedotin,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is mainly metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of lercanidipine, but a clinically relevant interaction is unlikely.",(See Summary)
+204,Brentuximab vedotin,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion (possibly via OCT2). MMAE (an active component of brentuximab vedotin) is unlikely to interact with this elimination pathway.,(See Summary)
+205,Brentuximab vedotin,Levofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levofloxacin is renally eliminated mainly by glomerular filtration and active secretion (possibly OCT2). Brentuximab vedotin does not interact with these elimination pathways. ,(See Summary)
+206,Brentuximab vedotin,Levomepromazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levomepromazine is metabolised by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6. ,(See Summary)
+207,Brentuximab vedotin,Levonorgestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of levonorgestrel, but a clinically relevant interaction is unlikely.",(See Summary)
+208,Brentuximab vedotin,Levonorgestrel (Emergency Contraception),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of levonorgestrel, but a clinically relevant interaction is unlikely.",(See Summary)
+209,Brentuximab vedotin,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolised by deiodination (by enzymes of deiodinase family) and glucuronidation. Brentuximab vedotin does not interfere with these metabolic pathways. ,(See Summary)
+210,Brentuximab vedotin,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4. However, this is unlikely to be clinically relevant.",(See Summary)
+211,Brentuximab vedotin,Linagliptin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Linagliptin is also a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of linagliptin, but this is unlikely to be clinically relevant. However, linagliptin is a weak inhibitor of CYP3A4 and may increase concentrations of MMAE. The clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal.",(See Summary)
+212,Brentuximab vedotin,Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. Brentuximab vedotin does not interfere with this metabolic pathway.,(See Summary)
+213,Brentuximab vedotin,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as liraglutide is degraded by endogenous endopeptidases. ,(See Summary)
+214,Brentuximab vedotin,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as lisinopril is renally eliminated unchanged via glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+215,Brentuximab vedotin,Lithium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate therefore no pharmacokinetic interaction is expected. ,(See Summary)
+216,Brentuximab vedotin,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalized infections can occur.",(See Summary)
+217,Brentuximab vedotin,Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of loperamide, but a clinically relevant interaction is unlikely.",(See Summary)
+218,Brentuximab vedotin,Loratadine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. MMAE (an active component of brentuximab vedotin) in a weak inhibitor of CYP3A4 and may slightly increase concentrations of loratadine, but this is unlikely to be clinically relevant.",(See Summary)
+219,Brentuximab vedotin,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam is eliminated by non-CYP mediated pathways and no effect on plasma concentrations is expected when coadministered with brentuximab vedotin (MMAE). ,(See Summary)
+220,Brentuximab vedotin,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Brentuximab vedotin does not interact with this metabolic pathway. ,(See Summary)
+221,Brentuximab vedotin,Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Brentuximab vedotin does not inhibit or induce CYP2C9. ,(See Summary)
+222,Brentuximab vedotin,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of lovastatin, but a clinically relevant interaction is unlikely.",(See Summary)
+223,Brentuximab vedotin,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of macitentan, but a clinically relevant interaction is unlikely.",(See Summary)
+224,Brentuximab vedotin,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in the kidney, mainly by glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.",(See Summary)
+225,Brentuximab vedotin,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolised by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6. ,(See Summary)
+226,Brentuximab vedotin,Medroxyprogesterone (depot),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of medroxyprogesterone, but a clinically relevant interaction is unlikely.",(See Summary)
+227,Brentuximab vedotin,Medroxyprogesterone (non-depot),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of medroxyprogesterone, but a clinically relevant interaction is unlikely.",(See Summary)
+228,Brentuximab vedotin,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolised by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Brentuximab vedotin does not inhibit or induce CYP2C9, UGT2B7 or UGT1A9. ",(See Summary)
+229,Brentuximab vedotin,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine (probably via OCT2). Brentuximab vedotin does not interact with this elimination pathway. ,(See Summary)
+230,Brentuximab vedotin,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney with in vitro data suggesting it is a substrate of the renal transporters OAT3>OAT1. Brentuximab vedotin does not interfere with this elimination pathway. ,(See Summary)
+231,Brentuximab vedotin,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolised to N-acetyl-mesalazine by N-acetyltransferase. Brentuximab vedotin does not interfere with this pathway. ,(See Summary)
+232,Brentuximab vedotin,Metamizole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Metamizole is metabolised in serum and excreted via urine (90%) and faeces (10%). Brentuximab vedotin does not interact with this metabolic pathway. However, metamizole is an inducer of CYP3A4 and may decrease MMAE (an active component of brentuximab vedotin) concentrations. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+233,Brentuximab vedotin,Metformin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine and is a substrate of OCT1/2/3, MATE1 and MATE2K. Brentuximab vedotin does not interact with this elimination pathway.",(See Summary)
+234,Brentuximab vedotin,Methadone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methadone is demethylated by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of methadone, but a clinically relevant interaction is unlikely.",(See Summary)
+235,Brentuximab vedotin,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. It is unlikely to affect the disposition of MMAE (an active component of brentuximab vedotin) or to be altered by coadministration with brentuximab vedotin (MMAE).",(See Summary)
+236,Brentuximab vedotin,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolised by CYP450s to a clinically relevant extent and does not inhibit CYP450s. ,(See Summary)
+237,Brentuximab vedotin,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of methylprednisolone, but a clinically relevant interaction is unlikely.",(See Summary)
+238,Brentuximab vedotin,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolised by the CYP450 system (mainly CYP2D6). Brentuximab vedotin does not inhibit or induce CYP2D6.,(See Summary)
+239,Brentuximab vedotin,Metolazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metolazone is largely excreted unchanged in the urine. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Brentuximab vedotin is unlikely to interfere with this elimination pathway.,(See Summary)
+240,Brentuximab vedotin,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolised by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6.,(See Summary)
+241,Brentuximab vedotin,Metronidazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Metronidazole is eliminated via glomerular filtration. Brentuximab vedotin is unlikely to interfere with this elimination pathway. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Since the mechanism of the interaction with CYP3A has not yet been identified, an interaction with MMAE (an active component of brentuximab vedotin) cannot be excluded. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving moderate CYP3A4 inhibitors concomitantly with brentuximab vedotin should be monitored for adverse reactions.",(See Summary)
+242,Brentuximab vedotin,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Brentuximab vedotin does not inhibit or induce CYP2D6 or CYP1A2.,(See Summary)
+243,Brentuximab vedotin,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolised by CYP2D6 and CYP1A2 and to a lesser extent by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of mianserin, but this is unlikely to be clinically relevant.",(See Summary)
+244,Brentuximab vedotin,Miconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Miconazole is extensively metabolised by the liver. Brentuximab vedotin is unlikely to interact with this unspecified pathway. However, miconazole is an inhibitor of CYP2C9 (moderate) and CYP3A4 (strong). Concentrations of MMAE (an active component of brentuximab vedotin) and the incidence of neutropenia may increase due to CYP3A4 inhibition. Coadministration of brentuximab vedotin with ketoconazole (a strong CYP3A4 inhibitor), increased MMAE AUC by 1.34-fold. The AUC of the antibody-drug conjugates was increased by 1.07-fold. A similar effect may occur with miconazole. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving strong CYP3A4 inhibitors concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. If neutropenia develops, refer to dosing recommendations for neutropenia. Dermal application: No a priori dosage adjustment is recommended for brentuximab vedotin, since miconazole is used topically and systemic exposure is limited.",(See Summary)
+245,Brentuximab vedotin,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Although MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4, a clinically relevant interaction is unlikely. Coadministration of midazolam and brentuximab vedotin decreased midazolam AUC by 6% and increased Cmax by 15%.",(See Summary)
+246,Brentuximab vedotin,Midazolam (parenteral),"
+No Interaction Expected
+","
+Low
+","Midazolam is metabolised by CYP3A4. Although MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4, a clinically relevant interaction is unlikely. Coadministration of midazolam and brentuximab vedotin decreased midazolam AUC by 6% and increased Cmax by 15%.",(See Summary)
+247,Brentuximab vedotin,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). MMAE (an active component of brentuximab vedotin) is unlikely to interfere with these pathways.",(See Summary)
+248,Brentuximab vedotin,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of mirtazapine, but this is unlikely to be clinically relevant.",(See Summary)(See Summary)
+249,Brentuximab vedotin,Mometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of mometasone, but a clinically relevant interaction is unlikely.",(See Summary)
+250,Brentuximab vedotin,Montelukast,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of montelukast, but a clinically relevant interaction is unlikely.",(See Summary)
+251,Brentuximab vedotin,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Brentuximab vedotin does not inhibit or induce UGTs or P-gp.",(See Summary)
+252,Brentuximab vedotin,Moxifloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Brentuximab vedotin does not inhibit or induce UGT1A1. ,(See Summary)
+253,Brentuximab vedotin,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and UGT2B7 and excreted via OAT1/3. Brentuximab vedotin does not interact with these pathways. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+254,Brentuximab vedotin,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Brentuximab vedotin does not interact with this elimination pathway.,(See Summary)
+255,Brentuximab vedotin,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolised in the liver by alpha-reductase. Brentuximab vedotin does not interfere with this metabolic pathway.,(See Summary)
+256,Brentuximab vedotin,Naproxen,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Brentuximab vedotin does not inhibit or induce CYP2C9, CYP1A2 or UGT2B7. ",(See Summary)
+257,Brentuximab vedotin,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent by CYP3A4 (30%). MMAE (an active component of brentuximab vedotin) is an inhibitor of CYP3A4 and may slightly increase concentrations of nateglinide, but this is unlikely to be clinically relevant.",(See Summary)
+258,Brentuximab vedotin,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6.,(See Summary)
+259,Brentuximab vedotin,Nefazodone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Nefazodone is metabolised mainly by CYP3A4. MMAE (an active component of brentuximab vedotin) is an inhibitor of CYP3A4 and may slightly increase concentrations of nefazodone, but this is unlikely to be clinically relevant. However, nefazodone is a strong inhibitor of CYP3A4 and may increase concentrations of MMAE and the incidence of neutropenia. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving strong CYP3A4 inhibitors concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. If neutropenia develops, refer to dosing recommendations for neutropenia.",(See Summary)
+260,Brentuximab vedotin,Nicardipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of nicardipine, but this is unlikely to be clinically relevant. Nicardipine is also a weak inhibitor of CYP3A4 and may increase concentrations of MMAE. However, the clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal.",(See Summary)
+261,Brentuximab vedotin,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolised by xanthine oxidase and aldehyde oxidase. Brentuximab vedotin does not interact with these metabolic pathways. In addition, nicotinic acid and its metabolites do not inhibit CYP-mediated reactions in vitro and therefore are unlikely to impact MMAE (an active component of brentuximab vedotin) exposure.",(See Summary)
+262,Brentuximab vedotin,Nifedipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of nifedipine, but a clinically relevant interaction is unlikely.",(See Summary)
+263,Brentuximab vedotin,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolised in the liver following multiple pathways including CYP2C9. Brentuximab vedotin does not inhibit or induce CYP2C9.,(See Summary)
+264,Brentuximab vedotin,Nisoldipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of nisoldipine, but a clinically relevant interaction is unlikely.",(See Summary)
+265,Brentuximab vedotin,Nitrendipine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of nitrendipine, but a clinically relevant interaction is unlikely.",(See Summary)
+266,Brentuximab vedotin,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolised in the liver via glucuronidation and N-acetylation, and partly eliminated in the urine as unchanged drug (30-40%). As renal excretion is not the predominant mechanism of elimination, there is little potential for a significant interaction with brentuximab vedotin (MMAE).",(See Summary)
+267,Brentuximab vedotin,Norelgestromin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of norelgestromin, but a clinically relevant interaction is unlikely.",(See Summary)
+268,Brentuximab vedotin,Norethisterone (Norethindrone),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Brentuximab vedotin does not interact with these metabolic pathways. ",(See Summary)
+269,Brentuximab vedotin,Norgestimate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of norgestimate, but a clinically relevant interaction is unlikely.",(See Summary)
+270,Brentuximab vedotin,Norgestrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of norgestrel, but a clinically relevant interaction is unlikely.",(See Summary)
+271,Brentuximab vedotin,Nortriptyline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nortriptyline is metabolised mainly by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6. ,(See Summary)
+272,Brentuximab vedotin,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant, therefore no drug interactions are expected.",(See Summary)
+273,Brentuximab vedotin,Ofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ofloxacin is renally eliminated unchanged by glomerular filtration and active tubular secretion via both cationic and anionic transport systems (OAT/OCT). Brentuximab vedotin does not interfere with this pathway. ,(See Summary)
+274,Brentuximab vedotin,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolised mainly by CYP1A2 (major) and CYP2D6, but also by glucuronidation (UGT1A4). Brentuximab vedotin does not inhibit or induce these CYPs or UGTs.",(See Summary)
+275,Brentuximab vedotin,Olmesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+276,Brentuximab vedotin,Omeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of omeprazole, but a clinically relevant interaction is unlikely. Since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+277,Brentuximab vedotin,Ondansetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ondansetron is metabolised mainly by CYP1A2 and CYP3A4 and to a lesser extent by CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of ondansetron, but a clinically relevant interaction is unlikely.",(See Summary)
+278,Brentuximab vedotin,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Brentuximab vedotin does not interact with this metabolic pathway. ,(See Summary)
+279,Brentuximab vedotin,Oxcarbazepine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Oxcarbazepine is extensively metabolised to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Brentuximab vedotin does not interact with this pathway. Both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5, and are inhibitors of CYP2C19. Concentrations of MMAE (an active component of brentuximab vedotin) may decrease due to CYP3A4 induction. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+280,Brentuximab vedotin,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolised via glucuronidation. Brentuximab vedotin does not interact with this metabolic pathway. ,(See Summary)
+281,Brentuximab vedotin,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A4 and oxymorphone via CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of oxycodone, but a clinically relevant interaction is unlikely.",(See Summary)
+282,Brentuximab vedotin,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily renally eliminated (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of paliperidone, but a clinically relevant interaction is unlikely.",(See Summary)
+283,Brentuximab vedotin,Palonosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of palonosetron, but a clinically relevant interaction is unlikely.",(See Summary)
+284,Brentuximab vedotin,Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as pamidronic acid is not metabolised and is cleared as unchanged drug via urine.,(See Summary)
+285,Brentuximab vedotin,Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of pantoprazole, but a clinically relevant interaction is unlikely. Since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+286,Brentuximab vedotin,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+287,Brentuximab vedotin,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1, and 2B15), sulfation, and to a lesser extent by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4, but a clinically relevant interaction is unlikely.",(See Summary)
+288,Brentuximab vedotin,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolised by CYP2D6. Paroxetine is also an inhibitor of CYP2D6 (strong) and CYP2C9. Brentuximab vedotin does not interact with this pathway.,(See Summary)
+289,Brentuximab vedotin,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+290,Brentuximab vedotin,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Brentuximab vedotin does not interfere with these elimination pathways.,(See Summary)
+291,Brentuximab vedotin,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is mainly metabolised by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of perazine, but a clinically relevant interaction is unlikely.",(See Summary)
+292,Brentuximab vedotin,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6.,(See Summary)
+293,Brentuximab vedotin,Perindopril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat probably via CYP3A4 and is metabolised to other inactive metabolites. Elimination occurs predominantly via the urine (possibly via OAT). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of perindopril, but a clinically relevant interaction is unlikely.",(See Summary)
+294,Brentuximab vedotin,Perphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perphenazine is metabolised by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6. ,(See Summary)
+295,Brentuximab vedotin,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of pethidine, but a clinically relevant interaction is unlikely.",(See Summary)
+296,Brentuximab vedotin,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolised by oxidation via monoamine oxidase and to a lesser extent acetylation. Brentuximab vedotin does not interfere with these metabolic pathways.,(See Summary)
+297,Brentuximab vedotin,Phenobarbital (Phenobarbitone),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Phenobarbital is metabolised by CYP2C19 and CYP2C9 (major), and to a lesser extent by CYP2E1. Brentuximab vedotin does not inhibit or induce these CYPs. However, phenobarbital is a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Phenobarbital may decrease concentrations of MMAE (an active component of brentuximab vedotin) due to CYP3A4 induction. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+298,Brentuximab vedotin,Phenprocoumon,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenprocoumon is mainly metabolised by CYP2C9 and CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of phenprocoumon, but this is unlikely to be clinically relevant.",(See Summary)
+299,Brentuximab vedotin,Phenytoin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Brentuximab vedotin does not inhibit or induce these CYPs. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of free MMAE (an active component of brentuximab vedotin) may decrease due to induction of CYP3A4 and P-gp. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+300,Brentuximab vedotin,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Brentuximab vedotin does not inhibit or induce CYP4F2. ,(See Summary)
+301,Brentuximab vedotin,Pimozide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pimozide is mainly metabolised by CYP3A4 and CYP2D6 and to a lesser extent by CYP1A2. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of pimozide, but a clinically relevant interaction is unlikely.",(See Summary)
+302,Brentuximab vedotin,Pindolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolised to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine (possibly via OCT2). MMAE (an active component of brentuximab vedotin) is not expected to interfere with pindolol elimination. ,(See Summary)
+303,Brentuximab vedotin,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of pioglitazone, but this is unlikely to be clinically relevant.",(See Summary)
+304,Brentuximab vedotin,Pipotiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6.,(See Summary)
+305,Brentuximab vedotin,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolised by CYP2C9. Brentuximab vedotin does not inhibit or induce CYP2C9. ,(See Summary)
+306,Brentuximab vedotin,Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolised by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Pitavastatin is also a substrate of OATP1B1. Brentuximab vedotin does not inhibit or induce these UGTs, CYPs or OATP1B1.",(See Summary)
+307,Brentuximab vedotin,Posaconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Posaconazole is primarily metabolised by UGTs and is a substrate of P-gp. Brentuximab vedotin is unlikely to interact with this pathway. However, posaconazole is a strong inhibitor of CYP3A4 and may increase the exposure to MMAE (active component of brentuximab vedotin), and the incidence of neutropenia. Coadministration of brentuximab vedotin with ketoconazole (a strong CYP3A4 inhibitor), increased MMAE AUC by 1.34-fold. The AUC of the antibody-drug conjugates was increased by 1.07-fold. A similar effect may occur with posaconazole. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving posaconazole concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. If neutropenia develops, refer to dosing recommendations for neutropenia.",(See Summary)
+308,Brentuximab vedotin,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is renally eliminated. ,(See Summary)
+309,Brentuximab vedotin,Prasugrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of prasugrel, but a clinically relevant interaction is unlikely.",(See Summary)
+310,Brentuximab vedotin,Pravastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Although MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4, a clinically relevant interaction is not expected.",(See Summary)
+311,Brentuximab vedotin,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolised, primarily by demethylation and conjugation. MMAE (an active component of brentuximab vedotin) is unlikely to interfere with these metabolic pathways. ",(See Summary)
+312,Brentuximab vedotin,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of prednisolone, but a clinically relevant interaction is unlikely.",(See Summary)
+313,Brentuximab vedotin,Prednisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of prednisolone, but a clinically relevant interaction is unlikely.",(See Summary)
+314,Brentuximab vedotin,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration (90% as unchanged drug). Brentuximab vedotin is unlikely to interfere with this elimination pathway.,(See Summary)
+315,Brentuximab vedotin,Prochlorperazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Brentuximab vedotin does not inhibit or induce CYP2C19 and CYP2D6. ,(See Summary)
+316,Brentuximab vedotin,Promethazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Promethazine is metabolised by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6.,(See Summary)
+317,Brentuximab vedotin,Propafenone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of propafenone, but a clinically relevant interaction is unlikely.",(See Summary)
+318,Brentuximab vedotin,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolised by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Brentuximab vedotin does not interact with these metabolic pathways. ",(See Summary)
+319,Brentuximab vedotin,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly renally eliminated partly by active secretion by renal transporters. Prucalopride is a substrate of P-gp, but no clinically relevant interactions were observed when prucalopride was coadministered with inhibitors of renal P-gp, OAT and OCT transporters. ",(See Summary)
+320,Brentuximab vedotin,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolised by xanthine oxidase. Brentuximab vedotin does not interact with this metabolic pathway. ,(See Summary)
+321,Brentuximab vedotin,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+322,Brentuximab vedotin,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of quetiapine, but a clinically relevant interaction is unlikely.",(See Summary)
+323,Brentuximab vedotin,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+324,Brentuximab vedotin,Quinidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of quinidine, but this is unlikely to be clinically relevant. Quinidine is also an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate). Concentrations of MMAE may increase due to CYP3A4 and P-gp inhibition. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving P-gp inhibitors concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. This advice is derived from data collected in an interaction study with ketoconazole which is a CYP3A4 and P-gp inhibitor and discrimination between both effects cannot be made.",(See Summary)
+325,Brentuximab vedotin,Rabeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of rabeprazole, but a clinically relevant interaction is unlikely. Since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+326,Brentuximab vedotin,Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat probably via CYP3A4, and is metabolised to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of ramipril, but a clinically relevant interaction is unlikely.",(See Summary)
+327,Brentuximab vedotin,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranitidine is excreted via OAT1/OAT3 and since brentuximab vedotin is administered intravenously, there is no risk of absorption interactions.",(See Summary)
+328,Brentuximab vedotin,Ranolazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ranolazine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of ranolazine, but this is unlikely to be clinically. However, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Concentrations of MMAE may increase due to CYP3A4 inhibition and P-gp. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving P-gp inhibitors concomitantly with brentuximab vedotin should be monitored for adverse reactions. This advice is derived from data collected in an interaction study with ketoconazole which is a CYP3A4 and P-gp inhibitor and discrimination between both effects cannot be made.",(See Summary)
+329,Brentuximab vedotin,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of reboxetine, but this is unlikely to be clinically relevant. Furthermore, in vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. ",(See Summary)
+330,Brentuximab vedotin,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolised by CYP2C8 and CYP3A4 with clinical data indicating it is a substrate of the hepatic transporter OATP1B1. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of repaglinide, but this is unlikely to be clinically relevant.",(See Summary)
+331,Brentuximab vedotin,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver but retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Brentuximab vedotin does not interact with this metabolic pathway. ",(See Summary)
+332,Brentuximab vedotin,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+333,Brentuximab vedotin,Rifabutin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Rifabutin is metabolised by CYP3A and via deacetylation. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of rifabutin, but this is unlikely to be clinically relevant. However, rifabutin is a strong inducer of CYP3A4 and P-gp, and may decrease concentrations of MMAE. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+334,Brentuximab vedotin,Rifampicin,"
+Potential Weak Interaction
+","
+Moderate
+","Rifampicin is metabolised via deacetylation. Brentuximab vedotin does not interfere with this metabolic pathway. However, rifampicin is a strong inducer of CYP3A4 and P-gp. In patients with CD30-postive hematologic malignancies, coadministration of brentuximab vedotin and rifampicin decreased MMAE AUC by 46%. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+335,Brentuximab vedotin,Rifapentine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Rifapentine is metabolised via deacetylation. Brentuximab vedotin does not interfere with this metabolic pathway. However, rifapentine is a strong inducer of CYP3A4, CYP2C8 and P-gp. Concentrations of MMAE (an active component of brentuximab vedotin) may decrease due to CYP3A4 induction. The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.",(See Summary)
+336,Brentuximab vedotin,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in the faeces, almost entirely as unchanged drug. Brentuximab vedotin does not interact with this elimination pathway. ",(See Summary)
+337,Brentuximab vedotin,Risperidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Risperidone is also a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of risperidone, but a clinically relevant interaction is unlikely.",(See Summary)
+338,Brentuximab vedotin,Rivaroxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine. Rivaroxaban is also a substrate of P-gp and BCRP. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of rivaroxaban, but a clinically relevant interaction is unlikely.",(See Summary)
+339,Brentuximab vedotin,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYP2C9 and CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of rosiglitazone, but a clinically relevant interaction is unlikely.",(See Summary)
+340,Brentuximab vedotin,Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosuvastatin is largely excreted unchanged in the faeces via OATP1B1 and is a substrate of BCRP. Brentuximab vedotin does not inhibit or induce OATP1B1 or BCRP.,(See Summary)
+341,Brentuximab vedotin,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolised to the inactive salbutamol-4’-O-sulphate. Brentuximab vedotin does not interact with this metabolic pathway.,(See Summary)
+342,Brentuximab vedotin,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of salmeterol, but a clinically relevant interaction is unlikely.",(See Summary)
+343,Brentuximab vedotin,Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of saxagliptin, but this is unlikely to be clinically relevant.",(See Summary)
+344,Brentuximab vedotin,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces and also in other secretions. No clinically significant drug interactions are known. ,(See Summary)
+345,Brentuximab vedotin,Sertindole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertindole is metabolised by CYP2D6 and CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of sertindole, but a clinically relevant interaction is unlikely.",(See Summary)
+346,Brentuximab vedotin,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of sertraline, but this is unlikely to be clinically relevant.",(See Summary)
+347,Brentuximab vedotin,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of sildenafil, but a clinically relevant interaction is unlikely.",(See Summary)
+348,Brentuximab vedotin,Simvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolised by CYP3A4. Simvastatin is also a substrate of BCRP and the active metabolite is a substrate of OATP1B1. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of simvastatin, but a clinically relevant interaction is unlikely.",(See Summary)
+349,Brentuximab vedotin,Sirolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Sirolimus is metabolised by CYP3A4 and is a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of sirolimus, but a clinically relevant interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+350,Brentuximab vedotin,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1, and P-gp) and metabolism by CYP3A4 represents a minor elimination pathway. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of sitagliptin, but this is unlikely to be clinically relevant.",(See Summary)
+351,Brentuximab vedotin,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. There is little potential for sodium nitroprusside to affect the disposition of brentuximab vedotin (MMAE), or to be affected if co-administered with brentuximab vedotin (MMAE). ",(See Summary)
+352,Brentuximab vedotin,Sotalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sotalol is excreted unchanged via renal elimination (possibly via OCT). MMAE (an active component of brentuximab vedotin) is not expected to interfere with this elimination pathway.,(See Summary)
+353,Brentuximab vedotin,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Brentuximab vedotin does not interact with this elimination pathway. ,(See Summary)
+354,Brentuximab vedotin,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolised by the flavin containing monooxygenases. Brentuximab vedotin does not interfere with this metabolic pathway. ,(See Summary)
+355,Brentuximab vedotin,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of stanozolol, but a clinically relevant interaction is unlikely.",(See Summary)
+356,Brentuximab vedotin,St John's Wort,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. St John’s Wort is an inducer of CYP3A4 and may decrease concentrations of MMAE (an active component of brentuximab vedotin). The clinical relevance of this interaction is unknown as the contribution of free MMAE to efficacy and safety is minimal. No a priori dose adjustment is necessary. Monitoring of efficacy may be required.,(See Summary)
+357,Brentuximab vedotin,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Streptokinase is unlikely to affect the disposition of brentuximab vedotin, or to be affected if coadministered with brentuximab vedotin.",(See Summary)
+358,Brentuximab vedotin,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Streptomycin is eliminated by glomerular filtration. Brentuximab vedotin does not interact with this elimination pathway.,(See Summary)
+359,Brentuximab vedotin,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Brentuximab vedotin does not inhibit or induce CYP2C9.,(See Summary)
+360,Brentuximab vedotin,Sulpiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. ,(See Summary)
+361,Brentuximab vedotin,Tacrolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Tacrolimus is metabolised mainly by CYP3A4 and is a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of tacrolimus, but a clinically relevant interaction is unlikely. Furthermore, tacrolimus is an inhibitor of CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4, P-gp and OATP1B1 in the range of clinical concentrations. Tacrolimus may increase MMAE concentrations although only to a modest extent and a clinically relevant interaction is unlikely. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving moderate CYP3A4 inhibitors concomitantly with brentuximab vedotin should be monitored for adverse reactions.",(See Summary)
+362,Brentuximab vedotin,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of tadalafil, but a clinically relevant interaction is unlikely.",(See Summary)
+363,Brentuximab vedotin,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of tamsulosin, but a clinically relevant interaction is unlikely",(See Summary)
+364,Brentuximab vedotin,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Brentuximab vedotin does not interact with this elimination pathway.,(See Summary)
+365,Brentuximab vedotin,Telithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of telithromycin, but this is unlikely to be clinically relevant. However, telithromycin is an inhibitor of CYP3A4 (strong) and P-gp, and may increase concentrations of MMAE and the incidence of neutropenia. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving strong CYP3A4 inhibitors concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. If neutropenia develops, refer to dosing recommendations for neutropenia.",(See Summary)
+366,Brentuximab vedotin,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Brentuximab vedotin does not inhibit or induce UGT1A3.,(See Summary)
+367,Brentuximab vedotin,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Brentuximab vedotin does not interact with this metabolic pathway. ,(See Summary)
+368,Brentuximab vedotin,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYPs 2C8 and 2C19. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of terbinafine, but this is unlikely to be clinically relevant.",(See Summary)
+369,Brentuximab vedotin,Testosterone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of testosterone, but a clinically relevant interaction is unlikely.",(See Summary)
+370,Brentuximab vedotin,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Brentuximab vedotin does not interact with this elimination pathway.,(See Summary)
+371,Brentuximab vedotin,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolised by CYP1A2. Brentuximab vedotin does not inhibit or induce CYP1A2. ,(See Summary)
+372,Brentuximab vedotin,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+373,Brentuximab vedotin,Thioridazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of thioridazine, but a clinically relevant interaction is unlikely.",(See Summary)
+374,Brentuximab vedotin,Tiapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as tiapride is excreted largely unchanged in urine. ,(See Summary)
+375,Brentuximab vedotin,Ticagrelor,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ticagrelor undergoes extensive CYP3A4 metabolism and is a substrate of P-gp. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of ticagrelor, but a clinically relevant interaction is unlikely. Ticagrelor is also an inhibitor of CYP3A4 and may increase concentrations of MMAE. However, the clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal.",(See Summary)
+376,Brentuximab vedotin,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6.,(See Summary)
+377,Brentuximab vedotin,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Brentuximab vedotin does not interact with this elimination pathway.,(See Summary)
+378,Brentuximab vedotin,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C8 and CYP2C19. Brentuximab vedotin does not inhibit or induce these CYPs.,(See Summary)
+379,Brentuximab vedotin,Tolterodine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 with CYP3A4 playing a minor role. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of tolterodine, but a clinically relevant interaction is unlikely",(See Summary)
+380,Brentuximab vedotin,Torasemide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolised mainly by CYP2C9. Furthermore, OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Brentuximab vedotin does not inhibit or induce CYP2C9 or OATs.",(See Summary)
+381,Brentuximab vedotin,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of tramadol, but a clinically relevant interaction is unlikely.",(See Summary)
+382,Brentuximab vedotin,Trandolapril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to the active metabolite, trandolaprilat, probably via CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of trandolapril, but a clinically relevant interaction is unlikely.",(See Summary)
+383,Brentuximab vedotin,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as tranexamic acid is mainly cleared by glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+384,Brentuximab vedotin,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Brentuximab vedotin does not interact with these metabolic pathways. ,(See Summary)
+385,Brentuximab vedotin,Trazodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of trazodone, but this is unlikely to be clinically relevant.",(See Summary)
+386,Brentuximab vedotin,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of triamcinolone, but a clinically relevant interaction is unlikely.",(See Summary)
+387,Brentuximab vedotin,Triazolam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of triazolam, but a clinically relevant interaction is unlikely.",(See Summary)
+388,Brentuximab vedotin,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. To a lesser extent (approximately 30%) trimethoprim is metabolised by CYP-enzymes (in vitro data suggest CYPs 3A4, 1A2 and 2C9). Trimethoprim is a weak CYP2C8 inhibitor and in vitro data also suggest that trimethoprim is an inhibitor of OCT2 and MATE1. Sulfamethoxazole is metabolised via and is a weak inhibitor of CYP2C9. Brentuximab vedotin does not interfere with these metabolic pathways.",(See Summary)
+389,Brentuximab vedotin,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolised mainly by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6. ,(See Summary)
+390,Brentuximab vedotin,Tropisetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tropisetron is metabolised mainly by CYP2D6. Brentuximab vedotin does not inhibit or induce CYP2D6. ,(See Summary)
+391,Brentuximab vedotin,Ulipristal,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of ulipristal, but a clinically relevant interaction is unlikely.",(See Summary)
+392,Brentuximab vedotin,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolised by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolised by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Brentuximab vedotin does not interact with this pathway.,(See Summary)
+393,Brentuximab vedotin,Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Brentuximab vedotin does not interact with this elimination pathway.,(See Summary)
+394,Brentuximab vedotin,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vancomycin is excreted unchanged via glomerular filtration. Brentuximab vedotin does not interfere with this elimination pathway.,(See Summary)
+395,Brentuximab vedotin,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of venlafaxine, but this is unlikely to be clinically relevant. ",(See Summary)
+396,Brentuximab vedotin,Verapamil,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of verapamil, but a clinically relevant interaction is unlikely. However, verapamil is an inhibitor of CYP3A4 and P-gp and may increase MMAE concentrations. No a priori dose adjustment is recommended, since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving moderate CYP3A4 and P-gp inhibitors concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. This advice is derived from data collected in an interaction study with ketoconazole which is a CYP3A4 and P-gp inhibitor and discrimination between both effects cannot be made.",(See Summary)
+397,Brentuximab vedotin,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate of P-gp. Brentuximab vedotin does not interact with this metabolic pathway.,(See Summary)
+398,Brentuximab vedotin,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+399,Brentuximab vedotin,Voriconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Voriconazole is metabolised by CYP2C19 (major) and to a lesser extent by CYP2C9 and CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of voriconazole, but this is unlikely to be clinically relevant. However, voriconazole is strong inhibitor of CYP3A4 and a weak inhibitor of CYPs 2C9, 2C19 and 2B6. Concentrations of MMAE and the incidence of neutropenia may increase due to CYP3A4 inhibition. Coadministration of brentuximab vedotin with ketoconazole (a strong CYP3A4 inhibitor), increased MMAE AUC by 1.34-fold. The AUC of the antibody-drug conjugates was increased by 1.07-fold. A similar effect may occur with voriconazole. No a priori dose adjustment is recommended since the contribution of free MMAE to efficacy and safety is minimal. Patients who are receiving voriconazole concomitantly with brentuximab vedotin should be closely monitored for adverse reactions. If neutropenia develops, refer to dosing recommendations for neutropenia.",(See Summary)
+400,Brentuximab vedotin,Warfarin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and CYP3A4. S-warfarin (more potent) is metabolised by CYP2C9. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of warfarin, but this is unlikely to be clinically relevant.",(See Summary)
+401,Brentuximab vedotin,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). Furthermore, OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Brentuximab vedotin does not interfere with this elimination pathway.",(See Summary)
+402,Brentuximab vedotin,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent by CYP3A4. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of zaleplon, but a clinically relevant interaction is unlikely.",(See Summary)
+403,Brentuximab vedotin,Ziprasidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of ziprasidone, but a clinically relevant interaction is unlikely.",(See Summary)
+404,Brentuximab vedotin,Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as zoledronic acid is not metabolised and is cleared as unchanged drug via urine.,(See Summary)
+405,Brentuximab vedotin,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of zolpidem, but a clinically relevant interaction is unlikely.",(See Summary)
+406,Brentuximab vedotin,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of zopiclone, but a clinically relevant interaction is unlikely.",(See Summary)
+407,Brentuximab vedotin,Zotepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of zotepine, but a clinically relevant interaction is unlikely.",(See Summary)
+408,Brentuximab vedotin,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. MMAE (an active component of brentuximab vedotin) is a weak inhibitor of CYP3A4 and may slightly increase concentrations of zuclopenthixol, but a clinically relevant interaction is unlikely.",(See Summary)

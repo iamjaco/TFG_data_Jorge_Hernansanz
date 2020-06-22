@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592465876594.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FF493DA3",
+    "lastKnownWriteTime" : 1592085645,
+    "last_content_update" : 1592465876594,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CA6140FC",
+        "caption" : "Vector_of_ATC_codes",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Vector_of_ATC_codes&cache_key=CA6140FC",
+        "displayedObservations" : 4288,
+        "environment" : "",
+        "expression" : "Vector_of_ATC_codes",
+        "object" : "Vector_of_ATC_codes",
+        "preview" : 0,
+        "totalObservations" : 4288,
+        "variables" : 6
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,67 @@
+---
+title: "Generating_files"
+author: "Jorge H."
+date: "5/6/2020"
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, '3_Danish_dataset (3).html')) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+```
+
+
+Importing files
+```{r}
+Danish_DDI <- read_csv("Data/Danish_DDI.txt")
+Danish_cli_DDI <- read_csv("Data/Danish_cli_DDI.txt")
+```
+
+
+Exporting files to compendia
+```{r}
+# Whole dataset
+write_csv(Danish_DDI,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/DDI_compendia_data/Danish_DDI_compendia.txt")
+
+# ATC vector
+write_csv(unique(Danish_DDI[,"ATC_vector"]),
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_compendia/Vectors/ATC_Danish.txt", col_names = FALSE)
+
+
+
+# Features
+
+# Evidence level
+write_csv(unique(Danish_DDI[,c(1:3,6:8)]),
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Evidence_level/Danish_evidence_level_DDI.txt", col_names = FALSE)
+
+# Clinical significance
+write_csv(unique(Danish_DDI[,c(1,2,4,6:8)]),
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Clinical_significance/Danish_clinical_significance_DDI.txt", col_names = FALSE)
+
+# Management
+write_csv(unique(Danish_DDI[,c(1,2,5,6:8)]),
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Features/Management/Danish_management_DDI.txt", col_names = FALSE)
+
+```
+
+
+Exporting files to clinical
+```{r}
+# Whole dataset
+write_csv(Danish_cli_DDI,
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_clinical_data/DDI_dataset/Danish_DDI.txt")
+
+# ATC vector
+write_csv(unique(Danish_cli_DDI[,"ATC_vector"]),
+          "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/Analysis/Datasets_and_vectors/DDI_clinical_data/DDI_atc_vector/Danish_vector.txt", col_names = FALSE)
+```
+

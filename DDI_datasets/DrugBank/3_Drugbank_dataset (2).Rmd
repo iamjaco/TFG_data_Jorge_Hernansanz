@@ -1,0 +1,80 @@
+---
+title: "Drugbank to ATC codes"
+author: "Jorge H."
+date: "24/5/2020"
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, '3_Drugbank_dataset (2).html')) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+```{r}
+library(readr)
+library(data.table)
+```
+
+
+Importing the files needed
+```{r}
+drug_drug_interactions <- read_csv("Data/drug_drug_interactions.zip")
+
+Drug_ATC_codes_DB <- read_csv("Identifiers/Drug_ATC_codes_DB.csv")
+```
+
+
+Mapping Drugbank identifiers to ATC codes
+```{r}
+colnames(drug_drug_interactions)[1] <- "Drugbank_id"
+
+Drugbank_DDI <- merge(drug_drug_interactions,
+                      Drug_ATC_codes_DB[,c(1,10)],
+                      by.x="Drugbank_id",
+                      by.y = "parent_key")
+
+Drugbank_DDI <- merge(Drugbank_DDI,
+                      Drug_ATC_codes_DB[,c(1,10)],
+                      by = "parent_key")
+
+Drugbank_DDI <- unique(Drugbank_DDI)
+
+```
+
+Tidying the dataset
+```{r}
+#Unnecessary row 
+Drugbank_DDI <- subset(Drugbank_DDI, select = - name)
+
+# Adding proper names
+setnames(Drugbank_DDI,
+         old = c("atc_code.y","atc_code.x"),
+         new = c("drug", "codrug"))
+
+# Adding columns of first level of ATC
+Drugbank_DDI$level_1_atc_drug <- substr(Drugbank_DDI$drug,1,1)
+Drugbank_DDI$level_1_atc_codrug <- substr(Drugbank_DDI$codrug,1,1)
+
+# Unifying ATC columns so to have them as vectors also. (For the vector compendia)
+Drugbank_DDI$ATC_vector <- paste(apply(Drugbank_DDI[,c("drug","codrug")],
+                                       1,
+                                       min),
+                                 apply(Drugbank_DDI[,c("drug","codrug")],
+                                       1,
+                                       max),
+                                 sep = "_") 
+
+# Ordering the dataframe
+Drugbank_DDI <- Drugbank_DDI[,c(5,4,1:3,6:8)]
+
+```
+
+
+Saving dataset in its local folder
+```{r}
+write_csv(Drugbank_DDI, "Data/Drugbank_DDI.txt")
+```

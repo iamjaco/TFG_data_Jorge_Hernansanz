@@ -1,0 +1,24 @@
+"0","drug_drug_interactions <- read_csv(""Data/drug_drug_interactions.zip"")"
+"2","Parsed with column specification:
+cols(
+  `drugbank-id` = [31mcol_character()[39m,
+  name = [31mcol_character()[39m,
+  description = [31mcol_character()[39m,
+  parent_key = [31mcol_character()[39m
+)
+"
+"0","Drug_ATC_codes_DB <- read_csv(""Identifiers/Drug_ATC_codes_DB.csv"")"
+"2","Parsed with column specification:
+cols(
+  atc_code = [31mcol_character()[39m,
+  level_1 = [31mcol_character()[39m,
+  code_1 = [31mcol_character()[39m,
+  level_2 = [31mcol_character()[39m,
+  code_2 = [31mcol_character()[39m,
+  level_3 = [31mcol_character()[39m,
+  code_3 = [31mcol_character()[39m,
+  level_4 = [31mcol_character()[39m,
+  code_4 = [31mcol_character()[39m,
+  parent_key = [31mcol_character()[39m
+)
+"

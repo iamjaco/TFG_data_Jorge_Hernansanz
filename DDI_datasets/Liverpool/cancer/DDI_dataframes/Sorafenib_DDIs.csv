@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Sorafenib,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. ",(See Summary)
+1,Sorafenib,Acenocoumarol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Acenocoumarol is mainly metabolized by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Sorafenib does not inhibit or induce CYPs. Concomitant treatment with sorafenib and warfarin, a CYP2C9 substrate, did not result in changes in mean PT-INR compared to placebo. However, an increased risk of bleeding is possible with sorafenib in combination with coumarins and close monitoring of INR/PT is recommended.",(See Summary)
+2,Sorafenib,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolized by glucuronidation (by several UGT, major UGT1A6). Sorafenib does not inhibit or induce CYPs or UGT1A6.",(See Summary)
+3,Sorafenib,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely as agomelatin is metabolised predominantly via CYP1A2. Sorafenib does not inhibit or induce CYPs.",(See Summary)
+4,Sorafenib,Alendronic acid,"
+Potential Weak Interaction
+","
+Low
+","Coadministration has not been studied. Alendronate is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, alendronate should be separated from food or other medicinal products and patients must wait at least 30 minutes after taking alendronate before taking any other oral medicinal product. Osteonecrosis of the jaw has been reported in an increasing number of renal cell cancer patients since the use of combined therapies consisting of nitrogen-containing bisphosphonates and antiangiogenic targeted agents. This suggests that angiogenesis suppression might increase the risk of osteonecrosis of the jaw when coadministered with bisphosphonates. ",(See Summary)
+5,Sorafenib,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism but sorafenib does not inhibit or induce CYPs. ,(See Summary)
+6,Sorafenib,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as alfuzosin is metabolized by CYP3A. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+7,Sorafenib,Aliskiren,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolized and is mainly excreted unchanged in faeces. However, P-glycoprotein is a major determinant of aliskiren bioavailability. Therefore, inhibition of P-gp by sorafenib may increase aliskiren concentrations. If the combination appears necessary, monitoring of blood pressure is recommended.",(See Summary)
+8,Sorafenib,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant drug-drug interaction is unlikely as allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Sorafenib not interfere with this metabolic pathway. ,(See Summary)
+9,Sorafenib,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolized by CYP2C9, 3A4 and 1A2. Sorafenib does not inhibit of induce CYPs. ",(See Summary)
+10,Sorafenib,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+11,Sorafenib,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The aqueous solubility of sorafenib is pH dependent, with higher pH resulting in lower solubility. However, omeprazole (a proton pump inhibitor) had no clinically meaningful effect on sorafenib single dose exposure and decreased absorption of sorafenib is not expected in combination with antacids.",(See Summary)
+12,Sorafenib,Ambrisentan,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ambrisentan is metabolised by glucuronidation via UGTs 1A3, 1A9 and 2B7, and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Sorafenib is an inhibitor of UGT1A9 and may increase concentrations of ambrisentan. As the clinical relevance of this interaction is unknown, monitoring for ambrisentan toxicity is recommended. Furthermore, sorafenib is a moderate inhibitor of CYP3A4 and CYP2C19 in vitro, but no clinically significant effect on ambrisentan is expected in vivo. Sorafenib is also an inhibitor of P-gp in vitro. The clinical relevance of this interaction is unknown.",(See Summary)
+13,Sorafenib,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied. Amikacin is eliminated by glomerular filtration therefore no pharmacokinetic interaction is expected with sorafenib.,(See Summary)
+14,Sorafenib,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Sorafenib is unlikely to significantly inhibit amiloride renal elimination.,(See Summary)
+15,Sorafenib,Amiodarone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Sorafenib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+16,Sorafenib,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolized and is primarily eliminated renally (possibly via OCT). Sorafenib is unlikely to significantly impair amisulpride elimination. ,(See Summary)
+17,Sorafenib,Amitriptyline,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19. Sorafenib does not interact with this metabolic pathway. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+18,Sorafenib,Amlodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+19,Sorafenib,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Sorafenib is unlikely to interfere with amoxicillin renal elimination.,(See Summary)
+20,Sorafenib,Amphotericin B,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely as amphotericin is not appreciably metabolized and is eliminated to a large extent in the bile. Sorafenib does not interfere with amphotericin B elimination pathway. However, the European SPC for amphotericin states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Furthermore, amphotericin B has a possible risk of QT interval prolongation. Therefore, caution is needed when sorafenib is co-administered with amphotericin B. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+21,Sorafenib,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20 to 40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60 to 80% is excreted in the urine within 6 hours. Sorafenib is unlikely to significantly inhibit ampicillin renal elimination.,(See Summary)
+22,Sorafenib,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperature. ,(See Summary)
+23,Sorafenib,Antacids,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The aqueous solubility of sorafenib is pH dependent, with higher pH resulting in lower solubility. However, omeprazole (a proton pump inhibitor) had no clinically meaningful effect on sorafenib single dose exposure and decreased absorption of sorafenib is not expected in combination with antacids.",(See Summary)
+24,Sorafenib,Apixaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Apixaban is metabolized by CYP3A4 and to a lesser extent by CYP1A2, CYP2C8, CYP2C9 and CYP2C19. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+25,Sorafenib,Aprepitant,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Although sorafenib is a moderate inhibitor of CYPs 3A4, 1A2 and 2C19 in vitro, no clinically significant effect on aprepitant is expected in vivo. During treatment, aprepitant is a moderate inhibitor of CYP3A4 and may increase concentrations of sorafenib during the three days of coadministration. Since CYP3A4 mediated metabolism is only a minor metabolic pathway for sorafenib, a clinically relevant interaction is unlikely. Furthermore, after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of sorafenib may slightly decrease due to weak induction of CYP3A4 and UGT1A1, but this is unlikely to be clinically relevant.",(See Summary)
+26,Sorafenib,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolized by CYP3A4 and CYP2D6. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+27,Sorafenib,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolized by glucuronidation (UGT1A4) and oxidative metabolism (CYP1A2 (major) and CYP3A4, 2D6 (minor). Sorafenib does not inhibit or induce CYPs and UGT1A4.",(See Summary)
+28,Sorafenib,Astemizole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely as astemizole is metabolized by CYPs 2D6, 2J2 and 3A4. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+29,Sorafenib,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. ",(See Summary)
+30,Sorafenib,Atorvastatin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolized by CYP3A4 and substrate of P-gp. Sorafenib does not inhibit or induce CYPs. However, inhibition of P-gp by sorafenib could possibly lead to increased atorvastatin concentrations. It is recommended to start with the lowest dose and titrate up to the desired clinical effect while monitoring for safety.",(See Summary)
+31,Sorafenib,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolized analogously to natural purines. Sorafenib does not interfere with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+32,Sorafenib,Azithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Azithromycin is mainly eliminated via biliary excretion and animal data suggest this may occur via P-glycoprotein and MRP2. Therefore, azithromycin concentrations may potentially increase due to inhibition of P-gp by sorafenib. No effect on sorafenib concentrations is expected. Caution should be taken when using azithromycin with drugs that are known to prolong the QT interval. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+33,Sorafenib,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Sorafenib does not interact with this pathway. ",(See Summary)
+34,Sorafenib,Bedaquiline,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely as bedaquiline is metabolised by CYP3A4. Sorafenib does not inhibit or induce CYPs. However, bedaquiline prolongs the QTc interval. When bedaquiline is coadministered with sorafenib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, clinical monitoring including ECG assessment is recommended. ",(See Summary)
+35,Sorafenib,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. In vitro data indicate that bendroflumethiazide inhibits these renal transporters but a clinically significant interaction is unlikely in the range of observed clinical concentrations. In addition, there is no evidence that bendroflumethiazide inhibits or induces CYP450 enzymes and therefore is unlikely to impact sorafenib.",(See Summary)
+36,Sorafenib,Bepridil,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Bepridil is metabolized by CYP2D6 (major) and 3A4. Sorafenib does not inhibit or induce CYPs. However, caution is needed when co-administering sorafenib with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+37,Sorafenib,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+38,Sorafenib,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as half of bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Sorafenib does not interact with this pathway. ,(See Summary)
+39,Sorafenib,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. ,(See Summary)
+40,Sorafenib,Bisoprolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Bisoprolol is partly metabolized by CYP3A4 and CYP2D6 and partly eliminated unchanged in the urine. Sorafenib does not inhibit or induce CYPs. However, bisoprolol is a substrate for P-gp and concentrations may potentially increase due to inhibition of P-gp by sorafenib. The clinical relevance of this interaction is unknown and monitoring of blood pressure may be required.",(See Summary)
+41,Sorafenib,Bosentan,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Bosentan is a substrate and inducer of CYP3A4 and CYP2C9. Bosentan could potentially decrease sorafenib exposure. Coadministration should be avoided, since decrease in exposure can lead to decreased efficacy. Therefore, if the combination of sorafenib and bosentan appears necessary, close monitoring is needed. ",(See Summary)
+42,Sorafenib,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Drug-drug interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may play a role. Sorafenib does not inhibit or induce CYPs.",(See Summary)
+43,Sorafenib,Budesonide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+44,Sorafenib,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Approximately 67-80% of a sorafenib dose is excreted as unchanged drug via bile. Sorafenib does not inhibit or induce CYP3A4 or UGT2B7. Sorafenib is an inhibitor of UGT1A1/1A9, however, a clinical relevant interaction is unlikely, since glucuronidation of buprenorphine via UGT1A1 is not a major pathway involved in buprenorphine elimination.",(See Summary)
+45,Sorafenib,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolized by CYP2B6. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+46,Sorafenib,Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+47,Sorafenib,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Co-administration has not been studied but a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. ",(See Summary)
+48,Sorafenib,Candesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. ,(See Summary)
+49,Sorafenib,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Sorafenib does not interfere with capreomycin renal elimination.,(See Summary)
+50,Sorafenib,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied. Captopril is largely excreted in the urine by OAT1. Sorafenib does not interfere with captopril elimination.,(See Summary)
+51,Sorafenib,Carbamazepine,"
+Do Not Coadminister
+","
+Low
+","Coadministration should be avoided. Carbamazepine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2C8. Sorafenib is a moderate inhibitor of CYP3A4 and CYP2C8 in vitro. However, no clinically significant effect on carbamazepine is expected in vivo. Carbamazepine is an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong), 1A2 (weak), 2B6 and UGT1A1. Significant decreases in sorafenib plasma concentrations may occur due to induction of CYP3A4 and UGT1A1. Coadministration of enzyme inducing anti-epileptic drugs (EIAED) led to a decreased sorafenib exposure (AUC-ratio of 0.36) when compared to patients treated with non-EIAID (n=9). Coadministration should be avoided since decreases in exposure can lead to decreased efficacy.",(See Summary)
+52,Sorafenib,Carvedilol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additionally metabolism via CYP2D6 and to a lesser extent CYPs 2C9 and 1A2. Sorafenib does not inhibit or induce CYPs. However, carvedilol is a substrate for P-gp and concentrations may potentially increase due to inhibition of P-gp by sorafenib. The clinical relevance of this interaction is unknown and monitoring of blood pressure may be required.",(See Summary)
+53,Sorafenib,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non CYP-mediated pathway. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+54,Sorafenib,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly eliminated unchanged renally by glomerular filtration and tubular secretion via OAT1 and MATE1. Sorafenib does not interfere with cefalexin renal elimination.,(See Summary)
+55,Sorafenib,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Sorafenib does not interfere with cefazolin renal elimination.",(See Summary)
+56,Sorafenib,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as cefixime is renally excreted predominantly by glomerular filtration. Sorafenib does not interfere with cefixime renal elimination.,(See Summary)
+57,Sorafenib,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolized by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Sorafenib does not interfere with cefotaxime renal elimination.",(See Summary)
+58,Sorafenib,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as ceftazidime is excreted predominantly by renal glomerular filtration. Sorafenib does not interfere with ceftazidime renal elimination.,(See Summary)
+59,Sorafenib,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Sorafenib does not interfere with ceftriaxone renal elimination.",(See Summary)
+60,Sorafenib,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolized by CYP2C9. Sorafenib at a dose does not inhibit or induce CYPs. ,(See Summary)
+61,Sorafenib,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion. In vitro data indicate that cetirizine inhibits OCT2. Sorafenib is unlikely to interact with cetirizine renal elimination.,(See Summary)
+62,Sorafenib,Chloramphenicol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYP3A4. Coadministration of chloramphenicol may potentially increase levels of sorafenib via this mechanism, increasing the risk of adverse events. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended. Ocular use: Although chloramphenicol is systemically absorbed when used topically in the eye, the concentrations used are unlikely to cause a clinically significant interaction. ",(See Summary)
+63,Sorafenib,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce cytochromes. Sorafenib is a moderate inhibitor of CYP3A4 in vitro. However, no clinically significant effect on chlordiazepoxide is expected in vivo. ",(See Summary)
+64,Sorafenib,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolized in the liver via CYP2D6. Sorafenib does not inhibit or induce CYPs.. ,(See Summary)
+65,Sorafenib,Chlorpromazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Chlorpromazine is metabolized mainly by CYP2D6, but also by CYP1A2. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+66,Sorafenib,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. ,(See Summary)
+67,Sorafenib,Ciclosporin (Cyclosporine),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Sorafenib is metabolised mainly by CYP3A4. Ciclosporin is substrate for CYP3A4 and P-gp and inhibits CYP3A4 and OATP1B1 and could potentially increase sorafenib concentrations. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dosage adjustment is commended for sorafenib. ",(See Summary)
+68,Sorafenib,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys. ,(See Summary)
+69,Sorafenib,Cimetidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The aqueous solubility of sorafenib is pH dependent, with higher pH resulting in lower solubility. However, omeprazole (a proton pump inhibitor) had no clinically meaningful effect on sorafenib single dose exposure and decreased absorption of sorafenib is not expected in combination with H2 receptor antagonists. In vitro data indicate that cimetidine inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations and therefore is unlikely to alter sorafenib absorption. ",(See Summary)
+70,Sorafenib,Ciprofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. Ciprofloxacin is also metabolised and partially cleared through the bile and intestine. Sorafenib does not interfere with the elimination of ciprofloxacin. However, ciprofloxacin is a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Concentrations of sorafenib may increase due to inhibition of CYP3A4 but since CYP3A4 mediated metabolism is only a minor pathway, a clinically relevant interaction is unlikely. Caution should be taken when using ciprofloxacin with drugs that are known to prolong the QT interval. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+71,Sorafenib,Cisapride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Cisapride is metabolised by CYP3A4. Sorafenib does not inhibit or induce CYPs. However, sorafenib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. ",(See Summary)
+72,Sorafenib,Citalopram,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Citalopram is metabolized by CYP2C19 (38%), 2D6 (31%) and 3A4 (31%). Sorafenib does not inhibit or induce CYPs.  However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+73,Sorafenib,Clarithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant pharmacokinetic interaction is unlikely. Clarithromycin may slightly increase sorafenib concentrations due to moderate inhibition of CYP3A4. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended. However, clarithromycin prolongs the QTc interval. When clarithromycin is coadministered with sorafenib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+74,Sorafenib,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolized (likely non CYP mediated pathway) and excreted in the urine by glomerular filtration. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+75,Sorafenib,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolized in the liver via CYP2D6. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+76,Sorafenib,Clindamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clindamycin is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+77,Sorafenib,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,(See Summary)
+78,Sorafenib,Clofazimine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on the metabolism and clearance, a pharmacokinetic interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces, both as unabsorbed drug and via biliary excretion. However, in patients therapeutic doses of sorafenib have been shown to prolong the QTc interval. Caution should be taken when using clofazimine with drugs that are known to prolong the QT interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+79,Sorafenib,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolyzed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Sorafenib does not interfere with clofibrate elimination.",(See Summary)
+80,Sorafenib,Clomipramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clomipramine is metabolized by CYP3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. In addition, clomipramine and desmethylclomipramine are metabolized by CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+81,Sorafenib,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in form of the unchanged parent drug (40-60% of the dose). Clonidine is a weak inhibitor of OCT2 but is unlikely to interact with sorafenib elimination. In addition, sorafenib does not interfere with clonidine elimination.",(See Summary)
+82,Sorafenib,Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied. Clopidogrel is a prodrug and is converted to its active metabolite via CYPs 3A4, 2B6, 2C19 and 1A2. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+83,Sorafenib,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolized to oxazepam by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+84,Sorafenib,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on the metabolism and clearance, a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion. Sorafenib does not interact with this metabolic pathway.",(See Summary)
+85,Sorafenib,Clozapine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Sorafenib is a moderate inhibitor of CYPs 3A4, 2C19 and 2D6 in vitro, no clinically significant effect on clozapine is expected in vivo. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended. Furthermore, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+86,Sorafenib,Codeine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolised by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Morphine is also a substrate of P-gp. Sorafenib is an inhibitor of P-gp in vitro and may increase concentrations of morphine. The clinical relevance of this interaction is unknown. Furthermore, codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. Sorafenib is a moderate inhibitor of CYP2D6 and CYP3A4 in vitro. However, no clinically significant effect on codeine and morphine is expected in vivo.",(See Summary)
+87,Sorafenib,Colchicine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as colchicine is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+88,Sorafenib,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on the metabolism and clearance, a clinically significant interaction is unlikely. Cycloserine is predominantly excreted renally via glomerular filtration. Sorafenib does not interact with this metabolic pathway.",(See Summary)
+89,Sorafenib,Dabigatran,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Dabigatran is a substrate of P-gp and is renally excreted. Sorafenib is an inhibitor of P-gp and may increase concentrations of dabigatran. As the clinical relevance of this interaction is unknown, monitoring may be required.",(See Summary)
+90,Sorafenib,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys. Sorafenib does not interfere with the renal excretion of dalteparin. ",(See Summary)
+91,Sorafenib,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP P450 enzymes. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+92,Sorafenib,Desipramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely as desipramine is metabolized by CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+93,Sorafenib,Desogestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+94,Sorafenib,Dexamethasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied. Dexamethasone has been described as a weak inducer of CYP3A4 and could possibly decrease sorafenib plasma concentrations. However, the clinical relevance of CYP3A4 induction by dexamethasone has not been established yet.",(See Summary)
+95,Sorafenib,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+96,Sorafenib,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolized by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Although sorafenib is an inhibitor of UGT1A1/1A9, a clinically relevant interaction is unlikely since glucuronidation by UGT1A1 is not a major pathway involved in diamorphine elimination.",(See Summary)
+97,Sorafenib,Diazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolized to nordiazepam (by CYP3A4 and 2C19) and to temazepam (mainly by CYP3A4). Sorafenib does not inhibit or induce CYPs.,(See Summary)
+98,Sorafenib,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidized by CYP2C9. Sorafenib does not inhibit or induce CYPs or UGT2B7.,(See Summary)
+99,Sorafenib,Digoxin,"
+Potential Interaction
+","
+Very Low
+",Coadministration has not been studied. Digoxin is eliminated renally via the renal transporters OATP4C1 and P-glycoprotein. Sorafenib is an inhibitor of P-gp and may possibly increase digoxin concentrations. It is recommended that the lowest possible dose of digoxin should initially be given to patients on sorafenib. The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject.,(See Summary)
+100,Sorafenib,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+101,Sorafenib,Diltiazem,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Diltiazem is metabolized by CYP3A4 and CYP2D6 and sorafenib does not inhibit or induce CYPs. Diltiazem is a moderate inhibitor of CYP3A4 and therefore could potentially increase sorafenib exposure. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely and no a priori dose adjustment for sorafenib is recommended.",(See Summary)
+102,Sorafenib,Diphenhydramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Diphenhydramine is mainly metabolized by CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended. ",(See Summary)
+103,Sorafenib,Dipyridamole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Sorafenib is an inhibitor of UGT1A1/1A9 in vitro and could therefore potentially increase moxifloxacin exposure. The clinical relevance of this interaction is unknown.",(See Summary)
+104,Sorafenib,Disopyramide,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Disopyramide is metabolized by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. Sorafenib does not interact with this metabolic pathway. However, caution is needed when co-administering sorafenib with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+105,Sorafenib,Dolasetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolized by CYP2D6 (10-20%) and CYP3A4 (<1%). Sorafenib does not interact with these pathways. However dolasetron may prolong the QT interval and in sorafenib has been shown to prolong the QT interval. Caution should be taken when using dolasetron with drugs that are known to prolong the QT interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+106,Sorafenib,Domperidone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Domperidone is mainly metabolized by CYP3A4. Sorafenib does not inhibit of induce CYPs. However, sorafenib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. Sorafenib has been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+107,Sorafenib,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant pharmacokinetic interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. There is little potential for dopamine to affect disposition of sorafenib, or to be affected if co-administered with sorafenib.",(See Summary)
+108,Sorafenib,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant pharmacokinetic interaction is unlikely. Doxazosin is metabolized mainly by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+109,Sorafenib,Doxepin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolized to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. In addition, doxepin and nordoxepin are metabolized by CYP2D6. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+110,Sorafenib,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40%-60% of an administered dose can be accounted for in the urine. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+111,Sorafenib,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolized by CYP2C9 and to a lesser extent by CYP3A4. Sorafenib does not inhibit of induce CYPs. ,(See Summary)
+112,Sorafenib,Drospirenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolized to a minor extent via CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+113,Sorafenib,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as dulaglutide is degraded by endogenous endopeptidases. Dulaglutide delays gastric emptying and could possibly decrease the absorption rate of concomitantly administered oral drugs. However, as sorafenib efficacy is more likely to be correlated to trough plasma concentrations instead of maximum plasma concentrations of sorafenib, the clinical relevance of delayed absorption is considered to be limited.",(See Summary)
+114,Sorafenib,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolized by CYP2D6 and CYP1A2. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+115,Sorafenib,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+116,Sorafenib,Dydrogesterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolized to dihydrodydrogesterone (possibly via CYP3A4). Sorafenib does not inhibit or induce CYPs.,(See Summary)
+117,Sorafenib,Edoxaban,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Edoxaban plasma concentrations may increase due to inhibition of P-gp by sorafenib. The clinical relevance of this interaction is not known and monitoring may be required.,(See Summary)
+118,Sorafenib,Eltrombopag,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1, UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Sorafenib is an inhibitor of UGT1A1/1A9 and could therefore potentially increase moxifloxacin exposure. The clinical relevance of this interaction is unknown.",(See Summary)
+119,Sorafenib,Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is eliminated renally (possibly via OATs). ,(See Summary)
+120,Sorafenib,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is excreted predominantly renally. Sorafenib does not interact with this metabolic pathway.",(See Summary)
+121,Sorafenib,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as eprosartan is largely excreted in bile and urine as unchanged drug. ,(See Summary)
+122,Sorafenib,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor component. Sorafenib does not interact with this metabolic pathway.,(See Summary)
+123,Sorafenib,Erythromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and is not recommended. Erythromycin may slightly increase sorafenib concentrations due to inhibition of CYP3A4. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended. However, erythromycin prolongs the QTc interval. When erythromycin is coadministered with sorafenib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+124,Sorafenib,Escitalopram,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Escitalopram is metabolized by CYP2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+125,Sorafenib,Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4 and inhibits CYP2C19. Sorafenib does not interact with this pathway. The aqueous solubility of sorafenib is pH dependent, with higher pH resulting in lower solubility. However, omeprazole (a proton pump inhibitor) had no clinically meaningful effect on sorafenib single dose exposure and decreased absorption of sorafenib is not expected in combination with other proton pump inhibitors. ",(See Summary)
+126,Sorafenib,Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolized to its major metabolite 4-hydroxyestazolam via CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+127,Sorafenib,Estradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolized by CYP3A4, CYP1A2 and is glucuronidated. Sorafenib does not inhibit or induce CYPs.",(See Summary)
+128,Sorafenib,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolized by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and in the urine (50%). Sorafenib does not interact with this metabolic pathway.,(See Summary)
+129,Sorafenib,Ethinylestradiol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Sorafenib does not inhibit or induce CYPs. However, sorafenib is an inhibitor of UGT1A1/1A9 and may potentially increase ethinylestradiol exposure. The clinical relevance of this interaction is unknown. ",(See Summary)
+130,Sorafenib,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolized in the liver, animal studies suggest involvement of flavin-containing monooxygenases. Sorafenib does not interfere with this pathway. ",(See Summary)
+131,Sorafenib,Etonogestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+132,Sorafenib,Everolimus (Immunosuppressant),"
+Potential Interaction
+","
+Very Low
+","Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. Sorafenib does not inhibit or induce CYP3A4 or P-gp. In patients with solid tumours or metastatic clear cell renal cell carcinoma, coadministration of everolimus (5 mg once daily) and sorafenib (400 mg twice daily) showed manageable toxicity and no pharmacokinetic interaction. However, higher doses were not studied as they are believed to be toxic. For the indication of renal cell carcinoma, coadministration is not recommended since the maximum tolerated dose of everolimus in combination with sorafenib was insufficient to achieve biologically effective everolimus concentrations. As an immunosuppressant, everolimus is used at lower doses than 5 mg, so coadministration with sorafenib is possible.",(See Summary)
+133,Sorafenib,Exenatide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as exenatide is cleared mainly by glomerular filtration. Exenatide delays gastric emptying and could possibly decrease the absorption rate of concomitantly administered oral drugs. However, as sorafenib efficacy is more likely to be correlated to trough plasma concentrations instead of maximum plasma concentrations of sorafenib, the clinical relevance of delayed absorption is considered to be limited.",(See Summary)
+134,Sorafenib,Ezetimibe,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Sorafenib is an inhibitor of UGT1A1/1A9 could therefore increase ezetimibe exposure. The clinical relevance of this interaction is unknown and monitoring may be required.,(See Summary)
+135,Sorafenib,Famotidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The aqueous solubility of sorafenib is pH dependent, with higher pH resulting in lower solubility. However, omeprazole (a proton pump inhibitor) had no clinically meaningful effect on sorafenib single dose exposure and decreased absorption of sorafenib is not expected in combination with H2 receptor antagonists.",(See Summary)
+136,Sorafenib,Felodipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Felodipine is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. However, a single case report of coadministration of sorafenib (400 mg twice daily) and felodipine (5 mg twice daily) showed 3-fold increase of sorafenib trough levels and increased toxicity. The mechanism of this interaction is unknown. Impairment of UGT by liver cirrhosis may have made CYP3A4 metabolism the major pathway in this patient and/or felodipine may have competitively inhibited CYP3A4. If coadministration is unavoidable, sorafenib toxicity should be monitored. ",(See Summary)
+137,Sorafenib,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolyzed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Sorafenib does not interact with this pathway.",(See Summary)
+138,Sorafenib,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+139,Sorafenib,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine undergoes negligible metabolism and is mainly eliminated unchanged in the faeces. ,(See Summary)
+140,Sorafenib,Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+141,Sorafenib,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+142,Sorafenib,Flecainide,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flecainide is metabolized mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also eliminated unchanged renally. Sorafenib does not interact with this metabolic pathway. However, caution is needed when co-administered sorafenib with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+143,Sorafenib,Flucloxacillin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Flucloxacillin is mainly eliminated renally partly by glomerular filtration and partly by active secretion via OAT1. Sorafenib does not interact with this metabolic pathway. However, flucloxacillin was shown to induce CYP3A4 and therefore could potentially decrease sorafenib exposure. The clinical relevance of this interaction is unknown. ",(See Summary)
+144,Sorafenib,Fluconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fluconazole may slightly increase sorafenib concentrations due to moderate inhibition of CYP3A4. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended. However, fluconazole prolongs the QTc interval. When fluconazole is coadministered with sorafenib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+145,Sorafenib,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase (DPD) to an inactive metabolite. Sorafenib does not interfere with this elimination pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Sorafenib also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+146,Sorafenib,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolized in the liver to inactive metabolites, possibly via CYP3A. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+147,Sorafenib,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolized mainly via CYP3A4 and 2C19. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+148,Sorafenib,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is metabolized by CYP2D6 and 2C9 and to a lesser extent by 2C19 and 3A4 to form norfluoxetine. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+149,Sorafenib,Fluphenazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+150,Sorafenib,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+151,Sorafenib,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+152,Sorafenib,Fluvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as fluvastatin is mainly metabolized by CYP2C9. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+153,Sorafenib,Fluvoxamine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluvoxamine is metabolized mainly by CYP2D6 and to a lesser extent by CYP1A2. Sorafenib does not inhibit or induce CYPs. However, fluvoxamine inhibits CYP1A2, 2C19, 3A4, 2C9 and sorafenib concentrations may be slightly increased if co-administered with fluvoxamine. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended.",(See Summary)
+154,Sorafenib,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is eliminated predominantly renally. Sorafenib does not interact with this metabolic pathway.,(See Summary)
+155,Sorafenib,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation being another pathway. As multiple CYP450 and UGT enzymes catalyze the transformation the potential for a pharmacokinetic interaction is low and sorafenib does not interact with these metabolic pathways.",(See Summary)
+156,Sorafenib,Fosaprepitant,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Sorafenib does not interact with this metabolic pathway. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Although sorafenib is a moderate inhibitor of CYPs 3A4, 1A2 and 2C19 in vitro, no clinically significant effect on aprepitant is expected in vivo. During treatment, aprepitant is a moderate inhibitor of CYP3A4 and may increase concentrations of sorafenib during the three days of treatment. Since CYP3A4 mediated metabolism is only a minor metabolic pathway for sorafenib, a clinically relevant interaction is unlikely. Furthermore, after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of sorafenib may slightly decrease due to weak induction of CYP3A4 and UGT1A1, but this is unlikely to be clinically relevant.",(See Summary)
+157,Sorafenib,Fosphenytoin,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but should be avoided. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Sorafenib is a moderate inhibitor of CYP2C9 and CYP2C19 in vitro. However, no clinically significant effect on sorafenib is expected in vivo. Furthermore, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of sorafenib may decrease due to induction of CYP3A4. Coadministration of enzyme inducing anti-epileptic drugs (EIAED) led to a decreased sorafenib exposure (AUC-ratio of 0.36) when compared to patients treated with non-EIAID (n=9). Therefore, coadministration should be avoided, since a decrease in exposure can lead to decreased efficacy.",(See Summary)
+158,Sorafenib,Furosemide,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also eliminated unchanged renally (via OATs). In vitro data indicate that furosemide is an inhibitor of the renal transporters OAT1/OAT3. Sorafenib is an inhibitor of UGT1A1/1A9 could therefore increase furosemide exposure. The clinical relevance of this interaction is unknown. ,(See Summary)
+159,Sorafenib,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as gabapentin is cleared mainly by glomerular filtration. Sorafenib is unlikely to interfere with this pathway.,(See Summary)
+160,Sorafenib,Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+161,Sorafenib,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+162,Sorafenib,Gestodene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolized by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+163,Sorafenib,Glibenclamide (Glyburide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Glibenclamide is mainly metabolized by CYP3A4 and to a lesser extent by CYP2C9. Sorafenib does not inhibit or induce CYPs. However, in a case report a severe hypoglycemic episode was reported during coadministration of sorafenib and glibenclamide. It is not known whether this was due to accumulation of glibenclamide or whether the profound blood glucose lowering effects of sorafenib might have additionally contributed to this adverse effect.",(See Summary)
+164,Sorafenib,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolized mainly by CYP2C9 and to a lesser extent by CYP2C19. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+165,Sorafenib,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolized by CYP2C9. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+166,Sorafenib,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolized by CYP2C9. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+167,Sorafenib,Granisetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Granisetron is metabolized by CYP3A4. Sorafenib does not inhibit of induce CYPs. However, granisetron is substrate of P-gp and concentrations may potentially increase due to inhibition of P-gp by sorafenib. Moreover, granisetron may prolong the QT interval and sorafenib has been shown to prolong the QTc interval. Caution should be taken when using granisetron with drugs that are known to prolong the QT interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+168,Sorafenib,Grapefruit juice,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Grapefruit juice is known to inhibit CYP3A4 enzymes and could potentially increase sorafenib concentrations. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended.",(See Summary)
+169,Sorafenib,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+170,Sorafenib,Griseofulvin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Sorafenib does not interfere with griseofulvin elimination pathway. Griseofulvin is a liver microsomal enzyme inducer and may lower plasma levels, and therefore reduce the efficacy of concomitantly administered medicinal products that are metabolized by CYP3A4, such as sorafenib. However, this is unlikely to be clinically relevant. ",(See Summary)
+171,Sorafenib,Haloperidol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGT2B7>1A4, 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4, 2D6). Sorafenib does not inhibit or induce CYPs and UGT2B7. Sorafenib is an inhibitor of UGT1A1/1A9 but a clinically relevant interaction is unlikely since glucuronidation of haloperidol via UGT1A1 is not a major pathway involved in haloperidol elimination. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+172,Sorafenib,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Sorafenib does not interact with this metabolic pathway.,(See Summary)
+173,Sorafenib,Hydralazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. Although in vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6, it is not expected that this will lead to a clinical relevant interaction with sorafenib. ",(See Summary)
+174,Sorafenib,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied. Hydrochlorothiazide is not metabolized and is cleared by the kidneys via OAT1. In vitro data indicate that hydrochlorothiazide is unlikely to inhibit OAT1 in the range of clinically significant concentrations. Significant interactions are not expected with sorafenib.,(See Summary)
+175,Sorafenib,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+176,Sorafenib,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+177,Sorafenib,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone. ,(See Summary)
+178,Sorafenib,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Sorafenib not interact with this metabolic pathway. ",(See Summary)
+179,Sorafenib,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is not a substrate of CYP enzymes or P-gp. However, coadministration may increase risk of gastro-intestinal toxicity, haematological toxicity or mucositis. Monitor haematological parameters if used concurrently.",(See Summary)
+180,Sorafenib,Hydroxyzine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyzine is partly metabolized by alcohol dehydrogenase and partly by CYP3A4. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+181,Sorafenib,Ibandronic acid,"
+Potential Weak Interaction
+","
+Low
+","Coadministration has not been studied. Ibandronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, ibandronic acid should be taken after an overnight fast (at least 6 hours) and before the first food or drink of the day. Medicinal products and supplements should be similarly avoided prior to taking ibandronic acid. Fasting should be continued for at least 30 minutes after taking ibandronic acid. Osteonecrosis of the jaw has been reported in an increasing number of renal cell cancer patients since the use of combined therapies consisting of nitrogen-containing bisphosphonates and antiangiogenic targeted agents. This suggests that angiogenesis suppression might increase the risk of osteonecrosis of the jaw when coadministered with bisphosphonates. ",(See Summary)
+182,Sorafenib,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ibuprofen is metabolized mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Sorafenib not interact with this metabolic pathway.,(See Summary)
+183,Sorafenib,Iloperidone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Iloperidone is metabolized by CYP3A4 and CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+184,Sorafenib,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent, active tubular secretion. Sorafenib does not interact with this metabolic pathway. ",(See Summary)
+185,Sorafenib,Imipramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipramine is metabolized by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolized by CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+186,Sorafenib,Indapamide,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Indapamide is extensively metabolized by CYP P450. Sorafenib does not inhibit or induce CYPs. However, sorafenib has been shown to prolong the QTc interval and the use of indapamide in patients treated with QT prolonging medicinal products should be avoided. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+187,Sorafenib,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+188,Sorafenib,Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration showed interferon alpha had no effect on the pharmacokinetics of sorafenib. However, coadministration may increase risk of neutropenia, fatigue, and thrombocytopenia. Monitor haematological parameters if used concurrently.",(See Summary)
+189,Sorafenib,Interleukin 2 (Aldesleukin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. ",(See Summary)
+190,Sorafenib,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Sorafenib does not interact with this metabolic pathway.,(See Summary)
+191,Sorafenib,Irbesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolized by glucuronidation and oxidation (mainly CYP2C9). Sorafenib does not interact with this pathway.. ,(See Summary)
+192,Sorafenib,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+193,Sorafenib,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Sorafenib does not interact with this metabolic pathway. ",(See Summary)
+194,Sorafenib,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Sorafenib does not inhibit or induce CYPs. As renal elimination of unchanged drug is a minor pathway, there is little potential for an interaction.",(See Summary)
+195,Sorafenib,Itraconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Itraconazole may slightly increase sorafenib concentrations due to moderate inhibition of CYP3A4. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended. However, itraconazole prolongs the QTc interval. When itraconazole is coadministered with sorafenib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+196,Sorafenib,Ivabradine,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ivabradine is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. However, sorafenib has been shown to prolong the QTc interval and the use of ivabradine in patients treated with QT prolonging medicinal products should be avoided. If the combination appears necessary, close ECG monitoring is needed.",(See Summary)
+197,Sorafenib,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration and sorafenib does not interact with this pathway. ,(See Summary)
+198,Sorafenib,Ketoconazole,"
+Potential Interaction
+","
+Low
+","Coadministration of ketoconazole, a potent inhibitor of CYP3A4, administered 400 mg once daily for 7 days to healthy male volunteers and a single 50 mg dose of sorafenib had no significant effect on sorafenib AUC (11% decrease). These data suggest that clinically relevant pharmacokinetic interactions of sorafenib with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended. However, ketoconazole prolongs the QTc interval. When ketoconazole is coadministered with sorafenib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+199,Sorafenib,Labetalol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Labetalol is mainly glucuronidated (via UGT1A1 and 2B7). Sorafenib is an inhibitor of UGT1A1/1A9 could therefore increase labetolol exposure. The clinical relevance of this interaction is unknown. If the combination appears necessary, blood pressure monitoring is recommended. ",(See Summary)
+200,Sorafenib,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+201,Sorafenib,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. ,(See Summary)
+202,Sorafenib,Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Sorafenib does not inhibit or induce CYPs. The aqueous solubility of sorafenib is pH dependent, with higher pH resulting in lower solubility. However, omeprazole (a proton pump inhibitor) had no clinically meaningful effect on sorafenib single dose exposure and decreased absorption of sorafenib is not expected in combination with other proton pump inhibitors.",(See Summary)
+203,Sorafenib,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is mainly metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+204,Sorafenib,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion. ,(See Summary)
+205,Sorafenib,Levofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a pharmacokinetic interaction is unlikely. Levofloxacin is eliminated renally mainly by glomerular filtration and active secretion (possibly OCT2). Sorafenib does not interact with this metabolic pathway. However, sorafenib should be used with caution when coadministered with a drug with a known risk of QTc interval prolongation. In patients therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+206,Sorafenib,Levomepromazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Levomepromazine is metabolized by CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+207,Sorafenib,Levonorgestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolized by CYP3A4 and is glucuronidated to a minor extent. Sorafenib does not interact with this metabolic pathway.,(See Summary)
+208,Sorafenib,Levonorgestrel (Emergency Contraception),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolized by CYP3A4 and is glucuronidated to a minor extent. Sorafenib does not interact with this metabolic pathway.,(See Summary)
+209,Sorafenib,Levothyroxine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolized by deiodination (by enzymes of deiodinase family) and glucuronidation. Sorafenib does not interact with levothyroxine metabolism. However, observational data show that sorafenib has been responsible for hypothyroidism in 18% of patients with metastatic renal-cell carcinoma. Therefore, a dose increase of levothyroxine may be needed. Monitoring of TSH levels is recommended.",(See Summary)
+210,Sorafenib,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+211,Sorafenib,Linagliptin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Linagliptin is a substrate for P-gp and is an inhibitor of CYP3A4A. Sorafenib concentrations may slightly increase due to inhibition of CYP3A4, but this is not expected to be clinically relevant. However, linagliptin concentrations may potentially increase due to inhibition of P-gp by sorafenib and the clinical relevance of this is unknown. ",(See Summary)
+212,Sorafenib,Linezolid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. ",(See Summary)
+213,Sorafenib,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as liraglutide is degraded by endogenous endopeptidases. ,(See Summary)
+214,Sorafenib,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is eliminated unchanged renally via glomerular filtration. ,(See Summary)
+215,Sorafenib,Lithium,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate therefore no pharmacokinetic interaction is expected. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+216,Sorafenib,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalized infections can occur.",(See Summary)
+217,Sorafenib,Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolized by CYP3A4 and CYP2C8 and sorafenib does not inhibit or induce CYPs. Although, loperamide is a substrate of P-gp and concentrations may increase due to inhibition of P-gp by sorafenib, this is unlikely to be clinically relevant.",(See Summary)
+218,Sorafenib,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolized mainly by CYP3A4 and to a lesser extent by CYP2D6. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+219,Sorafenib,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam is eliminated by non-CYP-mediated pathways and no effect on plasma concentrations is expected when coadministered with sorafenib. ,(See Summary)
+220,Sorafenib,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated, probably via UGT2B15. Sorafenib does not interact with this metabolic pathway. ",(See Summary)
+221,Sorafenib,Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+222,Sorafenib,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+223,Sorafenib,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolized mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+224,Sorafenib,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in kidney, mainly by glomerular filtration. ",(See Summary)
+225,Sorafenib,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolized by CYP2D6. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+226,Sorafenib,Medroxyprogesterone (depot),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+227,Sorafenib,Medroxyprogesterone (non-depot),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+228,Sorafenib,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolized by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Sorafenib does not inhibit or induce CYPs, but sorafenib is an inhibitor of UGT1A1/1A9. However, a clinically relevant interaction is unlikely, since glucuronidation by UGT1A9 is not the major pathway involved in mefenamic acid elimination.",(See Summary)
+229,Sorafenib,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine. ,(See Summary)
+230,Sorafenib,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney and in vitro data suggest that it is a substrate of the renal transporters OAT3>OAT1. Sorafenib does not interfere with this elimination pathway. ,(See Summary)
+231,Sorafenib,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolized to N-acetyl-mesalazine by N-acetyltransferase. Sorafenib does not interfere with this pathway. ,(See Summary)
+232,Sorafenib,Metamizole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied, but should be approached with caution. Metamizole may decrease sorafenib concentrations due to induction of CYP3A4. Decreases in sorafenib exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. The clinical relevance of this interaction is unknown; monitoring and dose adjustment may be required.",(See Summary)
+233,Sorafenib,Metformin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine (via OCT2). Sorafenib does not interact with metformin metabolic and elimination pathway.,(See Summary)
+234,Sorafenib,Methadone,"
+Potential Interaction
+","
+Very Low
+","Sorafenib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+235,Sorafenib,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. It is unlikely to affect the disposition of sorafenib, or to be altered by co-administration with sorafenib.",(See Summary)
+236,Sorafenib,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant pharmacokinetic interaction is unlikely. Methylphenidate is not metabolized by cytochrome P450 to a clinically relevant extent and does not inhibit cytochrome P450s. ,(See Summary)
+237,Sorafenib,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+238,Sorafenib,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolized by CYP450 system (mainly CYP2D6). Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+239,Sorafenib,Metolazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely as metolazone is largely excreted unchanged in the urine. ",(See Summary)
+240,Sorafenib,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolized by CYP2D6. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+241,Sorafenib,Metronidazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). However, data suggest that clinically relevant pharmacokinetic interactions of sorafenib with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended.",(See Summary)
+242,Sorafenib,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolized mainly by CYP2D6 and to a lesser extent CYP1A2. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+243,Sorafenib,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolized by CYPs 2D6 and 1A2, and to a lesser extent by CYP3A4. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+244,Sorafenib,Miconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied. Miconazole inhibits CYP2C9 and 3A4 and could potentially increase sorafenib concentrations. Oromucosal application: clinical data suggest that pharmacokinetic interactions of sorafenib with CYP3A4 inhibitors are unlikely to be of clinical significance and no a priori dose adjustment for sorafenib is recommended. Dermal application: no a priori dosage adjustment is recommended for sorafenib, since miconazole is used topically and systemic exposure is limited. ",(See Summary)
+245,Sorafenib,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration of sorafenib (400 mg twice daily) midazolam (2 mg single dose) had no significant effect on midazolam (AUC decreased by 15%). ,(See Summary)
+246,Sorafenib,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration with parenteral midazolam has not been studied. Coadministration of sorafenib (400 mg twice daily) and oral midazolam (2 mg single dose) had no significant effect on midazolam (AUC decreased by 15%). Based on metabolism and clearance a clinically significant interaction with parenteral midazolam is unlikely,(See Summary)
+247,Sorafenib,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Sorafenib is unlikely to interfere with this pathways.",(See Summary)
+248,Sorafenib,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Sorafenib does not inhibit or induce CYPs.",(See Summary)
+249,Sorafenib,Mometasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+250,Sorafenib,Montelukast,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolized by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+251,Sorafenib,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Although sorafenib is an inhibitor of UGT1A1/1A9, a clinically relevant interaction is unlikely since glucuronidation by UGT1A1 is not a major pathway involved in morphine elimination.",(See Summary)
+252,Sorafenib,Moxifloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Moxifloxacin is predominantly glucuronidated by UGT1A1. Sorafenib is an inhibitor of UGT1A1/1A9 and could therefore potentially increase moxifloxacin exposure. The clinical relevance of this interaction is unknown. Moreover, sorafenib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. In patients therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+253,Sorafenib,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Mycophenolate is mainly glucuronidated by UGT1A9 and 2B7. Sorafenib is an inhibitor of UGT1A1/1A9 could therefore increase mycophenolate exposure. The clinical relevance of this interaction is unknown. Inhibition of OAT1/OAT3 renal transporters by mycophenolic acid (active metabolite) is unlikely to interfere with sorafenib elimination. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+254,Sorafenib,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Sorafenib does not interact with this elimination pathway.,(See Summary)
+255,Sorafenib,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolized in the liver by alpha-reductase. Sorafenib does not interact with this pathway.,(See Summary)
+256,Sorafenib,Naproxen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Sorafenib does not inhibit or induce these CYPs or UGTs. ,(See Summary)
+257,Sorafenib,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolized by CYP2C9 (70%) and to a lesser extent CYP3A4 (30%). Sorafenib does not inhibit or induce CYPs.,(See Summary)
+258,Sorafenib,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+259,Sorafenib,Nefazodone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nefazodone is metabolized mainly by CYP3A4 and is an inhibitor of CYP3A4. Nefazodone could potentially increase sorafenib exposure. Nefazodone may slightly increase sorafenib concentrations due to inhibition of CYP3A4. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended. However, nefazodone prolongs the QTc interval. When nefazodone is coadministered with sorafenib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+260,Sorafenib,Nicardipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and 2C8. Nicardipine inhibits CYP3A4 and could potentially increase sorafenib concentrations. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely and no a priori dose adjustment for sorafenib is recommended.",(See Summary)
+261,Sorafenib,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolized by xanthine oxidase and aldehyde oxidase. Sorafenib does not interact with this metabolic pathway. In addition, nicotinic acid and its metabolites do not inhibit CYP-mediated reactions in vitro and therefore are unlikely to impact sorafenib exposure.",(See Summary)
+262,Sorafenib,Nifedipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+263,Sorafenib,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolized in the liver following multiple pathways including CYP2C9. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+264,Sorafenib,Nisoldipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+265,Sorafenib,Nitrendipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolized mainly by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+266,Sorafenib,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolized in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+267,Sorafenib,Norelgestromin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolized to norgestrel (possibly by CYP3A4). Sorafenib does not inhibit or induce CYPs.,(See Summary)
+268,Sorafenib,Norethisterone (Norethindrone),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation via UGT1A1. Sorafenib is an inhibitor of UGT1A1/1A9 and may potentially increase norethisterone exposure. The clinical relevance of this interaction is unknown. ",(See Summary)
+269,Sorafenib,Norgestimate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolized via CYP450. Sorafenib does not interact with this metabolic pathway.,(See Summary)
+270,Sorafenib,Norgestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+271,Sorafenib,Nortriptyline,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nortriptyline is metabolized mainly by CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+272,Sorafenib,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant, therefore no drug interactions are expected. ",(See Summary)
+273,Sorafenib,Ofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant pharmacokinetic interaction is unlikely. Ofloxacin is eliminated unchanged renally by glomerular filtration and active tubular secretion via both cationic and anionic transport systems. Sorafenib is unlikely to interfere with this pathway. However, sorafenib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. In patients therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+274,Sorafenib,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolized mainly by CYP1A2, but also by glucuronidation (UGT1A4). Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+275,Sorafenib,Olmesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. ,(See Summary)
+276,Sorafenib,Omeprazole,"
+No Interaction Expected
+","
+Low
+","The aqueous solubility of sorafenib is pH dependent, with higher pH resulting in lower solubility. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Omeprazole induces CYP1A2 and inhibits CYP2C19. However, coadministration of omeprazole (40 mg once daily for 5 days) and sorafenib (single dose) did not result in a change in sorafenib exposure. In addition, sorafenib produced clinically non-relevant induction of CYP2C19 activity as reflected by a 26% increase in the omeprazole metabolic ratio after pretreatment with sorafenib (400 mg twice daily) for 28 days.",(See Summary)
+277,Sorafenib,Ondansetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Ondansetron is metabolized mainly by CYP1A2 and CYP3A4 and to a lesser extent by CYP2D6. Sorafenib does not inhibit of induce CYPs. However, ondansetron is substrate of P-gp and concentrations may potentially increase due to inhibition of P-gp by sorafenib. Moreover, ondansetron may prolong the QT interval dose dependently and sorafenib has been shown to prolong the QTc interval. Caution should be taken when using ondansetron with drugs that are known to prolong the QT interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+278,Sorafenib,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated via UGT2B15, 2B6 and 1A9. Although sorafenib is an inhibitor of UGT1A1/1A9, a clinically relevant interaction is unlikely since glucuronidation by UGT1A9 is not a major pathway involved in oxazepam elimination.",(See Summary)
+279,Sorafenib,Oxcarbazepine,"
+Do Not Coadminister
+","
+Low
+",Coadministration should be avoided as decreases in sorafenib plasma concentrations may occur due to induction of CYP3A4. Coadministration of enzyme inducing anti-epileptic drugs (EIAED) decreased sorafenib AUC by 64% when compared to patients treated with non-EIAID (n=9). Coadministration should be avoided since decrease in exposure can lead to decreased efficacy.,(See Summary)
+280,Sorafenib,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolized via glucuronidation sorafenib does not interact with this metabolic pathway. ,(See Summary)
+281,Sorafenib,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+282,Sorafenib,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily eliminated renally (possibly via OCT) with minimal metabolism occurring via CYP2D6 and 3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+283,Sorafenib,Palonosetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Palonosetron is metabolized mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Sorafenib does not inhibit of induce CYPs. However, palonosetron is substrate of P-gp and concentrations may potentially increase due to inhibition of P-gp by sorafenib. The clinical relevance of this interaction is unknown and monitoring may be required. ",(See Summary)
+284,Sorafenib,Pamidronic acid,"
+Potential Weak Interaction
+","
+Low
+",Osteonecrosis of the jaw has been reported in an increasing number of renal cell cancer patients since the use of combined therapies consisting of nitrogen-containing bisphosphonates and antiangiogenic targeted agents. This suggests that angiogenesis suppression might increase the risk of osteonecrosis of the jaw when coadministered with bisphosphonates. ,(See Summary)
+285,Sorafenib,Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. Sorafenib does not inhibit or induce CYPs. The aqueous solubility of sorafenib is pH dependent, with higher pH resulting in lower solubility. However, omeprazole (a proton pump inhibitor) had no clinically meaningful effect on sorafenib single dose exposure and decreased absorption of sorafenib is not expected in combination with other proton pump inhibitors.",(See Summary)
+286,Sorafenib,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+287,Sorafenib,Paracetamol (Acetaminophen),"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Paracetamol is mainly metabolized by glucuronidation (via UGT1A9 (major), UGT1A6, UGT1A1, UGT2B15) and sulfation and, to a lesser extent, by oxidation (CYP2E1 (major), 1A2, 3A4 and 2D6). Sorafenib inhibits UGT1A9 and may increase paracetamol concentrations. Quantitative extrapolation of in vitro data suggests sorafenib (400 mg twice daily will result in a 51% increase in the AUC of coadministered paracetamol. A 50% decrease in paracetamol dose could be considered if coadministered for more than one day since accumulation may occur.",(See Summary)
+288,Sorafenib,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolized by CYP2D6 and CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+289,Sorafenib,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, coadministration may increase risk of neutropenia, fatigue, and thrombocytopenia. Monitor haematological parameters if used concurrently.",(See Summary)
+290,Sorafenib,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Sorafenib does not interfere with elimination of penicillins.,(See Summary)
+291,Sorafenib,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Perazine is demethylated via CYP3A4 and to a lesser extent by CYP2C9, and oxidated via FMO3. Sorafenib does not inhibit or induce CYPs.",(See Summary)
+292,Sorafenib,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+293,Sorafenib,Perindopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolized to other inactive metabolites. Elimination occurs predominantly via the urine. ,(See Summary)
+294,Sorafenib,Perphenazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Perphenazine is metabolized by CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+295,Sorafenib,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolized mainly by CYP2B6 and to a lesser extent by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+296,Sorafenib,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolic profiles of both drugs there is little potential for pharmacokinetic interaction. Phenelzine is primarily metabolized by oxidation via monoamine oxidase and to a lesser extent acetylation. ,(See Summary)
+297,Sorafenib,Phenobarbital (Phenobarbitone),"
+Do Not Coadminister
+","
+Low
+","Coadministration should be avoided as significant decreases in sorafenib plasma concentrations may occur due to induction of CYP3A4. Coadministration of enzyme inducing anti-epileptic drugs (EIAED) decreased sorafenib AUC by 64% when compared to patients treated with non-EIAID (n=9). Coadministration should be avoided, since decrease in exposure can lead to decreased efficacy.",(See Summary)
+298,Sorafenib,Phenprocoumon,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Phenprocoumon is metabolised by CYP2C9 and CYP3A4. Sorafenib is a moderate inhibitor of CYP2C9 and CYP3A4 in vitro. However, no clinically significant effect on phenprocoumon is expected in vivo. Concomitant treatment with sorafenib and warfarin, a CYP2C9 substrate, did not result in changes in mean PT-INR compared to placebo. However, increased risk of bleeding is possible with sorafenib in combination with coumarins. If coadministration is unavoidable, monitor closely for haemorrhage.",(See Summary)
+299,Sorafenib,Phenytoin,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but should be avoided. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Sorafenib is a moderate inhibitor of CYP2C9 and CYP2C19 in vitro. However, no clinically significant effect on sorafenib is expected in vivo. Furthermore, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of sorafenib may decrease due to induction of CYP3A4. Coadministration of enzyme inducing anti-epileptic drugs (EIAED) led to a decreased sorafenib exposure (AUC-ratio of 0.36) when compared to patients treated with non-EIAID (n=9). Therefore, coadministration should be avoided, since a decrease in exposure can lead to decreased efficacy.",(See Summary)
+300,Sorafenib,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+301,Sorafenib,Pimozide,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and is contraindicated. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as pimozide is mainly metabolized by CYP3A4 and sorafenib does not inhibit or induce CYPs. However, the product labels for pimozide contraindicate its use in the presence of other drugs that prolong the QT interval, such as sorafenib.",(See Summary)
+302,Sorafenib,Pindolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolized to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine. Sorafenib is not expected to interfere with pindolol elimination. ,(See Summary)
+303,Sorafenib,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolized mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Sorafenib does not inhibit or induce CYPs.",(See Summary)
+304,Sorafenib,Pipotiazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+305,Sorafenib,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolized by CYP2C9. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+306,Sorafenib,Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolized by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+307,Sorafenib,Posaconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Posaconazole may slightly increase sorafenib concentrations due to moderate inhibition of CYP3A4. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended. However, posaconazole prolongs the QTc interval. When posaconazole is coadministered with sorafenib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+308,Sorafenib,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is eliminated renally. ,(See Summary)
+309,Sorafenib,Prasugrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6. Sorafenib does not inhibit or induce CYPs.",(See Summary)
+310,Sorafenib,Pravastatin,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Sorafenib is an inhibitor of OATP1B1 in vitro and may increase concentrations of pravastatin. The clinical relevance of this interaction is unknown.,(See Summary)
+311,Sorafenib,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolized, primarily by demethylation and conjugation. Sorafenib is unlikely to interact with prazosin. ",(See Summary)
+312,Sorafenib,Prednisolone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Sorafenib does not inhibit or induce CYPs. However, a single case report case report suggests increase of sorafenib trough concentrations when coadministered with prednisolone (20 mg). A dechallenge and rechallenge was performed and support the possibility of an interaction. If coadministration is unavoidable, patients should be monitored for sorafenib toxicity. ",(See Summary)
+313,Sorafenib,Prednisone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. However, a single case report case report suggests increase of sorafenib trough concentrations when co-administered with prednisolone (20 mg). A dechallenge and rechallenge was performed and support the possibility of an interaction. If coadministration is unavoidable, patients should be monitored for sorafenib toxicity.",(See Summary)
+314,Sorafenib,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as pregabalin is cleared mainly by glomerular filtration. Sorafenib is unlikely to interfere with this pathway.,(See Summary)
+315,Sorafenib,Prochlorperazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Sorafenib does not interact with this metabolic pathway. However, sorafenib should be used with caution when coadministered with a drug that has a potential risk to prolong the QT interval. Sorafenib has been shown to prolong the QT interval. . If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+316,Sorafenib,Promethazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Promethazine is metabolized by CYP2D6. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+317,Sorafenib,Propafenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolized mainly by CYP2D6 and to a lesser extent CYP1A2 and CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+318,Sorafenib,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolized by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Sorafenib does not interact with this metabolic pathway. ",(See Summary)
+319,Sorafenib,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly eliminated renally, partly by active secretion by renal transporters (of note no clinically relevant interactions were observed when prucalopride was coadministered with inhibitors of renal P-gp, OAT and OCT transporters). ",(See Summary)
+320,Sorafenib,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolized by xanthine oxidase. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+321,Sorafenib,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+322,Sorafenib,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Quetiapine is primarily metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+323,Sorafenib,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Sorafenib does not impact this renal transporter. ,(See Summary)
+324,Sorafenib,Quinidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Sorafenib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+325,Sorafenib,Rabeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYPs 2C19 and 3A4. Sorafenib does not interact with this pathway. The aqueous solubility of sorafenib is pH dependent, with higher pH resulting in lower solubility. However, omeprazole (a proton pump inhibitor) had no clinically meaningful effect on sorafenib single dose exposure and decreased absorption of sorafenib is not expected in combination with other proton pump inhibitors.",(See Summary)
+326,Sorafenib,Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolized to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Sorafenib is not expected to interfere with these metabolic pathways. ",(See Summary)
+327,Sorafenib,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The aqueous solubility of sorafenib is pH dependent, with higher pH resulting in lower solubility. However, omeprazole (a proton pump inhibitor) had no clinically meaningful effect on sorafenib single dose exposure and decreased absorption of sorafenib is not expected in combination with H2 receptor antagonists.",(See Summary)
+328,Sorafenib,Ranolazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ranolazine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Sorafenib is a moderate inhibitor of CYP2D6 and CYP3A4 in vitro but no clinically significant effect on ranolazine is expected in vivo. Sorafenib is also an inhibitor of P-gp in vitro, but it is unknown if this will lead to a clinically relevant effect on ranolazine. Furthermore, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Concentrations of sorafenib may slightly increase due to weak inhibition of CYP3A4, but a clinically significant interaction is not expected. However, caution is warranted when coadministering these drugs due to the risk of QT interval prolongation. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+329,Sorafenib,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolized by CYP3A4. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. Sorafenib does not interact with reboxetine metabolic pathway. ,(See Summary)
+330,Sorafenib,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolized by CYP2C8 and 3A4 and clinical data seem to indicate that it is a substrate of the hepatic transporter OATP1B1. Sorafenib does not interact with this metabolic pathways.,(See Summary)
+331,Sorafenib,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver. Retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Sorafenib does not interact with this metabolic pathway. ",(See Summary)
+332,Sorafenib,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+333,Sorafenib,Rifabutin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided as decreases in sorafenib plasma concentrations may occur due to induction of CYP3A4. Rifampicin, a strong CYP3A4 inducer, decreased sorafenib mean AUC by 37%. Other inducers of CYP3A4, such as rifabutin, may also decrease systemic exposure of sorafenib. Coadministration is not recommended since decreases in exposure can lead to decreased efficacy.",(See Summary)
+334,Sorafenib,Rifampicin,"
+Do Not Coadminister
+","
+Low
+","Coadministration should be avoided as decreases in sorafenib plasma concentrations may occur due to induction of CYP3A4. Rifampicin, a strong CYP3A4 inducer, administered at a dose of 600 mg once daily for 5 days with a single oral dose of sorafenib 400 mg in healthy volunteers decreased sorafenib mean AUC by 37%. Coadministration is not recommended since decreases in exposure can lead to decreased efficacy. ",(See Summary)
+335,Sorafenib,Rifapentine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided as decreases in sorafenib plasma concentrations may occur due to induction of CYP3A4. Rifampicin, a strong CYP3A4 inducer, decreased sorafenib mean AUC by 37%. Other inducers of CYP3A4, such as rifapentine, may also decrease systemic exposure of sorafenib. Coadministration is not recommended, since decreases in exposure can lead to decreased efficacy.",(See Summary)
+336,Sorafenib,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Sorafenib does not interact with this metabolic pathway. ",(See Summary)
+337,Sorafenib,Risperidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Risperidone is metabolized by CYP2D6 and to a lesser extent by CYP3A4. Sorafenib does not inhibit or induce CYPs. However, risperidone is a substrate of P-gp and concentrations may potentially increase due to inhibition of P-gp by sorafenib. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+338,Sorafenib,Rivaroxaban,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Rivaroxaban is partly metabolized in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine (by P-gp and BCRP). Increases in rivaroxaban plasma concentrations cannot be excluded via of inhibition of P-gp. The clinical relevance of this interaction is not known and monitoring may be required.",(See Summary)
+339,Sorafenib,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolized mainly by CYP2C8 and to a lesser extent by CYP2C9. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+340,Sorafenib,Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as rosuvastatin is largely excreted unchanged via the faeces. ,(See Summary)
+341,Sorafenib,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolized to the inactive salbutamol-4’-O-sulphate. Sorafenib does not interact with this metabolic pathway.,(See Summary)
+342,Sorafenib,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+343,Sorafenib,Saxagliptin,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Saxagliptin is mainly metabolized by CYP3A4 and is a substrate of P-gp. Saxagliptin concentrations may potentially increase due to inhibition of P-gp by sorafenib. The clinical relevance of this interaction is unknown. ,(See Summary)
+344,Sorafenib,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces and also in other secretions. No clinically significant drug interactions are known. ,(See Summary)
+345,Sorafenib,Sertindole,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and is contraindicated. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as sertindole is metabolized by CYP2D6 and CYP3A4 and sorafenib does not inhibit or induce CYPs. However, the product labels for sertindole contraindicate its use in the presence of other drugs that prolong the QT interval, such as sorafenib.",(See Summary)
+346,Sorafenib,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolized by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Sorafenib does not inhibit or induce CYPs.",(See Summary)
+347,Sorafenib,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolized mainly by CYP3A4 and to a lesser extent by CYP2C9. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+348,Sorafenib,Simvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+349,Sorafenib,Sirolimus,"
+Potential Interaction
+","
+Very Low
+","In a pharmacokinetic interaction study sirolimus had no effect on sorafenib AUC (change 6.1%). In contrast, sorafenib (200 mg twice daily) reduced sirolimus AUC by 37%. In addition, the combination of sorafenib and sirolimus caused enhanced toxicity with only modest clinical activity. Use with caution. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+350,Sorafenib,Sitagliptin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1, P-gp) and metabolism by CYP3A4 represents a minor elimination pathway. Sitagliptin concentrations may potentially increase due to inhibition of P-gp by sorafenib. The clinical relevance of this interaction is unknown.",(See Summary)
+351,Sorafenib,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. There is little potential for sodium nitroprusside to affect the disposition of sorafenib, or to be affected if co-administered with sorafenib. ",(See Summary)
+352,Sorafenib,Sotalol,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied and is not recommended. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as sotalol is excreted unchanged via renal elimination. However, coadministration is not recommended due to the potential of life threatening arrhythmias such as torsade de pointes and sudden death. The product labels for sotalol advise extreme caution if given with other drugs that prolong the QT interval, such as sorafenib. ",(See Summary)
+353,Sorafenib,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+354,Sorafenib,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolized by the flavin containing monooxygenases. Sorafenib does not interfere with this metabolic pathway. ,(See Summary)
+355,Sorafenib,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Sorafenib does not interact with this pathway.,(See Summary)
+356,Sorafenib,St John's Wort,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration has not been studied and is not recommended. St John’s wort may cause significant and unpredictable decreases in the plasma concentrations of sorafenib due to induction of CYP3A4 and P-gp.,(See Summary)
+357,Sorafenib,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Streptokinase is unlikely to affect the disposition of tyrosine kinase inhibitors, or to be affected if co-administered with tyrosine kinase inhibitors.",(See Summary)
+358,Sorafenib,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as streptomycin is eliminated by glomerular filtration.,(See Summary)
+359,Sorafenib,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Sorafenib does not interfere with sulfadiazine metabolism.,(See Summary)
+360,Sorafenib,Sulpiride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+361,Sorafenib,Tacrolimus,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Sorafenib is metabolised mainly by CYP3A4. Tacrolimus inhibits CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Tacrolimus could potentially increase sorafenib concentrations although to a modest extent However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dosage adjustment is recommended. However, sorafenib inhibits P-gp and may increase tacrolimus concentrations. Moreover, caution is needed when co-administering sorafenib with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+362,Sorafenib,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as tadalafil is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+363,Sorafenib,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+364,Sorafenib,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Sorafenib does not interact with this elimination pathway.,(See Summary)
+365,Sorafenib,Telithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied and is not recommended. Telithromycin may slightly increase sorafenib concentrations due to inhibition of CYP3A4. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended. However, telithromycin prolongs the QTc interval. When telithromycin is coadministered with sorafenib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+366,Sorafenib,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Sorafenib not interact with this metabolic pathway. ,(See Summary)
+367,Sorafenib,Temazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated via UGT2B15, 2B6 and 1A9. Although sorafenib is an inhibitor of UGT1A1/1A9, a clinically relevant interaction is unlikely since glucuronidation by UGT1A9 is not a major pathway involved in temazepam elimination.",(See Summary)
+368,Sorafenib,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolized by CYP1A2, 2C9, 3A4 and to a lesser extent by CYP2C8 and CYP2C19. Sorafenib does not inhibit or induce CYPs.",(See Summary)
+369,Sorafenib,Testosterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+370,Sorafenib,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+371,Sorafenib,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolized by CYP1A2. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+372,Sorafenib,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+373,Sorafenib,Thioridazine,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and is contraindicated. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as thioridazine is metabolized by CYP2D6 (and to a lesser extent by CYP3A4) and sorafenib does not inhibit or induce CYPs. However, the product labels for thioridazine contraindicate its use in the presence of other drugs that prolong the QT interval, such as sorafenib. ",(See Summary)
+374,Sorafenib,Tiapride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely as tiapride is excreted largely unchanged in urine. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+375,Sorafenib,Ticagrelor,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Ticagrelor undergoes extensive CYP3A4 metabolism and is only a mild inhibitor of CYP3A4. Ticagrelor is unlikely to be affected if co-administered with sorafenib. Sorafenib concentrations may be slightly increased if co-administered with ticagrelor but clinical data suggest that interactions with sorafenib and CYP3A4 inhibitors are unlikely to be of clinical significance.",(See Summary)
+376,Sorafenib,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. Sorafenib does not interact with this metabolic pathway.,(See Summary)
+377,Sorafenib,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Sorafenib does not interact with this elimination pathway.,(See Summary)
+378,Sorafenib,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolized by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+379,Sorafenib,Tolterodine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 with CYP3A4. However, multiple oral therapeutic (4 mg) and supratherapeutic (8 mg) doses of tolterodine have been shown to prolong the QTc interval. Sorafenib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+380,Sorafenib,Torasemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolized mainly by CYP2C9. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+381,Sorafenib,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolized by CYPs 3A4, 2B6, and 2D6. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+382,Sorafenib,Trandolapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+383,Sorafenib,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as tranexamic acid is mainly cleared by glomerular filtration. ,(See Summary)
+384,Sorafenib,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+385,Sorafenib,Trazodone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Trazodone is primarily metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. However, caution is needed when sorafenib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of sorafenib have been shown to prolong the QTc interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+386,Sorafenib,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolized by CYP3A4. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+387,Sorafenib,Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolized by CYP3A4. Sorafenib does not interact with this metabolic pathway. ,(See Summary)
+388,Sorafenib,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. In vitro data suggest that trimethoprim inhibits the renal transporters OCT2 and MATE1. No pharmacokinetic interaction is expected with sorafenib.,(See Summary)
+389,Sorafenib,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolized mainly by CYP2D6. Sorafenib does not inhibit or induce CYPs. ,(See Summary)
+390,Sorafenib,Tropisetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Tropisetron is metabolized mainly by CYP2D6. Sorafenib does not inhibit of induce CYPs. However, tropisetron is substrate of P-gp and concentrations may potentially increase due to inhibition of P-gp by sorafenib. Moreover, tropisetron may prolong the QT interval and sorafenib has been shown to prolong the QTc interval. Caution should be taken when using tropisetron with drugs that are known to prolong the QT interval. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+391,Sorafenib,Ulipristal,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolized by CYP3A4 and to a lesser extent CYP1A2 and CYP2D6. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+392,Sorafenib,Valproic acid (Valproate),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Valproic acid is primarily metabolised by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolised by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Sorafenib is an inhibitor of UGT1A1 and UGT1A9 and may increase concentrations of valproic acid. The clinical relevance of this interaction is unknown. Care should be taken when valproic acid is coadministered with sorafenib. Monitoring for valproic acid toxicity and plasma concentrations may be required. Furthermore, sorafenib is a moderate inhibitor of CYP2C9 and CYP2C19 in vitro, but no clinically significant effect on valproic acid is expected in vivo.",(See Summary)
+393,Sorafenib,Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Sorafenib does not interact with this pathway.,(See Summary)
+394,Sorafenib,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as vancomycin is excreted unchanged via glomerular filtration.,(See Summary)
+395,Sorafenib,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolized by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Sorafenib does not inhibit or induce CYPs. ",(See Summary)
+396,Sorafenib,Verapamil,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Verapamil is metabolized mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Verapamil is a moderate inhibitor of CYP3A4 and could potentially increase sorafenib concentrations. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely and no a priori dose adjustment for sorafenib is recommended.",(See Summary)
+397,Sorafenib,Vildagliptin,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate for P-gp. Vildagliptin concentrations may potentially increase due to inhibition of P-gp by sorafenib. The clinical relevance of this interaction is unknown.,(See Summary)
+398,Sorafenib,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+399,Sorafenib,Voriconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Voriconazole may slightly increase sorafenib concentrations due to moderate inhibition of CYP3A4. However, data with ketoconazole (a potent inhibitor of CYP3A4) and sorafenib suggest that clinically relevant pharmacokinetic interactions with CYP3A4 inhibitors are unlikely. No a priori dose adjustment for sorafenib is recommended. However, voriconazole prolongs the QTc interval. When voriconazole is coadministered with sorafenib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, clinical monitoring including ECG assessment is recommended.",(See Summary)
+400,Sorafenib,Warfarin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a pharmacokinetic interaction is unlikely. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and 3A4. S-warfarin (more potent) is metabolised by CYP2C9. Sorafenib does not inhibit or induce CYPs. Concomitant treatment with sorafenib and warfarin, a CYP2C9 substrate, did not result in changes in mean PT-INR compared to placebo. However, an increased risk of bleeding is possible with sorafenib in combination with coumarins. Close monitoring of INR/PT is recommended.",(See Summary)
+401,Sorafenib,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (only 30%). ",(See Summary)
+402,Sorafenib,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolized by aldehyde oxidase and to a lesser extent CYP3A4. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+403,Sorafenib,Ziprasidone,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and is contraindicated. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4) and sorafenib does not inhibit or induce CYPs. However, the product labels for ziprasidone contraindicate its use in the presence of other drugs that prolong the QT interval, such as sorafenib. ",(See Summary)
+404,Sorafenib,Zoledronic acid,"
+Potential Weak Interaction
+","
+Low
+",Osteonecrosis of the jaw has been reported in an increasing number of renal cell cancer patients since the use of combined therapies consisting of nitrogen-containing bisphosphonates and antiangiogenic targeted agents. This suggests that angiogenesis suppression might increase the risk of osteonecrosis of the jaw when coadministered with bisphosphonates. ,(See Summary)
+405,Sorafenib,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant drug-drug interaction is unlikely. Zolpidem is metabolized mainly by CYP3A4 and to a lesser extent by CYP2C9 and CYP1A2. Sorafenib does not interact with this metabolic pathway.,(See Summary)
+406,Sorafenib,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolized mainly by CYP3A4 and to a lesser extent by CYP2C8. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+407,Sorafenib,Zotepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Zotepine is mainly metabolized by CYP3A4 and to a lesser extent CYP1A2 and CYP2D6. Sorafenib does not inhibit or induce CYPs.,(See Summary)
+408,Sorafenib,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Zuclopenthixol is metabolized by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Sorafenib does not inhibit or induce CYPs. ",(See Summary)

@@ -1,0 +1,25 @@
+---
+title: "TwoSides_guidelines"
+author: "Jorge H."
+date: "16/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document reflects the content of TwoSides database:
+
+# TWOSIDES
++ **Drugs** -> 1917
++ **DDIs** -> 189363
++ **Side-effect** of the DDI; 12726 different side-effects.
++ **Evidence level** giving veracity to the interaction and side-effect
+
+# OFFSIDES
++ **Drugs** -> 2730.
++ **Side_effect** of the drug; 14544 different side-effects.
++ **Evidence level** giving veracity to the drug and side-effect.
+
+

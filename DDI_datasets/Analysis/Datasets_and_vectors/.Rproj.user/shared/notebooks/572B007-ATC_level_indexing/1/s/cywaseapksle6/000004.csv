@@ -1,0 +1,103 @@
+"0","#Fetching files"
+"0","data_files <- list.files(""Vectors/"", full.names = T)"
+"0","data_files <- data_files[grepl(""*.txt"", data_files)]"
+"0",""
+"0","Vector_of_ATC_codes <- c()"
+"0",""
+"0","for (file in data_files){"
+"0","  file = read_table2(file, "
+"0","    col_names = FALSE)"
+"0","  #Separating '_' to obtain two columns."
+"0","  file <- file %>%"
+"0","    separate(X1, into = c(""X1"",""X2""), sep = '_')  "
+"0","  "
+"0","  #Looking to all drugs in the dataset and selecting unique"
+"0","  Vector_of_file <- unique(c(file$X1,file$X2))"
+"0","  Vector_of_ATC_codes <- unique(c(Vector_of_ATC_codes,Vector_of_file))"
+"0","}"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"2","Parsed with column specification:
+cols(
+  X1 = [31mcol_character()[39m
+)
+"
+"0","Vector_of_ATC_codes <- as.data.frame(sort(Vector_of_ATC_codes))"
+"0","colnames(Vector_of_ATC_codes)[1] <- 'ATC_CODE'"
+"0",""
+"0","#Creating the different levels"
+"0","Vector_of_ATC_codes$ATC_Level_1 <- substring(Vector_of_ATC_codes$ATC_CODE,1,1)"
+"0","Vector_of_ATC_codes$ATC_Level_2 <- substring(Vector_of_ATC_codes$ATC_CODE,1,3)"
+"0","Vector_of_ATC_codes$ATC_Level_3 <- substring(Vector_of_ATC_codes$ATC_CODE,1,4)"
+"0","Vector_of_ATC_codes$ATC_Level_4 <- substring(Vector_of_ATC_codes$ATC_CODE,1,5)"
+"0","Vector_of_ATC_codes$ATC_Level_5 <- substring(Vector_of_ATC_codes$ATC_CODE,1,7)"
+"0",""
+"0","write_csv(Vector_of_ATC_codes, ""Indexes/1_Index_ATC.txt"")"

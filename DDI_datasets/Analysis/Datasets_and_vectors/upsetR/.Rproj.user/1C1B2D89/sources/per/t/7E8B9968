@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592000848432.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7E8B9968",
+    "lastKnownWriteTime" : 32370017462452280,
+    "last_content_update" : 1592000848432,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "854C0418",
+        "caption" : "DDI_index",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=DDI_index&cache_key=854C0418",
+        "displayedObservations" : "3049290",
+        "environment" : "",
+        "expression" : "DDI_index",
+        "object" : "DDI_index",
+        "preview" : "0",
+        "totalObservations" : "3049290",
+        "variables" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

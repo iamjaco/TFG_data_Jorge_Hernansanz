@@ -1,0 +1,11 @@
+"0","DDI_mapped$Clinical_significance <- ""Highly_significant"""
+"0",""
+"0","DDI_mapped$Management <- ""Contraindicated"""
+"0",""
+"0","DDI_mapped$Evidence_level <- ""Documented_case_reports"""
+"0",""
+"0","# Saving tables with preferred sortening"
+"0","DDI_mapped <- DDI_mapped[,c(7,6,2,1,4,5,11,12,13,8,9,10)]"
+"2","Fejl i `[.data.frame`(DDI_mapped, , c(7, 6, 2, 1, 4, 5, 11, 12, 13,  : 
+  undefined columns selected
+"

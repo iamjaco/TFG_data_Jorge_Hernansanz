@@ -1,0 +1,11 @@
+"0","library(reticulate)"
+"2","pakke ‘reticulate’ blev bygget under R version 3.6.3"
+"0","library(readr)"
+"0","library(data.table)"
+"2","pakke ‘data.table’ blev bygget under R version 3.6.3"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"
+"2","data.table 1.12.8 using 4 threads (see ?getDTthreads).  Latest news: r-datatable.com
+"

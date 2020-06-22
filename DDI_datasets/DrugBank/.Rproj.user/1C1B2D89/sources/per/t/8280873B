@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591086431458.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8280873B",
+    "lastKnownWriteTime" : 2466321629402459502,
+    "last_content_update" : 1591086431458,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F6A7623E",
+        "caption" : "Drugbank_DDI",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Drugbank_DDI&cache_key=F6A7623E",
+        "displayedObservations" : "5539044",
+        "environment" : "",
+        "expression" : "Drugbank_DDI",
+        "object" : "Drugbank_DDI",
+        "preview" : "0",
+        "totalObservations" : "5539044",
+        "variables" : "8"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

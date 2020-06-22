@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Olaparib,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. ",(See Summary)
+1,Olaparib,Acenocoumarol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Acenocoumarol is mainly metabolized by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Olaparib does not interact with this pathway.,(See Summary)
+2,Olaparib,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolized by glucuronidation (by several UGT, major UGT1A6). Olaparib does not inhibit or induce UGTs.",(See Summary)
+3,Olaparib,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely as agomelatin is metabolised predominantly via CYP1A2. Olaparib does not inhibit or induce CYP1A2.",(See Summary)
+4,Olaparib,Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied. Alendronate is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, alendronate should be separated from food or other medicinal products and patients must wait at least 30 minutes after taking alendronate before taking any other oral medicinal product.",(See Summary)
+5,Olaparib,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+6,Olaparib,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolised by CYP3A. Olaparib does not inhibit or induce CYP3A.,(See Summary)
+7,Olaparib,Aliskiren,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Aliskiren is minimally metabolized and is mainly excreted unchanged in faeces. However, P-glycoprotein is a major determinant of aliskiren bioavailability and inhibition of P-gp by olaparib may increase aliskiren concentrations. If the combination appears necessary, close monitoring of blood pressure is needed.",(See Summary)
+8,Olaparib,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Olaparib does not interfere with this metabolic pathway. ,(See Summary)
+9,Olaparib,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. Olaparib does not inhibit or induce CYPs 3A4, 2C9 or 1A2.",(See Summary)
+10,Olaparib,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+11,Olaparib,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+12,Olaparib,Ambrisentan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ambrisentan is metabolised by glucuronidation via UGTs 1A3, 1A9 and 2B7, and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of ambrisentan. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary for ambrisentan. However, monitoring for ambrisentan toxicity may be required.",(See Summary)
+13,Olaparib,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amikacin is eliminated by glomerular filtration therefore no pharmacokinetic interaction is expected with olaparib.,(See Summary)
+14,Olaparib,Amiloride,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied, Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Secretion of amiloride into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Olaparib inhibits OCT2 and which could decrease amiloride secretion and therapeutic effect. ",(See Summary)
+15,Olaparib,Amiodarone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Amiodarone is metabolised by CYP3A4 and CYP2C8. Olaparib does not inhibit or induce CYP3A4 or CYP2C8. However, the major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Concentrations of olaparib may increase due to weak inhibition of CYP3A4, but this is unlikely to be clinically relevant.",(See Summary)
+16,Olaparib,Amisulpride,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Amisulpride is weakly metabolized and is primarily eliminated renally (possibly via OCT). Concentrations may increase because olaparib showed in vitro inhibition of OCT1 and OCT2. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of amisulpride. No effect on olaparib concentrations is expected.",(See Summary)
+17,Olaparib,Amitriptyline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+18,Olaparib,Amlodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+19,Olaparib,Amoxicillin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. However, in vitro data indicate that amoxicillin is a substrate of OAT3 and concentrations may increase because olaparib showed in vitro inhibition of OAT3. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of amoxicillin. No effect on olaparib concentrations is expected.",(See Summary)
+20,Olaparib,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as amphotericin is not appreciably metabolized and is eliminated to a large extent in the bile. Olaparib does not interfere with amphotericin B elimination pathway. However, the European SPC for amphotericin states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Monitoring may be required.",(See Summary)
+21,Olaparib,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20 to 40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60 to 80% is excreted in the urine within 6 hours. In vitro data indicate that ampicillin is a substrate of OAT1. Olaparib is unlikely to significantly inhibit ampicillin renal elimination.,(See Summary)
+22,Olaparib,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperature. ,(See Summary)
+23,Olaparib,Antacids,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+24,Olaparib,Apixaban,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Apixaban is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Apixaban is also a substrate of P-gp and BCRP. Olaparib is an inhibitor of P-gp and BCRP (in vitro), and may increase concentrations of apixaban. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for apixaban toxicity.",(See Summary)
+25,Olaparib,Aprepitant,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should approached with caution. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Olaparib does not inhibit or induce these CYPs. However, during treatment aprepitant is a moderate inhibitor of CYP3A4 and may increase concentrations of olaparib during the three days of coadministration. Therefore, coadministration is not recommended. If coadministration is unavoidable, reduce the dose of olaparib by 50% for both the tablet and capsule formulation during the few days of coadministration. Furthermore, after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of olaparib may decrease due to weak induction of CYP3A4, but this is not considered to be clinically relevant.",(See Summary)
+26,Olaparib,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolised by CYP3A4 and CYP2D6. Olaparib does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+27,Olaparib,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 and 2D6 (minor)). Olaparib does not inhibit or induce these UGTs or CYPs.",(See Summary)
+28,Olaparib,Astemizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. Olaparib does not inhibit or induce CYPs 2D6, 2J2 or 3A4.",(See Summary)
+29,Olaparib,Atenolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration, and is a substrate of OCT1 and OCT2. Concentrations may increase because olaparib showed in vitro inhibition of OCT1 and OCT2. The clinical relevance of this interaction is unknown. No a priori dose adjustment of atenolol is necessary. However, it is recommended to monitor blood pressure. No effect on olaparib concentrations is expected. ",(See Summary)
+30,Olaparib,Atorvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Atorvastatin is metabolised by CYP3A4 and is a substrate of P-gp and OATP1B1. Olaparib is an inhibitor of P-gp and OATP1B1 (in vitro) and may increase concentrations of atorvastatin. The clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended, but monitor for atorvastatin toxicity.",(See Summary)
+31,Olaparib,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolized analogously to natural purines. Olaparib does not interfere with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. ",(See Summary)
+32,Olaparib,Azithromycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Azithromycin is mainly eliminated via biliary excretion and animal data suggest this may occur via P-glycoprotein and MRP2. Azithromycin concentrations may potentially increase due to inhibition of P-gp by olaparib. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of azithromycin. No effect on olaparib concentrations is expected. ",(See Summary)
+33,Olaparib,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone -17-monopropionate. Olaparib does not interact with beclomethasone metabolism. ",(See Summary)
+34,Olaparib,Bedaquiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bedaquiline is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+35,Olaparib,Bendroflumethiazide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Olaparib inhibits OAT3 in vitro which could decrease bendroflumethiazide secretion and therapeutic effect. In vitro data indicate that bendroflumethiazide inhibits OAT1/OAT3 but a clinically significant interaction is unlikely in the range of observed clinical concentrations. In addition, there is no evidence that bendroflumethiazide inhibits or induces CYP450 enzymes and therefore is unlikely to impact olaparib.",(See Summary)
+36,Olaparib,Bepridil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. Olaparib does not inhibit or induce CYP2D6 or CYP3A4.,(See Summary)
+37,Olaparib,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+38,Olaparib,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as half of bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. In vitro data indicate that olaparib inhibits OAT3, but a clinically significant interaction is unlikely as bezafibrate has a wide therapeutic range.",(See Summary)
+39,Olaparib,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. ,(See Summary)
+40,Olaparib,Bisoprolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6, and partly eliminated unchanged in the urine. Bisoprolol is also a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of bisoprolol. The clinical relevance of this interaction is unknown. No a priori dose adjustment of bisoprolol is necessary. However, it is recommended to monitor blood pressure.",(See Summary)
+41,Olaparib,Bosentan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Bosentan is a substrate of CYP3A4, CYP2C9 and OATP1B1. Olaparib has shown OATP1B1 inhibition in vitro and may increase bosentan concentrations. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, monitoring for blood pressure may be required. Furthermore, bosentan is a weak inducer of CYP3A4 and CYP2C9. Concentrations of olaparib may decrease due to induction of CYP3A4, but this is unlikely to be clinically relevant.",(See Summary)
+42,Olaparib,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may play a role. Olaparib does not inhibit or induce these CYPs.",(See Summary)
+43,Olaparib,Budesonide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+44,Olaparib,Buprenorphine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Olaparib showed inhibition of UGT1A1 in vitro and may increase concentrations of buprenorphine. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for buprenorphine toxicity.",(See Summary)
+45,Olaparib,Bupropion,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.  Bupropion is primarily metabolized by CYP2B6 and concentrations may decrease because olaparib showed in vitro induction of CYP2B6, but this is unlikely to be clinically significant.",(See Summary)
+46,Olaparib,Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+47,Olaparib,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. ",(See Summary)
+48,Olaparib,Candesartan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. The role of OAT1/3 in renal secretion of angiotensin II receptor blockers appears limited because these compounds are mostly excreted through the biliary route. Therefore, olaparib is unlikely to significantly inhibit renal elimination of angiotensin II receptor blockers.",(See Summary)
+49,Olaparib,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Renal toxicity has been reported during capreomycin treatment. Olaparib does not interfere with capreomycin renal elimination.,(See Summary)
+50,Olaparib,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Olaparib does not interact with this pathway.,(See Summary)
+51,Olaparib,Carbamazepine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Carbamazepine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2C8. Olaparib does not inhibit or induce CYP3A4 or CYP2C8. However, carbamazepine is an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong), 1A2 (weak), 2B6 and UGT1A1. Concentrations of olaparib may decrease due to induction of CYP3A4. Coadministration of olaparib and the strong CYP3A4 inducer, rifampicin, decreased olaparib exposure by 87%. A similar effect may occur with carbamazepine. Therefore, coadministration should be avoided.",(See Summary)
+52,Olaparib,Carvedilol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and metabolism via CYP2D6 and to a lesser extent CYPs 2C9 and 1A2. Olaparib does not inhibit or induce these CYPs. Carvedilol is a substrate for P-gp and concentrations may potentially increase due to inhibition of P-gp by olaparib. The clinical relevance of this interaction is unknown. No a priori dose adjustment of carvedilol is necessary. However, it is recommended to monitor blood pressure.",(See Summary)
+53,Olaparib,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non CYP-mediated pathway. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+54,Olaparib,Cefalexin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Cefalexin is predominantly eliminated unchanged renally by glomerular filtration and tubular secretion via OAT1 and MATE1 and concentrations may increase because olaparib showed in vitro inhibition of MATE1. Moreover, olaparib could potentially slow down cefalexin renal elimination and thus increase the risk of nephrotoxicity. Monitoring of renal function is recommended. No effect on olaparib concentrations is expected.",(See Summary)
+55,Olaparib,Cefazolin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3 and concentrations may increase because olaparib showed in vitro inhibition of OAT3. No effect on olaparib concentrations is expected. ",(See Summary)
+56,Olaparib,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as cefixime is renally excreted predominantly by glomerular filtration. Olaparib does not interfere with cefixime renal elimination.,(See Summary)
+57,Olaparib,Cefotaxime,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Cefotaxime is partially metabolized by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime and concentrations may increase because olaparib showed in vitro inhibition of OAT3. No effect on olaparib concentrations is expected.",(See Summary)
+58,Olaparib,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as ceftazidime is excreted predominantly by renal glomerular filtration. Olaparib does not interfere with ceftazidime renal elimination.,(See Summary)
+59,Olaparib,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Olaparib does not interfere with ceftriaxone renal elimination.",(See Summary)
+60,Olaparib,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolized by CYP2C9. Olaparib does not inhibit or induce CYP2C9. ,(See Summary)
+61,Olaparib,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion (possibly via OCT2). In vitro data indicate that cetirizine inhibits OCT2. Concentrations may increase because olaparib showed in vitro inhibition of OCT2. However, this is unlikely to be clinically significant as cetirizine has a broad therapeutic index. No effect on olaparib concentrations is expected.",(See Summary)
+62,Olaparib,Chloramphenicol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Chloramphenicol is predominantly glucuronidated. Olaparib does not inhibit or induce UGTs. However, in vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Concentrations of olaparib may increase due to inhibition of CYP3A4. The clinical relevance of this interaction is unknown. Coadministration should be approached with caution. If coadministration is unavoidable, monitor closely for olaparib toxicity. Monitor olaparib plasma concentrations, if available.",(See Summary)
+63,Olaparib,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4 but does not inhibit or induce cytochromes. Olaparib does not inhibit or induce CYPs.,(See Summary)
+64,Olaparib,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolized in the liver by CYP2D6. Olaparib is unlikely to interact with chlorphenamine. ,(See Summary)
+65,Olaparib,Chlorpromazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorpromazine is metabolized mainly by CYP2D6, but also by CYP1A2. Olaparib does not interact with this metabolic pathway. ",(See Summary)
+66,Olaparib,Chlortalidone,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Chlortalidone is mainly excreted unchanged in the urine and faeces. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Olaparib inhibits renal transporter OAT3 which could decrease chlortalidone secretion and therapeutic effect.,(See Summary)
+67,Olaparib,Ciclosporin (Cyclosporine),"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Ciclosporin is a substrate of CYP3A4 and P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of ciclosporin. No a priori dose adjustment is necessary. However, it is recommended to monitor for ciclosporin toxicity. Furthermore, ciclosporin is an inhibitor of CYP3A4 and OATP1B1. Concentrations of olaparib may increase due to CYP3A4 inhibition. No a priori dosage adjustment is recommended for olaparib. However, monitor closely for olaparib toxicity. Monitor olaparib plasma concentrations, if available.",(See Summary)
+68,Olaparib,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys (possibly via OATs). In vitro data indicate that olaparib inhibits OAT3 but a clinically significant interaction is unlikely as cilazapril has a wide therapeutic range.,(See Summary)
+69,Olaparib,Cimetidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+70,Olaparib,Ciprofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. It is also metabolised and partially cleared through the bile and intestine. Olaparib has shown OAT3 inhibition in vitro and may increase ciprofloxacin concentrations. The clinical relevance of this interaction is unknown. No a priori dose adjustment of ciprofloxacin is necessary. However, it is recommended to monitor for ciprofloxacin toxicity. Furthermore, ciprofloxacin is also a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Concentrations of olaparib may increase due to inhibition of CYP3A4. Coadministration should be approached with caution. If coadministration is unavoidable, reduce the dose of olaparib by 50% for both the tablet and capsule formulation. Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+71,Olaparib,Cisapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+72,Olaparib,Citalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). Olaparib does not inhibit or induce CYPs 2C19, 2D6 or 3A4.",(See Summary)
+73,Olaparib,Clarithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Clarithromycin is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4. However, clarithromycin is also an inhibitor of CYP3A4 (strong) and P-gp, and may increase concentrations of olaparib. If coadministration is unavoidable, reduce the dose of olaparib by ~66% (for lynparza capsules: reduce olaparib dose from 400 mg twice daily to 150 mg twice daily; for lynparza tablets: reduce olaparib dose from 300 mg twice daily to 100 mg twice daily). Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+74,Olaparib,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolized (likely non CYP mediated pathway) and excreted in the urine by glomerular filtration. Olaparib does not interact with this pathway. ,(See Summary)
+75,Olaparib,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is mainly metabolised by CYP2D6. Olaparib does not interact with this metabolic pathway.,(See Summary)
+76,Olaparib,Clindamycin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Clindamycin is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4. However, in vitro data suggest that clindamycin is a CYP3A4 inhibitor and may increase concentrations of olaparib. As the clinical relevance of this interaction is unknown, monitoring for olaparib toxicity may be required.",(See Summary)
+77,Olaparib,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,(See Summary)
+78,Olaparib,Clofazimine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on the metabolism and clearance, a clinically significant interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces, both as unabsorbed drug and via biliary excretion. ",(See Summary)
+79,Olaparib,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolyzed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. In vitro data indicate that olaparib inhibits OAT3 but a clinically significant interaction is unlikely as clofibrate has a wide therapeutic range.",(See Summary)
+80,Olaparib,Clomipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. Clomipramine and desmethylclomipramine are both metabolised by CYP2D6. Olaparib does not inhibit or induce these CYPs.",(See Summary)
+81,Olaparib,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in form of the unchanged parent drug (40-60% of the dose). Olaparib does not interfere with clonidine elimination. Clonidine is a weak inhibitor of OCT2 and is unlikely to interact with olaparib elimination. ",(See Summary)
+82,Olaparib,Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. Olaparib has shown induction of CYP2B6 in vitro and may decrease concentrations of clopidogrel. However, since CYP2B6 mediated metabolism is a minor pathway, this is unlikely to be clinically relevant. Furthermore, clopidogrel is an inhibitor of CYPs 2C8 (strong), 2B6 (weak) and of 2C9 (in vitro) at high concentrations. Olaparib is not metabolised by these CYPs.",(See Summary)
+83,Olaparib,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+84,Olaparib,Cloxacillin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion, probably via OAT1/3. Concentrations may increase because olaparib showed in vitro inhibition of OAT3. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of cloxacillin. No effect on olaparib concentrations is expected.",(See Summary)
+85,Olaparib,Clozapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Olaparib does not inhibit or induce these CYPs. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+86,Olaparib,Codeine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolised by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. Morphine is also a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of morphine. No a priori dose adjustment is necessary. However, it is recommended to monitor for morphine toxicity.",(See Summary)
+87,Olaparib,Colchicine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Colchicine is metabolised by CYP3A4 and is a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of colchicine. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for colchicine toxicity.",(See Summary)
+88,Olaparib,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on the metabolism and clearance, a clinically significant interaction is unlikely. Cycloserine is predominantly excreted renally via glomerular filtration. Olaparib does not interact with this metabolic pathway.",(See Summary)
+89,Olaparib,Dabigatran,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Dabigatran is a substrate of P-gp and is renally excreted. Increases in dabigatran plasma concentrations cannot be excluded via inhibition of P-gp by olaparib. As the clinical relevance of this interaction is unknown, clinical monitoring (for signs of bleeding and anaemia) is recommended due to the narrow therapeutic window.",(See Summary)
+90,Olaparib,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys via unsaturable glomerular filtration. Olaparib is unlikely to interfere with the renal excretion of dalteparin. ",(See Summary)
+91,Olaparib,Dapsone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP450 enzymes, including CYP2B6. Olaparib has shown induction of CYP2B6 in vitro and may decrease concentrations of dapsone. However, since dapsone is metabolised by multiple CYP enzymes, a clinically relevant interaction is unlikely.",(See Summary)
+92,Olaparib,Desipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as desipramine is metabolized by CYP2D6. Olaparib does not inhibit or induce CYP2D6. ,(See Summary)
+93,Olaparib,Desogestrel,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Olaparib does not inhibit or induce CYPs 2C9, 2C19 or 3A4.",(See Summary)
+94,Olaparib,Dexamethasone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Dexamethasone is a substrate of CYP3A4. Olaparib does not inhibit or induce CYP3A4. However, dexamethasone has been described as a weak inducer of CYP3A4 and could possibly decrease olaparib plasma concentrations. As the clinical relevance of this interaction is unknown, monitoring of olaparib efficacy may be necessary.",(See Summary)
+95,Olaparib,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+96,Olaparib,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolized by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Olaparib does not interact with this metabolic pathway. ",(See Summary)
+97,Olaparib,Diazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Temazepam is mainly glucuronidated. Olaparib does not inhibit or induce these CYPs or UGTs.,(See Summary)
+98,Olaparib,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidized by CYP2C9. Olaparib does not inhibit or induce CYP2C9 or UGTs.,(See Summary)
+99,Olaparib,Digoxin,"
+Potential Interaction
+","
+Very Low
+",Coadministration has not been studied. Digoxin is eliminated renally via the renal transporters OATP4C1 and P-gp. Olaparib is an inhibitor of P-gp and may possibly increase digoxin concentrations. It is recommended that the lowest possible dose of digoxin should initially be given to patients on olaparib. The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject.,(See Summary)
+100,Olaparib,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Olaparib does not inhibit or induce UGTs or CYPs.",(See Summary)
+101,Olaparib,Diltiazem,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Diltiazem is metabolised by CYP3A4 and CYP2D6. Olaparib does not inhibit or induce CYP3A4 or CYP2D6. However, diltiazem is a moderate inhibitor of CYP3A4 and may increase olaparib exposure. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, reduce the dose of olaparib by 50% for both the tablet and capsule formulation. Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+102,Olaparib,Diphenhydramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diphenhydramine is mainly metabolized by CYP2D6. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+103,Olaparib,Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Olaparib is unlikely to interfere with this pathway.",(See Summary)
+104,Olaparib,Disopyramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. Olaparib does not interact with this metabolic or elimination pathway.,(See Summary)
+105,Olaparib,Dolasetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). Olaparib does not interact with this metabolic pathway.",(See Summary)
+106,Olaparib,Domperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+107,Olaparib,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. There is little potential for dopamine to affect disposition of olaparib, or to be affected by olaparib.",(See Summary)
+108,Olaparib,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+109,Olaparib,Doxepin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolized to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. In addition, doxepin and nordoxepin are metabolized by CYP2D6. Olaparib does not inhibit or induce CYPs 2C19 and 2D6. ",(See Summary)
+110,Olaparib,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40%-60% of an administered dose can be accounted for in the urine. Since renal excretion is not the major excretion pathway a clinically significant pharmacokinetic interaction with olaparib is unlikely.,(See Summary)
+111,Olaparib,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. Olaparib does not inhibit or induce CYP2C9 or CYP3A4.,(See Summary)
+112,Olaparib,Drospirenone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+113,Olaparib,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as dulaglutide is degraded by endogenous endopeptidases. Dulaglutide delays gastric emptying and could possibly decrease the absorption rate of concomitantly administered oral drugs. Since olaparib is absorbed within approximately 3h, the clinical relevance of delayed absorption is considered to be limited.",(See Summary)
+114,Olaparib,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolized by CYP2D6 and CYP1A2. Olaparib does not inhibit or induce CYPs 2D6 and 1A2. ,(See Summary)
+115,Olaparib,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+116,Olaparib,Dydrogesterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+117,Olaparib,Edoxaban,"
+Potential Interaction
+","
+Very Low
+",Coadministration has not been studied. Use with caution. Increases in edoxaban plasma concentrations cannot be excluded via inhibition of P-gp. The clinical relevance of this interaction is not known yet. Clinical monitoring (for signs of bleeding and anaemia) is recommended due to the narrow therapeutic window.,(See Summary)
+118,Olaparib,Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1, UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Olaparib is unlikely to interfere with this metabolic pathway.",(See Summary)
+119,Olaparib,Enalapril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Enalapril is hydrolysed to enalaprilat which is eliminated renally (possibly via OATs). In vitro data indicate that olaparib inhibits OAT3 but a clinically significant interaction is unlikely as cilazapril has a wide therapeutic range. However, enalapril is a substrate of OATP1B1 and concentrations may increase because olaparib showed in vitro inhibition of OATP1B1. The clinical relevance of this interaction is unknown.",(See Summary)
+120,Olaparib,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is excreted predominantly renally. Olaparib is unlikely to interfere with this metabolic pathway.",(See Summary)
+121,Olaparib,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as eprosartan is largely excreted in bile and urine as unchanged drug. The role of OAT1/3 in renal secretion of angiotensin II receptor blockers appears limited, because these compounds are mostly excreted through the biliary route. Therefore, olaparib is unlikely to significantly inhibit renal elimination of angiotensin II receptor blockers.",(See Summary)
+122,Olaparib,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor component. Olaparib does not interact with the elimination of ertapenem.,(See Summary)
+123,Olaparib,Erythromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Erythromycin is a substrate of CYP3A4 and P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of erythromycin. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary, but it is recommended to monitor for erythromycin toxicity. Furthermore, erythromycin is an inhibitor of CYP3A4 (moderate) and P-gp, and may increase concentrations of olaparib. Therefore, coadministration is not recommended. If coadministration is unavoidable, reduce the dose of olaparib by 50% for both the tablet and capsule formulation. Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+124,Olaparib,Escitalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Olaparib does not inhibit or induce CYPs 2C19, 2D6 or 3A4.",(See Summary)
+125,Olaparib,Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4. Olaparib does not inhibit or induce CYP3A4 or CYP2C19. Esomeprazole is also an inhibitor of CYP2C19. Olaparib is not metabolised by CYP2C19. The solubility of olaparib is pH-independent and therefore esomeprazole is unlikely to alter olaparib absorption. No dose adjustment is indicated when gastric pH modifying agents (i.e., PPIs, H2 receptor antagonists, and antacids) are coadministered with olaparib.",(See Summary)
+126,Olaparib,Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+127,Olaparib,Estradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. Estradiol is also a substrate of OATP1B1. Olaparib has shown inhibition of OATP1B1 and UGT1A1 in vitro and may increase concentrations of olaparib. However, this is unlikely to be clinically relevant since estradiol has a broad therapeutic index.",(See Summary)
+128,Olaparib,Ethambutol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ethambutol is partly metabolized by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and in the urine (50%), possibly via OCT2. Concentrations may increase because olaparib showed in vitro inhibition of OCT2. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of ethambutol. No effect on olaparib concentrations is expected.",(See Summary)
+129,Olaparib,Ethinylestradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). The metabolite of ethinylestradiol is a substrate of OAT3. Olaparib has shown UGT1A1 and OAT3 inhibition in vitro and may increase concentrations of ethinylestradiol. The clinical relevance of this interaction is unknown. However, since multiple metabolic pathways are involved in ethinylestradiol metabolism, no clinically significant effect is expected.",(See Summary)
+130,Olaparib,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolized in the liver, animal studies suggest involvement of flavin-containing monooxygenases. Olaparib does not interfere with this pathway. ",(See Summary)
+131,Olaparib,Etonogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+132,Olaparib,Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Everolimus mainly metabolised by CYP3A4 and is also a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of everolimus. No a priori dose adjustment of everolimus is necessary but monitoring for everolimus toxicity is recommended. Monitor everolimus plasma concentrations, if available. Furthermore, due to the risk of additive haematological toxicity, haematological parameters should also be monitored if coadministered.",(See Summary)
+133,Olaparib,Exenatide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as exenatide is cleared mainly by glomerular filtration. Exenatide delays gastric emptying and could possibly decrease the absorption rate of concomitantly administered oral drugs. Since olaparib is absorbed within approximately 3h, the clinical relevance of delayed absorption is considered to be limited.",(See Summary)
+134,Olaparib,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Olaparib does not interact with this metabolic pathway. Ezetimibe is a substrate of OATP1B1 and concentrations may increase because olaparib showed in vitro inhibition of OATP1B1. However, this is unlikely to be clinical relevant as ezetimibe has a large therapeutic index.",(See Summary)
+135,Olaparib,Famotidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Since H2 receptor antagonists have a wide therapeutic window, inhibition of OAT3 by olaparib will not lead to a clinically significant interaction. The solubility of olaparib is pH-independent and therefore famotidine is unlikely to alter olaparib absorption. No dose adjustment is indicated when gastric pH modifying agents (i.e., PPIs, H2 receptor antagonists, and antacids) are co-administered with olaparib.",(See Summary)
+136,Olaparib,Felodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Felodipine is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+137,Olaparib,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolyzed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. In vitro data indicate that olaparib inhibits OAT3 but a clinically significant interaction is unlikely as fenofibrate has a wide therapeutic range.",(See Summary)
+138,Olaparib,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+139,Olaparib,Fexofenadine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fexofenadine undergoes negligible metabolism and is mainly eliminated unchanged in the faeces. However, fexofenadine is a substrate of P-gp and concentrations may increase due to inhibition of P-gp by olaparib. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of fexofenadine. No effect on olaparib concentrations is expected.",(See Summary)
+140,Olaparib,Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+141,Olaparib,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+142,Olaparib,Flecainide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flecainide is metabolized mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also eliminated unchanged renally. Olaparib does not interact with this metabolic pathway.",(See Summary)
+143,Olaparib,Flucloxacillin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Flucloxacillin is mainly eliminated renally partly by glomerular filtration and partly by active secretion via OAT1. Olaparib does not interfere with this elimination pathway. However, flucloxacillin has been described as a CYP3A4 inducer and may decrease olaparib concentrations. The clinical relevance of this interaction is unknown. Decreased exposure can lead to decreased efficacy. Therefore, monitoring of olaparib efficacy may be required.",(See Summary)
+144,Olaparib,Fluconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Fluconazole is cleared primarily by renal excretion. Olaparib does not interfere with this elimination pathway. However, fluconazole is also an inhibitor of CYPs 3A4 (moderate), 2C9 (moderate) and 2C19 (strong). Concentrations of olaparib may increase due to inhibition of CYP3A4. If coadministration is unavoidable, reduce the dose of olaparib by 50% for both the tablet and capsule formulation. Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+145,Olaparib,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase (DPD) to an inactive metabolite. Olaparib does not interfere with this elimination pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Olaparib also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+146,Olaparib,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. Olaparib does not inhibit or induce CYP3A4.",(See Summary)
+147,Olaparib,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. Olaparib does not inhibit or induce CYP3A4 or CYP2C19.,(See Summary)
+148,Olaparib,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is metabolised by CYP2D6 and CYP2C9, and to a lesser extent by CYP2C19 and CYP3A4 to form norfluoxetine. Olaparib does not inhibit or induce these CYPs.",(See Summary)
+149,Olaparib,Fluphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Olaparib does not inhibit or induce CYP2D6. ,(See Summary)
+150,Olaparib,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated (via CYP3A4). Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+151,Olaparib,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+152,Olaparib,Fluvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluvastatin is mainly metabolized by CYP2C9. Olaparib does not interact with this metabolic pathway. However, fluvastatin is a substrate of OATP1B1 and concentrations may increase because olaparib showed in vitro inhibition of OATP1B1. The clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended, but monitor for toxicity of fluvastatin. ",(See Summary)
+153,Olaparib,Fluvoxamine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Olaparib does not inhibit or induce CYP2D6 or CYP1A2. However, fluvoxamine is an inhibitor of CYPs 1A2, 2C19, 3A4, 2C9. Concentrations of olaparib may increase due to inhibition of CYP3A4. The clinical relevance of this interaction is unknown.",(See Summary)
+154,Olaparib,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is eliminated predominantly renally. Olaparib is unlikely to interact with this metabolic pathway.,(See Summary)
+155,Olaparib,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation being another pathway. As multiple CYP450 and UGT enzymes catalyze the transformation the potential for a pharmacokinetic interaction is low.",(See Summary)
+156,Olaparib,Fosaprepitant,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Olaparib does not interact with this metabolic pathway. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Olaparib does not inhibit or induce these CYPs. However, during treatment aprepitant is a moderate inhibitor of CYP3A4 and may increase concentrations of olaparib during the three days of coadministration. Therefore, coadministration is not recommended. If coadministration is unavoidable, reduce the dose of olaparib by 50% for both the tablet and capsule formulation during the few days of coadministration. Furthermore, after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of olaparib may decrease due to weak induction of CYP3A4, but this is not considered to be clinically relevant.",(See Summary)
+157,Olaparib,Fosphenytoin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Olaparib does not interact with this metabolic pathway. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of olaparib may decrease due to induction of CYP3A4. Coadministration of rifampicin, a strong CYP3A4 inducer, decreased olaparib exposure by 87%. A similar effect may occur with fosphenytoin. Therefore, coadministration should be avoided, since the efficacy of olaparib may be substantially reduced.",(See Summary)
+158,Olaparib,Furosemide,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also eliminated unchanged renally (via OATs). In vitro data indicate that furosemide is an inhibitor of the renal transporters OAT1/OAT3. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Olaparib inhibits renal transporter OAT3 in vitro which could decrease furosemide secretion and therapeutic effect. ,(See Summary)
+159,Olaparib,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Olaparib is unlikely to interfere with this pathway.,(See Summary)
+160,Olaparib,Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+161,Olaparib,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Olaparib does not interact with this pathway. ,(See Summary)
+162,Olaparib,Gestodene,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Olaparib does not inhibit or induce CYPs 3A4, 2C9 or 2C19.",(See Summary)
+163,Olaparib,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. Olaparib does not inhibit or induce CYP3A4 or CYP2C9.,(See Summary)
+164,Olaparib,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolized mainly by CYP2C9 and to a lesser extent by CYP2C19. Olaparib does not inhibit or induce CYP2C9 and 2C19.,(See Summary)
+165,Olaparib,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolized by CYP2C9. Olaparib does not inhibit or induce CYP2C9.,(See Summary)
+166,Olaparib,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolized by CYP2C9. Olaparib does not inhibit or induce CYP2C9.,(See Summary)
+167,Olaparib,Granisetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Granisetron is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4. However, granisetron is a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of granisetron. The clinical relevance of this interaction is unknown. No a priori dose adjustment for granisetron is necessary. However, it is recommended to monitor for granisetron toxicity.",(See Summary)
+168,Olaparib,Grapefruit juice,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration has not been studied and should be avoided. Grapefruit juice is a known inducer of CYP3A4 enzymes and may increase olaparib concentrations. Increased olaparib exposure may increase the risk of exposure-related toxicity.,(See Summary)
+169,Olaparib,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+170,Olaparib,Griseofulvin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Olaparib does not interfere with griseofulvin elimination pathway. However, griseofulvin is a liver microsomal enzyme inducer and may lower plasma levels, and therefore reduce the efficacy of concomitantly administered medicinal products that are metabolized by CYP3A4, such as olaparib.",(See Summary)
+171,Olaparib,Haloperidol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGTs 2B7>1A4 and 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4 and CYP2D6). Olaparib does not inhibit or induce these UGTs, CYP3A4 or CYP2D6.",(See Summary)
+172,Olaparib,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Olaparib does not interact with this metabolic pathway.,(See Summary)
+173,Olaparib,Hydralazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. In vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6. However, it is not expected that this will lead to a clinical relevant interaction with olaparib.",(See Summary)
+174,Olaparib,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrochlorothiazide is not metabolized and is cleared by the kidneys via OAT1. In vitro data indicate that hydrochlorothiazide is unlikely to inhibit OAT1 in the range of clinically relevant concentrations. ,(See Summary)
+175,Olaparib,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Olaparib does not inhibit or induce CYP2D6 or CYP3A4.",(See Summary)
+176,Olaparib,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+177,Olaparib,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",No clinically significant interactions are expected with the topical use of hydrocortisone. ,(See Summary)
+178,Olaparib,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Olaparib not interact with this metabolic pathway. ",(See Summary)
+179,Olaparib,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is not a substrate of CYP enzymes or P-gp. However, coadministration may increase risk of gastro-intestinal toxicity or mucositis. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+180,Olaparib,Hydroxyzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. Olaparib does not interfere with this metabolic pathway.,(See Summary)
+181,Olaparib,Ibandronic acid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied. Ibandronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, ibandronic acid should be taken after an overnight fast (at least 6 hours) and before the first food or drink of the day. Medicinal products and supplements should be similarly avoided prior to taking ibandronic acid. Fasting should be continued for at least 30 minutes after taking ibandronic acid.",(See Summary)
+182,Olaparib,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolized mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Olaparib does not inhibit or induce these CYPs or UGTs. ,(See Summary)
+183,Olaparib,Iloperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Iloperidone is metabolised by CYP3A4 and CYP2D6. Olaparib does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+184,Olaparib,Imipenem/Cilastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent, active tubular secretion via OAT3 and concentrations may increase because olaparib showed in vitro inhibition of OAT3. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of imipenem/cilastatin. No effect on olaparib concentrations is expected.",(See Summary)
+185,Olaparib,Imipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. Olaparib does not inhibit or induce CYPs 3A4, 2C19 or 1A2.",(See Summary)
+186,Olaparib,Indapamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Indapamide is extensively metabolised by CYPs. Olaparib has shown induction of CYP2B6 in vitro and may decrease concentrations of indapamide. However, this is unlikely to be clinically relevant.",(See Summary)
+187,Olaparib,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+188,Olaparib,Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, coadministration may increase risk of neutropenia, fatigue, and thrombocytopenia. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+189,Olaparib,Interleukin 2 (Aldesleukin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. ",(See Summary)
+190,Olaparib,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Ipratropium bromide is a substrate of OCT2 and concentrations may increase because olaparib showed in vitro inhibition of OCT2. However, this is unlikely to be of clinical relevance due to the low bioavailability. No effect on olaparib concentrations is expected.",(See Summary)
+191,Olaparib,Irbesartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Irbesartan is metabolized by glucuronidation and oxidation (mainly CYP2C9). Metabolites are excreted via bile (~80%) and urine (~20%). Significant interactions are not expected with olaparib. However, irbesartan is a substrate of OATP1B1 and concentrations may increase because olaparib showed in vitro inhibition of OATP1B1. The clinical relevance of this interaction is unknown.",(See Summary)
+192,Olaparib,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+193,Olaparib,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Olaparib does not interact with this metabolic pathway. ",(See Summary)
+194,Olaparib,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+195,Olaparib,Itraconazole,"
+Potential Interaction
+","
+Low
+","Coadministration should be approached with caution. Itraconazole is primarily metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4. However, itraconazole is an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Coadministration of olaparib and itraconazole increased olaparib AUC and Cmax by 2.7- and 1.4-fold, respectively. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, reduce the dose of olaparib by ~66% (for lynparza capsules: reduce olaparib dose from 400 mg twice daily to 150 mg twice daily; for lynparza tablets: reduce olaparib dose from 300 mg twice daily to 100 mg twice daily). Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+196,Olaparib,Ivabradine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ivabradine is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+197,Olaparib,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration therefore no pharmacokinetic interaction is expected with olaparib. Olaparib does not interact with this metabolic pathway. ",(See Summary)
+198,Olaparib,Ketoconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ketoconazole is a substrate of CYP3A4. Olaparib does not inhibit or induce CYP3A4. However, ketoconazole is an inhibitor of CYP3A4 (strong) and P-gp. Concentrations of olaparib may increase due to strong inhibition of CYP3A4. Coadministration of olaparib and the strong CYP3A4 inhibitor, itraconazole, increased olaparib AUC and Cmax by 2.7-fold and 1.4-fold, respectively. A similar effect may occur with ketoconazole. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, reduce the dose of olaparib by ~66% (for lynparza capsules: reduce olaparib dose from 400 mg twice daily to 150 mg twice daily; for lynparza tablets: reduce olaparib dose from 300 mg twice daily to 100 mg twice daily). Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+199,Olaparib,Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and 2B7). Olaparib does not interact with this metabolic pathway. ,(See Summary)
+200,Olaparib,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+201,Olaparib,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. ,(See Summary)
+202,Olaparib,Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Olaparib does not inhibit or induce CYP2C19 or CYP3A4. The solubility of olaparib is pH-independent and therefore lansoprazole is unlikely to alter olaparib absorption. No dose adjustment is indicated when gastric pH modifying agents (i.e., PPIs, H2 receptor antagonists, and antacids) are co-administered with olaparib.",(See Summary)
+203,Olaparib,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is mainly metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+204,Olaparib,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised and it is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion (possibly via OCT2). Concentrations may increase because olaparib showed in vitro inhibition of OCT2. However, since levocetirizine has a broad therapeutic index, no clinically relevant interaction is expected. No effect on olaparib concentrations is expected.",(See Summary)
+205,Olaparib,Levofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Levofloxacin is eliminated renally mainly by glomerular filtration and active secretion possibly via OCT2. Concentrations may increase because olaparib showed in vitro inhibition of OCT2. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of levofloxacin. No effect on olaparib concentrations is expected.",(See Summary)
+206,Olaparib,Levomepromazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levomepromazine is metabolized by CYP2D6. Olaparib does not inhibit or induce CYP2D6. ,(See Summary)
+207,Olaparib,Levonorgestrel,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Olaparib has shown inhibition of UGT1A1 in vitro and may increase concentrations of levonorgestrel. However, since glucuronidation is a minor pathway for levonorgestrel, a clinically relevant interaction is unlikely.",(See Summary)
+208,Olaparib,Levonorgestrel (Emergency Contraception),"
+Potential Interaction
+","
+Very Low
+","Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. However, the use of levonorgestrel as emergency contraception is a relative contraindication due to the risk of a pregnancy while having a hormone-sensitive tumour. Therefore, the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Olaparib has shown inhibition of UGT1A1 in vitro and may increase concentrations of levonorgestrel. Since glucuronidation is a minor pathway for levonorgestrel, a clinically relevant interaction is unlikely.",(See Summary)
+209,Olaparib,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolized by deiodination (by enzymes of deiodinase family) and glucuronidation. Olaparib does not interact with levothyroxine metabolism. ,(See Summary)
+210,Olaparib,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Olaparib does not inhibit or induce CYP1A2 or CYP3A4.,(See Summary)
+211,Olaparib,Linagliptin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Linagliptin is also a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of linagliptin. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, monitoring for blood glucose concentrations may be required. Furthermore, linagliptin is also a weak inhibitor of CYP3A4 and may increase concentrations of olaparib, but this is unlikely to be clinically relevant.",(See Summary)
+212,Olaparib,Linezolid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Linezolid undergoes non CYP mediated metabolism. ",(See Summary)
+213,Olaparib,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as liraglutide is degraded by endogenous endopeptidases. ,(See Summary)
+214,Olaparib,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is eliminated unchanged renally via glomerular filtration. ,(See Summary)
+215,Olaparib,Lithium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate therefore no pharmacokinetic interaction is expected. ,(See Summary)
+216,Olaparib,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalized infections can occur.",(See Summary)
+217,Olaparib,Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8, and is also a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of loperamide. However, no clinically relevant effect on loperamide exposure is expected.",(See Summary)
+218,Olaparib,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Olaparib does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+219,Olaparib,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on non-CYP-mediated elimination pathways for lorazepam, no effect on plasma concentrations is expected upon coadministration with olaparib. ",(See Summary)
+220,Olaparib,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+221,Olaparib,Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+222,Olaparib,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unknown. Lovastatin is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+223,Olaparib,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Olaparib does not inhibit or induce these CYPs.",(See Summary)
+224,Olaparib,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in kidney, mainly by glomerular filtration. ",(See Summary)
+225,Olaparib,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolized by CYP2D6. Olaparib does not inhibit or induce CYP2D6. ,(See Summary)
+226,Olaparib,Medroxyprogesterone (depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+227,Olaparib,Medroxyprogesterone (non-depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+228,Olaparib,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolized by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Olaparib does not inhibit or induce CYP2C9 or UGTs. ,(See Summary)
+229,Olaparib,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine (probably via OCT2) and concentrations may increase because olaparib showed in vitro inhibition of OCT2. However, this is unlikely to be clinically significant since megestrol acetate has a broad therapeutic window.",(See Summary)
+230,Olaparib,Meropenem,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Meropenem is primarily eliminated by the kidney and in vitro data suggest that it is a substrate of the renal transporters OAT3 and, to a lesser extent, OAT1. Concentrations may increase because olaparib showed in vitro inhibition of OAT3. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of meropenem. No effect on olaparib concentrations is expected.",(See Summary)
+231,Olaparib,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolized to N-acetyl-mesalazine by N-acetyltransferase. Olaparib does not interfere with this pathway. ,(See Summary)
+232,Olaparib,Metamizole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Metamizole is metabolised in serum and excreted via urine (90%) and faeces (10%). Furthermore, metamizole is an inducer of CYP3A4 and may decrease olaparib concentrations. A decrease in olaparib exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. The clinical relevance of this interaction is unknown. Therefore, coadministration should be avoided. If coadministration is clinically necessary, monitor closely for decreased olaparib efficacy. Monitor olaparib plasma concentrations, if available.",(See Summary)
+233,Olaparib,Metformin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Metformin is mainly eliminated unchanged in the urine (via OCT1, OCT2, MATE1 and MATE2). Concentrations may increase because olaparib showed in vitro inhibition of OCT2, MATE1 and MATE2. Moreover, olaparib could potentially slow down metformin renal elimination and thus increase the risk of toxicity. The clinical relevance of this interaction is unknown. No a priori dose adjustment of metformin is necessary but monitoring for toxicity of metformin may be required. No effect on olaparib concentrations is expected.",(See Summary)
+234,Olaparib,Methadone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methadone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+235,Olaparib,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. It is unlikely to affect the disposition of olaparib, or to be altered by co-administration with olaparib.",(See Summary)
+236,Olaparib,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolized by cytochrome P450 to a clinically relevant extent and does not inhibit cytochrome P450s. ,(See Summary)
+237,Olaparib,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+238,Olaparib,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolized by CYP450 system (mainly CYP2D6). Olaparib does not interact with this metabolic pathway. ,(See Summary)
+239,Olaparib,Metolazone,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Metolazone is largely excreted unchanged in the urine. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Olaparib inhibits renal transporter OAT3 in vitro which could decrease hydrochlorthiazide secretion and therapeutic effect.,(See Summary)
+240,Olaparib,Metoprolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Metoprolol is mainly metabolized by CYP2D6. Olaparib does not inhibit or induce CYP2D6. However, metoprolol is a substrate of OCT2 and concentrations may increase because olaparib showed in vitro inhibition of OCT2. The clinical relevance of this interaction is unknown. No a priori dose adjustment of metoprolol is necessary. However, it is recommended to monitor blood pressure. No effect on olaparib concentrations is expected.",(See Summary)
+241,Olaparib,Metronidazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Metronidazole is eliminated via glomerular filtration. Olaparib is unlikely to interfere with this elimination pathway. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Since the mechanism of the interaction with CYP3A has not yet been identified, an interaction with olaparib cannot be excluded. The clinical relevance of this interaction is unknown. No a priori dose adjustment of olaparib is recommended, but it is recommended to monitor for olaparib toxicity. Monitor olaparib plasma concentrations, if available.",(See Summary)
+242,Olaparib,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolized mainly by CYP2D6 and to a lesser extent CYP1A2. Olaparib does not inhibit or induce these CYPs. ,(See Summary)
+243,Olaparib,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolised by CYP2D6 and CYP1A2, and to a lesser extent by CYP3A4. Olaparib does not inhibit or induce CYPs 2D6, 1A2 or 3A4.",(See Summary)
+244,Olaparib,Miconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Miconazole is extensively metabolised by the liver. Olaparib is unlikely to interact with this unspecified metabolism. However, miconazole is an inhibitor of CYP2C9 (moderate) and CYP3A4 (strong). Concentrations of olaparib may increase due to inhibition of CYP3A4. Coadministration of olaparib and the strong CYP3A4 inhibitor, itraconazole, increased olaparib AUC and Cmax by 2.7-fold and 1.4-fold, respectively. A similar effect may occur with miconazole. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, reduce the dose of olaparib by ~66% (for lynparza capsules: reduce olaparib dose from 400 mg twice daily to 150 mg twice daily; for lynparza tablets: reduce olaparib dose from 300 mg twice daily to 100 mg twice daily). Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available. Note: Oromucosal application: olaparib concentrations may increase due to strong inhibition of CYP3A4. Dermal application: no a priori dosage adjustment is recommended for olaparib, since miconazole is used topically and systemic exposure is limited.",(See Summary)
+245,Olaparib,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+246,Olaparib,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+247,Olaparib,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Olaparib is unlikely to interfere with this pathways.",(See Summary)
+248,Olaparib,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to the active metabolite N-desmethylmirtazapine mainly by CYP3A4. Olaparib does not inhibit or induce CYPs 2D6, 1A2 or 3A4.",(See Summary)
+249,Olaparib,Mometasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+250,Olaparib,Montelukast,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. Olaparib does not inhibit or induce CYPs 2C8, 3A4 or 2C9.",(See Summary)
+251,Olaparib,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and, to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Olaparib does not interact with this metabolic pathway.",(See Summary)
+252,Olaparib,Moxifloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Olaparib is unlikely to interfere with this pathway. ,(See Summary)
+253,Olaparib,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and 2B7. Mycophenolate glucuronide is excreted via OAT1/3 renal transporters. Olaparib inhibits renal transporter OAT3 in vitro and could possibly increase mycophenolate glucuronide concentrations, but this is unlikely to be clinical relevant since mycophenolate glucuronide is an inactive metabolite. Inhibition of OAT1/OAT3 renal transporters by mycophenolic acid (active metabolite) is unlikely to interfere with olaparib elimination. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+254,Olaparib,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Olaparib does not interact with this elimination pathway.,(See Summary)
+255,Olaparib,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolized in the liver by alpha-reductase. Olaparib does not interact with this metabolic pathway.,(See Summary)
+256,Olaparib,Naproxen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Olaparib does not inhibit or induce CYP2C9 and 1A2 or UGTs. ,(See Summary)
+257,Olaparib,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent by CYP3A4 (30%). Olaparib does not inhibit or induce CYP2C9 or CYP3A4.,(See Summary)
+258,Olaparib,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Olaparib does not inhibit or induce CYP2D6.,(See Summary)
+259,Olaparib,Nefazodone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Nefazodone is metabolised mainly by CYP3A4. Olaparib does not inhibit or induce CYP3A4. However, nefazodone is a strong inhibitor of CYP3A4 and may increase concentrations of olaparib. If coadministration is unavoidable, reduce the dose of olaparib by ~66% (for lynparza capsules: reduce olaparib dose from 400 mg twice daily to 150 mg twice daily; for lynparza tablets: reduce olaparib dose from 300 mg twice daily to 100 mg twice daily). Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+260,Olaparib,Nicardipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. Olaparib does not inhibit or induce CYPs 3A4, 2D6 or 2C8. However, nicardipine is a weak inhibitor of CYP3A4 and may increase olaparib concentrations, but this is unlikely to be clinically relevant.",(See Summary)
+261,Olaparib,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolized by xanthine oxidase and aldehyde oxidase. Olaparib does not interact with this metabolic pathway. In addition, nicotinic acid and its metabolites do not inhibit CYP-mediated reactions in vitro and therefore are unlikely to impact olaparib exposure.",(See Summary)
+262,Olaparib,Nifedipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+263,Olaparib,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolized in the liver following multiple pathways including CYP2C9. Olaparib does not inhibit or induce CYP2C9.,(See Summary)
+264,Olaparib,Nisoldipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+265,Olaparib,Nitrendipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+266,Olaparib,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolized in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). As renal excretion is not the predominant mechanism of elimination, there is little potential for a clinical significant interaction with olaparib.",(See Summary)
+267,Olaparib,Norelgestromin,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+268,Olaparib,Norethisterone (Norethindrone),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Olaparib has shown inhibition of UGT1A1 in vitro and may increase concentrations of norethisterone. The clinical relevance of this interaction is unknown. However, since multiple pathways are involved in the metabolism of norethisterone, a clinically significant interaction is unlikely.",(See Summary)
+269,Olaparib,Norgestimate,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. Olaparib is unlikely to interact with this metabolic pathway.,(See Summary)
+270,Olaparib,Norgestrel,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Olaparib has shown inhibition of UGT1A1 in vitro and may increase concentrations of levonorgestrel. However, since glucuronidation is a minor pathway for levonorgestrel, a clinically relevant interaction is unlikely.",(See Summary)
+271,Olaparib,Nortriptyline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nortriptyline is metabolized mainly by CYP2D6. Olaparib does not inhibit or induce CYP2D6. ,(See Summary)
+272,Olaparib,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant, therefore no drug interactions are expected. ",(See Summary)
+273,Olaparib,Ofloxacin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ofloxacin is eliminated unchanged renally by glomerular filtration and active tubular secretion via both cationic and anionic transport systems (OAT/OCT). Concentrations may increase because olaparib showed in vitro inhibition of OCT1, OCT2, OATP1B1 and OAT3. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of ofloxacin. No effect on olaparib concentrations is expected.",(See Summary)
+274,Olaparib,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolized mainly by CYP1A2, but also by glucuronidation (UGT1A4). Olaparib does not inhibit or induce CYP1A2. ",(See Summary)
+275,Olaparib,Olmesartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. The role of OAT1/3 in renal secretion of angiotensin II receptor blockers appears limited, because these compounds are mostly excreted through the biliary route. Therefore, olaparib is unlikely to significantly inhibit renal elimination of angiotensin II receptor blockers. However, olmesartan is a substrate of OATP1B1 and concentrations may increase because olaparib showed in vitro inhibition of OATP1B1. The clinical relevance of this interaction is unknown.",(See Summary)
+276,Olaparib,Omeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Olaparib does not inhibit or induce CYP2C19 or CYP3A4. Furthermore, omeprazole is an inducer of CYP1A2 and inhibits CYP2C19. Olaparib is not metabolised by these CYPs. The solubility of olaparib is pH-independent and therefore omeprazole is unlikely to alter olaparib absorption. No dose adjustment is indicated when gastric pH modifying agents (i.e., PPIs, H2 receptor antagonists, and antacids) are co-administered with olaparib.",(See Summary)
+277,Olaparib,Ondansetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ondansetron is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2D6. Ondansetron is also a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of ondansetron. The clinical relevance of this interaction is unknown. No a priori dose adjustment for ondansetron is necessary. However, it is recommended to monitor for ondansetron toxicity.",(See Summary)
+278,Olaparib,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+279,Olaparib,Oxcarbazepine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Oxcarbazepine is extensively metabolised to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Olaparib does not interact with this metabolic pathway. However, both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5, and are inhibitors of CYP2C19. Concentrations of olaparib may decrease due to induction of CYP3A4. Coadministration of olaparib and the moderate CYP3A4 inducer, efavirenz, was predicted to decrease olaparib exposure by approximately 60%. A similar effect may occur with oxcarbazepine. Therefore, coadministration should be avoided. If coadministration is clinically necessary, monitor closely for decreased efficacy of olaparib. Monitor olaparib plasma concentrations, if available.",(See Summary)
+280,Olaparib,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolized via glucuronidation olaparib does not interact with this metabolic pathway. ,(See Summary)
+281,Olaparib,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Olaparib does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+282,Olaparib,Paliperidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Paliperidone is primarily eliminated renally (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. Olaparib has shown inhibition of OCT1/2 in vitro and may increase concentrations of paliperidone. The clinical relevance of this interaction is unknown. No a priori dose adjustment for paliperidone is necessary, but monitoring for paliperidone toxicity may be required.",(See Summary)
+283,Olaparib,Palonosetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Palonosetron is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Palonosetron is also a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of palonosetron. The clinical relevance of this interaction is unknown. No a priori dose adjustment for palonosetron is necessary. However, it is recommended to monitor for palonosetron toxicity.",(See Summary)
+284,Olaparib,Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pamidronic acid is not metabolised and is eliminated renally as unchanged drug.,(See Summary)
+285,Olaparib,Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. Olaparib does not inhibit or induce these CYPs. The solubility of olaparib is pH-independent and therefore pantoprazole is unlikely to alter olaparib absorption. No dose adjustment is indicated when gastric pH modifying agents (i.e., PPIs, H2 receptor antagonists, and antacids) are co-administered with olaparib.",(See Summary)
+286,Olaparib,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. ,(See Summary)
+287,Olaparib,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1, 2B15), sulfation, and to a lesser extent by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). Olaparib has shown inhibition of UGT1A1 in vitro and may increase paracetamol concentrations. The clinical relevance of this interaction is unknown. However, since UGT1A1 is a minor pathway no clinically relevant effect is expected.",(See Summary)
+288,Olaparib,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolised by CYP2D6 and CYP3A4. Olaparib does not inhibit or induce CYP2D6 or CYP3A4.,(See Summary)
+289,Olaparib,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, coadministration may increase risk of neutropenia, fatigue, and thrombocytopenia. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+290,Olaparib,Penicillins,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Concentrations may increase because olaparib showed in vitro inhibition of OATP1B1 and OAT3. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of penicillins. No effect on olaparib concentrations is expected.",(See Summary)
+291,Olaparib,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is mainly metabolised by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. Olaparib does not inhibit or induce these CYPs or FMO3.",(See Summary)
+292,Olaparib,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Olaparib does not inhibit or induce CYP2D6.,(See Summary)
+293,Olaparib,Perindopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolized to other inactive metabolites. Elimination occurs predominantly via the urine (possibly via OAT). In vitro data indicate that olaparib inhibits OAT3 but a clinically significant interaction is unlikely as perindopril has a wide therapeutic range.,(See Summary)
+294,Olaparib,Perphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perphenazine is metabolized by CYP2D6. Olaparib does not inhibit or induce CYP2D6. ,(See Summary)
+295,Olaparib,Pethidine (Meperidine),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. Olaparib has shown CYP2B6 induction in vitro and may decrease concentrations of pethidine. However, this is unlikely to be clinically relevant.",(See Summary)
+296,Olaparib,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolized by oxidation via monoamine oxidase and to a lesser extent acetylation. Olaparib does not interact with this pathway.,(See Summary)
+297,Olaparib,Phenobarbital (Phenobarbitone),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Phenobarbital is metabolised by CYP2C19 and CYP2C9 (major), and to a lesser extent by CYP2E1. Olaparib does not inhibit or induce CYPs 2C19, 2C9 or 2E1. However, phenobarbital is a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Concentrations of olaparib may decrease due to induction of CYP3A4. Coadministration of olaparib and the strong CYP3A4 inducer, rifampicin, decreased olaparib exposure by 87%. A similar effect may occur with phenobarbital. Therefore, coadministration should be avoided.",(See Summary)
+298,Olaparib,Phenprocoumon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenprocoumon is metabolised by CYP2C9 and CYP3A4. Olaparib does not inhibit or induce CYP2C9 or CYP3A4.,(See Summary)
+299,Olaparib,Phenytoin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Olaparib does not inhibit or induce CYP2C9 or CYP2C19. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of olaparib may decrease due to induction of CYP3A4. Coadministration of olaparib and the strong CYP3A4 inducer, rifampicin, decreased olaparib exposure by 87%. A similar effect may occur with phenytoin. Therefore, coadministration should be avoided.",(See Summary)
+300,Olaparib,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+301,Olaparib,Pimozide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pimozide is mainly metabolised by CYP3A4 and CYP2D6, and to a lesser extent by CYP1A2. Olaparib does not inhibit or induce CYPs 3A4, 2D6 or 1A2.",(See Summary)
+302,Olaparib,Pindolol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Pindolol is partly metabolized to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine (possibly via OCT2). Concentrations may increase because olaparib showed in vitro inhibition of OCT2. The clinical relevance of this interaction is unknown. No a priori dose adjustment of pindolol is necessary. However, it is recommended to monitor blood pressure. No effect on olaparib concentrations is expected.",(See Summary)
+303,Olaparib,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Olaparib does not inhibit or induce these CYPs.",(See Summary)
+304,Olaparib,Pipotiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Olaparib does not inhibit or induce CYP2D6.,(See Summary)
+305,Olaparib,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikley. Piroxicam is metabolised by CYP3A4 and CYP2B6. Olaparib does not interact with this pathway.,(See Summary)
+306,Olaparib,Pitavastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Pitavastatin is metabolized by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Olaparib does not interact with this metabolic pathway. However, pitavastatin is a substrate of OATP1B1 and concentrations may increase because olaparib showed in vitro inhibition of OATP1B1. The clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended, but monitor for toxicity of pitavastatin. ",(See Summary)
+307,Olaparib,Posaconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Posaconazole is primarily metabolised by UGTs and is a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase posaconazole concentrations. No a priori dose adjustment for posaconazole is necessary. However, it is recommended to monitor for toxicity of posaconazole. Furthermore, posaconazole is a strong inhibitor of CYP3A4 and may increase concentrations of olaparib. Coadministration of olaparib and the strong CYP3A4 inhibitor, itraconazole, increased olaparib AUC and Cmax by 2.7-fold and 1.4-fold, respectively. A similar effect may occur with posaconazole. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, reduce the dose of olaparib by ~66% (for lynparza capsules: reduce olaparib dose from 400 mg twice daily to 150 mg twice daily; for lynparza tablets: reduce olaparib dose from 300 mg twice daily to 100 mg twice daily). Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+308,Olaparib,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is regulated renally.,(See Summary)
+309,Olaparib,Prasugrel,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6, and to a lesser extent by CYP2C9 and CYP2C19. Olaparib has shown induction of CYP2B6 in vitro and may increase concentrations of prasugrel. However, this is unlikely to be clinically significant.",(See Summary)
+310,Olaparib,Pravastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Olaparib is an inhibitor of OATP1B1 in vitro and may increase concentrations of pravastatin. The clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended, but monitor for toxicity of pravastatin.",(See Summary)
+311,Olaparib,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolized, primarily by demethylation and conjugation. Olaparib is unlikely to interact with prazosin. ",(See Summary)
+312,Olaparib,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+313,Olaparib,Prednisone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. Olaparib does not interact with this metabolic pathway.,(See Summary)
+314,Olaparib,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration. Olaparib is unlikely to interfere with this pathway.,(See Summary)
+315,Olaparib,Prochlorperazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+316,Olaparib,Promethazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Promethazine is metabolized by CYP2D6. Olaparib does not inhibit or induce CYP2D6.,(See Summary)
+317,Olaparib,Propafenone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2 and CYP3A4. Olaparib does not inhibit or induce CYPs 2D6, 3A4 and 1A2.",(See Summary)
+318,Olaparib,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolized by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Olaparib does not interact with this metabolic pathway. ",(See Summary)
+319,Olaparib,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly eliminated renally, partly by active secretion by renal transporters (of note no clinically relevant interactions were observed when prucalopride was coadministered with inhibitors of renal P-gp, OAT and OCT transporters). ",(See Summary)
+320,Olaparib,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolized by xanthine oxidase. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+321,Olaparib,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+322,Olaparib,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+323,Olaparib,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. In vitro data indicate that olaparib inhibits OAT3 but a clinically significant interaction is unlikely as quinapril has a wide therapeutic range.,(See Summary)
+324,Olaparib,Quinidine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is also a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase quinidine concentrations. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary, but it is recommended to monitor for quinidine toxicity. Furthermore, quinidine is an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate). Concentrations of olaparib may increase due to weak inhibition of CYP3A4 and P-gp, but this is unlikely to be clinically relevant.",(See Summary)
+325,Olaparib,Rabeprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. Olaparib does not interfere with this metabolic pathway. The solubility of olaparib is pH-independent and therefore rabeprazole is unlikely to alter olaparib absorption. No dose adjustment is indicated when gastric pH modifying agents (i.e., PPIs, H2 receptor antagonists, and antacids) are co-administered with olaparib.",(See Summary)
+326,Olaparib,Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolized to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Olaparib is not expected to interfere with these metabolic pathways. ",(See Summary)
+327,Olaparib,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Since H2 receptor antagonists have a wide therapeutic window, inhibition of OAT3 by olaparib will not lead to a clinically significant interaction. The solubility of olaparib is pH-independent and therefore ranitidine is unlikely to alter olaparib absorption. No dose adjustment is indicated when gastric pH modifying agents (i.e., PPIs, H2 receptor antagonists, and antacids) are co-administered with olaparib.",(See Summary)
+328,Olaparib,Ranolazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ranolazine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of ranolazine. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, monitoring for ranolazine toxicity may be required. Furthermore, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Concentrations of olaparib may increase due to P-gp and CYP3A4 inhibition. However, this is unlikely to be clinically relevant.",(See Summary)
+329,Olaparib,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4. Although in vitro data indicate reboxetine to be a weak inhibitor of CYP3A4, no inhibitory effect on CYP3A4 was observed in vivo. Therefore, no clinically relevant effect on olaparib is expected.",(See Summary)
+330,Olaparib,Repaglinide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Repaglinide is metabolised by CYPs 2C8 and 3A4 and clinical data indicate that it is a substrate of the hepatic transporter OATP1B1. Concentrations of repaglinide may increase because olaparib has shown inhibition of OATP1B1 in vitro. The clinical relevance of this interaction is unknown and no a priori dose adjustment for repaglinide is necessary. However, monitoring for repaglinide toxicity may be required. No effect on olaparib concentrations is expected.",(See Summary)
+331,Olaparib,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver. Retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Olaparib does not interact with this metabolic pathway. ",(See Summary)
+332,Olaparib,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+333,Olaparib,Rifabutin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Rifabutin is metabolised by CYP3A and via deacetylation. Olaparib does not interact with this metabolic pathway. However, rifabutin is a strong CYP3A4 and P-gp inducer, and may decrease concentrations of olaparib. Coadministration of olaparib and the strong CYP3A4 inducer, rifampicin, decreased olaparib exposure by 87%. A similar effect may occur with rifabutin. Therefore, coadministration should be avoided.",(See Summary)
+334,Olaparib,Rifampicin,"
+Do Not Coadminister
+","
+Low
+","Coadministration should be avoided. Rifampicin is metabolised via deacetylation. Olaparib does not interfere with this metabolic pathway. However, rifampicin is a strong CYP3A4 and P-gp inducer, and may decrease concentrations of olaparib. Coadministration of olaparib and rifampicin decreased olaparib AUC and Cmax by 87% and 71%, respectively. Therefore, coadministration should be avoided.",(See Summary)
+335,Olaparib,Rifapentine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Rifapentine is metabolised via deacetylation. Olaparib does not interfere with this metabolic pathway. However, rifapentine is a strong CYP3A4, CYP2C8 and P-gp inducer. Concentrations of olaparib may decrease due to induction of CYP3A4 and P-gp. Coadministration of olaparib and the strong CYP3A4 inducer, rifampicin, decreased olaparib exposure by 87%. A similar effect may occur with rifapentine. Therefore, coadministration should be avoided.",(See Summary)
+336,Olaparib,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Olaparib does not interact with this metabolic pathway. ",(See Summary)
+337,Olaparib,Risperidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4, and is a substrate of P-gp. Risperidone concentrations may increase due to inhibition of P-gp by olaparib. The clinical relevance of this interaction is unknown. No a priori dose adjustment for risperidone is necessary. However, it is recommended to monitor for toxicity of risperidone.",(See Summary)
+338,Olaparib,Rivaroxaban,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine. Rivaroxaban is also a substrate of P-gp and BCRP. Olaparib is an inhibitor of P-gp and BCRP (in vitro) and may increase concentrations of rivaroxaban. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary, but it is recommended to monitor for rivaroxaban toxicity.",(See Summary)
+339,Olaparib,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolized mainly by CYP2C8 and to a lesser extent by CYP2C9. Olaparib does not inhibit or induce CYPs 2C8 and 2C9.,(See Summary)
+340,Olaparib,Rosuvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Rosuvastatin is largely excreted unchanged via the faeces. However, rosuvastatin is a substrate of OATP1B1 and concentrations may increase because olaparib showed in vitro inhibition of OATP1B1. The clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended, but monitor for toxicity of rosuvastatin. ",(See Summary)
+341,Olaparib,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolized to the inactive salbutamol-4’-O-sulphate. Olaparib does not interact with this metabolic pathway.,(See Summary)
+342,Olaparib,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+343,Olaparib,Saxagliptin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase saxagliptin concentrations. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for saxagliptin toxicity.",(See Summary)
+344,Olaparib,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces and also in other secretions. No clinically significant drug interactions are known.,(See Summary)
+345,Olaparib,Sertindole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertindole is metabolised by CYP2D6 and CYP3A4. Olaparib does not inhibit or induce CYP2D6 or CYP3A4.,(See Summary)
+346,Olaparib,Sertraline,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Olaparib has shown induction of CYP2B6 in vitro and may decrease concentrations of sertraline. Although this is unlikely to be clinically relevant, monitoring for sertraline toxicity may be required.",(See Summary)
+347,Olaparib,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. Olaparib does not inhibit or induce CYP3A4 or CYP2C9.,(See Summary)
+348,Olaparib,Simvastatin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Simvastatin is metabolised by CYP3A4. Simvastatin is also a substrate of BCRP, and the active metabolite is a substrate of OATP1B1. Olaparib has shown in vitro inhibition of BCRP and OATP1B1 and may increase concentrations of simvastatin. The clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended, but monitor for simvastatin toxicity.",(See Summary)
+349,Olaparib,Sirolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Sirolimus is metabolised by CYP3A4 and is a substrate of P-gp. Olaparib is an inhibitor of P-gp and may increase sirolimus concentrations. No a priori dose adjustment is necessary for sirolimus. However, it is recommended to monitor for sirolimus toxicity. Furthermore, due to the risk of additive haematological toxicity, haematological parameters should also be monitored if coadministered.",(See Summary)
+350,Olaparib,Sitagliptin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1 and P-gp) and metabolism by CYP3A4 represents a minor elimination pathway. Olaparib is an inhibitor of P-gp and OAT3, and may increase concentrations of sitagliptin. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for sitagliptin toxicity.",(See Summary)
+351,Olaparib,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. There is little potential for sodium nitroprusside to affect the disposition of olaparib, or to be affected by olaparib. ",(See Summary)
+352,Olaparib,Sotalol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Sotalol is excreted unchanged via renal elimination (possibly via OCT). Concentrations may increase because olaparib showed in vitro inhibition of OCT2. The clinical relevance of this interaction is unknown. No a priori dose adjustment of sotalol is necessary. However, it is recommended to monitor blood pressure.",(See Summary)
+353,Olaparib,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+354,Olaparib,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolized by the flavin containing monooxygenases. Olaparib does not interfere with this metabolic pathway. ,(See Summary)
+355,Olaparib,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Olaparib does not interact with this metabolic pathway.,(See Summary)
+356,Olaparib,St John's Wort,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied. St John’s wort, a P-gp inducer, may cause significant and unpredictable decreases in the plasma concentrations of olaparib (induction of CYP3A4). Coadministration should be avoided, since the efficacy of olaparib may be substantially reduced.",(See Summary)
+357,Olaparib,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Olaparib is unlikely to interact with this pathway.",(See Summary)
+358,Olaparib,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Streptomycin is eliminated by glomerular filtration therefore no pharmacokinetic interaction is expected with olaparib. ,(See Summary)
+359,Olaparib,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Olaparib does not interfere with sulfadiazine metabolism.,(See Summary)
+360,Olaparib,Sulpiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. ,(See Summary)
+361,Olaparib,Tacrolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Tacrolimus is metabolised mainly by CYP3A4. Olaparib does not inhibit or induce CYP3A4. Tacrolimus inhibits CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Tacrolimus may increase olaparib concentrations, although to a modest extent. No a priori dosage adjustment for olaparib is recommended. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+362,Olaparib,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+363,Olaparib,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Olaparib does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+364,Olaparib,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Olaparib does not interact with this elimination pathway.,(See Summary)
+365,Olaparib,Telithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. Olaparib does not interfere with this metabolic pathway. However, telithromycin is also an inhibitor of CYP3A4 (strong) and P-gp. Concentrations of olaparib may increase due to inhibition of CYP3A4 and P-gp. If coadministration is unavoidable, reduce the dose of olaparib by ~66% (for lynparza capsules: reduce olaparib dose from 400 mg twice daily to 150 mg twice daily; for lynparza tablets: reduce olaparib dose from 300 mg twice daily to 100 mg twice daily. Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+366,Olaparib,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+367,Olaparib,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+368,Olaparib,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYPs 2C8 and 2C19. Olaparib does not inhibit or induce these CYPs.",(See Summary)
+369,Olaparib,Testosterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+370,Olaparib,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Olaparib does not interact with this elimination pathway.,(See Summary)
+371,Olaparib,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolized by CYP1A2. Olaparib does not inhibit or induce CYP1A2.,(See Summary)
+372,Olaparib,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Although, thiamine is a substrate of OCT1 and concentrations may increase because olaparib showed in vitro inhibition of OCT1, this is unlikely to be clinically relevant as thiamine has a broad therapeutic index.",(See Summary)
+373,Olaparib,Thioridazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Olaparib does not inhibit or induce CYP2D6 or CYP3A4.,(See Summary)
+374,Olaparib,Tiapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as tiapride is excreted largely unchanged in urine. ,(See Summary)
+375,Olaparib,Ticagrelor,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Ticagrelor is a substrate of CYP3A4 and P-gp. Olaparib is an inhibitor of P-gp and may increase concentrations of ticagrelor. It is unknown if this will lead to a clinically relevant effect. No a priori dose adjustment is necessary, but it is recommended to monitor for ticagrelor toxicity. Furthermore, ticagrelor is a weak inhibitor of CYP3A4 and may increase concentrations of olaparib. However, this is unlikely to be clinically relevant but monitoring for olaparib toxicity may be required.",(See Summary)
+376,Olaparib,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. Olaparib does not interact with this metabolic pathway.,(See Summary)
+377,Olaparib,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Olaparib does not interact with this elimination pathway.,(See Summary)
+378,Olaparib,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolized by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Olaparib is unlikely to affect this metabolic pathway. ,(See Summary)
+379,Olaparib,Tolterodine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 and CYP3A4. Olaparib does not inhibit or induce CYP3A4 or CYP2D6.,(See Summary)
+380,Olaparib,Torasemide,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Torasemide is metabolized mainly by CYP2C9 and transported via OATP1B1. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Olaparib inhibits renal transporters OAT3 and OATP1B1 in vitro which could decrease furosemide secretion and therapeutic effect.,(See Summary)
+381,Olaparib,Tramadol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. Olaparib has shown CYP2B6 induction in vitro and may increase concentrations of tramadol. However, this is unlikely to be clinically relevant.",(See Summary)
+382,Olaparib,Trandolapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+383,Olaparib,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as tranexamic acid is mainly cleared by glomerular filtration. ,(See Summary)
+384,Olaparib,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Olaparib does not interact with this metabolic pathway. ,(See Summary)
+385,Olaparib,Trazodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+386,Olaparib,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+387,Olaparib,Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. Olaparib does not inhibit or induce CYP3A4.,(See Summary)
+388,Olaparib,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. In vitro data suggest that trimethoprim inhibits the renal transporters OCT2 and MATE1. No pharmacokinetic interaction is expected with olaparib.,(See Summary)
+389,Olaparib,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolized mainly by CYP2D6. Olaparib does not inhibit or induce CYP2D6. ,(See Summary)
+390,Olaparib,Tropisetron,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Tropisetron is metabolized mainly by CYP2D6. Olaparib does not interact with this metabolic pathway. However, tropisetron is a substrate of P-gp and OCT1 and concentrations may potentially increase due to inhibition of P-gp and OCT1 by olaparib. The clinical relevance of this interaction is unknown. ",(See Summary)
+391,Olaparib,Ulipristal,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if olaparib is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Olaparib does not inhibit or induce CYPs 3A4, 1A2 or 2D6.",(See Summary)
+392,Olaparib,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolised by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolised by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Olaparib does not interact with this pathway.,(See Summary)
+393,Olaparib,Valsartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Valsartan is eliminated unchanged mostly through biliary excretion. Olaparib does not interact with this pathway. However, valsartan is a substrate of OATP1B1 and concentrations may increase because olaparib showed in vitro inhibition of OATP1B1. The clinical relevance of this interaction is unknown. No a priori dose adjustment is recommended.",(See Summary)
+394,Olaparib,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vancomycin is excreted unchanged via glomerular filtration. ,(See Summary)
+395,Olaparib,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Olaparib does not inhibit or induce these CYPs.",(See Summary)
+396,Olaparib,Verapamil,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Olaparib does not inhibit or induce these CYPs. However, verapamil is a moderate inhibitor of CYP3A4 and may increase olaparib concentrations. If coadministration is unavoidable, reduce the dose of olaparib by 50% for both the tablet and capsule formulation. Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+397,Olaparib,Vildagliptin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate for P-gp. Vildagliptin concentrations may potentially increase due to inhibition of P-gp by olaparib. The clinical relevance of this interaction is unknown. No a priori dose adjustment is necessary. However, it is recommended to monitor for toxicity of vildagliptin. ",(See Summary)
+398,Olaparib,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+399,Olaparib,Voriconazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Voriconazole is metabolised by CYP2C19 (major) and to a lesser extent by CYP2C9 and CYP3A4. Olaparib does not inhibit or induce CYPs 2C19, 2C9 or 3A4. However, voriconazole is a strong inhibitor of CYP3A4 and a weak inhibitor of CYPs 2C9, 2C19 and 2B6. Concentrations of olaparib may increase due to CYP3A4 inhibition. Coadministration of olaparib and the strong CYP3A4 inhibitor, itraconazole, increased olaparib AUC and Cmax by 2.7-fold and 1.4-fold, respectively. A similar effect may occur with voriconazole. Therefore, coadministration should be approached with caution. If coadministration is unavoidable, reduce the dose of olaparib by ~66% (for lynparza capsules: reduce olaparib dose from 400 mg twice daily to 150 mg twice daily; for lynparza tablets: reduce olaparib dose from 300 mg twice daily to 100 mg twice daily). Monitor closely for olaparib toxicity. Monitor olaparib concentrations, if available.",(See Summary)
+400,Olaparib,Warfarin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and CYP3A4. S-warfarin (more potent) is metabolised by CYP2C9. Olaparib does not inhibit or induce CYPs 1A2, 3A4 or 2C9.",(See Summary)
+401,Olaparib,Xipamide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Olaparib inhibits renal transporter OAT3 in vitro which could decrease xipamide secretion and therapeutic effect.",(See Summary)
+402,Olaparib,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent by CYP3A4. Olaparib does not interfere with this elimination pathway.,(See Summary)
+403,Olaparib,Ziprasidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). Olaparib does not interfere with this metabolic pathway.",(See Summary)
+404,Olaparib,Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zoledronic acid is not metabolised and is eliminated renally as unchanged drug.,(See Summary)
+405,Olaparib,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. Olaparib does not inhibit or induce these CYPs.",(See Summary)
+406,Olaparib,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. Olaparib does not inhibit or induce CYP3A4 or CYP2C8.,(See Summary)
+407,Olaparib,Zotepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Olaparib does not inhibit or induce CYPs 3A4, 1A2 or 2D6.",(See Summary)
+408,Olaparib,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Olaparib does not interfere with this metabolic pathway.",(See Summary)

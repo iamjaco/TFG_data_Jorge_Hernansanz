@@ -1,0 +1,45 @@
+---
+title: "Untitled"
+author: "Jorge H."
+date: "24/4/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+matt <- matrix(0, nrow = 14, ncol = 14)
+rownames(matt) <- c("A","B","C","D","G","H","J","L","M","N","P","R","S","V")
+colnames(matt) <- c("A","B","C","D","G","H","J","L","M","N","P","R","S","V")
+
+for (i in 1:nrow(X3_DDI_index)){
+  first_letter <- substr(X3_DDI_index[i,1],1,1)
+  second_letter <- substr(X3_DDI_index[i,2],1,1)
+  matt[first_letter,second_letter] <- matt[first_letter,second_letter] + 1
+  matt[second_letter,first_letter] <- matt[second_letter,first_letter] + 1
+}
+
+X3_DDI_index$first_letter <- substr(X3_DDI_index$ATC1,1,1)
+X3_DDI_index$second_letter <- substr(X3_DDI_index$ATC2,1,1)
+
+matt_exp <- matrix(0, nrow = 14, ncol = 14)
+rownames(matt_exp) <- c("A","B","C","D","G","H","J","L","M","N","P","R","S","V")
+colnames(matt_exp) <- c("A","B","C","D","G","H","J","L","M","N","P","R","S","V")
+
+Size <- c(table(c(X2_Index_all_drugs_ATC$ATC_Level_1)))
+Size[["A"]]
+Freq <- c(rowSums(matt))
+Freq[["A"]]
+
+for (a in rownames(matt_exp)){
+  for (b in colnames(matt_exp)){
+    matt_exp[a,b] <- Freq[[a]] * 1/14 * (Size[[a]]/968.14) * (Size[[b]]/968.14)
+    matt_exp[a,b] <- round(matt_exp[a,b],0)  
+  }  
+}
+matt_exp <- lapply(matt_exp, as.integer)
+round(3.5655, 0)
+```
+

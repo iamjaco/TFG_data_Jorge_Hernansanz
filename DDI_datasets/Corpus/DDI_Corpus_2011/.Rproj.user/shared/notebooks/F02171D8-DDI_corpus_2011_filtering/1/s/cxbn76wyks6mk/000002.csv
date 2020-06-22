@@ -1,0 +1,4 @@
+"0","DDI_mapped <- DDI_mapped[,c(""atc_code.x"",""atc_code.y"")]"
+"0","#DDI_mapped <- unique(DDI_mapped)"
+"0",""
+"0","write.table(DDI_mapped,""C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/ATC_treatment/Filtered_datasets/Corpus_2011_to_ATC_codes.txt"",sep = ""\t"",row.names = FALSE, col.names = FALSE)"

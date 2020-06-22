@@ -1,0 +1,55 @@
+---
+title: "Extracting_files"
+author: "Jorge H."
+date: "17/4/2020"
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, '1_Drugbank_xml_parsing.html')) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+```{r}
+library(dbparser)
+```
+
+
+```{r}
+# First decompress "full_database" at Drugbank/data
+read_drugbank_xml_db("C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/DrugBank/Data/full database.xml")
+
+# Drugs and interactions
+Drugbank_drugs <- drug(save_csv = TRUE, csv_path = "Data/", override_csv = TRUE)
+Drugbank_interactions <- drug_interactions(save_csv = TRUE, csv_path = "Data/", override_csv = TRUE)
+
+# Drugbank code to ATC code
+Drugbank_to_ATC <- drug_atc_codes(save_csv = TRUE, csv_path = "Data/", override_csv = FALSE)
+
+
+# Group and chemical class the drugs belong to.
+drug_group <- drug_groups(save_csv = TRUE, csv_path = "Data/", override_csv = TRUE)
+drug_class <- drug_categories(save_csv = TRUE, csv_path = "Data/", override_csv = TRUE)
+
+
+# Still need to check the difference between these two.
+Drugbank_pathways_with_drugs <- drug_pathway_drugs()
+Drugbank_pathways_with_enzymes <- drug_pathway_enzyme()
+
+# Mechanism of action; targets
+Drugbank_targets <- targets(save_csv = TRUE, csv_path = "Data/Mechanism_of_action/", override_csv = TRUE)
+Drugbank_targets_action <- targets_actions(save_csv = TRUE, csv_path = "Data/Mechanism_of_action/", override_csv = TRUE)
+
+# Mechanism of action; transporters
+Drugbank_transporters <- transporters(save_csv = TRUE, csv_path = "Data/Mechanism_of_action/", override_csv = TRUE)
+Drugbank_transporters_action <- transporters_actions(save_csv = TRUE, csv_path = "Data/Mechanism_of_action/", override_csv = TRUE)
+
+# Mechanism of action; carriers
+Drugbank_carriers <- carriers(save_csv = TRUE, csv_path = "Data/Mechanism_of_action/", override_csv = TRUE)
+Drugbank_carriers_actions <- carriers_actions(save_csv = TRUE, csv_path = "Data/Mechanism_of_action/", override_csv = TRUE)
+```
+

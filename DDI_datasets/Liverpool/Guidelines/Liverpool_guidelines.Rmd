@@ -1,0 +1,29 @@
+---
+title: "Liverpool_interactions"
+author: "Jorge H."
+date: "16/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document reflects the contents of Liverpool database:
+
+### HIV
++ **Drugs** ->  39*762
++ **DDIs** ->   29718
+
+### HEP
++ **Drugs** ->  22*797
++ **DDIs** ->   17534
+
+### CANCER
++ **Drugs** ->  70*409
++ **DDIs** ->   28680
+
+### In common
++ **Intesity of interaction**
++ **Evidence of interaction**
++ **Description**

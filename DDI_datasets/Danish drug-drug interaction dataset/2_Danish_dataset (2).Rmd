@@ -1,0 +1,122 @@
+---
+title: "DDIs with ATC"
+author: "Jorge H."
+date: "5/6/2020"
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'html_files';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, '2_Danish_dataset (2).html')) })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+```
+
+
+Importing files
+```{r}
+Niveau3 <- read_csv("Data/Niveau3.txt")
+
+ATC_index<- read_csv("Indexes/ATC_index.txt")
+
+Management_index <- read_csv("Indexes/Management_index.txt")
+
+Clinical_significance_index <- read_csv("Indexes/Clinical_significance_index.txt")
+
+Evidence_level_index <- read_csv("Indexes/Evidence_level_index.txt")
+
+clinicaldrugpairs_counts <-read_delim(
+  "C:/Users/Jorge_TEMP/Desktop/Thesis_Bibliography/DDI_datasets/DDI_clinical_data/clinicaldrugpairs_counts.tsv", 
+  "\t", 
+  escape_double = FALSE, 
+  trim_ws = TRUE)
+```
+
+
+
+```{r}
+Danish_dataset <- Niveau3[,c(8,9,3:5)]
+
+#Merging ATC
+Danish_dataset <- merge(Danish_dataset,
+                        ATC_index,
+                        by.x = "ID_Stof1",
+                        by.y = "ID_Stof")
+
+Danish_dataset <- merge(Danish_dataset,
+                        ATC_index,
+                        by.x = "ID_Stof2",
+                        by.y = "ID_Stof")
+
+setnames(Danish_dataset,
+         old = c("ATC_code.x","ATC_code.y"),
+         new = c("drug", "codrug"))
+
+
+# Merging features real name or number
+Danish_dataset <- merge(Danish_dataset,
+                        Evidence_level_index[,c(1,3)],
+                        by = "ID_Dokumentationsgrad")
+
+Danish_dataset <- merge(Danish_dataset,
+                        Clinical_significance_index[,c(1,3)],
+                        by = "ID_KliniskBetydning")
+
+Danish_dataset <- merge(Danish_dataset,
+                        Management_index[,c(1,3)],
+                        by = "ID_Rekommandation")
+
+# Selecting the columns that we want.
+Danish_dataset <- Danish_dataset[,c(6:10)]
+```
+
+
+Tidying the dataset
+```{r}
+# Adding columns of first level of ATC
+Danish_dataset$level_1_atc_drug <- substr(Danish_dataset$drug,1,1)
+Danish_dataset$level_1_atc_codrug <- substr(Danish_dataset$codrug,1,1)
+
+
+# Unifying ATC columns so to have them as vectors also. (For the vector compendia)
+Danish_dataset$ATC_vector <- paste(apply(Danish_dataset[,c("drug","codrug")],
+                                       1,
+                                       min),
+                                 apply(Danish_dataset[,c("drug","codrug")],
+                                       1,
+                                       max),
+                                 sep = "_")
+```
+
+
+Subsetting to clinical data set
+```{r}
+#Duplicating values of danish compendia
+Danish_dataset_cli <- Danish_dataset[,c(2,1,3:8)]
+
+setnames(Danish_dataset_cli,
+         old = c("codrug","drug"),
+         new = c("drug", "codrug"))
+Danish_dataset_cli <- rbind(Danish_dataset, Danish_dataset_cli)
+
+Danish_dataset_cli <- unique(Danish_dataset_cli)
+
+# Subsetting to clinical data
+Danish_dataset_cli <- merge(Danish_dataset_cli,
+                          clinicaldrugpairs_counts[,c(1,2)],
+                            by = c("drug","codrug"))
+```
+
+
+
+Exporting files 
+```{r}
+write_csv(Danish_dataset, "Data/Danish_DDI.txt")
+write_csv(Danish_dataset_cli, "Data/Danish_cli_DDI.txt")
+```
+

@@ -1,0 +1,167 @@
+---
+title: "UpsetR"
+author: "Jorge H."
+date: "24/3/2020"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Drugbank
+```{r}
+Drugbank <- readLines("Vectors/ATC_Drugbank.txt")
+Drugbank <- unique(Drugbank)
+```
+
+# KEGG 
+```{r}
+KEGG <- readLines("Vectors/ATC_KEGG.txt")
+KEGG <- unique(KEGG)
+```
+
+# TWOSIDES
+```{r}
+Twosides <- readLines("Vectors/Vector_of_Twosides_DDI.txt")
+Twosides <- unique(Twosides)
+```
+
+# ONC_HIGH
+```{r}
+ONC_HIGH <- readLines("Vectors/Vector_of_ONC_HIGH_DDI.txt")
+ONC_HIGH <- unique(ONC_HIGH)
+```
+
+# ONC_NON_INTERRUMPTIVE
+```{r}
+ONC_NI <- readLines("Vectors/Vector_of_ONC_NI_DDI.txt")
+ONC_NI <- unique(ONC_NI)
+```
+
+# CREDIBLEMEDS
+```{r}
+Crediblemeds <- readLines("Vectors/Vector_of_CredibleMeds_DDI.txt")
+Crediblemeds <- unique(Crediblemeds)
+```
+
+
+# DDI CORPUS 2011
+```{r}
+DDI_Corpus_2011 <- readLines("Vectors/Vector_of_Corpus_2011_DDI.txt")
+DDI_Corpus_2011 <- unique(DDI_Corpus_2011)
+
+```
+
+# DDI CORPUS 2013
+```{r}
+DDI_Corpus_2013 <- readLines("Vectors/Vector_of_Corpus_2013_DDI.txt")
+DDI_Corpus_2013 <- unique(DDI_Corpus_2013)
+```
+
+# PK corpus 
+```{r}
+PK_corpus <- readLines("Vectors/Vector_of_PK_corpus_DDI.txt")
+PK_corpus <- unique(PK_corpus)
+```
+
+# NLM corpus
+```{r}
+NLM_CV_corpus <- readLines("Vectors/Vector_of_NLM_corpus_DDI.txt")
+NLM_CV_corpus <- unique(NLM_CV_corpus)
+```
+
+# NDF-RT 
+```{r}
+NDFRT <- readLines("Vectors/Vector_of_NDFRT_DDI.txt")
+NDFRT <- unique(NDFRT)
+```
+
+# HIV INTERACTIONS
+```{r}
+HIV <- readLines("Vectors/Vector_of_HIV_DDI.txt")
+HIV <- unique(HIV)
+```
+
+# HEP INTERACTIONS
+```{r}
+HEP <- readLines("Vectors/Vector_of_HEP_DDI.txt")
+HEP <- unique(HEP)
+```
+
+# CANCER INTERACTIONS
+```{r}
+CANCER <- readLines("Vectors/Vector_of_CANCER_DDI.txt")
+CANCER <- unique(CANCER)
+```
+
+# Danish DB
+```{r}
+Interaktion_databasen <- readLines("Vectors/Vector_of_DanishDB_DDI.txt")
+Interaktion_databasen <- unique(Interaktion_databasen)
+```
+
+
+#UpsetR
+```{r}
+library(UpSetR)
+
+
+DDIS <- c(Drugbank,KEGG,Twosides,Crediblemeds,NDFRT,HIV,HEP,CANCER,DDI_Corpus_2011,DDI_Corpus_2013,PK_corpus,NLM_CV_corpus,ONC_HIGH,ONC_NI,Interaktion_databasen)
+
+DDIS <- unique(DDIS)
+
+upsetR <- list(Drugbank = Drugbank, KEGG = KEGG, Twosides = Twosides, ONC_HIGH =ONC_HIGH, ONC_NI=ONC_NI, Crediblemeds = Crediblemeds, DDI_Corpus_2011 = DDI_Corpus_2011, DDI_Corpus_2013 = DDI_Corpus_2013, PK_corpus = PK_corpus, NLM_CV_corpus = NLM_CV_corpus, Interaktion_databasen = Interaktion_databasen, NDFRT = NDFRT, HIV = HIV, HEP = HEP, CANCER = CANCER)
+
+```
+
+```{r}
+# Both take a long time to be created (more than 5 minutes)
+
+total_plot <- upset(fromList(upsetR), nsets = 15, nintersects = NA,
+                    scale.intersections = "log10",
+                    scale.sets = "log10",
+                    mainbar.y.label="Log10(Intersection of DDI)",
+                    sets.x.label="log10(Number of DDIs)",
+                    show.numbers = FALSE,
+                    line.size = 0.1,
+                    point.size = 0.1)
+
+
+
+# This one subsets the highest intersection size bars. I think that 20-30 bars are enough to show a decent picture of the quantities of DDIs that are most overlapped.
+Most_overlapped_plot <- upset(fromList(upsetR),
+                              nsets = 15,
+                              nintersects = 50,
+                              scale.sets ="log10",
+                              mainbar.y.label="Intersection of DDIs",
+                              sets.x.label="log10(Number of DDIs)",
+                              order.by = "freq",
+                              decreasing = TRUE)
+
+Less_overlapped_plot <- upset(fromList(upsetR),
+                              nsets = 15,
+                              nintersects = 50,
+                              scale.sets ="log10",
+                              scale.intersections = "log10",
+                              mainbar.y.label="log10(Intersection of DDIs)",
+                              sets.x.label="log10(Number of DDIs)",
+                              order.by = "freq")
+
+total_plot
+Most_overlapped_plot
+Less_overlapped_plot
+
+pdf(file = "total_plot.pdf", width = 12, height = 8)
+total_plot
+dev.off()
+
+pdf(file = "Most_overlapped_plot.pdf", width = 12, height = 8)
+Most_overlapped_plot
+dev.off()
+```
+
+
+

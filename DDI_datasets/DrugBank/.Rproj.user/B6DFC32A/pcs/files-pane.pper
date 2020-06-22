@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/Thesis_Bibliography/DDI_datasets/DrugBank",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

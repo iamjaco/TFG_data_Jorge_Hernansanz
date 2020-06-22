@@ -1,0 +1,28 @@
+ONC HIGH PRIORITY
+
+"We identified a minimum starter set of DDIs which should be classified in all medication KBs as
+ high severity and implemented for decision support in all EHRs."
+Clinical significance
+
+"This set of DDIs forms a clinically important set of contraindicated drug pairs that
+providers should always be alerted for."
+Management
+
+"Future work must also focus on the identification of DDIs that exist in KBs but are not 
+sufficiently corroborated by evidence, so that they can safely be omitted 
+from generating alerts and hence have a more palpable impact on alert fatigue."
+
+*****Lack of primary literature supporting the evidence for DDIs*****
+
+"We observed that most of the available literature was in the form of documented case reports or
+ clinical studies with drugs belonging to other closely related drug families, or package inserts."
+
+"Thus, more often than necessary, KB providers have to rely on package inserts to make
+determinations on DDIs, which may result in overestimating the severity of a large majority
+of drug interactions."
+
+Evidence level
+
+
+"The DDIs that are in the final list identified by the panel represent a very small proportion, 
+probably <0.2%, of DDI alerts that are generated in clinical practice.

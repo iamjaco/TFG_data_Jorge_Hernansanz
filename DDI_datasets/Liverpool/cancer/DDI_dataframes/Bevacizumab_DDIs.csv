@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Bevacizumab,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolized by intestinal enzymes and by the microbial flora. ",(See Summary)
+1,Bevacizumab,Acenocoumarol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Acenocoumarol is mainly metabolized by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+2,Bevacizumab,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolized by glucuronidation (by several UGTs, major UGT1A6). Bevacizumab does not inhibit or induce CYPs or UGTs.",(See Summary)
+3,Bevacizumab,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+4,Bevacizumab,Alendronic acid,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Alendronate is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, alendronate should be separated from food or other medicinal products and patients must wait at least 30 minutes after taking alendronate before taking any other oral medicinal product. Osteonecrosis of the jaw has been reported in an increasing number of renal cell cancer patients since the use of combined therapies consisting of nitrogen-containing bisphosphonates and antiangiogenic targeted agents. This suggests that angiogenesis suppression might increase the risk of osteonecrosis of the jaw when coadministered with bisphosphonates.",(See Summary)
+5,Bevacizumab,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+6,Bevacizumab,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfuzosin is metabolized by CYP3A. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+7,Bevacizumab,Aliskiren,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Aliskiren is minimally metabolized and is mainly excreted unchanged in faeces. Aliskiren is also a substrate of P-gp. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+8,Bevacizumab,Allopurinol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration of bevacizumab and allopurinol showed increased adverse reactions. Allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Coadministration is not recommended. If coadministration is unavoidable, monitoring for tolerability is recommended.",(See Summary)
+9,Bevacizumab,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolized by CYPs 2C9, 3A4 and 1A2. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+10,Bevacizumab,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+11,Bevacizumab,Aluminium hydroxide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aluminium hydroxide is not metabolised. Bevacizumab is unlikely to interfere with this metabolic pathway.,(See Summary)
+12,Bevacizumab,Ambrisentan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ambrisentan is metabolised by glucuronidation via UGTs 1A3, 1A9 and 2B7 and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Bevacizumab does not inhibit or induce UGTs, CYPs or P-gp. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+13,Bevacizumab,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amikacin is eliminated by glomerular filtration therefore no pharmacokinetic interaction is expected with bevacizumab.,(See Summary)
+14,Bevacizumab,Amiloride,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Bevacizumab is unlikely to significantly inhibit amiloride renal elimination. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+15,Bevacizumab,Amiodarone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiodarone is metabolised by CYP3A4 and CYP2C8. The major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+16,Bevacizumab,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolized and is primarily eliminated renally (possibly via OCT). Bevacizumab is unlikely to significantly impair amisulpride elimination. ,(See Summary)
+17,Bevacizumab,Amitriptyline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+18,Bevacizumab,Amlodipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+19,Bevacizumab,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Bevacizumab is unlikely to interfere with amoxicillin renal elimination.,(See Summary)
+20,Bevacizumab,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amphotericin B is not appreciably metabolized but is eliminated to a large extent in the bile. Bevacizumab does not interfere with this elimination pathway. However, the European SPC for amphotericin B states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Monitoring may be required.",(See Summary)
+21,Bevacizumab,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20 to 40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60 to 80% is excreted in the urine within 6 hours. Bevacizumab is unlikely to significantly inhibit ampicillin renal elimination.,(See Summary)
+22,Bevacizumab,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. Bevacizumab is unlikely to interfere with this metabolic pathway.,(See Summary)
+23,Bevacizumab,Antacids,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Antacids are not metabolised by CYPs. Bevacizumab is unlikely to interfere with this metabolic pathway.,(See Summary)
+24,Bevacizumab,Apixaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Apixaban is a substrate of P-gp and BCRP, and is metabolized by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+25,Bevacizumab,Aprepitant,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. During treatment, aprepitant is a moderate inhibitor of CYP3A4, but after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Bevacizumab does not interact with this pathway.",(See Summary)
+26,Bevacizumab,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolized by CYP3A4 and CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+27,Bevacizumab,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolized by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 (minor), 2D6 (minor)). Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+28,Bevacizumab,Astemizole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Astemizole is metabolized by CYPs 2D6, 2J2 and 3A4. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+29,Bevacizumab,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. Bevacizumab does not interfere with this elimination pathway.",(See Summary)
+30,Bevacizumab,Atorvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolized by CYP3A4 and is a substrate of P-gp and OATP1B1. Bevacizumab does not inhibit or induce CYPs, P-gp or OATP1B1. ",(See Summary)
+31,Bevacizumab,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Azathioprine is converted to 6-mercaptopurine which is metabolized analogously to natural purines. Bevacizumab does not interfere with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+32,Bevacizumab,Azithromycin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Azithromycin is mainly eliminated via biliary excretion; animal data suggest this may occur via P-gp and MRP2. Azithromycin is also an inhibitor of P-gp, but the clinical relevance of P-gp inhibition is unknown. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+33,Bevacizumab,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Bevacizumab does not interact with beclomethasone metabolism. ",(See Summary)
+34,Bevacizumab,Bedaquiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bedaquiline is metabolised by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+35,Bevacizumab,Bendroflumethiazide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. In vitro data indicate that bendroflumethiazide inhibits these renal transporters but a clinically significant interaction is unlikely in the range of observed clinical concentrations. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+36,Bevacizumab,Bepridil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bepridil is metabolized by CYP2D6 (major) and 3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+37,Bevacizumab,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+38,Bevacizumab,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Half of a bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Bevacizumab does not interact with this pathway.,(See Summary)
+39,Bevacizumab,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. Bevacizumab is unlikely to interfere with this metabolic pathway.,(See Summary)
+40,Bevacizumab,Bisoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisoprolol is partly metabolized by CYP3A4 and CYP2D6 and partly eliminated unchanged in the urine. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+41,Bevacizumab,Bosentan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Bosentan is a substrate and weak inducer of CYP3A4 and CYP2C9. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+42,Bevacizumab,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Drug-drug interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may play a role. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+43,Bevacizumab,Budesonide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+44,Bevacizumab,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Bevacizumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+45,Bevacizumab,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolized by CYP2B6 and is a strong inhibitor of CYP2D6. Bevacizumab does not interact with this pathway.,(See Summary)
+46,Bevacizumab,Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+47,Bevacizumab,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. Bevacizumab does not interact with this elimination pathway.",(See Summary)
+48,Bevacizumab,Candesartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+49,Bevacizumab,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Bevacizumab does not interfere with this elimination pathway.,(See Summary)
+50,Bevacizumab,Captopril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+51,Bevacizumab,Carbamazepine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carbamazepine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2C8. Carbamazepine is also an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong), 1A2 (weak), 2B6 and UGT1A1. Bevacizumab does not interact with pathway.",(See Summary)
+52,Bevacizumab,Carvedilol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additionally metabolism via CYP2D6 and to a lesser extent CYPs 2C9 and 1A2. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+53,Bevacizumab,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non CYP-mediated pathway. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+54,Bevacizumab,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly eliminated unchanged renally by glomerular filtration and tubular secretion via OAT1 and MATE1. Bevacizumab does not interfere with cefalexin renal elimination.,(See Summary)
+55,Bevacizumab,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Bevacizumab does not interfere with cefazolin renal elimination.",(See Summary)
+56,Bevacizumab,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as cefixime is renally excreted predominantly by glomerular filtration. Bevacizumab does not interfere with cefixime renal elimination.,(See Summary)
+57,Bevacizumab,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolized by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Bevacizumab does not interfere with cefotaxime renal elimination.",(See Summary)
+58,Bevacizumab,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as ceftazidime is excreted predominantly by renal glomerular filtration. Bevacizumab does not interfere with ceftazidime renal elimination.,(See Summary)
+59,Bevacizumab,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Bevacizumab does not interfere with ceftriaxone renal elimination.",(See Summary)
+60,Bevacizumab,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolized by CYP2C9. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+61,Bevacizumab,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion. In vitro data indicate that cetirizine inhibits OCT2. Bevacizumab is unlikely to interact with cetirizine renal elimination.,(See Summary)
+62,Bevacizumab,Chloramphenicol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chloramphenicol is predominantly glucuronidated. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+63,Bevacizumab,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce CYPs. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+64,Bevacizumab,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolized in the liver via CYP2D6. Bevacizumab is unlikely to interact with chlorphenamine. ,(See Summary)
+65,Bevacizumab,Chlorpromazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorpromazine is metabolized mainly by CYP2D6, but also by CYP1A2. Bevacizumab does not interact with this metabolic pathway. ",(See Summary)
+66,Bevacizumab,Chlortalidone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bevacizumab does not interact with this metabolic pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+67,Bevacizumab,Ciclosporin (Cyclosporine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ciclosporin is substrate for CYP3A4 and P-gp and inhibits CYP3A4 and OATP1B1. Bevacizumab does not interact with this pathway.,(See Summary)
+68,Bevacizumab,Cilazapril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+69,Bevacizumab,Cimetidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cimetidine is metabolised by CYP450 enzymes. Cimetidine is also a weak inhibitor of several CYP-enzymes (CYPs 3A4, 1A2, 2D6 and 2C19, amongst others). Cimetidine may decrease the renal excretion of drugs due to competition for the active tubular secretion. In vitro data indicate that cimetidine also inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations. Bevacizumab does not interact with this pathway.",(See Summary)
+70,Bevacizumab,Ciprofloxacin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. Ciprofloxacin is also metabolised and partially cleared through the bile and intestine. Bevacizumab does not interfere with the elimination of ciprofloxacin. Furthermore, ciprofloxacin is a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Bevacizumab is not metabolised by CYPs.",(See Summary)
+71,Bevacizumab,Cisapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cisapride is metabolised by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+72,Bevacizumab,Citalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Citalopram is metabolized by CYP2C19 (38%), 2D6 (31%) and 3A4 (31%). Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+73,Bevacizumab,Clarithromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clarithromycin is metabolised by CYP3A4 and is also an inhibitor of CYP3A4 (strong) and P-gp. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+74,Bevacizumab,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolized (likely non CYP mediated pathway) and excreted in the urine by glomerular filtration. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+75,Bevacizumab,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolized in the liver via CYP2D6. Bevacizumab is unlikely to interact with clemastine.,(See Summary)
+76,Bevacizumab,Clindamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clindamycin is metabolized by CYP3A4 and in vitro data suggest that it is a CYP3A4 inhibitor. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+77,Bevacizumab,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,(See Summary)
+78,Bevacizumab,Clofazimine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces. In vitro data suggest that clofazimine is a CYP3A4 inhibitor. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+79,Bevacizumab,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolyzed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Bevacizumab does not interfere with clofibrate elimination.",(See Summary)
+80,Bevacizumab,Clomipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clomipramine is metabolized by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. Clomipramine and desmethylclomipramine are both metabolized by CYP2D6. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+81,Bevacizumab,Clonidine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in the form of the unchanged parent drug (40-60% of the dose). Clonidine is a weak inhibitor of OCT2 but is unlikely to interact with the elimination of bevacizumab. Bevacizumab does not interfere with the elimination of clonidine. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+82,Bevacizumab,Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. Clopidogrel is an inhibitor of CYP2C8 (strong), CYP2B6 (weak) and of CYP2C9 (in vitro) at high concentrations. The clinical relevance of CYP2C9 inhibition is unknown. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+83,Bevacizumab,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolized to oxazepam by CYP3A4. Oxazepam is mainly glucuronidated. Bevacizumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+84,Bevacizumab,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+85,Bevacizumab,Clozapine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Bevacizumab does not inhibit or induce CYPs. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+86,Bevacizumab,Codeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolised by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Morphine is also a substrate of P-gp. Furthermore, codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. Bevacizumab does not inhibit or induce CYPs, UGTs or P-gp.",(See Summary)
+87,Bevacizumab,Colchicine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Colchicine is metabolized by CYP3A4 and is a substrate of P-gp. Bevacizumab does not inhibit or induce CYPs or P-gp.,(See Summary)
+88,Bevacizumab,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on the metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly excreted renally via glomerular filtration. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+89,Bevacizumab,Dabigatran,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dabigatran is transported via P-gp and is renally excreted. Bevacizumab does not inhibit or induce P-gp.,(See Summary)
+90,Bevacizumab,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys. Bevacizumab does not interfere with the renal excretion of dalteparin. ",(See Summary)
+91,Bevacizumab,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP450 enzymes. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+92,Bevacizumab,Desipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desipramine is metabolized by CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+93,Bevacizumab,Desogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possible CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+94,Bevacizumab,Dexamethasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dexamethasone is a substrate of CYP3A4. Dexamethasone has also been described as an inducer of CYP3A4, but the induction of CYP3A4 has yet to be established. Bevacizumab does not interact with this pathway.",(See Summary)
+95,Bevacizumab,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+96,Bevacizumab,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolized by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Bevacizumab does not inhibit or induce CYPs, UGTs or P-gp.",(See Summary)
+97,Bevacizumab,Diazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolized to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Temazepam is mainly glucuronidated. Bevacizumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+98,Bevacizumab,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidized by CYP2C9. Bevacizumab does not inhibit or induce CYPs or UGTs.,(See Summary)
+99,Bevacizumab,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is renally eliminated via OATP4C1 and P-gp. Bevacizumab does not interact with this pathway.,(See Summary)
+100,Bevacizumab,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Bevacizumab does not inhibit or induce CYPs or UGTs. ",(See Summary)
+101,Bevacizumab,Diltiazem,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Diltiazem is metabolized by CYP3A4 and CYP2D6. Diltiazem is also a moderate inhibitor of CYP3A4. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+102,Bevacizumab,Diphenhydramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. Diphenhydramine is also a weak inhibitor of CYP2D6. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+103,Bevacizumab,Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Bevacizumab is does not to interfere with this pathway. ",(See Summary)
+104,Bevacizumab,Disopyramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Disopyramide is metabolized by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in the urine. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+105,Bevacizumab,Dolasetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolized by CYP2D6 (10-20%) and CYP3A4 (<1%). A pharmacokinetic interaction is unlikely. ",(See Summary)
+106,Bevacizumab,Domperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Domperidone is mainly metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+107,Bevacizumab,Dopamine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dopamine is metabolised in the liver, kidneys and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+108,Bevacizumab,Doxazosin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Doxazosin is metabolized mainly by CYP3A4. Bevacizumab does not inhibit or induce CYPs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+109,Bevacizumab,Doxepin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolized to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. In addition, doxepin and nordoxepin are metabolized by CYP2D6. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+110,Bevacizumab,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in the urine and faeces as unchanged active substance. Between 40%-60% of an administered dose can be accounted for in the urine. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+111,Bevacizumab,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolized by CYP2C9 and to a lesser extent by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+112,Bevacizumab,Drospirenone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolized to a minor extent via CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+113,Bevacizumab,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dulaglutide is degraded by endogenous endopeptidases. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+114,Bevacizumab,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolized by CYP2D6 and CYP1A2. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+115,Bevacizumab,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+116,Bevacizumab,Dydrogesterone,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolized to dihydrodydrogesterone (possibly via CYP3A4). Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+117,Bevacizumab,Edoxaban,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is partially metabolised by CYP3A4 (<10%) and is transported via P-gp. Bevacizumab does not inhibit or induce CYPs or P-gp.,(See Summary)
+118,Bevacizumab,Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1, UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+119,Bevacizumab,Enalapril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is renally eliminated (possibly via OATs). Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+120,Bevacizumab,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is excreted predominantly renally. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+121,Bevacizumab,Eprosartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Eprosartan is largely excreted in bile and urine as unchanged drug. Bevacizumab does not interfere with this elimination pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+122,Bevacizumab,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor component. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+123,Bevacizumab,Erythromycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Erythromycin is a substrate of CYP3A4 and P-gp. Erythromycin is also an inhibitor of CYP3A4 (moderate) and P-gp. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+124,Bevacizumab,Escitalopram,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Escitalopram is metabolized by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+125,Bevacizumab,Esomeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Esomeprazole is metabolised by CYP2C19 and CYP3A4. Esomeprazole is also an inhibitor of CYP2C19. Bevacizumab does not interact with this pathway.,(See Summary)
+126,Bevacizumab,Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolized to its major metabolite 4-hydroxyestazolam via CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+127,Bevacizumab,Estradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolized by CYP3A4, CYP1A2 and is glucuronidated. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+128,Bevacizumab,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolized by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and in the urine (50%). Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+129,Bevacizumab,Ethinylestradiol,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+130,Bevacizumab,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolized in the liver, animal studies suggest involvement of flavin-containing monooxygenases. Bevacizumab does not interfere with this pathway. ",(See Summary)
+131,Bevacizumab,Etonogestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+132,Bevacizumab,Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Everolimus is mainly metabolized by CYP3A4 and is a substrate of P-gp. Bevacizumab does not inhibit or induce CYP3A4 or P-gp. In patients with metastatic renal cell carcinoma, coadministration of bevacizumab and everolimus showed lack of efficacy and enhanced toxicity. Since everolimus as an immunosuppressive drug is dosed much lower than as anticancer therapy, no tolerability issues at reduced dose are expected. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+133,Bevacizumab,Exenatide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Exenatide is cleared mainly by glomerular filtration. Bevacizumab does not interact with this elimination pathway.,(See Summary)
+134,Bevacizumab,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+135,Bevacizumab,Famotidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Famotidine is excreted via OAT1/OAT3. Bevacizumab does not inhibit or induce OATs.,(See Summary)
+136,Bevacizumab,Felodipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Felodipine is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+137,Bevacizumab,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolyzed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Bevacizumab does not interact with this pathway.",(See Summary)
+138,Bevacizumab,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+139,Bevacizumab,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine is a substrate of P-gp. Bevacizumab does not interact with this pathway.,(See Summary)
+140,Bevacizumab,Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+141,Bevacizumab,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+142,Bevacizumab,Flecainide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flecainide is metabolized mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also eliminated unchanged renally. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+143,Bevacizumab,Flucloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Flucloxacillin has also been described as a CYP3A4 inducer, but the mechanism and clinical relevance of this is unknown. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+144,Bevacizumab,Fluconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluconazole is cleared primarily by renal excretion and is also an inhibitor of CYPs 3A4 (moderate), 2C9 (moderate) and 2C19 (strong). Bevacizumab does not interact with this pathway.",(See Summary)
+145,Bevacizumab,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase to an inactive metabolite. Bevacizumab does not interfere with this elimination pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Bevacizumab also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+146,Bevacizumab,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolized in the liver to inactive metabolites, possibly via CYP3A. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+147,Bevacizumab,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolized mainly via CYP3A4 and 2C19. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+148,Bevacizumab,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is metabolized by CYP2D6 and CYP2C9, and to a lesser extent by CYP2C19 and CYP3A4 to form norfluoxetine. Fluoxetine is also a strong inhibitor of CYP2D6 and CYP2C19. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+149,Bevacizumab,Fluphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+150,Bevacizumab,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+151,Bevacizumab,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+152,Bevacizumab,Fluvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvastatin is mainly metabolised by CYP2C9 (75%) and to a lesser extent by CYP3A4 (20%) and CYP2C8 (5%). Fluvastatin also potentially inhibits CYP2C9. However, the clinical relevance of CYP2C9 inhibition is unknown. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+153,Bevacizumab,Fluvoxamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvoxamine is metabolized mainly by CYP2D6 and to a lesser extent by CYP1A2. Fluvoxamine is also an inhibitor of CYPs 1A2 (strong), 2C19 (strong), 3A4 (moderate), 2C9 (weak-moderate) and 2D6 (weak). Bevacizumab does not interact with this pathway.",(See Summary)
+154,Bevacizumab,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is eliminated predominantly renally. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+155,Bevacizumab,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation being another pathway. As multiple CYP450 and UGT enzymes catalyze the transformation the potential for a pharmacokinetic interaction is Low. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+156,Bevacizumab,Fosaprepitant,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Bevacizumab does not interact with this metabolic pathway. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. During treatment, aprepitant is a moderate inhibitor of CYP3A4, but after treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Bevacizumab does not interact with this pathway.",(See Summary)
+157,Bevacizumab,Fosphenytoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Phenytoin is also a potent inducer of CYP3A4, UGT and P-gp. Bevacizumab does not interact with this pathway.",(See Summary)
+158,Bevacizumab,Furosemide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also renally eliminated unchanged (via OATs). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. In vitro data indicate that furosemide is also an inhibitor of OAT1/3. Bevacizumab does not interfere with this elimination pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+159,Bevacizumab,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as gabapentin is cleared mainly by glomerular filtration. Bevacizumab does not interfere with this pathway.,(See Summary)
+160,Bevacizumab,Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Gemfibrozil is also an inhibitor of CYP2C8 (strong), OATP1B1 and OAT3. In vitro data indicate gemfibrozil to be a strong inhibitor of CYP2C9 but in vivo data showed no clinically relevant effect on CYP2C9. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+161,Bevacizumab,Gentamicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gentamicin is eliminated unchanged predominantly via glomerular filtration. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+162,Bevacizumab,Gestodene,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolized by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+163,Bevacizumab,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolized by CYP3A4 and to a lesser extent by CYP2C9. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+164,Bevacizumab,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolized mainly by CYP2C9 and to a lesser extent by CYP2C19. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+165,Bevacizumab,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolized by CYP2C9. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+166,Bevacizumab,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolized by CYP2C9. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+167,Bevacizumab,Granisetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Granisetron is metabolized by CYP3A4 and is a substrate of P-gp. Bevacizumab does not interact with this pathway.,(See Summary)
+168,Bevacizumab,Grapefruit juice,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Grapefruit juice is known to inhibit CYP3A4 enzymes. Bevacizumab does not interact with this pathway.,(See Summary)
+169,Bevacizumab,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+170,Bevacizumab,Griseofulvin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Griseofulvin is also a liver microsomal enzyme inducer and may lower plasma levels, and therefore reduce the efficacy of concomitantly administered medicinal products that are metabolised by CYPs. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+171,Bevacizumab,Haloperidol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGT2B7>1A4, 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4, 2D6). Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+172,Bevacizumab,Heparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro, coadministration with a modified heparin was synergistic and showed increased heparin efficacy. Heparin is thought to be eliminated via the reticuloendothelial system. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+173,Bevacizumab,Hydralazine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. In vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6. Bevacizumab does not interfere with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+174,Bevacizumab,Hydrochlorothiazide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydrochlorothiazide is not metabolized but is cleared by the kidneys via OAT1. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bevacizumab does not interfere with this elimination pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+175,Bevacizumab,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+176,Bevacizumab,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+177,Bevacizumab,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",No clinically significant interactions are expected with the topical use of hydrocortisone. ,(See Summary)
+178,Bevacizumab,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Bevacizumab does not interact with this metabolic pathway. ",(See Summary)
+179,Bevacizumab,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is metabolized in the liver and cleared via the lung and kidney. Bevacizumab does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+180,Bevacizumab,Hydroxyzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydroxyzine is partly metabolized by alcohol dehydrogenase and partly by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+181,Bevacizumab,Ibandronic acid,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ibandronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, ibandronic acid should be taken after an overnight fast (at least 6 hours) and before the first food or drink of the day. Medicinal products and supplements should be similarly avoided prior to taking ibandronic acid. Fasting should be continued for at least 30 minutes after taking ibandronic acid. Osteonecrosis of the jaw has been reported in an increasing number of renal cell cancer patients since the use of combined therapies consisting of nitrogen-containing bisphosphonates and antiangiogenic targeted agents. This suggests that angiogenesis suppression might increase the risk of osteonecrosis of the jaw when coadministered with bisphosphonates.",(See Summary)
+182,Bevacizumab,Ibuprofen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ibuprofen is metabolized mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Bevacizumab does not inhibit or induce CYPs or UGTs. ,(See Summary)
+183,Bevacizumab,Iloperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Iloperidone is metabolized by CYP3A4 and CYP2D6. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+184,Bevacizumab,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent, active tubular secretion. Bevacizumab does not interact with this metabolic pathway. ",(See Summary)
+185,Bevacizumab,Imipramine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipramine is metabolized by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolized by CYP2D6. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+186,Bevacizumab,Indapamide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Indapamide is extensively metabolized by CYP450. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+187,Bevacizumab,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+188,Bevacizumab,Interferon alpha,"
+Potential Weak Interaction
+","
+Low
+","Based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, coadministration in a phase III study showed increased risk of grade 3-4 toxicity. Coadministration also may increase risk of neutropenia, fatigue, and thrombocytopenia. If coadministration is unavoidable, monitoring of tolerability is recommended. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered. ",(See Summary)
+189,Bevacizumab,Interleukin 2 (Aldesleukin),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Bevacizumab does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+190,Bevacizumab,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+191,Bevacizumab,Irbesartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Irbesartan is metabolized by glucuronidation and oxidation (mainly CYP2C9). Bevacizumab does not inhibit or induce CYPs or UGTs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+192,Bevacizumab,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+193,Bevacizumab,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Bevacizumab does not interact with this metabolic pathway. ",(See Summary)
+194,Bevacizumab,Isosorbide dinitrate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Bevacizumab does not inhibit or induce CYPs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+195,Bevacizumab,Itraconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Itraconazole is primarily metabolized by CYP3A4 and is an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Bevacizumab does not interact with this pathway.",(See Summary)
+196,Bevacizumab,Ivabradine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ivabradine is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+197,Bevacizumab,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Kanamycin is eliminated unchanged predominantly via glomerular filtration therefore no pharmacokinetic interaction is expected with bevacizumab. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+198,Bevacizumab,Ketoconazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ketoconazole is metabolized by CYP3A4 and is an inhibitor of CYP3A4 (strong) and P-gp. Bevacizumab does not interact with this pathway.,(See Summary)
+199,Bevacizumab,Labetalol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Bevacizumab does not inhibit or induce UGTs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+200,Bevacizumab,Lacidipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Lacidipine is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+201,Bevacizumab,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. ,(See Summary)
+202,Bevacizumab,Lansoprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+203,Bevacizumab,Lercanidipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Lercanidipine is mainly metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+204,Bevacizumab,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion. Bevacizumab does not interact with this elimination pathway.,(See Summary)
+205,Bevacizumab,Levofloxacin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant pharmacokinetic interaction is unlikely. Levofloxacin is eliminated renally mainly by glomerular filtration and active secretion (possibly OCT2). Bevacizumab does not interact with this metabolic pathway. ",(See Summary)
+206,Bevacizumab,Levomepromazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levomepromazine is metabolized by CYP2D6. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+207,Bevacizumab,Levonorgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolized by CYP3A4 and is glucuronidated to a minor extent. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+208,Bevacizumab,Levonorgestrel (Emergency Contraception),"
+Potential Interaction
+","
+Very Low
+","Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. However, the use of levonorgestrel as emergency contraception is a relative contraindication due to the risk of a pregnancy while having a hormone-sensitive tumour. Therefore, the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolized by CYP3A4 and is glucuronidated to a minor extent. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+209,Bevacizumab,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolized by deiodination (by enzymes of deiodinase family) and glucuronidation. Bevacizumab does not interact with levothyroxine metabolism. ,(See Summary)
+210,Bevacizumab,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+211,Bevacizumab,Linagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Linagliptin is also a substrate of P-gp and is a weak inhibitor of CYP3A4. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+212,Bevacizumab,Linezolid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance, a clinically significant interaction is unlikely. Linezolid undergoes non CYP mediated metabolism. ",(See Summary)
+213,Bevacizumab,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as liraglutide is degraded by endogenous endopeptidases. Bevacizumab does not interact with this pathway. ,(See Summary)
+214,Bevacizumab,Lisinopril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Lisinopril is renally eliminated unchanged via glomerular filtration. Bevacizumab does not interact with this elimination pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+215,Bevacizumab,Lithium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lithium is mainly eliminated unchanged through the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate therefore no pharmacokinetic interaction is expected. ,(See Summary)
+216,Bevacizumab,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalized infections can occur.",(See Summary)
+217,Bevacizumab,Loperamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolized by CYP3A4 and CYP2C8, and is a substrate of P-gp. Bevacizumab does not inhibit or induce CYPs or P-gp.",(See Summary)
+218,Bevacizumab,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolized mainly by CYP3A4 and to a lesser extent by CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+219,Bevacizumab,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on non-CYP-mediated elimination pathways for lorazepam, no effect on plasma concentrations is expected upon coadministration with bevacizumab. ",(See Summary)
+220,Bevacizumab,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+221,Bevacizumab,Losartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Bevacizumab does not inhibit or induce CYPs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+222,Bevacizumab,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+223,Bevacizumab,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolized mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+224,Bevacizumab,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in kidney, mainly by glomerular filtration. ",(See Summary)
+225,Bevacizumab,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolized by CYP2D6. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+226,Bevacizumab,Medroxyprogesterone (depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+227,Bevacizumab,Medroxyprogesterone (non-depot),"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+228,Bevacizumab,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolized by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Bevacizumab does not inhibit or induce CYPs or UGTs. ,(See Summary)
+229,Bevacizumab,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine. ,(See Summary)
+230,Bevacizumab,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney and in vitro data suggest that it is a substrate of the renal transporters OAT3>OAT1. Bevacizumab does not interfere with this elimination pathway. ,(See Summary)
+231,Bevacizumab,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolized to N-acetyl-mesalazine by N-acetyltransferase. Bevacizumab does not interfere with this pathway. ,(See Summary)
+232,Bevacizumab,Metamizole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Metamizole is metabolised in serum and excreted via urine (90%) and faeces (10%). Metamizole is also an inducer of CYP3A4. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+233,Bevacizumab,Metformin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but care should be taken. Metformin is mainly eliminated unchanged in the urine and is a substrate of OCT1/2/3, MATE1 and MATE2K. Bevacizumab does not interact with this pathway. A case report showed that tumours developed large necrotic areas after combined treatment with bevacizumab and metformin. The clinical relevance and causality of this observation is not known.",(See Summary)
+234,Bevacizumab,Methadone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methadone is demethylated by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+235,Bevacizumab,Methyldopa,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. Bevacizumab does not interact with this metabolic pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+236,Bevacizumab,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolized by CYPs to a clinically relevant extent and does not inhibit or induce CYPs. Bevacizumab does not interact with this pathway.,(See Summary)
+237,Bevacizumab,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+238,Bevacizumab,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolized by CYP450 system (mainly CYP2D6). Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+239,Bevacizumab,Metolazone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Metolazone is largely excreted unchanged in the urine. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+240,Bevacizumab,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolized by CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+241,Bevacizumab,Metronidazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metronidazole is eliminated via glomerular filtration. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Bevacizumab does not interfere with this elimination pathway.",(See Summary)
+242,Bevacizumab,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolized mainly by CYP2D6 and to a lesser extent CYP1A2. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+243,Bevacizumab,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolized by CYPs 2D6 and 1A2, and to a lesser extent by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+244,Bevacizumab,Miconazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Miconazole is extensively metabolized by the liver and is an inhibitor of CYP2C9 (moderate) and CYP3A4 (strong). Bevacizumab does not interact with this pathway.,(See Summary)
+245,Bevacizumab,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+246,Bevacizumab,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+247,Bevacizumab,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Bevacizumab is unlikely to interfere with this pathways.",(See Summary)
+248,Bevacizumab,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+249,Bevacizumab,Mometasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+250,Bevacizumab,Montelukast,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolized by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+251,Bevacizumab,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+252,Bevacizumab,Moxifloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Bevacizumab is unlikely to interfere with this pathway.,(See Summary)
+253,Bevacizumab,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and 2B7. Bevacizumab does not interact with this metabolic pathway. In addition, inhibition of OAT1/OAT3 renal transporters by mycophenolic acid (active metabolite) is unlikely to interfere with bevacizumab elimination. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+254,Bevacizumab,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Bevacizumab does not interact with this elimination pathway.,(See Summary)
+255,Bevacizumab,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolized in the liver by alpha-reductase. Bevacizumab does not interact with nandrolone metabolic pathway.,(See Summary)
+256,Bevacizumab,Naproxen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Bevacizumab does not inhibit or induce CYPs or UGTs. ,(See Summary)
+257,Bevacizumab,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolized by CYP2C9 (70%) and to a lesser extent CYP3A4 (30%). Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+258,Bevacizumab,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+259,Bevacizumab,Nefazodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nefazodone is metabolised mainly by CYP3A4 and is also a strong inhibitor of CYP3A4. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+260,Bevacizumab,Nicardipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. Nicardipine is also a weak inhibitor of CYP3A4, but bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+261,Bevacizumab,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolized by xanthine oxidase and aldehyde oxidase. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+262,Bevacizumab,Nifedipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicardipine is metabolised mainly by CYP3A4. Bevacizumab does not inhibit or induce CYPs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+263,Bevacizumab,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolized in the liver following multiple pathways including CYP2C9. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+264,Bevacizumab,Nisoldipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+265,Bevacizumab,Nitrendipine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolized mainly by CYP3A4. Bevacizumab does not inhibit or induce CYPs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+266,Bevacizumab,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolized in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+267,Bevacizumab,Norelgestromin,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolized to norgestrel (possibly by CYP3A4). Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+268,Bevacizumab,Norethisterone (Norethindrone),"
+Do Not Coadminister
+","
+Very Low
+","Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+269,Bevacizumab,Norgestimate,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolized via CYP450. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+270,Bevacizumab,Norgestrel,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolized by CYP3A4 and is glucuronidated to a minor extent. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+271,Bevacizumab,Nortriptyline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nortriptyline is metabolized mainly by CYP2D6. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+272,Bevacizumab,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant, therefore no drug interactions are expected.",(See Summary)
+273,Bevacizumab,Ofloxacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ofloxacin is eliminated unchanged renally by glomerular filtration and active tubular secretion via both cationic and anionic transport systems. Bevacizumab is unlikely to interfere with this pathway. ,(See Summary)
+274,Bevacizumab,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolised mainly by CYP1A2 (major) and CYP2D6, but also by glucuronidation (UGT1A4). Bevacizumab does not inhibit or induce CYPs or UGTs.",(See Summary)
+275,Bevacizumab,Olmesartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in the faeces and urine. Bevacizumab does not interfere with this elimination pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+276,Bevacizumab,Omeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Omeprazole is also an inducer of CYP1A2 and an inhibitor of CYP2C19. Bevacizumab does not interact with this pathway.,(See Summary)
+277,Bevacizumab,Ondansetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ondansetron is metabolized mainly by CYP1A2 and CYP3A4 and to a lesser extent by CYP2D6, and is a substrate of P-gp. Bevacizumab does not interact with this pathway.",(See Summary)
+278,Bevacizumab,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+279,Bevacizumab,Oxcarbazepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxcarbazepine is extensively metabolized to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5 and are inhibitors of CYP2C19. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+280,Bevacizumab,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolized via glucuronidation bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+281,Bevacizumab,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A and oxymorphone via CYP2D6. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+282,Bevacizumab,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily eliminated renally (possibly via OCT) with minimal metabolism occurring via CYP2D6 and 3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+283,Bevacizumab,Palonosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolized mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2, and is a substrate of P-gp. Bevacizumab does not interact with this pathway.",(See Summary)
+284,Bevacizumab,Pamidronic acid,"
+Potential Weak Interaction
+","
+Very Low
+","Pamidronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Bevacizumab does not interfere with this elimination pathway. However, osteonecrosis of the jaw has been reported in an increasing number of renal cell cancer patients since the use of combined therapies consisting of nitrogen-containing bisphosphonates and antiangiogenic targeted agents. This suggests that angiogenesis suppression might increase the risk of osteonecrosis of the jaw when coadministered with bisphosphonates.",(See Summary)
+285,Bevacizumab,Pantoprazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+286,Bevacizumab,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+287,Bevacizumab,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolized by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1 and 2B15), sulfation and to a lesser extent by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). Bevacizumab does not inhibit or induce CYPs or UGTs.",(See Summary)
+288,Bevacizumab,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolized by CYP2D6. Paroxetine is an inhibitor of CYP2D6 (strong) and CYP2C9. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+289,Bevacizumab,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, coadministration may increase risk of neutropenia, fatigue, and thrombocytopenia. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+290,Bevacizumab,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Bevacizumab does not interfere with elimination of penicillins.,(See Summary)
+291,Bevacizumab,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is mainly metabolised by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. Bevacizumab does not inhibit or induce CYPs or FMO3.",(See Summary)
+292,Bevacizumab,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterized but is likely to involve CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+293,Bevacizumab,Perindopril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolized to other inactive metabolites. Elimination occurs predominantly via the urine. Bevacizumab does not interact with this metabolic pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+294,Bevacizumab,Perphenazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Perphenazine is metabolized by CYP2D6. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+295,Bevacizumab,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolized mainly by CYP2B6 and to a lesser extent by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+296,Bevacizumab,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolized by oxidation via monoamine oxidase and to a lesser extent acetylation. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+297,Bevacizumab,Phenobarbital (Phenobarbitone),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenobarbital is metabolized by CYP2C19 and CYP2C9 (major) and to a lesser extent by CYP2E1. Phenobarbital is also a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+298,Bevacizumab,Phenprocoumon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenprocoumon is metabolized by CYP2C9 and CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+299,Bevacizumab,Phenytoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Phenytoin is also a potent inducer of CYP3A4, UGT and P-gp. Bevacizumab does not interact with this pathway.",(See Summary)
+300,Bevacizumab,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+301,Bevacizumab,Pimozide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pimozide is mainly metabolised by CYP3A4 and CYP2D6 and to a lesser extent by CYP1A2. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+302,Bevacizumab,Pindolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolized to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine. Bevacizumab is not expected to interfere with pindolol elimination. ,(See Summary)
+303,Bevacizumab,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolized mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+304,Bevacizumab,Pipotiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of pipotiazine has not been well described but may involve CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+305,Bevacizumab,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolized by CYP2C9. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+306,Bevacizumab,Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolized by UGTs 1A3 and 2B7 with minimal metabolism by CYPs 2C9 and 2C8. Pitavastatin is also a substrate of OATP1B1. Bevacizumab does not inhibit or induce UGTs, CYPs or OATPs.",(See Summary)
+307,Bevacizumab,Posaconazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Posaconazole is metabolized by UGTs and is a substrate of P-gp. Posaconazole is also a strong inhibitor of CYP3A4. Bevacizumab does not interact with this pathway.,(See Summary)
+308,Bevacizumab,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is eliminated renally. ,(See Summary)
+309,Bevacizumab,Prasugrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6, and to a lesser extent by CYP2C9 and CYP2C19. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+310,Bevacizumab,Pravastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Bevacizumab does not inhibit or induce CYPs or OATP1B1.,(See Summary)
+311,Bevacizumab,Prazosin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Prazosin is extensively metabolized, primarily by demethylation and conjugation. Bevacizumab is unlikely to interact with this metabolic pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+312,Bevacizumab,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+313,Bevacizumab,Prednisone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolized by CYP3A4. Bevacizumab does not interact with prednisone metabolic pathway. ,(See Summary)
+314,Bevacizumab,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration (90% as unchanged drug). Bevacizumab is unlikely to interfere with this pathway.,(See Summary)
+315,Bevacizumab,Prochlorperazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+316,Bevacizumab,Promethazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Promethazine is metabolized by CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+317,Bevacizumab,Propafenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolized mainly by CYP2D6 and to a lesser extent CYP1A2 and CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+318,Bevacizumab,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolized by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Bevacizumab does not interact with this metabolic pathway. ",(See Summary)
+319,Bevacizumab,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as prucalopride is minimally metabolised and mainly eliminated renally, partly by active secretion by renal transporters. Additionally, prucalopride is a substrate of P-gp. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+320,Bevacizumab,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolized by xanthine oxidase. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+321,Bevacizumab,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+322,Bevacizumab,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+323,Bevacizumab,Quinapril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Bevacizumab does not interact with this elimination pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+324,Bevacizumab,Quinidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is a substrate of P-gp. Quinidine is also an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate). Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+325,Bevacizumab,Rabeprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+326,Bevacizumab,Ramipril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolized to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Bevacizumab does not interact with this metabolic pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+327,Bevacizumab,Ranitidine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranitidine is excreted via OAT1/OAT3. Bevacizumab does not inhibit or induce OATs.,(See Summary)
+328,Bevacizumab,Ranolazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ranolazine is primarily metabolized by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is a substrate of P-gp. Ranolazine is also a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Bevacizumab does not interact with this pathway.",(See Summary)
+329,Bevacizumab,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolized by CYP3A4. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. Bevacizumab does not interact with reboxetine metabolic pathway. ,(See Summary)
+330,Bevacizumab,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolized by CYP2C8 and 3A4 and clinical data seem to indicate that it is a substrate of the hepatic transporter OATP1B1. Bevacizumab does not interact with this metabolic pathways. ,(See Summary)
+331,Bevacizumab,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver. Retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Bevacizumab does not interact with this metabolic pathway. ",(See Summary)
+332,Bevacizumab,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+333,Bevacizumab,Rifabutin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifabutin is metabolised by CYP3A and via deacetylation. Rifabutin is also a strong CYP3A4 and P-gp inducer. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+334,Bevacizumab,Rifampicin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifampicin is metabolised via deacetylation and is also a strong CYP3A4 and P-gp inducer. Bevacizumab does not interact with this pathway.,(See Summary)
+335,Bevacizumab,Rifapentine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifapentine is metabolised via deacetylation and is also a strong CYP3A4, CYP2C8 and P-gp inducer. Bevacizumab does not interact with this pathway.",(See Summary)
+336,Bevacizumab,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Bevacizumab does not interact with this elimination pathway.",(See Summary)
+337,Bevacizumab,Risperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Risperidone is metabolized by CYP2D6 and to a lesser extent by CYP3A4. Risperidone is also a substrate of P-gp. Bevacizumab does not inhibit or induce CYPs or P-gp.,(See Summary)
+338,Bevacizumab,Rivaroxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rivaroxaban is partly metabolized in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine. Rivaroxaban is also a substrate of P-gp and BCRP. Bevacizumab does not inhibit or induce CYPs, P-gp or BCRP.",(See Summary)
+339,Bevacizumab,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolized mainly by CYP2C8 and to a lesser extent by CYP2C9. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+340,Bevacizumab,Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosuvastatin is largely excreted unchanged in the faeces via OATP1B1 and is a substrate of BCRP. Bevacizumab does not inhibit or induce OATP1B1 or BCRP.,(See Summary)
+341,Bevacizumab,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolized to the inactive salbutamol-4’-O-sulphate. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+342,Bevacizumab,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+343,Bevacizumab,Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolized by CYP3A4 and is a substrate of P-gp. Bevacizumab does not interact with this pathway. ,(See Summary)
+344,Bevacizumab,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and the faeces and also in other secretions. No clinically significant interactions are known.,(See Summary)
+345,Bevacizumab,Sertindole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertindole is metabolized by CYP2D6 and CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+346,Bevacizumab,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolized by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+347,Bevacizumab,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolized mainly by CYP3A4 and to a lesser extent by CYP2C9. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+348,Bevacizumab,Simvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolized by CYP3A4. Simvastatin is also a substrate of BCRP and the active metabolite is a substrate of OATP1B1. Bevacizumab does not inhibit or induce CYPs, BCRP or OATP1B1.",(See Summary)
+349,Bevacizumab,Sirolimus,"
+Potential Interaction
+","
+Moderate
+","Based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sirolimus is metabolized by CYP3A4 and is a substrate of P-gp. Bevacizumab does not inhibit or induce CYPs or P-gp. However, coadministration of bevacizumab and sirolimus was tolerable, but showed increased grade 3 and 4 toxicity. If coadministration is unavoidable, close monitoring for toxicity is recommended. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+350,Bevacizumab,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1 and P-gp) and metabolism by CYP3A4 represents a minor elimination pathway. Bevacizumab does not interact with this pathway.",(See Summary)
+351,Bevacizumab,Sodium nitroprusside,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. Bevacizumab does not interact with this metabolic pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+352,Bevacizumab,Sotalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sotalol is excreted unchanged via renal elimination. Bevacizumab does not interact with this pathway.,(See Summary)
+353,Bevacizumab,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied, but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Bevacizumab does not interact with this metabolic pathway. ",(See Summary)
+354,Bevacizumab,Spironolactone,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Spironolactone is partly metabolized by the flavin containing monooxygenases. Bevacizumab does not interact with this metabolic pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+355,Bevacizumab,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Bevacizumab does not interact with stanozolol metabolic pathway.,(See Summary)
+356,Bevacizumab,St John's Wort,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. St John’s wort is a P-gp and CYP3A4 inducer. Bevacizumab does not interact with this pathway.,(See Summary)
+357,Bevacizumab,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Bevacizumab is unlikely to interfere with this pathway.",(See Summary)
+358,Bevacizumab,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Streptomycin is eliminated by glomerular filtration therefore no pharmacokinetic interaction is expected with bevacizumab. ,(See Summary)
+359,Bevacizumab,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Bevacizumab does not interfere with sulfadiazine metabolism.,(See Summary)
+360,Bevacizumab,Sulpiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. Bevacizumab is unlikely to significantly impair sulpiride elimination.,(See Summary)
+361,Bevacizumab,Tacrolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Bevacizumab is metabolised mainly by CYP3A4. Tacrolimus inhibits CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Bevacizumab does not interact with this pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+362,Bevacizumab,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tadalafil is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+363,Bevacizumab,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+364,Bevacizumab,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Bevacizumab does not interact with this elimination pathway.,(See Summary)
+365,Bevacizumab,Telithromycin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. Telithromycin is also an inhibitor of CYP3A4 (strong) and P-gp. However, the clinical relevance of P-gp inhibition is unknown. Bevacizumab does not interact with this metabolic pathway.",(See Summary)
+366,Bevacizumab,Telmisartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Bevacizumab does not inhibit or induce UGTs. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+367,Bevacizumab,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+368,Bevacizumab,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolized by CYPs 1A2, 2C9, 3A4 and to a lesser extent by CYP2C8 and CYP2C19. Terbinafine is also a moderate-strong inhibitor of CYP2D6. Bevacizumab does not interact with this pathway.",(See Summary)
+369,Bevacizumab,Testosterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+370,Bevacizumab,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+371,Bevacizumab,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolized by CYP1A2. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+372,Bevacizumab,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+373,Bevacizumab,Thioridazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Thioridazine is metabolized by CYP2D6 and to a lesser extent by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+374,Bevacizumab,Tiapride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tiapride is excreted largely unchanged in urine. Bevacizumab is unlikely to significantly impair tiapride elimination.,(See Summary)
+375,Bevacizumab,Ticagrelor,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ticagrelor undergoes extensive CYP3A4 metabolism and is only a mild inhibitor of CYP3A4. Ticagrelor is also a substrate of P-gp. Bevacizumab does not interact with this pathway.,(See Summary)
+376,Bevacizumab,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. Bevacizumab does not interact with this metabolic pathway.,(See Summary)
+377,Bevacizumab,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Bevacizumab does not interact with this elimination pathway.,(See Summary)
+378,Bevacizumab,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolized by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+379,Bevacizumab,Tolterodine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 with CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+380,Bevacizumab,Torasemide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Torasemide is metabolized mainly by CYP2C9. Furthermore, OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+381,Bevacizumab,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolized by CYPs 3A4, 2B6, and 2D6. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+382,Bevacizumab,Trandolapril,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Bevacizumab does not interact with this metabolic pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+383,Bevacizumab,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranexamic acid is mainly cleared by glomerular filtration. Bevacizumab does not interfere with this elimination pathway.,(See Summary)
+384,Bevacizumab,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+385,Bevacizumab,Trazodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trazodone is primarily metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+386,Bevacizumab,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolized by CYP3A4. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+387,Bevacizumab,Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolized by CYP3A4. Bevacizumab does not interact with this metabolic pathway. ,(See Summary)
+388,Bevacizumab,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. To a lesser extent (approximately 30%) trimethoprim is metabolised by CYP-enzymes (in vitro data suggest CYPs 3A4, 1A2 and 2C9). Trimethoprim is a weak CYP2C8 inhibitor and in vitro data also suggest that trimethoprim is an inhibitor of OCT2 and MATE1. Sulfamethoxazole is metabolised via and is a weak inhibitor of CYP2C9. Bevacizumab does not interact with these metabolic pathways.",(See Summary)
+389,Bevacizumab,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolized mainly by CYP2D6. Bevacizumab does not inhibit or induce CYPs. ,(See Summary)
+390,Bevacizumab,Tropisetron,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tropisetron is metabolized mainly by CYP2D6 and is a substrate of P-gp. Bevacizumab does not interact with this pathway.,(See Summary)
+391,Bevacizumab,Ulipristal,"
+Do Not Coadminister
+","
+Very Low
+",Coadministration is contraindicated if bevacizumab is used for treatment of hormone-sensitive cancer. If used for hormone-insensitive tumours the following information is applicable: Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolized by CYP3A4 and to a lesser extent CYP1A2 and CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+392,Bevacizumab,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolised by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolised by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Bevacizumab does not interact with this pathway.,(See Summary)
+393,Bevacizumab,Valsartan,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Bevacizumab does not interact with this elimination pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+394,Bevacizumab,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vancomycin is excreted unchanged via glomerular filtration therefore no pharmacokinetic interaction is expected with bevacizumab. ,(See Summary)
+395,Bevacizumab,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolized by CYP2D6 and to a lesser extent by CYPs 3A4, 2C19 and 2C9. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+396,Bevacizumab,Verapamil,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Verapamil is metabolized mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Verapamil is a moderate inhibitor of CYP3A4, but bevacizumab does not interact with this pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+397,Bevacizumab,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non-CYP mediated hydrolysis and is a substrate of P-gp. Bevacizumab does not interact with this pathway.,(See Summary)
+398,Bevacizumab,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+399,Bevacizumab,Voriconazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Voriconazole is metabolized by CYP2C19 (major) and to a lesser extent by CYP2C9 and CYP3A4. Voriconazole is also a strong inhibitor of CYP3A4 and a weak inhibitor of CYPs 2C9, 2C19 and 2B6. Bevacizumab does not interact with this pathway.",(See Summary)
+400,Bevacizumab,Warfarin,"
+Potential Weak Interaction
+","
+Low
+","Based on metabolism and clearance a clinically significant interaction is unlikely. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and 3A4. S-warfarin (more potent) is metabolised by CYP2C9. Bevacizumab does not inhibit or induce CYPs. Coadministration was generally safe, though some case reports show an increased risk for haemorrhage. However, the causality with bevacizumab use was not established. ",(See Summary)
+401,Bevacizumab,Xipamide,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bevacizumab does not interact with this metabolic pathway. However, bevacizumab should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.",(See Summary)
+402,Bevacizumab,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolized by aldehyde oxidase and to a lesser extent CYP3A4. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+403,Bevacizumab,Ziprasidone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4). Bevacizumab does not inhibit or induce CYPs. ",(See Summary)
+404,Bevacizumab,Zoledronic acid,"
+Potential Weak Interaction
+","
+Very Low
+","Zoledronic acid is not metabolised but is cleared from the plasma by uptake into bone and elimination via renal excretion. Bevacizumab does not interfere with this elimination pathway. However, osteonecrosis of the jaw has been reported in an increasing number of renal cell cancer patients since the use of combined therapies consisting of nitrogen-containing bisphosphonates and antiangiogenic targeted agents. This suggests that angiogenesis suppression might increase the risk of osteonecrosis of the jaw when coadministered with bisphosphonates.",(See Summary)
+405,Bevacizumab,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. Bevacizumab does not inhibit or induce CYPs.",(See Summary)
+406,Bevacizumab,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolized mainly by CYP3A4 and to a lesser extent by CYP2C8. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+407,Bevacizumab,Zotepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolized by CYP3A4 and to a lesser extent CYP1A2 and CYP2D6. Bevacizumab does not inhibit or induce CYPs.,(See Summary)
+408,Bevacizumab,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolized by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Bevacizumab does not inhibit or induce CYPs. ",(See Summary)

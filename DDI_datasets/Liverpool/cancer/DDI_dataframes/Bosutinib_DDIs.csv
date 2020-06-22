@@ -1,0 +1,2046 @@
+,Drug_1,drug2,Level_of_interaction,Quality_of_interaction,Summary,Description
+0,Bosutinib,Acarbose,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. After ingestion of acarbose, the majority of active unchanged drug remains in the lumen of the gastrointestinal tract to exert its pharmacological activity and is metabolised by intestinal enzymes and by the microbial flora. ",(See Summary)
+1,Bosutinib,Acenocoumarol,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Acenocoumarol is mainly metabolised by CYP2C9 and to a lesser extent by CYP1A2 and CYP2C19. Bosutinib does not inhibit or induce CYPs. However, a clinical adverse event (supratherapeutic INR) was reported in a CLL patient receiving warfarin and concomitant bosutinib. The causality of this interaction was not clear and therefore the clinical relevance of this interaction is unknown. Monitoring of INR may be required.",(See Summary)
+2,Bosutinib,Acetylsalicylic acid (Aspirin),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aspirin is rapidly deacetylated to form salicylic acid and then further metabolised by glucuronidation (by several UGTs, major UGT1A6). Bosutinib does not inhibit or induce UGTs.",(See Summary)
+3,Bosutinib,Agomelatine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Agomelatine is metabolised predominantly via CYP1A2 (90%), with a small proportion metabolised by CYP2C9 and CYP2C19 (10%). Bosutinib does not inhibit or induce CYPs.",(See Summary)
+4,Bosutinib,Alendronic acid,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Alendronate is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, alendronate should be separated from food or other medicinal products and patients must wait at least 30 minutes after taking alendronate before taking any other oral medicinal product. ",(See Summary)
+5,Bosutinib,Alfentanil,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alfentanil undergoes extensive CYP3A4 metabolism but bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+6,Bosutinib,Alfuzosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as alfuzosin is metabolised by CYP3A. Bosutinib does not inhibit or induce CYP3A. ,(See Summary)
+7,Bosutinib,Aliskiren,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aliskiren is minimally metabolised and is mainly excreted unchanged in faeces. P-gp is a major determinant of aliskiren bioavailability. Bosutinib does not interact with this pathway.,(See Summary)
+8,Bosutinib,Allopurinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as allopurinol is converted to oxipurinol by xanthine oxidase and aldehyde oxidase. Bosutinib not interfere with this metabolic pathway. ,(See Summary)
+9,Bosutinib,Alosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro data indicate that alosetron is metabolised by CYPs 2C9, 3A4 and 1A2. Bosutinib does not inhibit or induce these CYPs. ",(See Summary)
+10,Bosutinib,Alprazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Alprazolam is mainly metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+11,Bosutinib,Aluminium hydroxide,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Coadministration with acid reducing agents may decrease bosutinib exposure as the aqueous solubility is pH dependent. Therefore, coadministration should be avoided. If coadministration is clinically necessary, bosutinib should be administered at least 2 hours before or 4 hours after antacids. ",(See Summary)
+12,Bosutinib,Ambrisentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ambrisentan is metabolised by glucuronidation via UGTs 1A3, 1A9 and 2B7 and to a lesser extent by CYP3A4 and CYP2C19. Ambrisentan is also a substrate of P-gp. Bosutinib does not inhibit or induce UGTs, CYPs or P-gp.",(See Summary)
+13,Bosutinib,Amikacin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amikacin is eliminated by glomerular filtration. Bosutinib does not interfere with this elimination pathway.,(See Summary)
+14,Bosutinib,Amiloride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amiloride is eliminated unchanged in the kidney. In vitro data indicate that amiloride is a substrate of OCT2. Bosutinib is unlikely to significantly inhibit amiloride renal elimination.,(See Summary)
+15,Bosutinib,Amiodarone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but is not recommended. Amiodarone is metabolised by CYP3A4 and CYP2C8. Bosutinib does not inhibit or induce CYPs. However, the major metabolite of amiodarone, desethylamiodarone, is an inhibitor of CYPs 3A4 (weak), 2C9 (moderate), 2D6 (moderate), 2C19 (weak), 1A1 (strong) and 2B6 (moderate). Bosutinib concentrations may increase due to CYP3A4 inhibition. The clinical relevance of this interaction is unknown. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If coadministered, monitoring for bosutinib toxicity and, if available, plasma concentrations may be required. Furthermore, bosutinib and amiodarone may cause QTc interval prolongation. Therefore, coadministration is not recommended. If coadministration is unavoidable, ECG monitoring is recommended.",(See Summary)
+16,Bosutinib,Amisulpride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amisulpride is weakly metabolised and is primarily eliminated renally (possibly via OCT). Bosutinib is unlikely to significantly impair amisulpride elimination. ,(See Summary)
+17,Bosutinib,Amitriptyline,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amitriptyline is metabolised predominantly by CYP2D6 and CYP2C19, with a small proportion metabolised by CYPs 3A4, 1A2 and 2C9. Bosutinib does not interact with this metabolic pathway. However, caution is needed when bosutinib is coadministered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+18,Bosutinib,Amlodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amlodipine is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+19,Bosutinib,Amoxicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Amoxicillin is mainly excreted in the urine by glomerular filtration and tubular secretion. In vitro data indicate that amoxicillin is a substrate of OAT3. Bosutinib is unlikely to interfere with this elimination pathway.,(See Summary)
+20,Bosutinib,Amphotericin B,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Amphotericin B is not appreciably metabolised but is eliminated to a large extent in the bile. Bosutinib does not interfere with this elimination pathway. However, the European SPC for amphotericin B states that concomitant use of amphotericin B and antineoplastic agents can increase the risk of renal toxicity, bronchospasm and hypotension. Monitoring may be required.",(See Summary)
+21,Bosutinib,Ampicillin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Renal clearance of ampicillin occurs partly by glomerular filtration and partly by tubular secretion. About 20-40% of an oral dose may be excreted unchanged in the urine in 6 hours. After parenteral use about 60-80% is excreted in the urine within 6 hours. In vitro data indicate that ampicillin is a substrate of OAT1. Bosutinib is unlikely to significantly inhibit ampicillin renal elimination.,(See Summary)
+22,Bosutinib,Anidulafungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Anidulafungin is not metabolised hepatically but undergoes chemical degradation at physiological temperatures. ,(See Summary)
+23,Bosutinib,Antacids,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Coadministration with acid reducing agents may decrease bosutinib exposure as the aqueous solubility is pH dependent. Therefore, coadministration should be avoided. If coadministration is clinically necessary, bosutinib should be administered at least 2 hours before or 4 hours after antacids.",(See Summary)
+24,Bosutinib,Apixaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Apixaban is metabolised by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8, 2C9 and 2C19. Apixaban is also a substrate of P-gp and BCRP. Bosutinib does not inhibit or induce CYPs, P-gp or BCRP.",(See Summary)
+25,Bosutinib,Aprepitant,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but should be approached with caution. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Bosutinib does not inhibit or induce CYPs. During treatment, aprepitant is a moderate inhibitor of CYP3A4 and may increase concentrations of bosutinib during the three days of coadministration. In healthy volunteers, coadministration of bosutinib and aprepitant (single dose) increased bosutinib AUC by 199%. Therefore, coadministration is not recommended. If coadministration is unavoidable, reduce the bosutinib dose during the few days of coadministration by approximately 50%. Monitor closely for bosutinib toxicity. After treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of bosutinib may decrease due to weak induction of CYP3A4, but this is not considered to be clinically relevant.",(See Summary)
+26,Bosutinib,Aripiprazole,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Aripiprazole is metabolised by CYP3A4 and CYP2D6. Bosutinib does not inhibit or induce CYP3A4 and CYP2D6.,(See Summary)
+27,Bosutinib,Asenapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Asenapine is metabolised by glucuronidation (UGT1A4) and oxidative metabolism (CYPs 1A2 (major), 3A4 (minor), and 2D6 (minor)). Bosutinib does not inhibit or induce these CYPs or UGTs.",(See Summary)
+28,Bosutinib,Astemizole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Astemizole is metabolised by CYPs 2D6, 2J2 and 3A4. Bosutinib does not inhibit or induce these CYPs. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+29,Bosutinib,Atenolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as atenolol is mainly eliminated unchanged in the kidney, predominantly by glomerular filtration. ",(See Summary)
+30,Bosutinib,Atorvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Atorvastatin is metabolised by CYP3A4 and is a substrate of P-gp and OATP1B1. Bosutinib does not inhibit or induce CYP3A4, P-gp or OATP1B1.",(See Summary)
+31,Bosutinib,Azathioprine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Azathioprine is converted to 6-mercaptopurine which is metabolised analogously to natural purines. Bosutinib does not interfere with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+32,Bosutinib,Azithromycin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Azithromycin is mainly eliminated via biliary excretion with animal data suggesting this may occur via P-gp and MRP2. Bosutinib does not inhibit or induce P-gp. Azithromycin is also an inhibitor of P-gp, but the clinical relevance of P-gp inhibition by azithromycin is unknown. Bosutinib is not a substrate of P-gp. However, caution should be taken when using azithromycin with drugs that are known to prolong the QT interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+33,Bosutinib,Beclometasone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Beclometasone is a pro-drug which is not metabolised by CYP450, but is hydrolysed via esterase enzymes to the highly active metabolite beclometasone-17-monopropionate. Bosutinib does not interact with beclometasone metabolism. ",(See Summary)
+34,Bosutinib,Bedaquiline,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Bedaquiline is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. However, bedaquiline prolongs the QTc interval. When bedaquiline is coadministered with bosutinib an additive or synergistic effect on QT prolongation cannot be excluded. If coadministration is necessary, close monitoring including ECG assessment is recommended. ",(See Summary)
+35,Bosutinib,Bendroflumethiazide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bendroflumethiazide is mainly eliminated by hepatic metabolism (70%) and excreted unchanged in the urine (30%) via OAT1 and OAT3. Secretion of bendroflumethiazide into the urinary tract by these transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bosutinib does not interact with this pathway. In addition, there is no evidence that bendroflumethiazide inhibits or induces CYP450 enzymes and therefore it is unlikely to impact bosutinib.",(See Summary)
+36,Bosutinib,Bepridil,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Bepridil is metabolised by CYP2D6 (major) and CYP3A4. Bosutinib does not inhibit or induce CYP2D6 or CYP3A4. However, caution is needed when coadministering bosutinib with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+37,Bosutinib,Betamethasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Betamethasone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+38,Bosutinib,Bezafibrate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as half of bezafibrate dose is eliminated unchanged in the urine. In vitro data suggest that bezafibrate inhibits the renal transporter OAT1. Bosutinib does not interact with this pathway. ,(See Summary)
+39,Bosutinib,Bisacodyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisacodyl is converted to an active metabolite by intestinal and bacterial enzymes. Absorption from the gastrointestinal tract is minimal and the small amount absorbed is excreted in the urine as the glucuronide. ,(See Summary)
+40,Bosutinib,Bisoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bisoprolol is partly metabolised by CYP3A4 and CYP2D6 and partly eliminated unchanged in the urine. Bisoprolol is a substrate for P-gp. Bosutinib does not inhibit or induce CYPs and P-gp. ,(See Summary)
+41,Bosutinib,Bosentan,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Bosentan is a substrate of CYP3A4 and CYP2C9. Bosutinib does not inhibit or induce CYPs. However, bosentan is also a weak inducer of CYP3A4 and CYP2C9. Concentrations of bosutinib may decrease due to CYP3A4 induction. Imatinib (a CYP3A4 substrate) concentrations, on average, decreased by 33% in the presence of bosentan in a phase III clinical study and a similar effect may be expected with bosutinib. A decrease in exposure can lead to decreased efficacy. Coadministration of weak CYP3A4 inducers should be approached with caution. Selection of an alternate concomitant medicinal product, with no or minimal potential to induce CYP3A4 should be considered. If coadministration is unavoidable, closely monitor bosutinib efficacy. Monitoring of bosutinib plasma concentrations should be considered, if available.",(See Summary)
+42,Bosutinib,Bromazepam,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bromazepam undergoes oxidative biotransformation. Interaction studies indicate that CYP3A4 plays a minor role in bromazepam metabolism, but other cytochromes such as CYP2D6 or CYP1A2 may play a role. Bosutinib does not inhibit or induce CYPs.",(See Summary)
+43,Bosutinib,Budesonide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Budesonide is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+44,Bosutinib,Buprenorphine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buprenorphine undergoes both N-dealkylation to form norbuprenorphine (via CYP3A4) and glucuronidation (via UGT2B7 and UGT1A1). Bosutinib does not inhibit or induce CYP3A4 or UGTs.,(See Summary)
+45,Bosutinib,Bupropion,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Bupropion is primarily metabolised by CYP2B6. Bosutinib does not inhibit or induce CYP2B6.,(See Summary)
+46,Bosutinib,Buspirone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Buspirone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+47,Bosutinib,Calcium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but a clinically significant interaction is unlikely. Calcium is eliminated through faeces, urine and sweat. ",(See Summary)
+48,Bosutinib,Candesartan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Candesartan is mainly eliminated unchanged via urine and bile. The role of OAT1/3 in renal secretion of angiotensin II receptor blockers appears limited, because these compounds are mostly excreted through the biliary route. Therefore, bosutinib is unlikely to significantly inhibit renal elimination of angiotensin II receptor blockers.",(See Summary)
+49,Bosutinib,Capreomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Capreomycin is predominantly excreted via the kidneys as unchanged drug. Bosutinib does not interfere with capreomycin renal elimination.,(See Summary)
+50,Bosutinib,Captopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Captopril is largely excreted in the urine by OAT1. Bosutinib does not interact with this pathway.,(See Summary)
+51,Bosutinib,Carbamazepine,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but is contraindicated. Carbamazepine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2C8. Bosutinib does not inhibit or induce CYPs. However, carbamazepine is an inducer of CYPs 2C8 (strong), 2C9 (strong), 3A4 (strong) 1A2 (weak), 2B6 and UGT1A1. Concentrations of bosutinib may significantly decrease due to induction of CYP3A4. Decreased bosutinib exposure may lead to reduced efficacy. Coadministration of CYP3A4 inducers should be avoided, and selection of an alternate concomitant medicinal product, with no or minimal potential to induce CYP3A4 should be considered. Increasing the dose of bosutinib when co-administering with strong or moderate CYP3A inducers is unlikely to sufficiently compensate for the loss of exposure.",(See Summary)
+52,Bosutinib,Carvedilol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Carvedilol undergoes glucuronidation via UGTs 1A1, 2B4 and 2B7, and additionally metabolism via CYP2D6 and to a lesser extent CYPs 2C9 and 1A2. Carvedilol is a substrate for P-gp. Bosutinib does not inhibit or induce UGTs, CYPs, and P-gp.",(See Summary)
+53,Bosutinib,Caspofungin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Caspofungin undergoes spontaneous chemical degradation and metabolism via a non CYP-mediated pathway. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+54,Bosutinib,Cefalexin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefalexin is predominantly renally eliminated unchanged by glomerular filtration and tubular secretion via OAT1 and MATE1. Bosutinib does not interact with this pathway.,(See Summary)
+55,Bosutinib,Cefazolin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefazolin is predominantly excreted unchanged in the urine, mainly by glomerular filtration with some renal tubular secretion via OAT3. Bosutinib does not interact with this pathway.",(See Summary)
+56,Bosutinib,Cefixime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as cefixime is renally excreted predominantly by glomerular filtration. Bosutinib does not interfere with cefixime renal elimination.,(See Summary)
+57,Bosutinib,Cefotaxime,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cefotaxime is partially metabolised by non-specific esterases. Most of a dose of cefotaxime is excreted in the urine - about 60% as unchanged drug and a further 24% as desacetyl-cefotaxime, an active metabolite. In vitro studies indicate that OAT3 participates in the renal elimination of cefotaxime. Bosutinib does not interfere with cefixime renal elimination.",(See Summary)
+58,Bosutinib,Ceftazidime,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as ceftazidime is excreted predominantly by renal glomerular filtration. Bosutinib does not interfere with ceftazidime renal elimination.,(See Summary)
+59,Bosutinib,Ceftriaxone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ceftriaxone is eliminated mainly as unchanged drug, approximately 60% of the dose being excreted in the urine predominantly by glomerular filtration and the remainder via the biliary and intestinal tracts. Bosutinib does not interfere with ceftriaxone renal elimination.",(See Summary)
+60,Bosutinib,Celecoxib,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Celecoxib is primarily metabolised by CYP2C9. Bosutinib does not inhibit or induce CYP2C9. ,(See Summary)
+61,Bosutinib,Cetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cetirizine is only metabolised to a limited extent and is eliminated unchanged in the urine through both glomerular filtration and tubular secretion (possibly via OCT2). In vitro data indicate that cetirizine inhibits OCT2. Bosutinib is unlikely to interact with cetirizine’s renal elimination.,(See Summary)
+62,Bosutinib,Chloramphenicol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Chloramphenicol is predominantly glucuronidated. Bosutinib does not inhibit or induce UGTs. In vitro studies have shown that chloramphenicol can inhibit metabolism mediated by CYPs 3A4 (strong), 2C19 (strong) and 2D6 (weak). Bosutinib concentrations may increase due to CYP3A4 inhibition. As the clinical relevance of this interaction is unknown, close monitoring for bosutinib toxicity is recommended. Monitoring of bosutinib plasma concentrations should be considered, if available. Ocular use: Although chloramphenicol is systemically absorbed when used topically in the eye, the absorbed concentrations are unlikely to cause a pharmacokinetic interaction.",(See Summary)
+63,Bosutinib,Chlordiazepoxide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlordiazepoxide is extensively metabolised by CYP3A4, but does not inhibit or induce CYPs. Bosutinib does not inhibit or induce CYPs.",(See Summary)
+64,Bosutinib,Chlorphenamine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlorphenamine is predominantly metabolised in the liver via CYP2D6. Bosutinib does not inhibit or induce CYP2D6. ,(See Summary)
+65,Bosutinib,Chlorpromazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Chlorpromazine is metabolised mainly by CYP2D6, but also by CYP1A2. Bosutinib does not inhibit or induce these CYPs. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+66,Bosutinib,Chlortalidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Chlortalidone is mainly excreted unchanged in the urine and faeces. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bosutinib does not interfere with chlortalidone elimination.,(See Summary)
+67,Bosutinib,Ciclosporin (Cyclosporine),"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Ciclosporin is a substrate of CYP3A4 and P-gp. Bosutinib does not inhibit or induce CYPs or P-gp. However, ciclosporin is an inhibitor of CYP3A4 and OATP1B1. Concentrations of bosutinib may increase due to inhibition of CYP3A4. Close monitoring for bosutinib toxicity is recommended. Monitor bosutinib plasma concentrations, if available. No a priori dosage adjustment is recommended for bosutinib.",(See Summary)
+68,Bosutinib,Cilazapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cilazapril is mainly eliminated unchanged by the kidneys (possibly via OATs). Bosutinib does not interfere with captopril elimination.,(See Summary)
+69,Bosutinib,Cimetidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Cimetidine is metabolised by CYP450 enzymes. Bosutinib does not inhibit or induce CYPs. In vitro data indicate that cimetidine inhibits OAT1 and OCT2 but at concentrations much higher than the observed clinical concentrations. Cimetidine is also a weak inhibitor of CYPs 3A4, 1A2, 2D6 and 2C19. Bosutinib concentrations may increase due to CYP3A4 inhibition. The clinical relevance of this interaction is unknown, but coadministration is not recommended. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If coadministration is unavoidable, monitor closely for bosutinib toxicity. Monitor bosutinib plasma concentrations, if available. Furthermore, coadministration with acid reducing agents may decrease bosutinib exposure as the aqueous solubility is pH dependent. Coadministration with proton pump inhibitors or H2-antagonists should be avoided as bosutinib AUC and Cmax decreased by 26% and 46% respectively with lansoprazole. If coadministration is clinically necessary, bosutinib should be administered at the moment at which acid secretion is less inhibited, which is just before a new dose of the H2-antagonist or proton pump inhibitor.",(See Summary)
+70,Bosutinib,Ciprofloxacin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Ciprofloxacin is primarily eliminated unchanged in the kidneys by glomerular filtration and tubular secretion via OAT3. Ciprofloxacin is also metabolised and partially cleared through the bile and intestine. Bosutinib does not interfere with this elimination pathway. However, ciprofloxacin is a weak to moderate inhibitor of CYP3A4 and a strong inhibitor of CYP1A2. Concentrations of bosutinib may increase due to inhibition of CYP3A4. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of ciprofloxacin. Caution should be taken when using ciprofloxacin with drugs that are known to prolong the QT interval. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. If coadministration is necessary, monitoring including ECG assessment is recommended.",(See Summary)
+71,Bosutinib,Cisapride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Cisapride is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. Bosutinib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. Coadministration is not recommended. If coadministration is unavoidable, ECG monitoring is recommended.",(See Summary)
+72,Bosutinib,Citalopram,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Citalopram is metabolised by CYPs 2C19 (38%), 2D6 (31%) and 3A4 (31%). Bosutinib does not inhibit or induce these CYPs. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+73,Bosutinib,Clarithromycin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Clarithromycin is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYPs. However, clarithromycin is an inhibitor of CYP3A4 (strong) and P-gp. Concentrations of bosutinib may increase due to inhibition of CYP3A4. Coadministration of bosutinib and ketoconazole, a strong CYP3A4 inhibitor, increased bosutinib exposure by 9-fold. A similar effect may occur with clarithromycin. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of clarithromycin. Furthermore, bosutinib and clarithromycin may cause QTc interval prolongation. Coadministration is not recommended. If coadministration is unavoidable, ECG monitoring is recommended.",(See Summary)
+74,Bosutinib,Clavulanic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clavulanic acid is extensively metabolised (likely non CYP mediated pathway) and excreted in the urine by glomerular filtration. Bosutinib does not interact with this pathway. ,(See Summary)
+75,Bosutinib,Clemastine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clemastine is predominantly metabolised in the liver via CYP2D6. Bosutinib does not inhibit or induce CYP2D6.,(See Summary)
+76,Bosutinib,Clindamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clindamycin is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+77,Bosutinib,Clobetasol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of clobetasol.,(See Summary)
+78,Bosutinib,Clofazimine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clofazimine is largely excreted unchanged in the faeces. Bosutinib is unlikely to interfere with this elimination pathway. However, in patients therapeutic doses of bosutinib have been shown to prolong the QTc interval. Caution should be taken when using clofazimine with drugs that are known to prolong the QT interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+79,Bosutinib,Clofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clofibrate is hydrolysed to an active metabolite, clofibric acid. Excretion of clofibric acid glucuronide is possibly performed via OAT1. Bosutinib does not interact with this pathway. ",(See Summary)
+80,Bosutinib,Clomipramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clomipramine is metabolised by CYPs 3A4, 1A2 and 2C19 to desmethylclomipramine, an active metabolite which has a higher activity than the parent drug. In addition, clomipramine and desmethylclomipramine are metabolised by CYP2D6. Bosutinib does not inhibit or induce these CYPs. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.\",(See Summary)
+81,Bosutinib,Clonidine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 70% of administered clonidine is excreted in the urine, mainly in the form of the unchanged parent drug (40-60% of the dose). Bosutinib does not interfere with clonidine elimination. Clonidine is a weak inhibitor of OCT2 but is unlikely to interact with bosutinib elimination. ",(See Summary)
+82,Bosutinib,Clopidogrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clopidogrel is a prodrug and is converted to its active metabolite mainly through CYP2C19 with CYPs 3A4, 2B6 and 1A2 playing a minor role. Bosutinib does not inhibit or induce CYPs. Clopidogrel is also an inhibitor of CYP2C8 (strong), CYP2B6 (weak) and of CYP2C9 (in vitro) at high concentrations. The clinical relevance of CYP2C9 inhibition is unknown. Bosutinib does not interact with this pathway.",(See Summary)
+83,Bosutinib,Clorazepate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Clorazepate is rapidly converted to nordiazepam which is then metabolised to oxazepam by CYP3A4. Oxazepam is mainly glucuronidated. Bosutinib does not inhibit or induce CYPs or UGTs.,(See Summary)
+84,Bosutinib,Cloxacillin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cloxacillin is metabolised to a limited extent, and the unchanged drug and metabolites are excreted in the urine by glomerular filtration and renal tubular secretion, probably via OAT1/3. Bosutinib does not interfere with the elimination of cloxacillin.  ",(See Summary)
+85,Bosutinib,Clozapine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Clozapine is metabolised mainly by CYP1A2 and CYP3A4, and to a lesser extent by CYP2C19 and CYP2D6. Bosutinib does not inhibit or induce CYPs. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended. Due to the risk of additive haematological toxicity, haematological parameters should also be monitored if coadministered.",(See Summary)
+86,Bosutinib,Codeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Codeine is converted via CYP2D6 to morphine, an active metabolite with analgesic and opioid properties. Morphine is further metabolised by conjugation with glucuronic acid to morphine-3-glucuronide (inactive) and morphine-6-glucuronide (active). Morphine is also a substrate of P-gp. Furthermore, codeine is converted via CYP3A4 to norcodeine, an inactive metabolite. Bosutinib does not inhibit or induce CYPs, UGTs or P-gp.",(See Summary)
+87,Bosutinib,Colchicine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as colchicine is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+88,Bosutinib,Cycloserine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Cycloserine is predominantly renally excreted via glomerular filtration. Bosutinib does not interact with this metabolic pathway.,(See Summary)
+89,Bosutinib,Dabigatran,"
+No Interaction Expected
+","
+Very Low
+","No clinically significant interaction was observed with bosutinib and dabigatran. Dabigatran is transported by P-gp and is renally excreted. In healthy volunteers, coadministration of bosutinib and dabigatran increased the AUC of dabigatran by 1%, suggesting that bosutinib is not an inhibitor of P-gp.",(See Summary)
+90,Bosutinib,Dalteparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dalteparin is excreted largely unchanged via the kidneys via unsaturable glomerular filtration. Bosutinib is unlikely to interfere with the renal excretion of dalteparin. ,(See Summary)
+91,Bosutinib,Dapsone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of dapsone is mainly by N-acetylation with a component of N-hydroxylation, and is via multiple CYP P450 enzymes. Bosutinib does not interfere with this pathway. ",(See Summary)
+92,Bosutinib,Desipramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Desipramine is metabolised by CYP2D6. Bosutinib does not inhibit or induce CYP2D6. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+93,Bosutinib,Desogestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Desogestrel is a prodrug which is activated to etonogestrel by CYP2C9 (and possibly CYP2C19); the metabolism of etonogestrel is mediated by CYP3A4. Bosutinib does not inhibit or induce these CYPs.,(See Summary)
+94,Bosutinib,Dexamethasone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Dexamethasone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYPs. However, dexamethasone has been described as a weak inducer of CYP3A4 and may decrease bosutinib plasma concentrations. As the clinical relevance of CYP3A4 induction by dexamethasone has not yet been established, close monitoring is recommended.",(See Summary)
+95,Bosutinib,Dextropropoxyphene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dextropropoxyphene is mainly metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+96,Bosutinib,Diamorphine (diacetylmorphine),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diamorphine is rapidly metabolised by sequential deacetylation to morphine which is then mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Bosutinib does not interact with this metabolic pathway.",(See Summary)
+97,Bosutinib,Diazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diazepam is metabolised to nordiazepam (by CYP3A4 and CYP2C19) and to temazepam (mainly by CYP3A4). Temazepam is mainly glucuronidated. Bosutinib does not inhibit or induce CYPs or UGTs.,(See Summary)
+98,Bosutinib,Diclofenac,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Diclofenac is partly glucuronidated by UGT2B7 and partly oxidised by CYP2C9. Bosutinib does not inhibit or induce CYP2C9 or UGT2B7.,(See Summary)
+99,Bosutinib,Digoxin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Digoxin is eliminated renally via the renal transporters OATP4C1 and P-gp. Bosutinib does not interfere with digoxin elimination.,(See Summary)
+100,Bosutinib,Dihydrocodeine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dihydrocodeine undergoes predominantly direct glucuronidation, with CYP3A4 mediated metabolism accounting for only 5-10% of the overall metabolism. Bosutinib does not inhibit or induce CYP3A4 or UGTs. ",(See Summary)
+101,Bosutinib,Diltiazem,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Diltiazem is metabolised by CYP3A4 and CYP2D6. Bosutinib does not inhibit or induce CYPs. However, diltiazem is a moderate inhibitor of CYP3A4 and may increase concentrations of bosutinib. Coadministration should be avoided. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of diltiazem.",(See Summary)
+102,Bosutinib,Diphenhydramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Diphenhydramine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 1A2, 2C9 and 2C19. Bosutinib does not inhibit or induce CYPs. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+103,Bosutinib,Dipyridamole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dipyridamole is glucuronidated by many UGTs, specifically those of the UGT1A subfamily. Bosutinib is unlikely to interfere with this pathway.",(See Summary)
+104,Bosutinib,Disopyramide,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Disopyramide is metabolised by CYP3A4 (25%) and 50% of the drug is eliminated unchanged in urine. Bosutinib does not interact with this metabolic pathway. However, caution is needed when co-administering bosutinib with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+105,Bosutinib,Dolasetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Dolasetron is converted by carbonyl reductase to its active metabolite, hydrodolasetron, which is mainly glucuronidated (60%) and metabolised by CYP2D6 (10-20%) and CYP3A4 (<1%). Bosutinib does not interact with this metabolic pathway. However, dolasetron may prolong the QT interval and bosutinib has been shown to prolong the QT interval. Caution should be taken when using dolasetron with drugs that are known to prolong the QT interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+106,Bosutinib,Domperidone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Domperidone is mainly metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. However, bosutinib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. Bosutinib has been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+107,Bosutinib,Dopamine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dopamine is metabolised in the liver, kidneys, and plasma by monoamine oxidase (MAO) and catechol-O-methyltransferase to inactive compounds. About 25% of a dose of dopamine is metabolised to norepinephrine within the adrenergic nerve terminals. There is little potential for dopamine to affect disposition of bosutinib, or to be affected by bosutinib.",(See Summary)
+108,Bosutinib,Doxazosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxazosin is metabolised mainly by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+109,Bosutinib,Doxepin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxepin is metabolised to nordoxepin (a metabolite with comparable pharmacological activity as the parent compound) mainly by CYP2C19. In addition, doxepin and nordoxepin are metabolised by CYP2D6. Bosutinib does not inhibit or induce CYP2C19 and CYP2D6. ",(See Summary)
+110,Bosutinib,Doxycycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Doxycycline is excreted in urine and faeces as unchanged active substance. Between 40-60% of an administered dose can be accounted for in the urine. ,(See Summary)
+111,Bosutinib,Dronabinol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dronabinol is mainly metabolised by CYP2C9 and to a lesser extent by CYP3A4. Bosutinib does not inhibit or induce CYP2C9 and CYP3A4. ,(See Summary)
+112,Bosutinib,Drospirenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Drospirenone is metabolised to a minor extent via CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+113,Bosutinib,Dulaglutide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as dulaglutide is degraded by endogenous endopeptidases. Dulaglutide delays gastric emptying and could possibly decrease the absorption rate of concomitantly administered oral drugs. Since bosutinib is absorbed in approximately 6h, the clinical relevance of delayed absorption is considered to be limited.",(See Summary)
+114,Bosutinib,Duloxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Duloxetine is metabolised by CYP2D6 and CYP1A2. Bosutinib does not inhibit or induce these CYPs. ,(See Summary)
+115,Bosutinib,Dutasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dutasteride is mainly metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+116,Bosutinib,Dydrogesterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Dydrogesterone is metabolised to dihydrodydrogesterone (possibly via CYP3A4). Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+117,Bosutinib,Edoxaban,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Edoxaban is partially metabolised by CYP3A4 (<10%) and is transported via P-gp. Bosutinib does not inhibit or induce CYPs or P-gp.,(See Summary)
+118,Bosutinib,Eltrombopag,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Eltrombopag is metabolised by cleavage conjugation (via UGT1A1 and UGT1A3) and oxidation (via CYP1A2 and CYP2C8). Bosutinib does not inhibit or induce CYPs or UGTs.,(See Summary)
+119,Bosutinib,Enalapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enalapril is hydrolysed to enalaprilat which is eliminated renally (possibly via OATs). Bosutinib does not interact with this pathway.,(See Summary)
+120,Bosutinib,Enoxaparin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Enoxaparin does not undergo cytochrome metabolism but is desulphated and depolymerised in the liver, and is excreted predominantly renally. Bosutinib is unlikely to interfere with this metabolic pathway.",(See Summary)
+121,Bosutinib,Eprosartan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as eprosartan is largely excreted in bile and urine as unchanged drug. The role of OAT1/3 in renal secretion of angiotensin II receptor blockers appears limited, because these compounds are mostly excreted through the biliary route. Bosutinib is unlikely to significantly inhibit renal elimination of angiotensin II receptor blockers.",(See Summary)
+122,Bosutinib,Ertapenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ertapenem is mainly eliminated through the kidneys by glomerular filtration with tubular secretion playing a minor component. Bosutinib does not interact with the elimination of ertapenem.,(See Summary)
+123,Bosutinib,Erythromycin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Erythromycin is a substrate of CYP3A4 and P-gp. Bosutinib does not inhibit or induce CYPs or P-gp. However, erythromycin is an inhibitor of CYP3A4 (moderate) and P-gp. Concentrations of bosutinib may increase due to inhibition of CYP3A4. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of erythromycin. Bosutinib and erythromycin may cause QTc interval prolongation. Coadministration is not recommended. If coadministration is unavoidable, ECG monitoring is recommended.",(See Summary)
+124,Bosutinib,Escitalopram,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Escitalopram is metabolised by CYPs 2C19 (37%), 2D6 (28%) and 3A4 (35%) to form N-desmethylescitalopram. Bosutinib does not inhibit or induce these CYPs. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+125,Bosutinib,Esomeprazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Esomeprazole is metabolised by CYP2C19 and CYP3A4 and inhibits CYP2C19. Bosutinib does not interact with this pathway. However, coadministration with acid reducing agents may decrease bosutinib exposure as the aqueous solubility is pH dependent. Coadministration of proton pump inhibitors or H2-antagonists should be avoided as bosutinib AUC and Cmax decreased by 26% and 46% respectively with lansoprazole. If coadministration is clinically necessary, bosutinib should be administered at the moment at which acid secretion is less inhibited, and that is just before a new dose of the H2-antagonist or proton pump inhibitor.",(See Summary)
+126,Bosutinib,Estazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estazolam is metabolised to its major metabolite 4-hydroxyestazolam via CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+127,Bosutinib,Estradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Estradiol is metabolised by CYP3A4, CYP1A2 and is glucuronidated. Bosutinib does not inhibit or induce CYP3A4, CYP1A2 or UGTs.",(See Summary)
+128,Bosutinib,Ethambutol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethambutol is partly metabolised by alcohol dehydrogenase (20%) and partly eliminated unchanged in the faeces (20%) and urine (50%), possibly via OCT2. Bosutinib does not interact with this route of elimination.",(See Summary)
+129,Bosutinib,Ethinylestradiol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethinylestradiol undergoes oxidation (CYP3A4>CYP2C9), sulfation and glucuronidation (UGT1A1). Bosutinib does not interact with these metabolic pathways.",(See Summary)
+130,Bosutinib,Ethionamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ethionamide is extensively metabolised in the liver, animal studies suggest involvement of flavin-containing monooxygenases. Bosutinib does not interfere with this pathway. ",(See Summary)
+131,Bosutinib,Etonogestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Etonogestrel is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+132,Bosutinib,Everolimus (Immunosuppressant),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Everolimus is mainly metabolised by CYP3A4 and is a substrate of P-gp. Bosutinib does not inhibit or induce CYPs or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+133,Bosutinib,Exenatide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as exenatide is cleared mainly by glomerular filtration. Exenatide delays gastric emptying and could possibly decrease the absorption rate of concomitantly administered oral drugs. Since bosutinib is absorbed in approximately 6 h, the clinical relevance of delayed absorption is considered to be limited.",(See Summary)
+134,Bosutinib,Ezetimibe,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ezetimibe is glucuronidated by UGTs 1A1 and 1A3 and to a lesser extent by UGTs 2B15 and 2B7. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+135,Bosutinib,Famotidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Famotidine is excreted via OAT1/OAT3. Bosutinib does not interact with this pathway. However, coadministration with acid reducing agents may decrease bosutinib exposure as the aqueous solubility is pH dependent. Coadministration of proton pump inhibitors or H2-antagonists should be avoided as bosutinib AUC and Cmax decreased by 26% and 46% respectively with lansoprazole. If coadministration is clinically necessary, bosutinib should be administered at the moment at which acid secretion is less inhibited, and that is just before a new dose of the H2-antagonist or proton pump inhibitor.",(See Summary)
+136,Bosutinib,Felodipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Felodipine is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+137,Bosutinib,Fenofibrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fenofibrate is hydrolysed to an active metabolite, fenofibric acid. In vitro data suggest that fenofibric acid inhibits OAT3. Bosutinib does not interact with this pathway. ",(See Summary)
+138,Bosutinib,Fentanyl,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fentanyl undergoes extensive CYP3A4 metabolism. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+139,Bosutinib,Fexofenadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fexofenadine undergoes negligible metabolism and is mainly eliminated unchanged in the faeces. ,(See Summary)
+140,Bosutinib,Finasteride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Finasteride is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+141,Bosutinib,Fish oils,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+142,Bosutinib,Flecainide,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Flecainide is metabolised mainly via CYP2D6, with a proportion (approximately 30%) of the parent drug also renally eliminated unchanged. Bosutinib does not interact with this metabolic pathway. However, caution is needed when co-administered bosutinib with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+143,Bosutinib,Flucloxacillin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Flucloxacillin is mainly renally eliminated partly by glomerular filtration and partly by active secretion via OAT1. Bosutinib does not interact with this pathway. However, flucloxacillin has been described as a CYP3A4 inducer and may decrease concentrations of bosutinib. As the clinical relevance of this interaction is unknown, monitoring of bosutinib efficacy may be required.",(See Summary)
+144,Bosutinib,Fluconazole,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Fluconazole is renally excreted. Bosutinib does not interact with this elimination pathway. However, fluconazole is an inhibitor of CYPs 3A4 (moderate), 2C9 (moderate) and 2C19 (strong). Concentrations of bosutinib may increase due to inhibition of CYP3A4. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of fluconazole. Furthermore, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. Coadministration is not recommended. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+145,Bosutinib,Flucytosine,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Flucytosine is metabolised to 5-fluorouracil (5-FU). 5-FU is further metabolised by dihydropyrimidine dehydrogenase to an inactive metabolite. Bosutinib does not interfere with this elimination pathway. However, 5-FU binds to the enzyme thymidylate synthase resulting in DNA damage. This mechanism occurs in all fast dividing cells including bone marrow cells, resulting in haematological toxicity. Bosutinib also induces haematological toxicity which could be enhanced by the use of flucytosine. Due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+146,Bosutinib,Fludrocortisone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fludrocortisone is metabolised in the liver to inactive metabolites, possibly via CYP3A. Bosutinib does not inhibit or induce CYP3A. ",(See Summary)
+147,Bosutinib,Flunitrazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Flunitrazepam is metabolised mainly via CYP3A4 and CYP2C19. Bosutinib does not inhibit or induce CYP3A4 and CYP2C19.,(See Summary)
+148,Bosutinib,Fluoxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluoxetine is metabolised by CYPs 2D6 and 2C9 and to a lesser extent by CYPs 2C19 and 3A4 to form norfluoxetine. Fluoxetine is also a strong inhibitor of CYP2D6 and CYP2C19. Bosutinib does not interact with this pathway.,(See Summary)
+149,Bosutinib,Fluphenazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Fluphenazine is metabolised by CYP2D6. Bosutinib does not inhibit or induce CYP2D6. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+150,Bosutinib,Flurazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of flurazepam is most likely CYP-mediated. Bosutinib does not interfere with this metabolic pathway.,(See Summary)
+151,Bosutinib,Fluticasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluticasone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+152,Bosutinib,Fluvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fluvastatin is mainly metabolised by CYP2C9 (75%) and to a lesser extent by CYP3A4 (20%) and CYP2C8 (5%). Bosutinib does not inhibit or induce CYPs. Fluvastatin potentially inhibits CYP2C9, but the clinical relevance of CYP2C9 inhibition is unknown. Bosutinib is not metabolised by CYP2C9.",(See Summary)
+153,Bosutinib,Fluvoxamine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Fluvoxamine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Bosutinib does not inhibit or induce CYP2D6 or CYP1A2. Fluvoxamine is also an inhibitor of CYPs 1A2 (strong), 2C19 (strong), 3A4 (moderate), 2C9 (weak-moderate) and 2D6 (weak). Concentrations of bosutinib may increase due to inhibition of CYP3A4. Coadministration should be avoided. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of fluvoxamine.",(See Summary)
+154,Bosutinib,Fondaparinux,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Fondaparinux does not undergo cytochrome metabolism but is eliminated predominantly renally. Bosutinib is unlikely to interact with this metabolic pathway.,(See Summary)
+155,Bosutinib,Formoterol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Formoterol is eliminated primarily by direct glucuronidation, with O-demethylation (by CYPs 2D6, 2C19, 2C9, and 2A6) followed by further glucuronidation being another pathway. As multiple CYP450 and UGT enzymes catalyze the transformation the potential for a pharmacokinetic interaction is low. Bosutinib does not interfere with this metabolic pathway.",(See Summary)
+156,Bosutinib,Fosaprepitant,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied but should be approached with caution. Fosaprepitant is rapidly, almost completely, converted to the active metabolite aprepitant. Bosutinib does not interact with this metabolic pathway. Aprepitant is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C19. Bosutinib does not inhibit or induce CYPs. However, during treatment aprepitant is a moderate inhibitor of CYP3A4. In healthy volunteers, coadministration of bosutinib and a single dose of aprepitant increased bosutinib AUC of bosutinib by 199%. Coadministration is not recommended. If coadministration is unavoidable, reduce the bosutinib dose during the few days of coadministration by approximately 50%. After treatment aprepitant is a weak inducer of CYP3A4, CYP2C9 and UGT. Concentrations of bosutinib may decrease due to weak induction of CYP3A4, but this is not considered to be clinically relevant.",(See Summary)
+157,Bosutinib,Fosphenytoin,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but is contraindicated. Fosphenytoin is rapidly converted to the active metabolite phenytoin. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Bosutinib does not interact with this pathway. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of bosutinib may decrease due to induction of CYP3A4. A decrease in exposure can lead to decreased efficacy. Therefore, coadministration should be avoided. Increasing the dose of bosutinib when co-administering with strong or moderate CYP3A inducers is unlikely to sufficiently compensate for the loss of exposure.",(See Summary)
+158,Bosutinib,Furosemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Furosemide is glucuronidated mainly in the kidney (UGT1A9) and to a lesser extent in the liver (UGT1A1). A large proportion of furosemide is also renally eliminated unchanged (via OATs). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. In vitro data indicate that furosemide is an inhibitor of the renal transporters OAT1/OAT3. Bosutinib does not interact with this pathway.,(See Summary)
+159,Bosutinib,Gabapentin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gabapentin is cleared mainly by glomerular filtration. Bosutinib is unlikely to interfere with this elimination pathway.,(See Summary)
+160,Bosutinib,Gemfibrozil,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gemfibrozil is metabolised by UGT2B7. Gemfibrozil is also an inhibitor of CYP2C8 (strong), OATP1B1 and OAT3. In vitro data indicate gemfibrozil to be a strong inhibitor of CYP2C9 but in vivo data showed no clinically relevant effect on CYP2C9. Bosutinib does not interact with this metabolic pathway.",(See Summary)
+161,Bosutinib,Gentamicin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Gentamicin is eliminated unchanged predominantly via glomerular filtration. There is little potential for interaction with bosutinib via competition for active renal transport mechanisms. However, since gentamicin is nephrotoxic, renal function should be monitored periodically as changes in the renal function may impair bosutinib elimination. ",(See Summary)
+162,Bosutinib,Gestodene,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gestodene is metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2C19. Bosutinib does not inhibit or induce these CYPs.,(See Summary)
+163,Bosutinib,Glibenclamide (Glyburide),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glibenclamide is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9. Bosutinib does not inhibit or induce CYPs 3A4 and 2C9.,(See Summary)
+164,Bosutinib,Gliclazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Gliclazide is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C19. Bosutinib does not inhibit or induce CYP2C9 and CYP2C19.,(See Summary)
+165,Bosutinib,Glimepiride,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glimepiride is mainly metabolised by CYP2C9. Bosutinib does not inhibit or induce CYP2C9.,(See Summary)
+166,Bosutinib,Glipizide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Glipizide is mainly metabolised by CYP2C9. Bosutinib does not inhibit or induce CYP2C9.,(See Summary)
+167,Bosutinib,Granisetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Granisetron is metabolised by CYP3A4 and is a substrate of P-gp. Bosutinib does not inhibit or induce CYPs or P-gp. However, granisetron and bosutinib may prolong the QT interval. Caution should be taken when using granisetron with drugs that are known to prolong the QT interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+168,Bosutinib,Grapefruit juice,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but is contraindicated. Grapefruit juice is known to inhibit CYP3A4 enzymes and could potentially increase bosutinib concentrations. Coadministration with ketoconazole, a strong CYP3A4 inhibitor, increased bosutinib exposure by 9-fold. A similar effect may occur with grapefruit juice. Therefore, coadministration is contraindicated.",(See Summary)
+169,Bosutinib,Green tea,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+170,Bosutinib,Griseofulvin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Less than 1% of a griseofulvin dose is excreted unchanged via the kidneys. Bosutinib does not interfere with griseofulvin elimination pathway. However, griseofulvin is a liver microsomal enzyme inducer and may lower plasma levels, and therefore reduce the efficacy of concomitantly administered medicinal products that are metabolised by CYP3A4, such as bosutinib. Close monitoring is recommended. ",(See Summary)
+171,Bosutinib,Haloperidol,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Haloperidol has a complex metabolism as it undergoes glucuronidation (UGT2B7>1A4, 1A9), carbonyl reduction as well as oxidative metabolism (CYP3A4, CYP2D6). Bosutinib does not inhibit or induce these CYPs or UGTs. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+172,Bosutinib,Heparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Heparin is thought to be eliminated via the reticuloendothelial system. Bosutinib does not interact with this metabolic pathway.,(See Summary)
+173,Bosutinib,Hydralazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydralazine is metabolised via primary oxidative metabolism and acetylation. Although in vitro studies have suggested that hydralazine is a mixed enzyme inhibitor, which may weakly inhibit CYP3A4 and CYP2D6, it is not expected that this will lead to a clinical relevant interaction with bosutinib. ",(See Summary)
+174,Bosutinib,Hydrochlorothiazide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrochlorothiazide is not metabolised but is cleared by the kidneys via OAT1. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bosutinib does not interact with this pathway.,(See Summary)
+175,Bosutinib,Hydrocodone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocodone is metabolised by CYP2D6 to hydromorphone and by CYP3A4 to norhydrocodone, both of which have analgesic effects. Bosutinib does not inhibit or induce these CYPs. ",(See Summary)
+176,Bosutinib,Hydrocortisone (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydrocortisone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+177,Bosutinib,Hydrocortisone (topical),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely with the topical use of hydrocortisone. ,(See Summary)
+178,Bosutinib,Hydromorphone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Hydromorphone is eliminated via glucuronidation, mainly by UGT2B7. Bosutinib does not inhibit or induce UGTs.",(See Summary)
+179,Bosutinib,Hydroxyurea (Hydroxycarbamide),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Hydroxyurea is metabolised in the liver and cleared via the lungs and kidneys. Bosutinib does not interact with this metabolic pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+180,Bosutinib,Hydroxyzine,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided. Hydroxyzine is partly metabolised by alcohol dehydrogenase and partly by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. However, use bosutinib with caution when coadministered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+181,Bosutinib,Ibandronic acid,"
+No Interaction Expected
+","
+Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ibandronic acid is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Although no pharmacokinetic interaction is expected, ibandronic acid should be taken after an overnight fast (at least 6 hours) and before the first food or drink of the day. Medicinal products and supplements should be similarly avoided prior to taking ibandronic acid. Fasting should be continued for at least 30 minutes after taking ibandronic acid. ",(See Summary)
+182,Bosutinib,Ibuprofen,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Ibuprofen is metabolised mainly by CYP2C9 and to a lesser extent by CYP2C8 and direct glucuronidation. Bosutinib does not inhibit or induce these CYPs or UGTs. However, ibuprofen inhibits MRP2 in renal cells, which may increase bosutinib concentrations in plasma and renal cells. As the clinical relevance of this interaction is unknown, monitoring may be required.",(See Summary)
+183,Bosutinib,Iloperidone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Iloperidone is metabolised by CYP3A4 and CYP2D6. Bosutinib does not inhibit or induce CYPs 3A4 and 2D6. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+184,Bosutinib,Imipenem/Cilastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Imipenem/cilastatin are eliminated by glomerular filtration and to a lesser extent, active tubular secretion via OAT3. Bosutinib does not interact with this pathway.",(See Summary)
+185,Bosutinib,Imipramine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Imipramine is metabolised by CYPs 3A4, 2C19 and 1A2 to desipramine. Imipramine and desipramine are both metabolised by CYP2D6. Bosutinib does not inhibit or induce these CYPs. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+186,Bosutinib,Indapamide,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Indapamide is extensively metabolised by CYP450. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bosutinib does not inhibit or induce CYPs or OATs. However, bosutinib has been shown to prolong the QTc interval and the use of indapamide in patients treated with QT prolonging medicinal products should be avoided. If coadministration appears necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+187,Bosutinib,Insulin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+188,Bosutinib,Interferon alpha,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+189,Bosutinib,Interleukin 2 (Aldesleukin),"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Interleukin-2 is mainly eliminated by glomerular filtration. Bosutinib is unlikely to interfere with this elimination pathway. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+190,Bosutinib,Ipratropium bromide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. A small proportion of an inhaled ipratropium dose is systemically absorbed (6.9%). Metabolism is via ester hydrolysis and conjugation. Bosutinib does not interact with this metabolic pathway.,(See Summary)
+191,Bosutinib,Irbesartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Irbesartan is metabolised by glucuronidation and oxidation (mainly CYP2C9). Metabolites are excreted via bile (~80%) and urine (~20%). Clinically significant interactions are not expected with bosutinib. ,(See Summary)
+192,Bosutinib,Iron supplements,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+193,Bosutinib,Isoniazid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Isoniazid is acetylated in the liver to form acetylisoniazid which is then hydrolysed to isonicotinic acid and acetylhydrazine. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+194,Bosutinib,Isosorbide dinitrate,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest that CYP3A4 has a role in nitric oxide formation from isosorbide dinitrate. Bosutinib does not inhibit or induce CYP3A4. As renal elimination of unchanged drug is a minor pathway, there is little potential for an interaction.",(See Summary)
+195,Bosutinib,Itraconazole,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Itraconazole is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. However, itraconazole is an inhibitor of CYP3A4 (strong), CYP2C9 (weak), P-gp and BCRP. Concentrations of bosutinib may increase due to inhibition of CYP3A4. Coadministration of bosutinib and ketoconazole, a strong CYP3A4 inhibitor, increased bosutinib exposure by 9-fold. A similar effect may occur with itraconazole. Coadministration should be avoided. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of itraconazole.",(See Summary)
+196,Bosutinib,Ivabradine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ivabradine is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYPs. However, bosutinib has been shown to prolong the QTc interval and the use of ivabradine in patients treated with QT prolonging medicinal products should be avoided. If coadministration appears necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+197,Bosutinib,Kanamycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as kanamycin is eliminated unchanged predominantly via glomerular filtration.,(See Summary)
+198,Bosutinib,Ketoconazole,"
+Do Not Coadminister
+","
+Low
+","Coadministration should be avoided. Ketoconazole is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. However, ketoconazole is an inhibitor of CYP3A4 (strong) and P-gp. Coadministration of bosutinib and ketoconazole increased bosutinib AUC by 8.6-fold due to strong CYP3A4 inhibition. Therefore, selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of ketoconazole. Furthermore, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. Coadministration is not recommended. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+199,Bosutinib,Labetalol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Labetalol is mainly glucuronidated (via UGT1A1 and UGT2B7). Bosutinib does not inhibit or induce these UGTs.,(See Summary)
+200,Bosutinib,Lacidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lacidipine is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+201,Bosutinib,Lactulose,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metabolism of lactulose to lactic acid occurs via gastro-intestinal microbial flora only. ,(See Summary)
+202,Bosutinib,Lansoprazole,"
+Potential Interaction
+","
+Low
+","Lansoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Bosutinib does not interact with this pathway. However, coadministration with acid reducing agents may decrease bosutinib exposure as the aqueous solubility is pH dependent. Coadministration of bosutinib (single dose of 400 mg) and lansoprazole (single dose of 60 mg) in healthy volunteers (n=24) decreased AUC and Cmax of bosutinib by 26% and 46% respectively. Therefore, coadministration with proton pump inhibitors or H2-antagonists should be avoided. If coadministration is clinically necessary, bosutinib should be administered at the moment at which acid secretion is less inhibited, and that is just before a new dose of the H2-antagonist or proton pump inhibitor.",(See Summary)
+203,Bosutinib,Lercanidipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lercanidipine is mainly metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+204,Bosutinib,Levocetirizine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Less than 14% of a dose of levocetirizine is metabolised. Levocetirizine is mainly eliminated unchanged in the urine through both glomerular filtration and tubular secretion (possibly via OCT2).,(See Summary)
+205,Bosutinib,Levofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Levofloxacin is renally eliminated mainly by glomerular filtration and active secretion (possibly OCT2). Bosutinib does not interact with this metabolic pathway. However, bosutinib should be used with caution when co-administered with a drug with a known risk of QTc interval prolongation. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+206,Bosutinib,Levomepromazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Levomepromazine is metabolised by CYP2D6. Bosutinib does not inhibit or induce CYP2D6. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+207,Bosutinib,Levonorgestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Bosutinib does not interact with this metabolic pathway.,(See Summary)
+208,Bosutinib,Levonorgestrel (Emergency Contraception),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levonorgestrel is metabolised by CYP3A4 and is glucuronidated to a minor extent. Bosutinib does not interact with this metabolic pathway.,(See Summary)
+209,Bosutinib,Levothyroxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Levothyroxine is metabolised by deiodination (by enzymes of deiodinase family) and glucuronidation. Bosutinib does not interact with levothyroxine metabolism. ,(See Summary)
+210,Bosutinib,Lidocaine (Lignocaine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. CYP1A2 is the predominant enzyme involved in lidocaine metabolism in the range of therapeutic concentrations with a minor contribution from CYP3A4. Bosutinib does not inhibit or induce CYP1A2 or CYP3A4. ,(See Summary)
+211,Bosutinib,Linagliptin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Linagliptin is mainly eliminated as parent compound in faeces with metabolism by CYP3A4 representing a minor elimination pathway. Linagliptin is also a substrate of P-gp. Bosutinib does not inhibit or induce CYPs or P-gp. However, linagliptin is a weak inhibitor of CYP3A4 and may increase bosutinib concentrations. The clinical relevance of this interaction is unknown. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If coadministered, monitor closely for bosutinib toxicity. Monitor bosutinib plasma concentrations, if available.",(See Summary)
+212,Bosutinib,Linezolid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Linezolid undergoes non-CYP mediated metabolism. ,(See Summary)
+213,Bosutinib,Liraglutide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Liraglutide is degraded by endogenous endopeptidases. Bosutinib is unlikely to interfere with this elimination pathway.,(See Summary)
+214,Bosutinib,Lisinopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lisinopril is eliminated unchanged renally via glomerular filtration. ,(See Summary)
+215,Bosutinib,Lithium,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Lithium is mainly eliminated unchanged via the kidneys. Lithium is freely filtered at a rate that is dependent upon the glomerular filtration rate therefore no pharmacokinetic interaction is expected. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+216,Bosutinib,Live vaccines,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration of live vaccines (such as BCG vaccine; measles, mumps and rubella vaccines; varicella vaccines; typhoid vaccines; rotavirus vaccines; yellow fever vaccines; oral polio vaccine) has not been studied. In patients, who are receiving cytotoxics or other immunosuppressant drugs, use of live vaccines for immunisation is contraindicated. If coadministration is judged clinically necessary, use with extreme caution since generalized infections can occur.",(See Summary)
+217,Bosutinib,Loperamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loperamide is mainly metabolised by CYP3A4 and CYP2C8. Bosutinib does not inhibit or induce CYPs.,(See Summary)
+218,Bosutinib,Loratadine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Loratadine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Bosutinib does not inhibit or induce CYP3A4 and CYP2D6.,(See Summary)
+219,Bosutinib,Lorazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lorazepam is eliminated by non-CYP-mediated pathways and no effect on plasma concentrations is expected when coadministered with bosutinib. ,(See Summary)
+220,Bosutinib,Lormetazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lormetazepam is mainly glucuronidated. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+221,Bosutinib,Losartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Losartan is converted to its active metabolite mainly by CYP2C9 in the range of clinical concentrations. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+222,Bosutinib,Lovastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Lovastatin is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+223,Bosutinib,Macitentan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Macitentan is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C19, 2C9 and 2C8. Bosutinib does not inhibit or induce these CYPs. ",(See Summary)
+224,Bosutinib,Magnesium,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Magnesium is eliminated in kidney, mainly by glomerular filtration. ",(See Summary)
+225,Bosutinib,Maprotiline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Maprotiline is mainly metabolised by CYP2D6. Bosutinib does not inhibit or induce CYP2D6. ,(See Summary)
+226,Bosutinib,Medroxyprogesterone (depot),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4 and a pharmacokinetic interaction is unlikely. ,(See Summary)
+227,Bosutinib,Medroxyprogesterone (non-depot),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Medroxyprogesterone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+228,Bosutinib,Mefenamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mefenamic acid is metabolised by CYP2C9 and glucuronidated by UGT2B7 and UGT1A9. Bosutinib does not inhibit or induce CYP2C9 or UGTs. ,(See Summary)
+229,Bosutinib,Megestrol acetate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Megestrol acetate is mainly eliminated in the urine (probably via OCT2). ,(See Summary)
+230,Bosutinib,Meropenem,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Meropenem is primarily eliminated by the kidney and in vitro data suggest that it is a substrate of the renal transporters OAT3>OAT1. Bosutinib does not interact with this pathway.,(See Summary)
+231,Bosutinib,Mesalazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mesalazine is metabolised to N-acetyl-mesalazine by N-acetyltransferase. Bosutinib does not interfere with this pathway. ,(See Summary)
+232,Bosutinib,Metamizole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Metamizole is metabolised by hydrolysis to the active metabolite MAA in the gastrointestinal tract. Metamizole is metabolised in serum and intestine and excreted via urine (90%) and faeces (10%). Bosutinib does not interact with this metabolic pathway. However, metamizole may decrease bosutinib concentrations due to induction of CYP3A4. Decreased bosutinib exposure can lead to decreased efficacy. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended. The clinical relevance of this interaction is unknown, but closely monitor bosutinib efficacy and a dose adjustment of bosutinib may be required. Monitor bosutinib plasma concentrations, if available.",(See Summary)
+233,Bosutinib,Metformin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metformin is mainly eliminated unchanged in the urine and is a substrate of OCT1/2/3, MATE1 and MATE2K. Bosutinib does not interact with this pathway.",(See Summary)
+234,Bosutinib,Methadone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Methadone is demethylated by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. However, bosutinib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+235,Bosutinib,Methyldopa,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methyldopa is excreted in urine largely by glomerular filtration, primarily unchanged and as the mono-O-sulfate conjugate. It is unlikely to affect the disposition of bosutinib, or to be altered by co-administration with bosutinib.",(See Summary)
+236,Bosutinib,Methylphenidate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylphenidate is not metabolised by cytochrome P450 to a clinically significant extent and does not inhibit cytochrome P450s. ,(See Summary)
+237,Bosutinib,Methylprednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Methylprednisolone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+238,Bosutinib,Metoclopramide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoclopramide is partially metabolised by CYP450 system (mainly CYP2D6). Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+239,Bosutinib,Metolazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metolazone is largely excreted unchanged in the urine. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bosutinib does not interact with this pathway. ,(See Summary)
+240,Bosutinib,Metoprolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Metoprolol is mainly metabolised by CYP2D6. Bosutinib does not inhibit or induce CYP2D6.,(See Summary)
+241,Bosutinib,Metronidazole,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Metronidazole is eliminated via glomerular filtration. Bosutinib is unlikely to interfere with this elimination pathway. Elevated plasma concentrations have been reported for some CYP3A substrates (e.g. tacrolimus, ciclosporin) with metronidazole. However, metronidazole did not increase concentrations of several CYP3A probe drugs (e.g. midazolam, alprazolam). Since the mechanism of the interaction with CYP3A has not yet been identified, an interaction with bosutinib cannot be excluded. Monitoring for bosutinib toxicity may be required.",(See Summary)
+242,Bosutinib,Mexiletine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mexiletine is metabolised mainly by CYP2D6 and to a lesser extent by CYP1A2. Bosutinib does not inhibit or induce these CYPs. ,(See Summary)
+243,Bosutinib,Mianserin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mianserin is metabolised by CYP2D6 and CYP1A2, and to a lesser extent by CYP3A4. Bosutinib does not inhibit or induce these CYPs. ",(See Summary)
+244,Bosutinib,Miconazole,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Miconazole is extensively metabolised by the liver. Bosutinib is unlikely to interact with this unspecified pathway. However, miconazole is an inhibitor of CYP2C9 (moderate) and CYP3A4 (strong). Concentrations of bosutinib may increase due to inhibition of CYP3A4. Coadministration of bosutinib and ketoconazole, a strong CYP3A4 inhibitor, increased bosutinib exposure by 9-fold. A similar effect may occur with miconazole. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of miconazole. Furthermore, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. Coadministration is not recommended. If coadministration is necessary, close monitoring including ECG assessment is recommended. Dermal application: No a priori dosage adjustment is recommended for bosutinib, since miconazole is used topically and systemic exposure is limited.",(See Summary)
+245,Bosutinib,Midazolam (oral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+246,Bosutinib,Midazolam (parenteral),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Midazolam is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+247,Bosutinib,Milnacipran,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Milnacipran is mainly eliminated unchanged (50%), and as glucuronides (30%) and oxidative metabolites (20%). Bosutinib is unlikely to interfere with these pathways.",(See Summary)
+248,Bosutinib,Mirtazapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mirtazapine is metabolised to 8-hydroxymirtazapine by CYP2D6 and CYP1A2, and to N-desmethylmirtazapine mainly by CYP3A4. Bosutinib does not inhibit or induce these CYPs.",(See Summary)
+249,Bosutinib,Mometasone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Mometasone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+250,Bosutinib,Montelukast,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Montelukast is mainly metabolised by CYP2C8 and to a lesser extent by CYPs 3A4 and 2C9. Bosutinib does not inhibit or induce CYPs. ,(See Summary)
+251,Bosutinib,Morphine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Morphine is mainly glucuronidated to morphine-3-glucuronide (UGT2B7>UGT1A1) and to a lesser extent, to the pharmacologically active morphine-6-glucuronide (UGT2B7>UGT1A1). Morphine is also a substrate of P-gp. Bosutinib does not interact with this metabolic pathway.",(See Summary)
+252,Bosutinib,Moxifloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Moxifloxacin is predominantly glucuronidated by UGT1A1. Bosutinib does not inhibit or induce UGTs. However, the product labels for moxifloxacin contraindicate its use in the presence of other drugs that prolong the QT interval, such as bosutinib. If coadministration is unavoidable, use with extreme caution including ECG monitoring.",(See Summary)
+253,Bosutinib,Mycophenolate,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Mycophenolate is mainly glucuronidated by UGT1A9 and UGT2B7. Mycophenolate glucuronide is excreted via OAT1/3 renal transporters. Bosutinib does not interact with this pathway. In addition, inhibition of OAT1/OAT3 renal transporters by mycophenolic acid (active metabolite) is unlikely to interfere with bosutinib elimination. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+254,Bosutinib,Nadroparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nadroparin is renally excreted by a nonsaturable mechanism. Bosutinib does not interact with this elimination pathway.,(See Summary)
+255,Bosutinib,Nandrolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nandrolone is metabolised in the liver by alpha-reductase. Bosutinib does not interact with nandrolone metabolic pathway.,(See Summary)
+256,Bosutinib,Naproxen,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Naproxen is mainly glucuronidated by UGT2B7 (major) and demethylated to desmethylnaproxen by CYP2C9 (major) and CYP1A2. Bosutinib does not inhibit or induce these CYPs or UGTs. ,(See Summary)
+257,Bosutinib,Nateglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nateglinide is mainly metabolised by CYP2C9 (70%) and to a lesser extent CYP3A4 (30%). Bosutinib does not inhibit or induce CYP2C9 or CYP3A4.,(See Summary)
+258,Bosutinib,Nebivolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nebivolol metabolism involves CYP2D6. Bosutinib does not inhibit or induce CYP2D6.,(See Summary)
+259,Bosutinib,Nefazodone,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Nefazodone is metabolised mainly by CYP3A4. Bosutinib does not inhibit or induce CYPs. However, nefazodone is a strong inhibitor of CYP3A4 and may increase concentrations of bosutinib. Coadministration of bosutinib and ketoconazole, a strong CYP3A4 inhibitor, increased bosutinib exposure by 9-fold. A similar effect may occur with nefazodone. Coadministration should be avoided. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of nefazodone.",(See Summary)
+260,Bosutinib,Nicardipine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Nicardipine is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP2C8. Bosutinib does not inhibit or induce CYPs. However, nicardipine is a weak inhibitor of CYP3A4 and may increase bosutinib concentrations. The clinical relevance of this interaction is unknown but coadministration is not recommended. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If coadministration is unavoidable, monitor closely for bosutinib toxicity. Monitor bosutinib plasma concentrations, if available.",(See Summary)
+261,Bosutinib,Nicotinamide (Niacinamide),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nicotinamide is converted to N-methylnicotinamide by nicotinamide methyltransferase which in turn is metabolised by xanthine oxidase and aldehyde oxidase. Bosutinib does not interact with this metabolic pathway. In addition, nicotinic acid and its metabolites do not inhibit CYP-mediated reactions in vitro and therefore are unlikely to impact bosutinib exposure.",(See Summary)
+262,Bosutinib,Nifedipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nifedipine is metabolised mainly by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+263,Bosutinib,Nimesulide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nimesulide is extensively metabolised in the liver following multiple pathways including CYP2C9. Bosutinib does not inhibit or induce CYP2C9.,(See Summary)
+264,Bosutinib,Nisoldipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nisoldipine is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+265,Bosutinib,Nitrendipine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrendipine is extensively metabolised mainly by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+266,Bosutinib,Nitrofurantoin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Nitrofurantoin is partly metabolised in the liver via glucuronidation and N-acetylation and partly eliminated in the urine as unchanged drug (30-40%). As renal excretion is not the predominant mechanism of elimination, there is little potential for a significant interaction with bosutinib and metabolites via competition for renal elimination pathways. ",(See Summary)
+267,Bosutinib,Norelgestromin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norelgestromin is metabolised to norgestrel (possibly by CYP3A4). Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+268,Bosutinib,Norethisterone (Norethindrone),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norethisterone is extensively biotransformed, first by reduction and then by sulfate and glucuronide conjugation. Bosutinib does not interact with this metabolic pathway.",(See Summary)
+269,Bosutinib,Norgestimate,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestimate is rapidly deacetylated to the active metabolite which is further metabolised via CYP450. Bosutinib does not interact with this metabolic pathway.,(See Summary)
+270,Bosutinib,Norgestrel,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Norgestrel is a racemic mixture with levonorgestrel being biologically active. Levonorgestrel is mainly metabolised by CYP3A4 and is glucuronidated to a minor extent. Bosutinib does not inhibit or induce CYPs or UGTs.,(See Summary)
+271,Bosutinib,Nortriptyline,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Nortriptyline is metabolised mainly by CYP2D6. Bosutinib does not inhibit or induce CYP2D6. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+272,Bosutinib,Nystatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Systemic absorption of nystatin from oral or topical dosage forms is not significant, therefore no drug interactions are expected. ",(See Summary)
+273,Bosutinib,Ofloxacin,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ofloxacin is renally eliminated unchanged by glomerular filtration and active tubular secretion via both cationic and anionic transport systems (OAT/OCT). Bosutinib does not interact with this pathway. However, bosutinib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+274,Bosutinib,Olanzapine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olanzapine is metabolised mainly by CYP1A2 (major pathway in CYP-mediated metabolism) and CYP2D6, but also by glucuronidation (UGT1A4). Bosutinib does not inhibit or induce CYPs or UGTs.",(See Summary)
+275,Bosutinib,Olmesartan,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Olmesartan medoxomil is de-esterified to the active metabolite olmesartan which is eliminated in faeces and urine. The role of OAT1/3 in renal secretion of angiotensin II receptor blockers appears limited, because these compounds are mostly excreted through the biliary route. Bosutinib is unlikely to significantly inhibit renal elimination of angiotensin II receptor blockers.",(See Summary)
+276,Bosutinib,Omeprazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Omeprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYP3A4. Omeprazole induces CYP1A2 and inhibits CYP2C19. Bosutinib does not interact with this pathway. However, coadministration with acid reducing agents may decrease bosutinib exposure as the aqueous solubility is pH dependent. Coadministration of proton pump inhibitors or H2-antagonists should be avoided as bosutinib AUC and Cmax decreased by 26% and 46% respectively with lansoprazole. If coadministration is clinically necessary, bosutinib should be administered at the moment at which acid secretion is less inhibited, and that is just before a new dose of the H2-antagonist or proton pump inhibitor.",(See Summary)
+277,Bosutinib,Ondansetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Ondansetron is metabolised mainly by CYP1A2 and CYP3A4 and to a lesser extent by CYP2D6. Ondansetron is a substrate of P-gp. Bosutinib does not inhibit or induce CYPs or P-gp. However, ondansetron may prolong the QT interval dose dependently and bosutinib has been shown to prolong the QTc interval. Caution should be taken when using ondansetron with drugs that are known to prolong the QT interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+278,Bosutinib,Oxazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxazepam is mainly glucuronidated. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+279,Bosutinib,Oxcarbazepine,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but is contraindicated. Oxcarbazepine is extensively metabolised to the active metabolite monohydroxyderivate (MHD) through cystolic enzymes. Bosutinib does not interact with this pathway. Both oxcarbazepine and MHD are inducers of CYP3A4 (moderate) and CYP3A5 and are inhibitors of CYP2C19. Significant decreases in the plasma concentrations of bosutinib may occur due to induction of CYP3A4. Decreased bosutinib exposure may lead to reduced efficacy. Coadministration of CYP3A4 inducers should be avoided, or selection of an alternate concomitant medicinal product, with no or minimal potential to induce CYP3A4 should be considered. Increasing the dose of bosutinib when co-administering with strong or moderate CYP3A inducers is unlikely to sufficiently compensate for the loss of exposure.",(See Summary)
+280,Bosutinib,Oxprenolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxprenolol is largely metabolised via glucuronidation. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+281,Bosutinib,Oxycodone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Oxycodone is metabolised principally to noroxycodone via CYP3A4 and oxymorphone via CYP2D6. Bosutinib does not inhibit or induce CYP3A4 and CYP2D6. ,(See Summary)
+282,Bosutinib,Paliperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paliperidone is primarily renally eliminated (possibly via OCT) with minimal metabolism occurring via CYP2D6 and CYP3A4. Bosutinib does not inhibit or induce CYP2D6 and CYP3A4.,(See Summary)
+283,Bosutinib,Palonosetron,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Palonosetron is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Furthermore, palonosetron is a substrate of P-gp. Bosutinib does not inhibit or induce these CYPs and P-gp. ",(See Summary)
+284,Bosutinib,Pamidronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pamidronate is not metabolised and is cleared from the plasma by uptake into bone and elimination via renal excretion. Bosutinib does not interact with this pathway. ,(See Summary)
+285,Bosutinib,Pantoprazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Pantoprazole is mainly metabolised by CYP2C19 and to a lesser extent by CYPs 3A4, 2D6 and 2C9. Bosutinib does not interact with this pathway. However, coadministration with acid reducing agents may decrease bosutinib exposure as the aqueous solubility is pH dependent. Coadministration of proton pump inhibitors or H2-antagonists should be avoided as bosutinib AUC and Cmax decreased by 26% and 46% respectively with lansoprazole. If coadministration is clinically necessary, bosutinib should be administered at the moment at which acid secretion is less inhibited, and that is just before a new dose of the H2-antagonist or proton pump inhibitor.",(See Summary)
+286,Bosutinib,Para-aminosalicylic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Para-aminosalicylic acid and its acetylated metabolite are mainly excreted in the urine by glomerular filtration and tubular secretion. Bosutinib does not interact with this pathway.,(See Summary)
+287,Bosutinib,Paracetamol (Acetaminophen),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paracetamol is mainly metabolised by glucuronidation (via UGTs 1A9 (major), 1A6, 1A1, and 2B15), sulfation, and to a lesser extent, by oxidation (CYPs 2E1 (major), 1A2, 3A4 and 2D6). Bosutinib does not inhibit or induce these CYPs or UGTs.",(See Summary)
+288,Bosutinib,Paroxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Paroxetine is mainly metabolised by CYP2D6 and is an inhibitor of CYP2D6 (strong) and CYP2C9. Bosutinib does not interact with this pathway.,(See Summary)
+289,Bosutinib,Peginterferon alfa-2a,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+290,Bosutinib,Penicillins,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Penicillins are mainly eliminated in the urine (20% by glomerular filtration and 80% by tubular secretion via OAT). Bosutinib does not interact with this pathway.,(See Summary)
+291,Bosutinib,Perazine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perazine is mainly metabolised by CYPs 1A2, 3A4 and 2C19, and to a lesser extent by CYPs 2C9, 2D6 and 2E1, with oxidation via FMO3. Bosutinib does not inhibit or induce CYPs or FMO3.",(See Summary)
+292,Bosutinib,Periciazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. The metabolism of periciazine has not been well characterised but is likely to involve CYP2D6. Bosutinib does not inhibit or induce CYP2D6.,(See Summary)
+293,Bosutinib,Perindopril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Perindopril is hydrolysed to the active metabolite perindoprilat and is metabolised to other inactive metabolites. Elimination occurs predominantly via urine (possibly via OAT). Bosutinib does not interact with this pathway.,(See Summary)
+294,Bosutinib,Perphenazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Perphenazine is metabolised by CYP2D6. Bosutinib does not inhibit or induce CYP2D6. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)(See Summary)
+295,Bosutinib,Pethidine (Meperidine),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pethidine is metabolised mainly by CYP2B6 and to a lesser extent by CYP3A4. Bosutinib does not inhibit or induce CYP2B6 and CYP3A4. ,(See Summary)
+296,Bosutinib,Phenelzine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Phenelzine is primarily metabolised by oxidation via monoamine oxidase and to a lesser extent acetylation. ,(See Summary)
+297,Bosutinib,Phenobarbital (Phenobarbitone),"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but is contraindicated. Phenobarbital is metabolised by CYP2C19 and CYP2C9 (major) and to a lesser extent by CYP2E1. Bosutinib does not inhibit or induce CYPs. However, phenobarbital is a strong inducer of CYPs 3A4, 2C9, 2C8 and UGTs. Significant decreases in the plasma concentrations of bosutinib may occur due to induction of CYP3A4. A decrease in bosutinib exposure may lead to decreased efficacy. Coadministration of CYP3A4 inducers should be avoided, or selection of an alternate concomitant medicinal product, with no or minimal potential to induce CYP3A4 should be considered. Increasing the dose of bosutinib when co-administering with strong or moderate CYP3A inducers is unlikely to sufficiently compensate for the loss of exposure.",(See Summary)
+298,Bosutinib,Phenprocoumon,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Phenprocoumon is metabolised by CYP2C9 and CYP3A4. Bosutinib does not inhibit or induce CYPs. However, a clinical adverse event (supratherapeutic INR) was reported in a CLL patient receiving warfarin and concomitant bosutinib. The causality of this interaction was not clear and therefore the clinical relevance of this interaction is unknown. Monitoring of INR may be required.",(See Summary)
+299,Bosutinib,Phenytoin,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but is contraindicated. Phenytoin is mainly metabolised by CYP2C9 and to a lesser extent by CYP2C19. Bosutinib does not interact with this pathway. However, phenytoin is a potent inducer of CYP3A4, UGT and P-gp. Concentrations of bosutinib may decrease due to induction of CYP3A4. A decrease in exposure can lead to decreased efficacy. Therefore, coadministration should be avoided. Increasing the dose of bosutinib when co-administering with strong or moderate CYP3A inducers is unlikely to sufficiently compensate for the loss of exposure.",(See Summary)
+300,Bosutinib,Phytomenadione (Vitamin K),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. An in vitro study found that the only CYP450 enzyme involved in phytomenadione metabolism was CYP4F2. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+301,Bosutinib,Pimozide,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but is contraindicated. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as pimozide is mainly metabolised by CYP3A4 and CYP2D6 and to a lesser extent by CYP1A2. Bosutinib does not inhibit or induce CYPs. However, the product labels for pimozide contraindicate its use in the presence of other drugs that prolong the QT interval, such as bosutinib.",(See Summary)
+302,Bosutinib,Pindolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pindolol is partly metabolised to hydroxymetabolites (possibly via CYP2D6) and partly eliminated unchanged in the urine (possibly via OCT2). Bosutinib is not expected to interfere with pindolol elimination. ,(See Summary)
+303,Bosutinib,Pioglitazone,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pioglitazone is metabolised mainly by CYP2C8 and to a lesser extent by CYPs 3A4, 1A2 and 2C9. Bosutinib does not inhibit or induce CYPs. ",(See Summary)
+304,Bosutinib,Pipotiazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. The metabolism of pipotiazine has not been well characterised but may involve CYP2D6. Bosutinib does not inhibit or induce CYP2D6. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+305,Bosutinib,Piroxicam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Piroxicam is primarily metabolised by CYP2C9. Bosutinib does not inhibit or induce CYP2C9. ,(See Summary)
+306,Bosutinib,Pitavastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pitavastatin is metabolised by UGT1A3 and UGT2B7 with minimal metabolism by CYP2C9 and CYP2C8. Pitavastatin is also a substrate of OATP1B1. Bosutinib does not inhibit or induce UGTs, CYPs or OATPs.",(See Summary)
+307,Bosutinib,Posaconazole,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Posaconazole is metabolised primarily by UGTs and is a substrate of P-gp. Bosutinib does not inhibit or induce UGTs or P-gp. However, posaconazole is a strong inhibitor of CYP3A4 and may increase concentrations of bosutinib. Coadministration of bosutinib and ketoconazole, a strong CYP3A4 inhibitor, increased bosutinib exposure by 9-fold. A similar effect may occur with posaconazole. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of posaconazole. Furthermore, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. Coadministration is not recommended. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+308,Bosutinib,Potassium,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on limited data available an interaction appears unlikely. Potassium is eliminated renally. Bosutinib does not interact with this pathway. ,(See Summary)
+309,Bosutinib,Prasugrel,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prasugrel is a prodrug and is converted to its active metabolite mainly by CYP3A4 and CYP2B6, and to a lesser extent by CYP2C9 and CYP2C19. Bosutinib does not inhibit or induce CYPs.",(See Summary)
+310,Bosutinib,Pravastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pravastatin is minimally metabolised via CYP enzymes and is a substrate of OATP1B1. Bosutinib does not inhibit or induce CYPs or OATP1B1.,(See Summary)
+311,Bosutinib,Prazosin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prazosin is extensively metabolised, primarily by demethylation and conjugation. Bosutinib is unlikely to interact with prazosin. ",(See Summary)
+312,Bosutinib,Prednisolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisolone undergoes hepatic metabolism via CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+313,Bosutinib,Prednisone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prednisone is converted to the active metabolite prednisolone by 11-B-hydroxydehydrogenase. Prednisolone is then metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+314,Bosutinib,Pregabalin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pregabalin is cleared mainly by glomerular filtration (90% as unchanged drug). Bosutinib is unlikely to interfere with this pathway.,(See Summary)
+315,Bosutinib,Prochlorperazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Prochlorperazine is metabolised by CYP2D6 and CYP2C19. Bosutinib does not inhibit or induce these CYPs. However, bosutinib should be used with caution when coadministered with a drug that has a potential risk to prolong the QT interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+316,Bosutinib,Promethazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Promethazine is metabolised by CYP2D6. Bosutinib does not inhibit or induce CYP2D6. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+317,Bosutinib,Propafenone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propafenone is metabolised mainly by CYP2D6 and to a lesser extent CYP1A2 and CYP3A4. Bosutinib does not inhibit or induce these CYPs. ,(See Summary)
+318,Bosutinib,Propranolol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Propranolol is metabolised by 3 routes (aromatic hydroxylation by CYP2D6, N-dealkylation followed by side chain hydroxylation via CYPs 1A2, 2C19, 2D6, and direct glucuronidation). Bosutinib does not interact with this metabolic pathway. ",(See Summary)
+319,Bosutinib,Prucalopride,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Prucalopride is minimally metabolised and mainly eliminated renally, partly by active secretion by renal transporters (of note no clinically significant interactions were observed when prucalopride was coadministered with inhibitors of renal P-gp, OAT and OCT transporters). ",(See Summary)
+320,Bosutinib,Pyrazinamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Pyrazinamide is mainly metabolised by xanthine oxidase. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+321,Bosutinib,Pyridoxine (Vitamin B6),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+322,Bosutinib,Quetiapine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quetiapine is primarily metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+323,Bosutinib,Quinapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Quinapril is de-esterified to the active metabolite quinaprilat which is eliminated primarily by renal excretion via OAT3. Bosutinib does not interact with this pathway.,(See Summary)
+324,Bosutinib,Quinidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Quinidine is mainly metabolised by CYP3A4 and to a lesser extent by CYP2C9 and CYP2E1. Quinidine is also a substrate of P-gp. Bosutinib does not inhibit or induce CYPs or P-gp. However, quinidine is an inhibitor of CYP2D6 (strong), CYP3A4 (weak) and P-gp (moderate). Bosutinib concentrations may increase due to CYP3A4 inhibition. The clinical relevance of this interaction is unknown. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If coadministration is unavoidable, monitor closely for bosutinib toxicity. Monitor bosutinib plasma concentrations, if available. Furthermore, bosutinib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+325,Bosutinib,Rabeprazole,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Rabeprazole is mainly metabolised via non-enzymatic reduction and to a lesser extent by CYP2C19 and CYP3A4. Bosutinib does not interact with this pathway. However, coadministration with acid reducing agents may decrease bosutinib exposure as the aqueous solubility is pH dependent. Coadministration of proton pump inhibitors or H2-antagonists should be avoided as bosutinib AUC and Cmax decreased by 26% and 46% respectively with lansoprazole. If coadministration is clinically necessary, bosutinib should be administered at the moment at which acid secretion is less inhibited, and that is just before a new dose of the H2-antagonist or proton pump inhibitor.",(See Summary)
+326,Bosutinib,Ramipril,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ramipril is hydrolysed to the active metabolite ramiprilat, and is metabolised to the diketopiperazine ester, diketopiperazine acid and the glucuronides of ramipril and ramiprilat. Bosutinib is not expected to interfere with these metabolic pathways. ",(See Summary)
+327,Bosutinib,Ranitidine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Ranitidine is excreted via OAT1/OAT3. Bosutinib does not interact with this pathway. However, coadministration with acid reducing agents may decrease bosutinib exposure as the aqueous solubility is pH dependent. Coadministration of proton pump inhibitors or H2-antagonists should be avoided as bosutinib AUC and Cmax decreased by 26% and 46% respectively with lansoprazole. If coadministration is clinically necessary, bosutinib should be administered at the moment at which acid secretion is less inhibited, and that is just before a new dose of the H2-antagonist or proton pump inhibitor.",(See Summary)
+328,Bosutinib,Ranolazine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but should be approached with caution. Ranolazine is primarily metabolised by CYP3A4 and to a lesser extent by CYP2D6. Ranolazine is also a substrate of P-gp. Bosutinib does not inhibit or induce CYPs or P-gp. However, ranolazine is a weak inhibitor of P-gp, CYP3A4 and CYP2D6. Concentrations of bosutinib may increase due to inhibition of CYP3A4. No a priori dosage adjustment is recommended. If coadministration is unavoidable, closely monitor bosutinib efficacy. Monitoring of bosutinib plasma concentrations should be considered, if available. Furthermore, caution is warranted when coadministering these drugs due to the risk of QT interval prolongation. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+329,Bosutinib,Reboxetine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Reboxetine is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. In vitro data indicate reboxetine to be a weak inhibitor of CYP3A4 but in vivo data showed no inhibitory effect on CYP3A4. ,(See Summary)
+330,Bosutinib,Repaglinide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Repaglinide is metabolised by CYP2C8 and CYP3A4 and clinical data seem to indicate that it is a substrate of the hepatic transporter OATP1B1. Bosutinib does not inhibit or induce CYPs.,(See Summary)
+331,Bosutinib,Retinol (Vitamin A),"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vitamin A esters are hydrolysed by pancreatic enzymes to retinol, which is then absorbed and re-esterified. Some retinol is stored in the liver. Retinol not stored in the liver undergoes glucuronide conjugation and subsequent oxidation to retinal and retinoic acid. Bosutinib does not interact with this metabolic pathway. ",(See Summary)
+332,Bosutinib,Riboflavin (Vitamin B2),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely.,(See Summary)
+333,Bosutinib,Rifabutin,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but is contraindicated. Rifabutin is metabolised by CYP3A and via deacetylation. Bosutinib does not interact with this metabolic pathway. However, rifabutin is a strong CYP3A4 and P-gp inducer. Concentrations of bosutinib may significantly decrease due to induction of CYP3A4. Decreased bosutinib exposure may lead to reduced efficacy. Inducers of CYP3A4 should be avoided, and selection of an alternate concomitant medicinal product, with no or minimal potential to induce CYP3A4 should be considered. Increasing the dose of bosutinib when co-administering with strong or moderate CYP3A inducers is unlikely to sufficiently compensate for the loss of exposure.",(See Summary)
+334,Bosutinib,Rifampicin,"
+Do Not Coadminister
+","
+Moderate
+","Coadministration is contraindicated. Rifampicin is metabolised via deacetylation. Bosutinib does not interfere with this metabolic pathway. However, rifampicin is a strong CYP3A4 and P-gp inducer. Concentrations of bosutinib may significantly decrease due to CYP3A4 induction. Coadministration of bosutinib and rifampicin decreased bosutinib AUC by 94%. Decreased bosutinib exposure may lead to reduced efficacy. Inducers of CYP3A4 should be avoided, and selection of an alternate concomitant medicinal product, with no or minimal potential to induce CYP3A4 should be considered. Increasing the dose of bosutinib when co-administering with strong or moderate CYP3A inducers is unlikely to sufficiently compensate for the loss of exposure.",(See Summary)
+335,Bosutinib,Rifapentine,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but is contraindicated. Rifapentine is metabolised via deacetylation. Bosutinib does not interact with this metabolic pathway. However, rifapentine is a strong CYP3A4, CYP2C8 and P-gp inducer. Concentrations of rifapentine may significantly decrease due to induction of CYP3A4. A decrease in exposure can lead to decreased efficacy. Inducers of CYP3A4 should be avoided, and selection of an alternate concomitant medicinal product, with no or minimal potential to induce CYP3A4 should be considered. Increasing the dose of bosutinib when co-administering with strong or moderate CYP3A inducers is unlikely to sufficiently compensate for the loss of exposure.",(See Summary)
+336,Bosutinib,Rifaximin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rifaximin is mainly excreted in faeces, almost entirely as unchanged drug. Bosutinib does not interact with this metabolic pathway. ",(See Summary)
+337,Bosutinib,Risperidone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Risperidone is metabolised by CYP2D6 and to a lesser extent by CYP3A4. Risperidone is also a substrate of P-gp. Bosutinib does not inhibit or induce CYPs or P-gp.,(See Summary)
+338,Bosutinib,Rivaroxaban,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rivaroxaban is partly metabolised in the liver (by CYP3A4, CYP2J2 and hydrolytic enzymes) and partly eliminated unchanged in urine. Rivaroxaban is also a substrate of P-gp and BCRP. Bosutinib does not inhibit or induce CYPs, P-gp or BCRP.",(See Summary)
+339,Bosutinib,Rosiglitazone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosiglitazone is metabolised mainly by CYP2C8 and to a lesser extent CYP2C9. Bosutinib does not inhibit or induce CYPs.,(See Summary)
+340,Bosutinib,Rosuvastatin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Rosuvastatin is largely excreted unchanged in the faeces via OATP1B1 and is a substrate of BCRP. Bosutinib does not inhibit or induce OATP1B1 or BCRP.,(See Summary)
+341,Bosutinib,Salbutamol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salbutamol is metabolised to the inactive salbutamol-4’-O-sulphate. Bosutinib does not interact with this metabolic pathway.,(See Summary)
+342,Bosutinib,Salmeterol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Salmeterol is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4.,(See Summary)
+343,Bosutinib,Saxagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Saxagliptin is mainly metabolised by CYP3A4 and is a substrate of P-gp. Bosutinib does not inhibit or induce CYP3A4 or P-gp.,(See Summary)
+344,Bosutinib,Senna,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Senna glycosides are hydrolysed by colonic bacteria in the intestinal tract and the active anthraquinones liberated into the colon. Excretion occurs in the urine and faeces and also in other secretions. No clinically significant drug interactions are known. ,(See Summary)
+345,Bosutinib,Sertindole,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied but is contraindicated. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as sertindole is metabolised by CYP2D6 and CYP3A4. Bosutinib does not inhibit or induce CYPs. However, the product labels for sertindole contraindicate its use in the presence of other drugs that prolong the QT interval, such as bosutinib.",(See Summary)
+346,Bosutinib,Sertraline,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sertraline is mainly metabolised by CYP2B6 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 3A4. Bosutinib does not inhibit or induce these CYPs.",(See Summary)
+347,Bosutinib,Sildenafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sildenafil is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C9. Bosutinib does not inhibit or induce CYP3A4 and CYP2C9. ,(See Summary)
+348,Bosutinib,Simvastatin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Simvastatin is metabolised by CYP3A4. Simvastatin is also a substrate of BCRP and the active metabolite is a substrate of OATP1B1. Bosutinib does not inhibit or induce CYPs, BCRP or OATP1B1.",(See Summary)
+349,Bosutinib,Sirolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sirolimus is metabolised by CYP3A4 and is a substrate of P-gp. Bosutinib does not inhibit or induce CYP3A4 or P-gp. However, due to the risk of additive haematological toxicity, haematological parameters should be monitored if coadministered.",(See Summary)
+350,Bosutinib,Sitagliptin,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sitagliptin is primarily eliminated in urine as unchanged drug (active secretion by OAT3, OATP4C1 and P-gp) and metabolism by CYP3A4 represents a minor elimination pathway. Bosutinib does not interact with this pathway.",(See Summary)
+351,Bosutinib,Sodium nitroprusside,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Sodium nitroprusside is rapidly metabolised, likely by interaction with sulfhydryl groups in the erythrocytes and tissues. Cyanogen (cyanide radical) is produced which is converted to thiocyanate in the liver by the enzyme thiosulfate sulfurtransferase. There is little potential for sodium nitroprusside to affect the disposition of bosutinib, or to be affected if co-administered with bosutinib. ",(See Summary)
+352,Bosutinib,Sotalol,"
+Potential Interaction
+","
+Low
+","Coadministration has not been studied and is not recommended. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as sotalol is excreted unchanged via renal elimination (possibly via OCT). However, coadministration is not recommended due to the potential of life threatening arrhythmias such as torsade de pointes and sudden death. The product labels for sotalol advises caution if given with other drugs that prolong the QT interval, such as bosutinib.",(See Summary)
+353,Bosutinib,Spectinomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spectinomycin is predominantly eliminated unchanged in the kidneys via glomerular filtration. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+354,Bosutinib,Spironolactone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Spironolactone is partly metabolised by the flavin containing monooxygenases. Bosutinib does not interfere with this metabolic pathway. ,(See Summary)
+355,Bosutinib,Stanozolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Stanozolol undergoes hepatic metabolism. Bosutinib does not interact with this pathway.,(See Summary)
+356,Bosutinib,St John's Wort,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied and should be avoided. St John’s wort, a P-gp inducer, may cause significant and unpredictable decreases in the plasma concentrations of bosutinib due to induction of CYP3A4. Decreased bosutinib exposure may lead to reduced efficacy. Coadministration of inducers of CYP3A4 should be avoided, or selection of an alternate concomitant medicinal product, with no or minimal potential to induce CYP3A4 should be considered. Increasing the dose of bosutinib when co-administering with strong or moderate CYP3A inducers is unlikely to sufficiently compensate for the loss of exposure.",(See Summary)
+357,Bosutinib,Streptokinase,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Like other proteins, streptokinase is metabolised proteolytically in the liver and eliminated via the kidneys. Streptokinase is unlikely to affect the disposition of tyrosine kinase inhibitors, or to be affected if co-administered with tyrosine kinase inhibitors.",(See Summary)
+358,Bosutinib,Streptomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as streptomycin is eliminated by glomerular filtration.,(See Summary)
+359,Bosutinib,Sulfadiazine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. In vitro studies suggest a role of CYP2C9 in sulfadiazine metabolism. Bosutinib does not inhibit or induce CYP2C9.,(See Summary)
+360,Bosutinib,Sulpiride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Sulpiride is mainly excreted in the urine and faeces as unchanged drug. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+361,Bosutinib,Tacrolimus,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Tacrolimus is metabolised mainly by CYP3A4. Bosutinib does not inhibit or induce CYPs. However, tacrolimus is an inhibitor of CYP3A4 and OATP1B1 in vitro but produced modest inhibition of CYP3A4 and OATP1B1 in the range of clinical concentrations. Concentrations of bosutinib may increase although only to a modest extent. No a priori dosage adjustment is recommended, but monitoring for bosutinib toxicity may be required.",(See Summary)
+362,Bosutinib,Tadalafil (Pulmonary Arterial Hypertension),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as tadalafil is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+363,Bosutinib,Tamsulosin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tamsulosin is metabolised mainly by CYP3A4 and to a lesser extent by CYP2D6. Bosutinib does not inhibit or induce CYP3A4 and CYP2D6. ,(See Summary)
+364,Bosutinib,Tazobactam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tazobactam is excreted as unchanged drug (approximately 80%) and inactive metabolite (approximately 20%) in the urine. Bosutinib does not interact with this elimination pathway.,(See Summary)
+365,Bosutinib,Telithromycin,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Telithromycin is metabolised by CYP3A4 (50%) with the remaining 50% metabolised via non-CYP mediated pathways. Bosutinib does not interact with this metabolic pathway. However, telithromycin is an inhibitor of CYP3A4 (strong) and P-gp. Bosutinib concentrations may increase due to CYP3A4 inhibition. Coadministration of bosutinib and ketoconazole, a strong CYP3A4 inhibitor, increased bosutinib exposure by 9-fold. A similar effect may occur with telithromycin. Coadministration should be avoided. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of telithromycin.",(See Summary)
+366,Bosutinib,Telmisartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Telmisartan is mainly glucuronidated by UGT1A3. Bosutinib not inhibit or induce this UGT. ,(See Summary)
+367,Bosutinib,Temazepam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Temazepam is mainly glucuronidated. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+368,Bosutinib,Terbinafine,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Terbinafine is metabolised by CYPs 1A2, 2C9, 3A4 and to a lesser extent CYPs 2C8 and 2C19. Bosutinib does not inhibit or induce these CYPs.",(See Summary)
+369,Bosutinib,Testosterone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Testosterone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+370,Bosutinib,Tetracycline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tetracycline is eliminated unchanged primarily by glomerular filtration. Bosutinib does not interact with this metabolic pathway.,(See Summary)
+371,Bosutinib,Theophylline,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Theophylline is mainly metabolised by CYP1A2. Bosutinib does not inhibit or induce CYP1A2.,(See Summary)
+372,Bosutinib,Thiamine (Vitamin B1),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+373,Bosutinib,Thioridazine,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and is contraindicated. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as thioridazine is metabolised by CYP2D6 and to a lesser extent by CYP3A4 and bosutinib does not inhibit or induce CYPs 2D6 and 3A4. However, the product labels for thioridazine contraindicate its use in the presence of other drugs that prolong the QT interval, such as bosutinib.",(See Summary)
+374,Bosutinib,Tiapride,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied. Tiapride but based on metabolism and clearance a pharmacokinetic interaction is unlikely is excreted largely unchanged in urine. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+375,Bosutinib,Ticagrelor,"
+Potential Weak Interaction
+","
+Very Low
+",Coadministration has not been studied. Ticagrelor undergoes extensive CYP3A4 metabolism and is a mild inhibitor of CYP3A4. Coadministration is unlikely to affect ticagrelor concentrations but may slightly increase bosutinib concentrations. The clinical relevance of this interaction is unknown and monitoring may be required. ,(See Summary)
+376,Bosutinib,Timolol,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Timolol is predominantly metabolised in the liver by CYP2D6. Bosutinib does not inhibit or induce CYP2D6.,(See Summary)
+377,Bosutinib,Tinzaparin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tinzaparin is renally excreted as unchanged or almost unchanged drug. Bosutinib does not interact with this elimination pathway.,(See Summary)
+378,Bosutinib,Tolbutamide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tolbutamide is mainly metabolised by CYP2C9 and to a lesser extent by CYPs 2C8 and 2C19. Bosutinib does not interact with this pathway. ,(See Summary)
+379,Bosutinib,Tolterodine,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tolterodine is primarily metabolised by CYP2D6 and to a lesser extent by CYP3A4. Bosutinib does not inhibit or induce CYPs. However, multiple oral therapeutic (4 mg) and supratherapeutic (8 mg) doses of tolterodine have been shown to prolong the QTc interval. Bosutinib should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+380,Bosutinib,Torasemide,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Torasemide is metabolised mainly by CYP2C9. OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bosutinib does not interact with this metabolic pathway.,(See Summary)
+381,Bosutinib,Tramadol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tramadol is metabolised by CYPs 3A4, 2B6, and 2D6. Bosutinib does not inhibit or induce these CYPs. ",(See Summary)
+382,Bosutinib,Trandolapril,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trandolapril is hydrolysed to trandolaprilat. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+383,Bosutinib,Tranexamic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as tranexamic acid is mainly cleared by glomerular filtration. ,(See Summary)
+384,Bosutinib,Tranylcypromine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Tranylcypromine is hydroxylated and acetylated. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+385,Bosutinib,Trazodone,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Trazodone is primarily metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. However, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+386,Bosutinib,Triamcinolone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triamcinolone is metabolised by CYP3A4. Bosutinib does not inhibit or induce CYP3A4. ,(See Summary)
+387,Bosutinib,Triazolam,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Triazolam is metabolised by CYP3A4. Bosutinib does not interact with this metabolic pathway. ,(See Summary)
+388,Bosutinib,Trimethoprim/Sulfamethoxazole,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimethoprim is primarily eliminated by the kidneys through glomerular filtration and tubular secretion. To a lesser extent (approximately 30%) trimethoprim is metabolised by CYP-enzymes (in vitro data suggest CYPs 3A4, 1A2 and 2C9). Trimethoprim is a weak CYP2C8 inhibitor and in vitro data also suggest that trimethoprim is an inhibitor of OCT2 and MATE1. Sulfamethoxazole is metabolised via and is a weak inhibitor of CYP2C9. No clinically relevant interaction is expected with bosutinib.",(See Summary)
+389,Bosutinib,Trimipramine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Trimipramine is metabolised mainly by CYP2D6. Bosutinib does not inhibit or induce CYP2D6. ,(See Summary)
+390,Bosutinib,Tropisetron,"
+Potential Interaction
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a pharmacokinetic interaction is unlikely. Tropisetron is metabolised mainly by CYP2D6. Tropisetron is a substrate of P-gp. Bosutinib does not inhibit or induce CYP2D6 or P-gp. However, tropisetron may prolong the QT interval and bosutinib has been shown to prolong the QTc interval. Caution should be taken when using tropisetron with drugs that are known to prolong the QT interval. If coadministration is necessary, close monitoring including ECG assessment is recommended.",(See Summary)
+391,Bosutinib,Ulipristal,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Ulipristal is mainly metabolised by CYP3A4 and to a lesser extent by CYP1A2 and CYP2D6. Bosutinib does not inhibit or induce these CYPs.,(See Summary)
+392,Bosutinib,Valproic acid (Valproate),"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valproic acid is primarily metabolised by glucuronidation (50%) and mitochondrial beta-oxidation (30-40%). To a lesser extent (10%) valproic acid is metabolised by CYP2C9 and CYP2C19. Valproic acid is also an inhibitor of CYP2C9. Bosutinib does not interact with this pathway.,(See Summary)
+393,Bosutinib,Valsartan,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Valsartan is eliminated unchanged mostly through biliary excretion. Bosutinib does not interact with this pathway.,(See Summary)
+394,Bosutinib,Vancomycin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as vancomycin is excreted unchanged via glomerular filtration.,(See Summary)
+395,Bosutinib,Venlafaxine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Venlafaxine is mainly metabolised by CYP2D6 and to a lesser extent by CYPs 3A4 and 2C19 and 2C9. Bosutinib does not inhibit or induce these CYPs. ,(See Summary)
+396,Bosutinib,Verapamil,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Verapamil is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 1A2, 2C8 and 2C9. Bosutinib does not inhibit or induce CYPs. However, verapamil is a moderate inhibitor of CYP3A4 and may increase bosutinib concentrations. Coadministration should be avoided. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of verapamil.",(See Summary)
+397,Bosutinib,Vildagliptin,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Vildagliptin is inactivated via non CYP mediated hydrolysis and is a substrate of P-gp. Bosutinib does not interact with this pathway.,(See Summary)
+398,Bosutinib,Vitamin E,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. ,(See Summary)
+399,Bosutinib,Voriconazole,"
+Do Not Coadminister
+","
+Very Low
+","Coadministration has not been studied but should be avoided. Voriconazole is metabolised by CYP2C19 (major) and to a lesser extent by CYP2C9 and CYP3A4. Bosutinib does not inhibit or induce these CYPs. However, voriconazole is a strong inhibitor of CYP3A4 and a weak inhibitor of CYPs 2C9, 2C19 and 2B6. Concentrations of bosutinib may increase due to inhibition of CYP3A4. Coadministration of bosutinib and ketoconazole, a strong CYP3A4 inhibitor, increased bosutinib exposure by 9-fold. A similar effect may occur with voriconazole. Coadministration should be avoided. Selection of an alternate concomitant medicinal product, with no or minimal potential to inhibit CYP3A4 should be considered. If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used withhold treatment temporarily (for 7 days or less) during short-term use of voriconazole. Furthermore, caution is needed when bosutinib is co-administered with a drug with a known risk of Torsade de Pointes. In patients, therapeutic doses of bosutinib have been shown to prolong the QTc interval. Coadministration is not recommended. If coadministration is necessary, close monitoring including ECG assessment is recommended in case of dose reduction.",(See Summary)
+400,Bosutinib,Warfarin,"
+Potential Weak Interaction
+","
+Very Low
+","Coadministration has not been studied. Warfarin is a mixture of enantiomers which are metabolised by different cytochromes. R-warfarin is primarily metabolised by CYP1A2 and 3A4. S-warfarin (more potent) is metabolised by CYP2C9. Bosutinib does not interact with these metabolic pathways. However, a clinical adverse event (supratherapeutic INR) was reported in a CLL patient receiving warfarin and concomitant bosutinib. The causality of this interaction was not clear. The clinical relevance of this interaction is unknown and monitoring may be required.",(See Summary)
+401,Bosutinib,Xipamide,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Approximately 90% of xipamide is excreted in the urine, mainly as unchanged drug (~50%) and glucuronides (30%). OAT1/3 are the major transporters of loop and thiazide diuretics. Secretion of these diuretics into the urinary tract by transporters in the proximal tubular cells is necessary for the diuretic effect in later tubule segments. Bosutinib does not interact with this pathway.",(See Summary)
+402,Bosutinib,Zaleplon,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zaleplon is mainly metabolised by aldehyde oxidase and to a lesser extent CYP3A4. Bosutinib does not interact with this metabolic pathway.,(See Summary)
+403,Bosutinib,Ziprasidone,"
+Do Not Coadminister
+","
+Low
+","Coadministration has not been studied and is contraindicated. Based on metabolism and clearance a pharmacokinetic interaction is unlikely as approximately two thirds of ziprasidone metabolic clearance is by reduction, with less than one third by CYP enzymes (mainly CYP3A4) and bosutinib does not inhibit or induce CYP3A4. However, the product labels for ziprasidone contraindicate its use in the presence of other drugs that prolong the QT interval, such as bosutinib.",(See Summary)
+404,Bosutinib,Zoledronic acid,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely as zoledronic acid is not metabolized and is cleared as unchanged drug via urine.,(See Summary)
+405,Bosutinib,Zolpidem,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zolpidem is metabolised mainly by CYP3A4 and to a lesser extent by CYPs 2C9, 2C19, 2D6 and 1A2. Bosutinib does not inhibit or induce CYPs.",(See Summary)
+406,Bosutinib,Zopiclone,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zopiclone is metabolised mainly by CYP3A4 and to a lesser extent by CYP2C8. Bosutinib does not inhibit or induce CYP3A4 or CYP2C8.,(See Summary)
+407,Bosutinib,Zotepine,"
+No Interaction Expected
+","
+Very Low
+",Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zotepine is mainly metabolised by CYP3A4 and to a lesser extent CYP1A2 and CYP2D6. Bosutinib does not inhibit or induce these CYPs.,(See Summary)
+408,Bosutinib,Zuclopenthixol,"
+No Interaction Expected
+","
+Very Low
+","Coadministration has not been studied but based on metabolism and clearance a clinically significant interaction is unlikely. Zuclopenthixol is metabolised by sulphoxidation, N-dealkylation (via CYP2D6 and CYP3A4) and glucuronidation. Bosutinib does not inhibit or induce these CYPS or UGTs. ",(See Summary)

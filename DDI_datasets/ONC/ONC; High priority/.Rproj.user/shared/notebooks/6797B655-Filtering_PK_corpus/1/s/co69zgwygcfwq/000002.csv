@@ -1,0 +1,3 @@
+"0","DDI_mapped <- merge(PK_corpus_DDIs ,Drug_ATC_codes_DB,by.x=""Drug1"",by.y = ""parent_key"")"
+"0",""
+"0","DDI_mapped <- merge(DDI_mapped,Drug_ATC_codes_DB, by.x=""Drug2"",by.y = ""parent_key"")"

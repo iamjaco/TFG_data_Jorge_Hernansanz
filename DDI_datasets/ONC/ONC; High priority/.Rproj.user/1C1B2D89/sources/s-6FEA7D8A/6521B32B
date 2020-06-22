@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589809955643.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6521B32B",
+    "lastKnownWriteTime" : 15,
+    "last_content_update" : 1589809955643,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "EDA2F751",
+        "caption" : "Danish_management_DDI",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Danish_management_DDI&cache_key=EDA2F751",
+        "displayedObservations" : 42754,
+        "environment" : "",
+        "expression" : "Danish_management_DDI",
+        "object" : "Danish_management_DDI",
+        "preview" : 0,
+        "totalObservations" : 42754,
+        "variables" : 5
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

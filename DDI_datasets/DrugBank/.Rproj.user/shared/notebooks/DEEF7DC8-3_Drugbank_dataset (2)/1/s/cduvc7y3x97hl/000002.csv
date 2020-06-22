@@ -1,0 +1,11 @@
+"0","# Unifying ATC columns so to have them as vectors also.
+Drugbank_DDI$ATC_vector <- paste(apply(Drugbank_DDI[,c(""drug"",""codrug"")],
+                                       1,
+                                       min),
+                                 apply(Drugbank_DDI[,c(""drug"",""codrug"")],
+                                       1,
+                                       max),
+                                 sep = ""_"") 
+"
+"2","
+"

@@ -1,0 +1,4 @@
+"0","dan <- dan[duplicated(dan[,8]),]
+"
+"2","Fejl i `[.data.frame`(dan, , 8) : undefined columns selected
+"
